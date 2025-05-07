@@ -7,48 +7,34 @@
   .admin_boundary map_to_area ->.searchArea;
   
   // Get towers, poles, lines, cables, etc.
-  node["power"="tower"](area.searchArea) -> .towers;
-  way["power"="line"](area.searchArea) -> .lines_connected;
   way["power"="line"]["voltage"](if:t["voltage"] >= 400000)(area.searchArea) -> .high_voltage_lines;
+  node(w.high_voltage_lines)["power"="tower"](area.searchArea) -> .towers;
+  
+  // Get substations 
+  nwr["power"="substation"](area.searchArea) -> .all_substations;
+
+(node.all_substations(around.towers:200);
+way.all_substations(around.towers:200);
+ relation.all_substations(around.towers:200);
+)-> .connected_substations;
   
   
-  // Get substations explicitly as nodes, ways, and relations
-  node["power"="substation"](area.searchArea) -> .substation_nodes;
-  way["power"="substation"](area.searchArea) -> .substation_ways;
-  relation["power"="substation"](area.searchArea) -> .substation_relations;
+
+
+node["power"="portal"](area.searchArea) -> .portals;
+
+.connected_substations map_to_area -> .substation_areas;
+node.portals(area.substation_areas)->.portals_insidesub;
   
-  // And similarly for power plants, generators, and transformers
-  node["power"="plant"](area.searchArea) -> .plant_nodes;
-  way["power"="plant"](area.searchArea) -> .plant_ways;
-  relation["power"="plant"](area.searchArea) -> .plant_relations;
-  
-  node["power"="generator"](area.searchArea) -> .generator_nodes;
-  way["power"="generator"](area.searchArea) -> .generator_ways;
-  relation["power"="generator"](area.searchArea) -> .generator_relations;
-  
-  node["power"="transformer"](area.searchArea) -> .transformer_nodes;
-  way["power"="transformer"](area.searchArea) -> .transformer_ways;
-  relation["power"="transformer"](area.searchArea) -> .transformer_relations;
-  
-  node["power"="portal"](area.searchArea) -> .portal_nodes;
+
+
   
   // Union all elements – note that we also include the original admin boundary
   (
     .towers;
     .high_voltage_lines;
-    .substation_nodes;
-    .substation_ways;
-    .substation_relations;
-    .plant_nodes;
-    .plant_ways;
-    .plant_relations;
-    .generator_nodes;
-    .generator_ways;
-    .generator_relations;
-    .portal_nodes;
-    .transformer_nodes;
-    .transformer_ways;
-    .transformer_relations;
+    .connected_substations;
+    .portals_insidesub;
     .admin_boundary;
   );
   

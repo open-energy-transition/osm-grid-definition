@@ -34,6 +34,11 @@
   relation["power"="transformer"](area.searchArea) -> .transformer_relations;
   
   node["power"="portal"](area.searchArea) -> .portal_nodes;
+
+  // Get under construction infra
+  node["construction:power"](area.searchArea) -> .construction_nodes;
+  way["construction:power"](area.searchArea) -> .construction_ways;
+  relation["construction:power"](area.searchArea) -> .construction_relations;
   
   // Union all elements – note that we also include the original admin boundary. INCLUDE POLES and MINOR_LINES
   (
@@ -56,6 +61,9 @@
     .transformer_nodes;
     .transformer_ways;
     .transformer_relations;
+    .construction_nodes;
+    .construction_ways;
+    .construction_relations;
     .admin_boundary;
   );
   

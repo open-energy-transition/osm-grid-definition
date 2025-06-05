@@ -1,4 +1,4 @@
-[out:xml][timeout:300];
+[out:json][timeout:300];
   
   // Get the complete administrative boundary relation and its members
   relation["boundary"="administrative"]["admin_level"="2"]["ISO3166-1:alpha2"="AO"]->.admin_boundary;

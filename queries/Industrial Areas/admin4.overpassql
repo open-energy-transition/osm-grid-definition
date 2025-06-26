@@ -6,13 +6,19 @@ relation["boundary"="administrative"]["admin_level"="4"]["ISO3166-2"="${iso}"]->
 // Convert the full relation into an area, which we use for the subsequent search
 .admin_boundary map_to_area ->.searchArea;
 
+// ================================
+// Industrial-Related Features
+// ================================
+
+// General industrial landuse
 way["landuse"="industrial"](area.searchArea) -> .industrial_landuse;
 
-// Union all elements – note that we also include the original admin boundary
+// ================================
+// Combine and output all results
+// ================================
 (
   .industrial_landuse;
 );
-
 // First output: all elements with metadata
 out meta;
 // Second recursion: fetch all members of multipolygon relations, etc.

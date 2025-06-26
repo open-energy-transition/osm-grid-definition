@@ -6,12 +6,7 @@
   // Convert the full relation into an area, which we use for the subsequent search
   .admin_boundary map_to_area ->.searchArea;
   
-  way["landuse"="industrial"](area.searchArea) -> .industrial_landuse;
-  
-  // Union all elements – note that we also include the original admin boundary
-  (
-    industrial_landuse;
-  );
+  way["landuse"="industrial"](area.searchArea) -> .industrial_landuse
   
   // First output: all elements with metadata
   out meta;

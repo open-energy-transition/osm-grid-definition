@@ -6,7 +6,7 @@
   // Convert the full relation into an area, which we use for the subsequent search
   .admin_boundary map_to_area ->.searchArea;
   
-  way["landuse"="industrial"](area.searchArea) -> .industrial_landuse
+  way["landuse"="industrial"](area.searchArea)
   
   // First output: all elements with metadata
   out meta;

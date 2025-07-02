@@ -13,6 +13,10 @@ node.total_line_end(area.searchArea)->.total_inside_country;
 
 way(bn.foreign_ends) -> .cross_ways;
 
+// If you want to add the country borders too then do this and remove the bottom .cross_ways:
+// Can be more annoying to see the interconnectors sometimes though!
+// (.admin_boundary;.cross_ways;);
+
 
 .cross_ways;
 out meta;

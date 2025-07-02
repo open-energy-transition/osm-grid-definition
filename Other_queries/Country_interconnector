@@ -1,7 +1,13 @@
+// Original Script by Benoit Ribon
 [out:json][timeout:1000];
 
 relation["boundary"~"administrative|disputed"]["admin_level"="2"]["ISO3166-1:alpha2"="ES"]->.admin_boundary;
 .admin_boundary map_to_area ->.searchArea;
+
+// if you want bbox instead of ISO
+// node["place"~"country|state|province"]({{bbox}}) -> .places;
+// relation["boundary"="administrative"]["admin_level"="2"](bn.places) -> .admin_boundary;
+
 
 way["power"~"line|cable"](area.searchArea)->.power_ways;
 

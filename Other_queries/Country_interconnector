@@ -1,0 +1,20 @@
+[out:json][timeout:1000];
+
+relation["boundary"~"administrative|disputed"]["admin_level"="2"]["ISO3166-1:alpha2"="ES"]->.admin_boundary;
+.admin_boundary map_to_area ->.searchArea;
+
+way["power"~"line|cable"](area.searchArea)->.power_ways;
+
+node(w.power_ways: 1,-1)->.total_line_end;
+
+node.total_line_end(area.searchArea)->.total_inside_country;
+
+(node.total_line_end; - node.total_inside_country;)->.foreign_ends;
+
+way(bn.foreign_ends) -> .cross_ways;
+
+
+.cross_ways;
+out meta;
+>;
+out meta;

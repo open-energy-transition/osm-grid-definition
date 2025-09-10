@@ -10,8 +10,8 @@ relation["boundary"~"administrative|disputed"]["admin_level"~"3|4"]["ISO3166-2"=
 node(area.searchArea)[~"^(construction:|disused:)?power$"~"^pole|tower|terminal|insulator|portal$"] -> .supports;
 way(area.searchArea)[~"^(construction:|disused:)?power$"~"portal"] -> .linear_supports;
 way(area.searchArea)[~"^(construction:|disused:)?power$"~"^line|cable$"] -> .segments;
-nodes.supports[~"^(construction:|disused:)?power$"~"^tower$"] -> .towers;
-nodes.supports(way.segments) -> supports_hv;
+node.supports[~"^(construction:|disused:)?power$"~"^tower$"] -> .towers;
+node.supports(w.segments) -> .supports_hv;
 
 // Substation facilities
 nwr(area.searchArea)[~"^(construction:|disused:)?power$"~"substation"] -> .substations;

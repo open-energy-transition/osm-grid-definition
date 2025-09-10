@@ -7,16 +7,18 @@ relation["boundary"~"administrative|disputed"]["admin_level"~"3|4"]["ISO3166-2"=
 .admin_boundary map_to_area ->.searchArea;
 
 // Power line segments and their supports
-node(area.searchArea)[~"(construction:|disused:)?power$"~"^pole|tower|terminal|insulator|portal$"] -> .supports;
-way(area.searchArea)[~"(construction:|disused:)?power$"~"portal"] -> .linear_supports;
-way(area.searchArea)[~"(construction:|disused:)?power$"~"^line|cable$"] -> .segments;
+node(area.searchArea)[~"^(construction:|disused:)?power$"~"^pole|tower|terminal|insulator|portal$"] -> .supports;
+way(area.searchArea)[~"^(construction:|disused:)?power$"~"portal"] -> .linear_supports;
+way(area.searchArea)[~"^(construction:|disused:)?power$"~"^line|cable$"] -> .segments;
+nodes.supports[~"^(construction:|disused:)?power$"~"^tower$"] -> .towers;
+nodes.supports(way.segments) -> supports_hv;
 
 // Substation facilities
-nwr(area.searchArea)[~"(construction:|disused:)?power$"~"substation"] -> .substations;
-nw(area.searchArea)[~"(construction:|disused:)?power$"~"^switchgear|transformer$"] -> .switchgears;
+nwr(area.searchArea)[~"^(construction:|disused:)?power$"~"substation"] -> .substations;
+nw(area.searchArea)[~"^(construction:|disused:)?power$"~"^switchgear|transformer$"] -> .switchgears;
 
 // Generation facilities
-nwr(area.searchArea)[~"(construction:|disused:)power$"~"^plant|generator$"] -> .generation;
+nwr(area.searchArea)[~"^(construction:|disused:)power$"~"^plant|generator$"] -> .generation;
 
 // Circuits and sections relations
 rel(bw.segments)["power"="line_section"] -> .sections;
@@ -27,7 +29,8 @@ rel(br.sections)["power"="circuit"] -> .complex_circuits;
 
 // Dependencies gathering
 (
-  .supports;
+  .supports_hv;
+  .towers;
   .linear_supports;
   .segments;
   .sections;

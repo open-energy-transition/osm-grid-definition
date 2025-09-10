@@ -10,6 +10,8 @@ relation["boundary"~"administrative|disputed"]["admin_level"="2"]["ISO3166-1:alp
 node(area.searchArea)[~"^(construction:|disused:)?power$"~"^pole|tower|terminal|insulator|portal$"] -> .supports;
 way(area.searchArea)[~"^(construction:|disused:)?power$"~"portal"] -> .linear_supports;
 way(area.searchArea)[~"^(construction:|disused:)?power$"~"^line|cable$"] -> .segments;
+nodes.supports[~"^(construction:|disused:)?power$"~"^tower$"] -> .towers;
+nodes.supports(way.segments) -> supports_hv;
 
 // Substation facilities
 nwr(area.searchArea)[~"^(construction:|disused:)?power$"~"substation"] -> .substations;
@@ -27,7 +29,8 @@ rel(br.sections)["power"="circuit"] -> .complex_circuits;
 
 // Dependencies gathering
 (
-  .supports;
+  .supports_hv;
+  .towers;
   .linear_supports;
   .segments;
   .sections;

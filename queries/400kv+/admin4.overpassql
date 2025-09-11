@@ -23,9 +23,9 @@ nw(area.substations)["power"~"tower|pole|portal|insulator|terminal"]->.substatio
 nw(area.substations)[~"^(construction:|disused:)?power$"~"^switchgear|transformer$"]->.substations_switchgears;
 
 // Circuits and sections relations
-rel(bw.segments)["power"="line_section"] -> .sections;
-rel(bw.segments)["power"="circuit"] -> .circuits_simple;
-rel(br.sections)["power"="circuit"] -> .complex_circuits;
+rel(bw.segments)[~"^(construction:|disused:)?power$"~"^line_section$"] -> .sections;
+rel(bw.segments)[~"^(construction:|disused:)?power$"~"^circuit$"] -> .circuits_simple;
+rel(br.sections)[~"^(construction:|disused:)?power$"~"^circuit$"] -> .complex_circuits;
 
 
 // Union all elements – note that we also include the original admin boundary

@@ -15,7 +15,7 @@ node.supports[~"^(construction:|disused:)?power$"~"^tower$"] -> .towers;
 node.supports(w.segments) -> .supports_hv;
 
 // Substation facilities
-nwr(area.searchArea)[~"^(construction:|disused:)?power$"~"substation"] -> .substations;
+nwr(area.searchArea)[~"^(construction:|disused:)?power$"~"substation"]["substation"!="minor_distribution"] -> .substations;
 nw(area.searchArea)[~"^(construction:|disused:)?power$"~"^switchgear|transformer$"] -> .switchgears;
 
 // Generation facilities

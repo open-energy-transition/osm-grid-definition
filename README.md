@@ -1,6 +1,6 @@
 # osm-grid-definition
 
-This is repository contains all the overpass queries linked to the OhMyGrid Map It📍 page on https://ohmygrid.org/
+This is repository contains all the overpass queries linked to the [MapYourGrid Map It📍 page](https://mapyourgrid.org/map-it/).
 
 The query folder is directly linked to the source code of the page, and every query type is linked to a button on the website. 
 When you add a folder, it will automatically create a button for that query type.

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Isle_of_Man",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_130", "local_utm_crs": "EPSG:32630", "local_utm_x": 404837.14143752836, "local_utm_y": 6013843.8983049206, "COUNTRY": "Isle of Man" }, "geometry": { "type": "Point", "coordinates": [ -4.461068528558064, 54.263675009570896 ] } }
+]
+}

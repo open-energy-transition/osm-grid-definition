@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Kuwait",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "construction_year": 2021.0, "construction_quarter": 2.0, "landcover_in_2018": "landcover_200", "local_utm_crs": "EPSG:32638", "local_utm_x": 699551.43061025068, "local_utm_y": 3234912.8487487845, "COUNTRY": "Kuwait" }, "geometry": { "type": "Point", "coordinates": [ 47.053060308393107, 29.227279612708966 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_200", "local_utm_crs": "EPSG:32638", "local_utm_x": 699235.98805649788, "local_utm_y": 3234814.7771160859, "COUNTRY": "Kuwait" }, "geometry": { "type": "Point", "coordinates": [ 47.049799014421794, 29.226444783026551 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2024.0, "construction_quarter": 2.0, "landcover_in_2018": "landcover_200", "local_utm_crs": "EPSG:32638", "local_utm_x": 698911.68634255172, "local_utm_y": 3234723.2476818748, "COUNTRY": "Kuwait" }, "geometry": { "type": "Point", "coordinates": [ 47.046447845600596, 29.225670275096146 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_200", "local_utm_crs": "EPSG:32638", "local_utm_x": 698604.94962465018, "local_utm_y": 3234632.0252512358, "COUNTRY": "Kuwait" }, "geometry": { "type": "Point", "coordinates": [ 47.043277393402981, 29.22489569006752 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2024.0, "construction_quarter": 2.0, "landcover_in_2018": "landcover_200", "local_utm_crs": "EPSG:32638", "local_utm_x": 699883.52437192493, "local_utm_y": 3234977.2545137377, "COUNTRY": "Kuwait" }, "geometry": { "type": "Point", "coordinates": [ 47.056486804698267, 29.227808066563615 ] } }
+]
+}

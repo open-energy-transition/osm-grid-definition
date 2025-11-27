@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Martinique",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_40", "local_utm_crs": "EPSG:32620", "local_utm_x": 732032.82708198903, "local_utm_y": 1605812.6437944768, "COUNTRY": "Martinique" }, "geometry": { "type": "Point", "coordinates": [ -60.846925269720678, 14.515321782147423 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2018.0, "construction_quarter": 1.0, "landcover_in_2018": "landcover_40", "local_utm_crs": "EPSG:32620", "local_utm_x": 732122.61664109654, "local_utm_y": 1605736.0313688717, "COUNTRY": "Martinique" }, "geometry": { "type": "Point", "coordinates": [ -60.846099213403541, 14.514621928878734 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_40", "local_utm_crs": "EPSG:32620", "local_utm_x": 732155.3796020291, "local_utm_y": 1605672.4262176412, "COUNTRY": "Martinique" }, "geometry": { "type": "Point", "coordinates": [ -60.845800915289011, 14.514044454323702 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_50", "local_utm_crs": "EPSG:32620", "local_utm_x": 732162.29847066069, "local_utm_y": 1605594.6094788508, "COUNTRY": "Martinique" }, "geometry": { "type": "Point", "coordinates": [ -60.845743550266995, 14.513340776720213 ] } }
+]
+}

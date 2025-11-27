@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "British_Virgin_Islands",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_170", "local_utm_crs": "EPSG:32620", "local_utm_x": 334247.64965786971, "local_utm_y": 2028061.6197098736, "COUNTRY": "British Virgin Islands" }, "geometry": { "type": "Point", "coordinates": [ -64.568569249974686, 18.335889817914804 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_170", "local_utm_crs": "EPSG:32620", "local_utm_x": 334256.69146477454, "local_utm_y": 2028006.6879280123, "COUNTRY": "British Virgin Islands" }, "geometry": { "type": "Point", "coordinates": [ -64.56847923136327, 18.33539421740549 ] } }
+]
+}

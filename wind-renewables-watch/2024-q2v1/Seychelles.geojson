@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "Seychelles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_210", "local_utm_crs": "EPSG:32740", "local_utm_x": 330313.58143229363, "local_utm_y": 9489035.1650091205, "COUNTRY": "Seychelles" }, "geometry": { "type": "Point", "coordinates": [ 55.470311535304354, -4.621107276777472 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_210", "local_utm_crs": "EPSG:32740", "local_utm_x": 330248.98148743639, "local_utm_y": 9488730.7633865587, "COUNTRY": "Seychelles" }, "geometry": { "type": "Point", "coordinates": [ 55.469723413709765, -4.623858868305391 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_210", "local_utm_crs": "EPSG:32740", "local_utm_x": 330224.3056534027, "local_utm_y": 9488439.6774924323, "COUNTRY": "Seychelles" }, "geometry": { "type": "Point", "coordinates": [ 55.469495366560849, -4.626490815418695 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2018.0, "construction_quarter": 1.0, "landcover_in_2018": "landcover_210", "local_utm_crs": "EPSG:32740", "local_utm_x": 330517.05732290703, "local_utm_y": 9488546.137704514, "COUNTRY": "Seychelles" }, "geometry": { "type": "Point", "coordinates": [ 55.472135912495709, -4.625533744872842 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2018.0, "construction_quarter": 1.0, "landcover_in_2018": "landcover_210", "local_utm_crs": "EPSG:32740", "local_utm_x": 330521.88366119697, "local_utm_y": 9488159.8698665556, "COUNTRY": "Seychelles" }, "geometry": { "type": "Point", "coordinates": [ 55.472171919940294, -4.62902704610775 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_210", "local_utm_crs": "EPSG:32740", "local_utm_x": 329649.59691745252, "local_utm_y": 9489394.8825696614, "COUNTRY": "Seychelles" }, "geometry": { "type": "Point", "coordinates": [ 55.464334299506348, -4.617841243405717 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_210", "local_utm_crs": "EPSG:32740", "local_utm_x": 329581.93219409976, "local_utm_y": 9489276.9990923833, "COUNTRY": "Seychelles" }, "geometry": { "type": "Point", "coordinates": [ 55.463722172948735, -4.618905995864482 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_210", "local_utm_crs": "EPSG:32740", "local_utm_x": 329504.9455239888, "local_utm_y": 9489159.0955164246, "COUNTRY": "Seychelles" }, "geometry": { "type": "Point", "coordinates": [ 55.463026029020455, -4.619970746724674 ] } }
+]
+}

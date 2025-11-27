@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Sudan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "construction_year": 2018.0, "construction_quarter": 2.0, "landcover_in_2018": "landcover_150", "local_utm_crs": "EPSG:32637", "local_utm_x": 452696.91686644958, "local_utm_y": 1996713.6700848963, "COUNTRY": "Sudan" }, "geometry": { "type": "Point", "coordinates": [ 38.553021485275536, 18.058488236419453 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_200", "local_utm_crs": "EPSG:32637", "local_utm_x": 452271.25740796956, "local_utm_y": 1995483.0703676559, "COUNTRY": "Sudan" }, "geometry": { "type": "Point", "coordinates": [ 38.549027778232315, 18.047356350308938 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2024.0, "construction_quarter": 2.0, "landcover_in_2018": "landcover_200", "local_utm_crs": "EPSG:32637", "local_utm_x": 453103.44660685526, "local_utm_y": 1995403.2681344345, "COUNTRY": "Sudan" }, "geometry": { "type": "Point", "coordinates": [ 38.556892475707677, 18.046653253329456 ] } }
+]
+}

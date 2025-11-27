@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Lebanon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "construction_year": 2024.0, "construction_quarter": 2.0, "landcover_in_2018": "landcover_10", "local_utm_crs": "EPSG:32636", "local_utm_x": 759456.68085197068, "local_utm_y": 3738447.4958124086, "COUNTRY": "Lebanon" }, "geometry": { "type": "Point", "coordinates": [ 35.801090955292061, 33.754372854548869 ] } }
+]
+}

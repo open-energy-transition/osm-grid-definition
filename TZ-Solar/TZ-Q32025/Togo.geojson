@@ -1,0 +1,311 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 229,
+        "source_id": 857395,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Togo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5714253733991206,
+          6.624099989902152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 229,
+        "source_id": 1355814,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Togo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5712747661780904,
+          6.624167076005559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 229,
+        "source_id": 1290369,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Togo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.571202682505707,
+          6.624124743932409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 229,
+        "source_id": 1190826,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Togo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.571268752509062,
+          6.624125472120009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 229,
+        "source_id": 221739,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Togo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5713050658420196,
+          6.624196494159818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35254,
+        "source_id": 1290371,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Togo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0186043052717575,
+          8.363739565866362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35254,
+        "source_id": 1190827,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Togo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0184204835434514,
+          8.363624655741503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35254,
+        "source_id": 219686,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Togo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0171219929059394,
+          8.364605976711626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35254,
+        "source_id": 1443615,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Togo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.018424521834149,
+          8.363611205868652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35254,
+        "source_id": 1376252,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Togo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0184961094252825,
+          8.363635935346768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35254,
+        "source_id": 857402,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Togo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0184910303436707,
+          8.363686526546473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35254,
+        "source_id": 1252801,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Togo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0184141868043994,
+          8.363608724506166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59687,
+        "source_id": 1190828,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Togo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2271363277427223,
+          9.463927968725748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59687,
+        "source_id": 1443618,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Togo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2271367292727489,
+          9.463899059175985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59687,
+        "source_id": 1290377,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Togo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2271378387383616,
+          9.463913395784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59687,
+        "source_id": 857407,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Togo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2271279846675631,
+          9.463864135135278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59687,
+        "source_id": 1376254,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Togo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2271738111454638,
+          9.46386521927493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59687,
+        "source_id": 219722,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Togo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.227133178055112,
+          9.463886623452764
+        ]
+      }
+    }
+  ]
+}

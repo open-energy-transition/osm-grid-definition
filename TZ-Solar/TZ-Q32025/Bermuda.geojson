@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27666,
+        "source_id": 1285984,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bermuda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.68548222461106,
+          32.35812637262392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27666,
+        "source_id": 803160,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bermuda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.68543208434352,
+          32.35815710311639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27666,
+        "source_id": 1395308,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bermuda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.68546960365248,
+          32.358267384997575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27666,
+        "source_id": 1255073,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bermuda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.68545345991319,
+          32.358074252335975
+        ]
+      }
+    }
+  ]
+}

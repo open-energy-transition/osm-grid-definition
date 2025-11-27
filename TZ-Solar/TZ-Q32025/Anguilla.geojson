@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83099,
+        "source_id": 1393936,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Anguilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.12595818131423,
+          18.174351391436115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83099,
+        "source_id": 1280027,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Anguilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.12595130484432,
+          18.17425587871784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83099,
+        "source_id": 805914,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Anguilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.12605360771484,
+          18.174282580723137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83099,
+        "source_id": 1271527,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Anguilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1260049781648,
+          18.17424127444428
+        ]
+      }
+    }
+  ]
+}

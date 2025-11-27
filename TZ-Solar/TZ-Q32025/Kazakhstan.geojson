@@ -1,0 +1,3456 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10521,
+        "source_id": 64565,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1891603418562,
+          43.54708133951314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10521,
+        "source_id": 1420248,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1889375278685,
+          43.54717475038329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10521,
+        "source_id": 1248240,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.18904173384733,
+          43.54710720591295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10521,
+        "source_id": 1304686,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.18909601466613,
+          43.54710039818317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10521,
+        "source_id": 995309,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.18903793719647,
+          43.54692698611368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10521,
+        "source_id": 406823,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.18895469947279,
+          43.54706414692244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 109583,
+        "source_id": 1209425,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.37584852260153,
+          41.52634422491679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11717,
+        "source_id": 400035,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.82708904916095,
+          42.71229279187519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11717,
+        "source_id": 62950,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.82827045865304,
+          42.71680996461991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11717,
+        "source_id": 68200,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.8136418085658,
+          42.71851864528382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11717,
+        "source_id": 1200592,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.82833569421376,
+          42.716933398408685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11717,
+        "source_id": 987415,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.82704371254943,
+          42.712298248696285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11717,
+        "source_id": 1453904,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.81736485489346,
+          42.71704127810905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11717,
+        "source_id": 1304649,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.81728401138022,
+          42.71707308739672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11717,
+        "source_id": 1200593,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.81187274944205,
+          42.72201995982165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11717,
+        "source_id": 64567,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.82706881232808,
+          42.71235389190306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11717,
+        "source_id": 987417,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.81364695512359,
+          42.71854118053611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11717,
+        "source_id": 1221965,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.82702826305372,
+          42.71234602015944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11717,
+        "source_id": 987416,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.82831460578115,
+          42.7168706214994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11717,
+        "source_id": 1221034,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.82830344173553,
+          42.71691437204508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11717,
+        "source_id": 1359671,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.81740265028336,
+          42.71691293187228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11717,
+        "source_id": 1217813,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.81360590663228,
+          42.71853649486758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11717,
+        "source_id": 1200596,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.81560555673218,
+          42.7144715841956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11717,
+        "source_id": 400037,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.8136945904141,
+          42.718414031085786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11717,
+        "source_id": 1200595,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.8270504033084,
+          42.7123303006116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12780,
+        "source_id": 1200594,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.09832909055912,
+          42.867820298095886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12780,
+        "source_id": 1400223,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.09857297652152,
+          42.867930892169134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12780,
+        "source_id": 1484936,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.11148714697967,
+          42.87505198704343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12780,
+        "source_id": 1304650,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.0985293176144,
+          42.86781780677305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12780,
+        "source_id": 400043,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.09858509031037,
+          42.867858564456256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12780,
+        "source_id": 1453905,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.10187610147189,
+          42.86971406649659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12780,
+        "source_id": 987445,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.09839499687934,
+          42.8678105647821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12780,
+        "source_id": 1270466,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.0978337889658,
+          42.86740284257903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13132,
+        "source_id": 1400228,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.70612837309821,
+          43.590729233434615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13132,
+        "source_id": 1200981,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.70548849430408,
+          43.57897556409471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13132,
+        "source_id": 1220689,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.70613062462498,
+          43.59101273886933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13132,
+        "source_id": 1453924,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.70609972830064,
+          43.59040011948539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13132,
+        "source_id": 404156,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.70602127143292,
+          43.59041919154887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17875,
+        "source_id": 982278,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.35798055826093,
+          43.87404223985877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17875,
+        "source_id": 982280,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.36184259338395,
+          43.87545763927693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17875,
+        "source_id": 1250030,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.3600374729098,
+          43.87420723373027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17875,
+        "source_id": 393920,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.36004056145575,
+          43.87419788228387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17875,
+        "source_id": 1200519,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.35996605808465,
+          43.874226120826826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17875,
+        "source_id": 1379540,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.36001641586287,
+          43.87424908244297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17875,
+        "source_id": 1302869,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.36005670938981,
+          43.87415765825044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17875,
+        "source_id": 1452681,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.35998846529739,
+          43.87423689846721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17963,
+        "source_id": 985283,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.22402384015028,
+          43.74500096744434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17963,
+        "source_id": 985284,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.22743227241095,
+          43.746204372278406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17963,
+        "source_id": 985286,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.24285786156207,
+          43.75012631377495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17963,
+        "source_id": 397179,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.23332192375881,
+          43.74764186867498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17963,
+        "source_id": 1224398,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.23317597185002,
+          43.74767606054486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17963,
+        "source_id": 1304648,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.2346733751104,
+          43.748143726096224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17963,
+        "source_id": 985285,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.23420339850779,
+          43.74807591829773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17963,
+        "source_id": 1200538,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.23312801375026,
+          43.747681451614085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2564,
+        "source_id": 999120,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08345925700101,
+          43.89250261942507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2564,
+        "source_id": 1220253,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08360467878097,
+          43.892511199122815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2564,
+        "source_id": 68217,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08316250501511,
+          43.8928447957437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2564,
+        "source_id": 414144,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08363444544638,
+          43.8925069565526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28563,
+        "source_id": 1379985,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.53686092604626,
+          42.389833909428624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28563,
+        "source_id": 985138,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.53679028630376,
+          42.38974715467507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28563,
+        "source_id": 1304647,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.53685838431994,
+          42.38981826395792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28563,
+        "source_id": 62948,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.53681281971075,
+          42.3898415581968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28563,
+        "source_id": 397115,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.53687153464459,
+          42.38969322941087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28563,
+        "source_id": 1266942,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.53682468506152,
+          42.38980205703504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29675,
+        "source_id": 393900,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.52865548547815,
+          43.47077342318456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29675,
+        "source_id": 1234083,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.52877971945443,
+          43.47093857944487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29675,
+        "source_id": 1359669,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.52867909339874,
+          43.47093349261849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29675,
+        "source_id": 985251,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.52871734729523,
+          43.47096078153345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29675,
+        "source_id": 1304645,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.52860684893717,
+          43.470720927673135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29592,
+        "source_id": 422283,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.18746917315498,
+          49.22489096684727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29592,
+        "source_id": 1202294,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.18733340304306,
+          49.22493090086635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29592,
+        "source_id": 1459699,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.18752396823848,
+          49.22475534877276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29592,
+        "source_id": 1423591,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.18729757818711,
+          49.22477177827185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29592,
+        "source_id": 1314118,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1874466670334,
+          49.224885652596136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29592,
+        "source_id": 1214073,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.18737674930277,
+          49.22493706009447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29592,
+        "source_id": 1006535,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.18747041901663,
+          49.22487039803492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31454,
+        "source_id": 1215184,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4528458883941,
+          50.79341240545693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31454,
+        "source_id": 987543,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.45281052328774,
+          50.79349101505842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31454,
+        "source_id": 1200659,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.45228528310656,
+          50.79307400408722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31454,
+        "source_id": 400320,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.45302812560847,
+          50.79350705046572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31454,
+        "source_id": 987544,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4449352842028,
+          50.79663312878779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32991,
+        "source_id": 1453896,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.03512840801267,
+          41.74836582700284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32991,
+        "source_id": 397078,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.03509002471286,
+          41.74831731882043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32991,
+        "source_id": 1200535,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.0349277796017,
+          41.74796319974214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32991,
+        "source_id": 985096,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.03491232044462,
+          41.74802438037109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32991,
+        "source_id": 1359663,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.03497328882129,
+          41.74809581765874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32991,
+        "source_id": 1246894,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.03496387979267,
+          41.7480260602543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37692,
+        "source_id": 1200799,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9093363612692,
+          48.286985404264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37692,
+        "source_id": 991015,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.91074690144585,
+          48.28678283579584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37692,
+        "source_id": 1220903,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.90940214255238,
+          48.286966522133845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37692,
+        "source_id": 991016,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.90238176001745,
+          48.28912752955919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37692,
+        "source_id": 404416,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.90938086222846,
+          48.28702656730208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37581,
+        "source_id": 1201035,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.32281311492697,
+          46.637423504403486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37581,
+        "source_id": 1245632,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.32278474868637,
+          46.637453707116094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37581,
+        "source_id": 993092,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.32294997350427,
+          46.637504961131455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37581,
+        "source_id": 404313,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.32300564031245,
+          46.63740922499564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37581,
+        "source_id": 1403640,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.32296817716073,
+          46.63763285495512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37937,
+        "source_id": 1452682,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.97094466288245,
+          44.30984753015677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39307,
+        "source_id": 1453903,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.85505135021693,
+          42.3985052591017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39307,
+        "source_id": 985144,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.85519940664442,
+          42.39838099610259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39307,
+        "source_id": 1233053,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8550563065271,
+          42.398590277395286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39307,
+        "source_id": 397118,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.85524101920336,
+          42.39848506727483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39307,
+        "source_id": 1359670,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.85528274634372,
+          42.39847305998351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45614,
+        "source_id": 980284,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.69123346530209,
+          45.09686952966399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45614,
+        "source_id": 389058,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.69093793049936,
+          45.09695909841491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45614,
+        "source_id": 1348540,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.69140026544747,
+          45.09708223396122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45614,
+        "source_id": 1403636,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.69107639630299,
+          45.09701956635845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45614,
+        "source_id": 1459690,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.69090953367457,
+          45.09671584489684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45614,
+        "source_id": 1237426,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.69115090685871,
+          45.09683330486579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45874,
+        "source_id": 1201480,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.97275219767796,
+          43.62065711815142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45874,
+        "source_id": 999112,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.96835527503227,
+          43.61826655817456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45874,
+        "source_id": 414133,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9727936835197,
+          43.62061719403819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45874,
+        "source_id": 1304689,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.97272099274649,
+          43.620557931648925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45874,
+        "source_id": 999111,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.97179920834907,
+          43.616689371660414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45874,
+        "source_id": 1420249,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9726890486253,
+          43.62060431359862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45874,
+        "source_id": 1218328,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.97272463135444,
+          43.620596174657294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46732,
+        "source_id": 1235922,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.44888103016562,
+          40.87692958215317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46732,
+        "source_id": 393802,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.44887590706982,
+          40.87680949761235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46732,
+        "source_id": 1453892,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.44903030611546,
+          40.87678136800078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46732,
+        "source_id": 1379982,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.44903907073561,
+          40.87680701254656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46732,
+        "source_id": 1304676,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.44899585908924,
+          40.8768045686107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46732,
+        "source_id": 985048,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.44890016147882,
+          40.87692154470006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49917,
+        "source_id": 363892,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.34997393944981,
+          43.59437037375027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49917,
+        "source_id": 1399797,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.349915565086185,
+          43.5944399591111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49917,
+        "source_id": 967025,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3499170628844,
+          43.59445278689621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49917,
+        "source_id": 1255251,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.34991949570809,
+          43.5944085767308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53189,
+        "source_id": 1242782,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.31545079986513,
+          40.74734042256427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53189,
+        "source_id": 393785,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.31580550028542,
+          40.74763534025247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53189,
+        "source_id": 985043,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.31553132609857,
+          40.74739917083042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53496,
+        "source_id": 1200537,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3554175802602,
+          42.306492124421325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53496,
+        "source_id": 1269501,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.35546618516143,
+          42.30649014893146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53496,
+        "source_id": 1304646,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.35535144119717,
+          42.30636351718765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53496,
+        "source_id": 397108,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.35547053282215,
+          42.30647809862094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53496,
+        "source_id": 985126,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.35545106737655,
+          42.30639732787966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65621,
+        "source_id": 1213070,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.62539525406093,
+          47.86261810334348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65621,
+        "source_id": 394523,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.62539427329459,
+          47.86259738563652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65621,
+        "source_id": 1314162,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.62534202072703,
+          47.86265261082938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65621,
+        "source_id": 983199,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.62530292701105,
+          47.86260475060247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65904,
+        "source_id": 1237460,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.30510524539656,
+          43.826638114360726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65904,
+        "source_id": 1399812,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.3052109251619,
+          43.82672971713396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66507,
+        "source_id": 393886,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.46787167616735,
+          42.77077513871652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66507,
+        "source_id": 1304641,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.46783070084564,
+          42.77082076458832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66507,
+        "source_id": 1223012,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.46783971686234,
+          42.770883796260094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67562,
+        "source_id": 1269419,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.52759408198787,
+          43.43807364227175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67562,
+        "source_id": 1200518,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.53194152761249,
+          43.44478937685916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67562,
+        "source_id": 1453902,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.52761340208222,
+          43.43829705126582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67562,
+        "source_id": 393899,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.53216939485588,
+          43.44468813840354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67562,
+        "source_id": 1359668,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.526870607857,
+          43.437892845781214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67562,
+        "source_id": 1200517,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.52752957836454,
+          43.43807591378219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67562,
+        "source_id": 985242,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.52729852745895,
+          43.43803418628395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67562,
+        "source_id": 1304644,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.53217113898565,
+          43.44457444722244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67562,
+        "source_id": 985247,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.53202152472464,
+          43.44481426691167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67562,
+        "source_id": 393898,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.52770507609392,
+          43.43819068072377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67562,
+        "source_id": 1266181,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.53195306194945,
+          43.44477700479828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67562,
+        "source_id": 1304643,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.52745708198361,
+          43.43789757608811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69120,
+        "source_id": 416162,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.70156411129379,
+          43.90651737123427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69120,
+        "source_id": 999121,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7015205339801,
+          43.90651660577162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69120,
+        "source_id": 1227027,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.70153294652489,
+          43.90648629678714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69120,
+        "source_id": 1400229,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.70147867769613,
+          43.906584930438925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72983,
+        "source_id": 1241090,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.42175225333526,
+          42.84415925133485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72983,
+        "source_id": 1304642,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.42174570968812,
+          42.8441584010554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72983,
+        "source_id": 1420242,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.42176765172924,
+          42.84418194234906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77514,
+        "source_id": 1246506,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.03821234113417,
+          46.99453079098232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77514,
+        "source_id": 1348541,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.03826595410567,
+          46.994511967422014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79349,
+        "source_id": 1239830,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.07407453448862,
+          45.6006801259354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79349,
+        "source_id": 1314159,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.07440437975103,
+          45.601005138764606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79349,
+        "source_id": 1403639,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.07452708789594,
+          45.60110145258976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79667,
+        "source_id": 1485880,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.64310263187775,
+          47.799522536088325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80768,
+        "source_id": 1304690,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.11350104047813,
+          43.96814393505505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80768,
+        "source_id": 1218702,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1133311709854,
+          43.968255156099055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80768,
+        "source_id": 414145,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.11333678861824,
+          43.968108801972015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80768,
+        "source_id": 999122,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.11333584648514,
+          43.96822467891032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80768,
+        "source_id": 1201481,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.11336384084036,
+          43.96825624361912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85053,
+        "source_id": 985146,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.76034606050071,
+          42.40660712077282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85053,
+        "source_id": 1453901,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.76056918094493,
+          42.4065926672536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85053,
+        "source_id": 1304706,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.76042853822699,
+          42.40652384446732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85053,
+        "source_id": 1220464,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.76032235128258,
+          42.406665069656405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85053,
+        "source_id": 1420241,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.7604447588479,
+          42.40662744749039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85053,
+        "source_id": 397120,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.76029087672775,
+          42.406650266819206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85053,
+        "source_id": 1200516,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.76032724141211,
+          42.406665802416434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87505,
+        "source_id": 1419847,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.90032252006391,
+          44.72382293809046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87505,
+        "source_id": 1247986,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.90034354583213,
+          44.72375322818528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87505,
+        "source_id": 389048,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.90037180631059,
+          44.723821294476856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87505,
+        "source_id": 980215,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.90024586916937,
+          44.723831324899386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87862,
+        "source_id": 995350,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.00012587925376,
+          46.94041184647843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87862,
+        "source_id": 1222254,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.00014929671643,
+          46.94036844831583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87862,
+        "source_id": 406984,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.00028102913828,
+          46.940471822318194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88682,
+        "source_id": 1234853,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.56191396694133,
+          44.792619692445975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92301,
+        "source_id": 1218778,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8714906102114,
+          49.81092816398057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92301,
+        "source_id": 1200800,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87147797653884,
+          49.81094996618768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92301,
+        "source_id": 991047,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87147607369725,
+          49.81104656623455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92301,
+        "source_id": 404454,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87155125478178,
+          49.81088094542847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93562,
+        "source_id": 1314163,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.96043755244696,
+          45.24317066729432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93562,
+        "source_id": 416169,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.96033525941421,
+          45.243212534663485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93562,
+        "source_id": 1000735,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.96043484098517,
+          45.24315337907427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93562,
+        "source_id": 1253552,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.96035950874565,
+          45.24323465870949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93562,
+        "source_id": 1363008,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.96041432255392,
+          45.243220989149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94431,
+        "source_id": 1485881,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.35556291300945,
+          51.94385462672281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94705,
+        "source_id": 1209154,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4022161474666,
+          46.71349729462076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96384,
+        "source_id": 1226107,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.15644375155006,
+          43.34109944620439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96384,
+        "source_id": 414128,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.15647697431164,
+          43.34110883707186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96384,
+        "source_id": 1347057,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.15648517428188,
+          43.34113056862923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96384,
+        "source_id": 999096,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1564580808677,
+          43.34123736857752
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,838 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 108789,
+        "source_id": 1484140,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.128904976451578,
+          35.81452769259199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13634,
+        "source_id": 1290469,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.46358131052246,
+          33.05041124904397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13634,
+        "source_id": 878135,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.463819380154147,
+          33.05037901555481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13634,
+        "source_id": 1396512,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.463445826887655,
+          33.05035819106009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13634,
+        "source_id": 242576,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.463614770800485,
+          33.050344508308086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13634,
+        "source_id": 1214685,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.462803780057218,
+          33.050366703988885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25146,
+        "source_id": 1191807,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.591829860250773,
+          34.679160985859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25146,
+        "source_id": 876010,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.591595297955436,
+          34.67889614364409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25146,
+        "source_id": 1259256,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.591824341873858,
+          34.67914606446075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25146,
+        "source_id": 240155,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.592542993550603,
+          34.679758718974696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25146,
+        "source_id": 1290561,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.591786086304277,
+          34.679134253912345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25146,
+        "source_id": 1355845,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.59192518185798,
+          34.67928410072363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25521,
+        "source_id": 1396517,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.35118024856398,
+          36.08263107913561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25521,
+        "source_id": 1192308,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.351072611963051,
+          36.0826431016396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25521,
+        "source_id": 1266298,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.351060826619902,
+          36.08266718584191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25521,
+        "source_id": 1290567,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.351200351652723,
+          36.08266104466277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25521,
+        "source_id": 878243,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.351128030319575,
+          36.08264110345883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27790,
+        "source_id": 235379,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.046232776562096,
+          33.90838982254394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27790,
+        "source_id": 1191375,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.046177865425806,
+          33.90841768993313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27790,
+        "source_id": 1396515,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.046218484358462,
+          33.90847230325616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27790,
+        "source_id": 1290560,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.046251198395412,
+          33.90849389010155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27790,
+        "source_id": 1484139,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.03723383523086,
+          33.90728746035056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27790,
+        "source_id": 872309,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.052397491424541,
+          33.90917748209729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27790,
+        "source_id": 872308,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.04621968276918,
+          33.90853631302817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27790,
+        "source_id": 1247840,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.04638676185757,
+          33.90850552792866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28066,
+        "source_id": 1396511,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.042584020665306,
+          31.388949348331845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28066,
+        "source_id": 242574,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.042584745459296,
+          31.38888864761675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28066,
+        "source_id": 878132,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.04252305645061,
+          31.38895887443997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28066,
+        "source_id": 1290467,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.042520480991865,
+          31.388922872158435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28066,
+        "source_id": 1192215,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.042502139278309,
+          31.388954748784982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28066,
+        "source_id": 1265049,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.04255812323528,
+          31.388953554926275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34357,
+        "source_id": 1484137,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.01335784266206,
+          33.71571435950709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34357,
+        "source_id": 1346092,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.013809303210977,
+          33.71558926714464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34357,
+        "source_id": 1250019,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.013503969544718,
+          33.71577302625453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55170,
+        "source_id": 1290571,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.491692595207711,
+          36.679381236332446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55170,
+        "source_id": 1376289,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.491664959340037,
+          36.67938143693507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56891,
+        "source_id": 1443690,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.245828450814852,
+          36.72346075159924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75038,
+        "source_id": 1290468,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.560983172537615,
+          33.43395770151241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75038,
+        "source_id": 1251983,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.56102074715344,
+          33.43399356544411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78084,
+        "source_id": 1290572,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.97658156886252,
+          36.75862454182691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78084,
+        "source_id": 1376290,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.97656451151564,
+          36.7586361221257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88424,
+        "source_id": 1443689,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.12160271683719,
+          36.89875701980861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92196,
+        "source_id": 1355846,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.175677626699176,
+          34.882205623317546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92196,
+        "source_id": 1234909,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.175662870464487,
+          34.88212822515809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92196,
+        "source_id": 1290562,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.175635064990384,
+          34.882215694342264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92196,
+        "source_id": 1191717,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.175692431624324,
+          34.88214606537047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92196,
+        "source_id": 876016,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.175849654224304,
+          34.88227217501322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95988,
+        "source_id": 1355847,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.537711489027368,
+          36.616084118002064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95988,
+        "source_id": 1208788,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.537585007474728,
+          36.61661287359011
+        ]
+      }
+    }
+  ]
+}

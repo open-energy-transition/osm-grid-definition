@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17464,
+        "source_id": 1482404,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Paraguay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.75576262896162,
+          -22.36865658686804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35135,
+        "source_id": 811992,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Paraguay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.974520112816144,
+          -23.95575539189591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35135,
+        "source_id": 180960,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Paraguay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.974454080298926,
+          -23.955728284586485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35135,
+        "source_id": 1372281,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Paraguay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.97451998945142,
+          -23.955676868681653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35135,
+        "source_id": 1245279,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Paraguay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.97452141843208,
+          -23.95567585240808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44381,
+        "source_id": 1273337,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Paraguay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.66983144468675,
+          -23.02563530653812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44381,
+        "source_id": 1372257,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Paraguay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.66976718468231,
+          -23.02556076955216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53984,
+        "source_id": 1412707,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Paraguay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.46730279839584,
+          -25.193266694480755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53984,
+        "source_id": 1273339,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Paraguay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.46741716193457,
+          -25.193269255386035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72302,
+        "source_id": 1482403,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Paraguay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.03282338823112,
+          -22.48943239422005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80745,
+        "source_id": 1392635,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Paraguay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.03201569708928,
+          -22.333747387556933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80745,
+        "source_id": 1273860,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Paraguay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.03203468679333,
+          -22.333812956623067
+        ]
+      }
+    }
+  ]
+}

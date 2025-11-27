@@ -1,0 +1,991 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 102749,
+        "source_id": 1484118,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.35104893577832,
+          -35.13571761631839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 106179,
+        "source_id": 1484117,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.8035381625985,
+          -43.7267042219126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15645,
+        "source_id": 1484115,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.24657800093658,
+          -44.6660440667111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18447,
+        "source_id": 1290308,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.09441179368113,
+          -37.46061234181689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18447,
+        "source_id": 1443579,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.09442072076516,
+          -37.46057372705442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21692,
+        "source_id": 1210899,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.18244619517452,
+          -38.02754473287765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21692,
+        "source_id": 1416658,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.18242850087373,
+          -38.02745235122711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21692,
+        "source_id": 1443578,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.1825300289349,
+          -38.02756937882625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27406,
+        "source_id": 1443576,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.99520845860445,
+          -41.52717384644049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40013,
+        "source_id": 1175551,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.17166948324194,
+          -39.48225112098447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40013,
+        "source_id": 1290304,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.17168973557344,
+          -39.48253936117589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40013,
+        "source_id": 1220575,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.1717015727503,
+          -39.48225553390299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40013,
+        "source_id": 667193,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.1717369019587,
+          -39.482306079498514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40013,
+        "source_id": 1376229,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.17177609024105,
+          -39.48221246274332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 417,
+        "source_id": 1177055,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.71630053275595,
+          -36.74589121129278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 417,
+        "source_id": 1290309,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.71640850827814,
+          -36.74592880297405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 417,
+        "source_id": 1355799,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.71639596230136,
+          -36.74590755824763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 417,
+        "source_id": 667221,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.71642301618672,
+          -36.7458419340401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49030,
+        "source_id": 1355797,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.855919258375,
+          -37.0017216556016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53872,
+        "source_id": 1175093,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.13148778994383,
+          -41.64796727932865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53872,
+        "source_id": 1290303,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.12922054976113,
+          -41.64899395662413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53872,
+        "source_id": 1211017,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.128975876457,
+          -41.648740391947946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53872,
+        "source_id": 1396474,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.1291152706873,
+          -41.64896633720039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58667,
+        "source_id": 1175042,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.2161832632436,
+          -35.08253102612062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58667,
+        "source_id": 664837,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.2160164059813,
+          -35.08057845915987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58667,
+        "source_id": 1355795,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.219027450495,
+          -35.08247845906854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58667,
+        "source_id": 1443577,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.21895064389693,
+          -35.08243189982946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58667,
+        "source_id": 664836,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.21458948005352,
+          -35.084745631655665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58667,
+        "source_id": 1175041,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.22153142997874,
+          -35.08246961825232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62344,
+        "source_id": 667219,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.76485851706207,
+          -37.22039304289896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62344,
+        "source_id": 1355796,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.76485521077413,
+          -37.22042138236829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62344,
+        "source_id": 1346046,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.76502814632872,
+          -37.22036046845616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70446,
+        "source_id": 1443580,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.65799476855275,
+          -37.335433143964806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72318,
+        "source_id": 1416657,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.8086490824387,
+          -37.996405623265495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72318,
+        "source_id": 1290307,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.80858086167592,
+          -37.99643151440377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72318,
+        "source_id": 1176967,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.80855088236086,
+          -37.99640627214956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74909,
+        "source_id": 1174621,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.80775248371378,
+          -41.01869586902628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74909,
+        "source_id": 1237951,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.8075796245795,
+          -41.01875329016985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74909,
+        "source_id": 1290302,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.80763007299112,
+          -41.01873704973651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74909,
+        "source_id": 664825,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.80749993846854,
+          -41.018701825612645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74909,
+        "source_id": 1355793,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.8076094841064,
+          -41.0187315845305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75375,
+        "source_id": 1290306,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.11129677501526,
+          -34.818210386994465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75375,
+        "source_id": 1290305,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.1082832497998,
+          -34.820873239366136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75375,
+        "source_id": 1416656,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.10980603891838,
+          -34.81930789534839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 76948,
+        "source_id": 1240042,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.98171247542967,
+          -38.65743232188276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 76948,
+        "source_id": 671961,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.98174931446545,
+          -38.65730688643752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 76948,
+        "source_id": 1176887,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.98154395075127,
+          -38.65737479679892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 76948,
+        "source_id": 1396476,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.98175312578223,
+          -38.65744223226679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 76948,
+        "source_id": 1443582,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.98171263484247,
+          -38.65740529216786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 76948,
+        "source_id": 1290310,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.98176126456144,
+          -38.65749950072396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82645,
+        "source_id": 1396475,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.00203295669894,
+          -37.03615133675729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82680,
+        "source_id": 1222369,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.76462787516735,
+          -36.986160498861416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85168,
+        "source_id": 1174580,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.4305586662113,
+          -41.60868913575074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85168,
+        "source_id": 1355794,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.43046979609403,
+          -41.60872165226786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85168,
+        "source_id": 664796,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.43069360557553,
+          -41.608616743776565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85168,
+        "source_id": 1227958,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.4303650625078,
+          -41.60879115542836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8578,
+        "source_id": 1443575,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.72117614393537,
+          -43.943458669011626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96322,
+        "source_id": 1484116,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.7895928661934,
+          -43.73103235346354
+        ]
+      }
+    }
+  ]
+}

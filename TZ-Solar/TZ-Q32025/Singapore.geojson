@@ -1,0 +1,923 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 101510,
+        "source_id": 1459804,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.67168467660568,
+          1.2481221044639763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 105152,
+        "source_id": 1314135,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85614489302982,
+          1.4049780063176818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 104118,
+        "source_id": 1314248,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79590384480343,
+          1.4554646066141284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107104,
+        "source_id": 1314246,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7120626629125,
+          1.4461849830406388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 109240,
+        "source_id": 1314136,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9278775290156,
+          1.3604019813740469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 109877,
+        "source_id": 1219256,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.67667189639874,
+          1.2625154816708233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18984,
+        "source_id": 463616,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9091143832828,
+          1.3703957785956062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2048,
+        "source_id": 1423616,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.92142312249791,
+          1.3431485734168405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39151,
+        "source_id": 1459807,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83435422855128,
+          1.269582644505708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42510,
+        "source_id": 1231244,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.99669367244334,
+          1.3809357334255263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42510,
+        "source_id": 1403680,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9966110947296,
+          1.3807767871234902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48029,
+        "source_id": 1268209,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.86444905083336,
+          1.3138892430822544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48029,
+        "source_id": 1031108,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.864496486256,
+          1.3138164561026295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48029,
+        "source_id": 463596,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.86449158735437,
+          1.3145484412785655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57951,
+        "source_id": 1252683,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.71584335478944,
+          1.3107608932064272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63195,
+        "source_id": 1203280,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.78780411176028,
+          1.4608932134172137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63195,
+        "source_id": 1314247,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.78762886322195,
+          1.4607693922989136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63195,
+        "source_id": 1314249,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.78969278791062,
+          1.45732619234274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63195,
+        "source_id": 463628,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.78798940484438,
+          1.4610032158095152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63195,
+        "source_id": 1029114,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7877036496701,
+          1.4608350406518529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63195,
+        "source_id": 1224445,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.78775614158988,
+          1.4608713674436478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63195,
+        "source_id": 1485915,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7876739888534,
+          1.4605248160499442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68434,
+        "source_id": 1314133,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.65898559558548,
+          1.3104616788463928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68813,
+        "source_id": 463607,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.64461154050306,
+          1.34828148599375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68813,
+        "source_id": 1215103,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.64201416127736,
+          1.3510978132297902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68813,
+        "source_id": 1314134,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.64408360016516,
+          1.348750351987475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68813,
+        "source_id": 1029106,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.63628420751412,
+          1.3498337372042286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68813,
+        "source_id": 1203247,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6412820841558,
+          1.352374115014471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68813,
+        "source_id": 1029105,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.64309806850495,
+          1.3499435533604769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68813,
+        "source_id": 1363056,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.644374215995,
+          1.3483759747776989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68813,
+        "source_id": 1223791,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.64823603336912,
+          1.344486755733204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68813,
+        "source_id": 1229749,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.63600701734488,
+          1.3499266262988248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71979,
+        "source_id": 1253684,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.72435969802562,
+          1.2878800760222011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71979,
+        "source_id": 1029087,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.72419283366672,
+          1.2877855947084422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71979,
+        "source_id": 1203277,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.72408094451065,
+          1.2878742807430297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71979,
+        "source_id": 463586,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.72448204456742,
+          1.2876994359532552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73343,
+        "source_id": 1029083,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.666685305911,
+          1.2732880006292169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86102,
+        "source_id": 1254301,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8651536638033,
+          1.40257417481486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86102,
+        "source_id": 1459808,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.86502774819348,
+          1.402567322480612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86234,
+        "source_id": 1314130,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.63026340599536,
+          1.2704139282114986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87002,
+        "source_id": 1459803,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.66263063136878,
+          1.2664076646760891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88071,
+        "source_id": 463583,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.78051640484048,
+          1.2067712994483986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91762,
+        "source_id": 1029103,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74528208958648,
+          1.331711515538018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93292,
+        "source_id": 1031109,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.96911492399651,
+          1.341891683214872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93292,
+        "source_id": 1459809,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9679674277479,
+          1.340575107270537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93292,
+        "source_id": 463602,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.96589493612144,
+          1.33949806728296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93203,
+        "source_id": 1383413,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.62594432646308,
+          1.2793801302907668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93203,
+        "source_id": 1310385,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.62605091313058,
+          1.2793759693203124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93203,
+        "source_id": 1459805,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.62599613015082,
+          1.2793433007621726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94286,
+        "source_id": 1230210,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85838756102224,
+          1.416642341066997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95950,
+        "source_id": 1029100,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.72362391101248,
+          1.321216359950229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 97857,
+        "source_id": 1314132,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.63416061208576,
+          1.2977849789897573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 97857,
+        "source_id": 463589,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.63461681906657,
+          1.2987388237530262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98990,
+        "source_id": 1314137,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.02208001118748,
+          1.364037969672065
+        ]
+      }
+    }
+  ]
+}

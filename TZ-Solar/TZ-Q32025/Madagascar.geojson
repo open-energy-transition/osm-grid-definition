@@ -1,0 +1,838 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 110746,
+        "source_id": 1443267,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.31653608086897,
+          -20.275866993260244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17846,
+        "source_id": 1443285,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.94661264704173,
+          -25.05570726170292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17846,
+        "source_id": 1289696,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.94660253473927,
+          -25.055677985646145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17846,
+        "source_id": 355647,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.94762453045907,
+          -25.054673529187628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17846,
+        "source_id": 1239732,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.947569311296085,
+          -25.05472304917557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17846,
+        "source_id": 961555,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.947599598191566,
+          -25.05466795302772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17846,
+        "source_id": 1355676,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.94658276171258,
+          -25.05570949906987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3395,
+        "source_id": 22207,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.44630185023823,
+          -19.489589611134555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3395,
+        "source_id": 961729,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.44662499733662,
+          -19.489646844647243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3395,
+        "source_id": 1289731,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4454794741519,
+          -19.489348931808827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3395,
+        "source_id": 355813,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.44507279214626,
+          -19.489219972310103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3395,
+        "source_id": 1270236,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.445137375571285,
+          -19.48924574045116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3395,
+        "source_id": 1396377,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.44506194307083,
+          -19.48934235357504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3395,
+        "source_id": 1200427,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.44512215466244,
+          -19.489231245555352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41138,
+        "source_id": 1272413,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.42184177661583,
+          -15.703265231314036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41138,
+        "source_id": 1289787,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.42179550833708,
+          -15.703081010424633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41138,
+        "source_id": 355935,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.42176700403912,
+          -15.703344691976898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41138,
+        "source_id": 1200423,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.42185339240692,
+          -15.703302767726116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41138,
+        "source_id": 959659,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.42187367154165,
+          -15.70332504075493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44503,
+        "source_id": 1289791,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.25346072853007,
+          -14.850942974780928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44503,
+        "source_id": 1416565,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.25348755271562,
+          -14.850921711954175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57624,
+        "source_id": 965953,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.386986367275725,
+          -18.169514102912544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57624,
+        "source_id": 360672,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.38698687206285,
+          -18.16948233805196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57624,
+        "source_id": 1416557,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.38737046102451,
+          -18.169403598779155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57624,
+        "source_id": 1239140,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.38707289896557,
+          -18.169566261378453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57624,
+        "source_id": 1289830,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3874415955851,
+          -18.169407585259524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6653,
+        "source_id": 1355677,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.440656248795385,
+          -19.40068727094298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6653,
+        "source_id": 1443287,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.44043151788946,
+          -19.400257306043823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77508,
+        "source_id": 1229750,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.71588865788337,
+          -23.36157914378457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77508,
+        "source_id": 1289314,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.71593122028335,
+          -23.36162425986412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77508,
+        "source_id": 957060,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.7159095190109,
+          -23.36159663939228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77508,
+        "source_id": 1355653,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.71615653777386,
+          -23.361629507896136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77508,
+        "source_id": 350522,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.71589651968682,
+          -23.36160406600715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8405,
+        "source_id": 1241864,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.11824626125309,
+          -14.29039922181068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8405,
+        "source_id": 966002,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.11831649050642,
+          -14.290551199865943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8405,
+        "source_id": 1289792,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.11829657141977,
+          -14.290439999442984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88445,
+        "source_id": 1289694,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.120825107875895,
+          -23.99996074902469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88445,
+        "source_id": 1355675,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1209247834249,
+          -23.99998724328129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88445,
+        "source_id": 353060,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.12098226024492,
+          -23.99991239652516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91977,
+        "source_id": 1272509,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.40240981373056,
+          -17.828087181963017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9435,
+        "source_id": 360785,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.359535241928114,
+          -12.27059990693434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9435,
+        "source_id": 1289697,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.359509857475885,
+          -12.270660191096182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9435,
+        "source_id": 1259974,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.35950917127746,
+          -12.27062297156646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9435,
+        "source_id": 1376146,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.35949415831151,
+          -12.27063619918132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9435,
+        "source_id": 966018,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.35951109647459,
+          -12.270629560738564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9435,
+        "source_id": 1443299,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.35952535448836,
+          -12.270665529373693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96156,
+        "source_id": 1376138,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.803947613777154,
+          -25.00134153422852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96156,
+        "source_id": 1289695,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.80402960382982,
+          -25.0013709877084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96156,
+        "source_id": 1246161,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.80400451663738,
+          -25.001349109921858
+        ]
+      }
+    }
+  ]
+}

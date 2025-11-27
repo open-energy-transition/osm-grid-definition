@@ -1,0 +1,2674 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100122,
+        "source_id": 1484711,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.48089948887983,
+          41.45972705745633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 101900,
+        "source_id": 1484934,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.56197975510672,
+          40.32001701979451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 103020,
+        "source_id": 1379539,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.71720856577242,
+          40.31796474979978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 103704,
+        "source_id": 1304678,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.12797935942226,
+          41.195756616105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 105197,
+        "source_id": 1359233,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.87560278076938,
+          39.22001823646523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 106487,
+        "source_id": 1236563,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.70052083338518,
+          41.20743368461923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 108739,
+        "source_id": 1209651,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.99592329044976,
+          39.50578275878835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13624,
+        "source_id": 981507,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.86876134552935,
+          37.529093875702365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13624,
+        "source_id": 1200508,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.86612673077504,
+          37.52553935719634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13624,
+        "source_id": 1214670,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.86618592828125,
+          37.52553637568008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13624,
+        "source_id": 981506,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.86854735975774,
+          37.51918060648845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13624,
+        "source_id": 1302905,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.86615801597233,
+          37.52545021793472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13624,
+        "source_id": 1379536,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.86611443335588,
+          37.52548795108705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13767,
+        "source_id": 1453895,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.04267754745455,
+          40.98275890746777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16244,
+        "source_id": 1264066,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.7165697882258,
+          39.49966624159213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16244,
+        "source_id": 1224770,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.71975445346074,
+          39.50215213175682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16244,
+        "source_id": 1399807,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.71973367973601,
+          39.50213662555627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16244,
+        "source_id": 1302782,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.71973570037903,
+          39.50202162491164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16918,
+        "source_id": 1269494,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4554321432096,
+          40.99952054000456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16918,
+        "source_id": 987258,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.45600625352304,
+          40.9996061680834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16918,
+        "source_id": 1420240,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.45543845045526,
+          40.99953420647255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17296,
+        "source_id": 388532,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.520115608153,
+          39.69197434299024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17296,
+        "source_id": 1233535,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.51980996965366,
+          39.691896287990346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17296,
+        "source_id": 1452677,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.52018459108857,
+          39.691834627513714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17296,
+        "source_id": 1200506,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.5194895431031,
+          39.691753026914185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17296,
+        "source_id": 979590,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.5202664871077,
+          39.69194311527294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17296,
+        "source_id": 1419846,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.52020080355942,
+          39.69188674863781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17296,
+        "source_id": 1302830,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.5198412327874,
+          39.69190077131844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17408,
+        "source_id": 1420238,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.62659829713071,
+          40.56567458525618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17408,
+        "source_id": 1207996,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6251948459535,
+          40.56531297769962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17408,
+        "source_id": 1304703,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.62660285669675,
+          40.56564312729588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18209,
+        "source_id": 1484933,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.53853268239276,
+          40.1173664810368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18209,
+        "source_id": 981788,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.54509721413166,
+          40.115697035760775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18209,
+        "source_id": 1379981,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.53384021665397,
+          40.12426845778612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18209,
+        "source_id": 981785,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.54291496757489,
+          40.11194861548376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18209,
+        "source_id": 1210166,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.54498209321022,
+          40.10867394299464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18209,
+        "source_id": 1210175,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.53005106266052,
+          40.11926932258029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18209,
+        "source_id": 981786,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.54604346213623,
+          40.11278306368792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26495,
+        "source_id": 1216477,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.66215042622247,
+          38.80083849506245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26495,
+        "source_id": 1302826,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.66223859839128,
+          38.800850235826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26495,
+        "source_id": 1200504,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.66219944971989,
+          38.800861994277774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26495,
+        "source_id": 1379535,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.6621822509511,
+          38.80087012196344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27988,
+        "source_id": 397051,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.59695088672093,
+          41.48172317323192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27988,
+        "source_id": 985085,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.59689048878397,
+          41.48164664893736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27988,
+        "source_id": 1253860,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.59696334102138,
+          41.48172603295067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27988,
+        "source_id": 1400221,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.5969525319331,
+          41.48173447636711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28807,
+        "source_id": 1453897,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.46468912642933,
+          40.68494552936021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28807,
+        "source_id": 1359665,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.46435755665944,
+          40.68486124148691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31576,
+        "source_id": 1399806,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.19936666528004,
+          38.7781764883247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31972,
+        "source_id": 1484919,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.04770835335894,
+          38.41557874756886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31972,
+        "source_id": 1304551,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.04768612179451,
+          38.41566792486484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35439,
+        "source_id": 399999,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.78277843188687,
+          40.45074208829368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35439,
+        "source_id": 987252,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.78270029851484,
+          40.45085532857604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35439,
+        "source_id": 1230955,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.78262678205786,
+          40.45086485846594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37824,
+        "source_id": 1200505,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.86205770073536,
+          39.571096542166806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37824,
+        "source_id": 1302783,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.86014287105759,
+          39.57249650378867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37824,
+        "source_id": 979565,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.86114854671108,
+          39.56697313501844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37824,
+        "source_id": 1213735,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.87218548319017,
+          39.56908956392565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37824,
+        "source_id": 1215146,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.84325986024189,
+          39.570781054704135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37824,
+        "source_id": 1399808,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.86007099321483,
+          39.572602006896496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37824,
+        "source_id": 1452676,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.86031841953616,
+          39.57211638997804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38617,
+        "source_id": 1379984,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.23668040672197,
+          40.88734846386079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40468,
+        "source_id": 1359664,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.58601349709268,
+          41.50001817908728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40468,
+        "source_id": 1304679,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.586044643488,
+          41.49994676793306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47879,
+        "source_id": 1200589,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.74383183639387,
+          40.82976007963804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47879,
+        "source_id": 1304704,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.73807557653252,
+          40.8251674899505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47879,
+        "source_id": 1209049,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.75593382879191,
+          40.81823662525779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47879,
+        "source_id": 1211139,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.7438844212377,
+          40.829504161909576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47879,
+        "source_id": 1453899,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.73920110745196,
+          40.82498616689476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47879,
+        "source_id": 1420239,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.73920182286156,
+          40.824968040367615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51331,
+        "source_id": 1214037,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.44040443698553,
+          39.87708441537087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51331,
+        "source_id": 1216740,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.4417594921225,
+          39.85523042891997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51331,
+        "source_id": 979613,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.44698577171022,
+          39.86546668716004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51331,
+        "source_id": 1452679,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.44242570205968,
+          39.87668618618983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51331,
+        "source_id": 1399811,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.44641395135979,
+          39.86698849970834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51331,
+        "source_id": 1200510,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.44062967597552,
+          39.87741478534428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51331,
+        "source_id": 1452678,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.44266894623527,
+          39.859886373720585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51732,
+        "source_id": 1302877,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.77140856146298,
+          39.54543299289094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51732,
+        "source_id": 1399810,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.77137067801061,
+          39.5454906591976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51732,
+        "source_id": 981753,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.77125003758998,
+          39.54545535291679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51535,
+        "source_id": 1452674,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.98392022066889,
+          38.5063343570866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51535,
+        "source_id": 1379537,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.98397246178978,
+          38.50637629690089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51535,
+        "source_id": 1214844,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.9839907421388,
+          38.506317684188105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51535,
+        "source_id": 1302909,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.98399785172639,
+          38.50633290024776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53521,
+        "source_id": 979732,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.98127307140898,
+          40.1124089371792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53521,
+        "source_id": 1399809,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.98479871679231,
+          40.11123077224011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53521,
+        "source_id": 1215310,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.99543923745945,
+          40.10982522282649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53521,
+        "source_id": 388563,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.98494686110463,
+          40.11125260226323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53521,
+        "source_id": 1238002,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.97795218074498,
+          40.11304952037615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53521,
+        "source_id": 979733,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.99708651262826,
+          40.11109176975235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53521,
+        "source_id": 979731,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.98727836114705,
+          40.10606697730967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53521,
+        "source_id": 1238047,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.9860270151118,
+          40.1099666761724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55261,
+        "source_id": 1420236,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.16302714544403,
+          41.239530941726414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5601,
+        "source_id": 1347055,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.50582891231215,
+          41.359408654602376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5601,
+        "source_id": 1210090,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.49520657873039,
+          41.35269986184557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5601,
+        "source_id": 1200533,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.5091336240044,
+          41.360533540572106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5601,
+        "source_id": 1347054,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.5041529782958,
+          41.35339238198692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5601,
+        "source_id": 1200534,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.51970792341325,
+          41.3644502305228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5601,
+        "source_id": 1213194,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.48472628803962,
+          41.33500478510608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5601,
+        "source_id": 1211689,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.47485229524091,
+          41.33239217550265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5601,
+        "source_id": 1211878,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.5087892859288,
+          41.360424250774514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5601,
+        "source_id": 1420237,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.49339125297938,
+          41.3465990135185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5601,
+        "source_id": 1211864,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.51958190433,
+          41.364410384624655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5601,
+        "source_id": 1210339,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.47680054768989,
+          41.33866958166215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5601,
+        "source_id": 1208905,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.51414401315154,
+          41.3595433945742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5601,
+        "source_id": 1453894,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.49325548784152,
+          41.34664091335354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5601,
+        "source_id": 1212463,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.46984906416938,
+          41.33078491258401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58549,
+        "source_id": 391032,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.03677440528946,
+          39.67831908023515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58549,
+        "source_id": 1200509,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0379833582886,
+          39.679172646497626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58549,
+        "source_id": 1346938,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.038154178593,
+          39.67918522907574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58549,
+        "source_id": 1452680,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.03813958279491,
+          39.67916649033823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58549,
+        "source_id": 1359237,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.03814531922777,
+          39.67916836182189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58549,
+        "source_id": 1226804,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.03798472841893,
+          39.67915176134439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58549,
+        "source_id": 981757,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0378847127647,
+          39.679159893950604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58549,
+        "source_id": 391033,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.04083461310502,
+          39.6804480340257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62399,
+        "source_id": 979407,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.68004463413277,
+          38.38261023636059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62399,
+        "source_id": 1302907,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.678579881766,
+          38.37797458355781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62399,
+        "source_id": 1213382,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.67896256153664,
+          38.37790270770653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62399,
+        "source_id": 1200503,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.67863267274609,
+          38.37788036727386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62399,
+        "source_id": 1399804,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.6785089209347,
+          38.3780608927676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65224,
+        "source_id": 1453891,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1235642223959,
+          40.635352992494994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65980,
+        "source_id": 1235463,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.09466755322192,
+          40.22897251305873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65980,
+        "source_id": 985013,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.09473014881168,
+          40.22892561176477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65980,
+        "source_id": 1420234,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.09458460695897,
+          40.22883118692136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68759,
+        "source_id": 1304680,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.04124708778711,
+          41.68298565879577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7093,
+        "source_id": 1452675,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.6051098526391,
+          39.69311605620737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73280,
+        "source_id": 1302910,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.95367607696824,
+          38.68106301748522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73280,
+        "source_id": 1379538,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.95375383226207,
+          38.681312622521375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74360,
+        "source_id": 1453893,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.34810765817505,
+          41.02875512494813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74360,
+        "source_id": 1400220,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3480207359214,
+          41.028808816600936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74360,
+        "source_id": 1304677,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.34806212696756,
+          41.0287142686753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74991,
+        "source_id": 1399805,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.18872911222063,
+          38.780572842565306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 76337,
+        "source_id": 1420235,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.32207146817777,
+          41.105645497827865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80326,
+        "source_id": 1452671,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.08020615761257,
+          39.32517624617429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80326,
+        "source_id": 1399802,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.08390745758179,
+          39.32746874724591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82946,
+        "source_id": 1359236,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.29189678363203,
+          41.22329674525321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82946,
+        "source_id": 1302781,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.29188216167378,
+          41.22331981002091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82907,
+        "source_id": 1399803,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.24730958503461,
+          37.24519182094263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82907,
+        "source_id": 1302904,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.24748637199296,
+          37.24593747383005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82907,
+        "source_id": 1452672,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.24748039506903,
+          37.24550277169365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85972,
+        "source_id": 1359667,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.7541650464883,
+          40.85592178863588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85972,
+        "source_id": 1304705,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.75463261313823,
+          40.85597940996116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85972,
+        "source_id": 1453900,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.75282782376114,
+          40.85490597148232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85972,
+        "source_id": 987257,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.7592370286998,
+          40.86005538376858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88023,
+        "source_id": 1484935,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.54559384916186,
+          40.96806982290733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91195,
+        "source_id": 1359234,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.36204294386742,
+          38.58025576644332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93433,
+        "source_id": 397014,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.40344785524582,
+          40.91454814274251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93433,
+        "source_id": 23700,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.40097371920665,
+          40.91493264713334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96971,
+        "source_id": 1359666,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.51737260304513,
+          40.6097624536886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96971,
+        "source_id": 1453898,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.51727138555887,
+          40.609839532819656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 97419,
+        "source_id": 1484712,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.00976038873276,
+          40.7684519436441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98069,
+        "source_id": 985060,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.64584444171926,
+          41.15664007768844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98545,
+        "source_id": 1302908,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.82294097631934,
+          38.473216077616016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93850,
+        "source_id": 388464,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.97815802671087,
+          38.85322545820383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98545,
+        "source_id": 1452673,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.82273120408553,
+          38.4736981372017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98545,
+        "source_id": 1419844,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.82284895789184,
+          38.47355110706164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 99441,
+        "source_id": 1208957,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.05570677216616,
+          39.736248551792926
+        ]
+      }
+    }
+  ]
+}

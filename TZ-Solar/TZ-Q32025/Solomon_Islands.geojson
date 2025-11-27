@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31765,
+        "source_id": 1290292,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Solomon Islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.06263621798468,
+          -9.437586793704904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31765,
+        "source_id": 1265789,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Solomon Islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.06247950206344,
+          -9.437933984415649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31765,
+        "source_id": 1376248,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Solomon Islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.06258718346936,
+          -9.43751375242144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31765,
+        "source_id": 1172812,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Solomon Islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.06252081086512,
+          -9.437966712260046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 76629,
+        "source_id": 1290349,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Solomon Islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.2553708764665,
+          -8.330425466245376
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 109887,
+        "source_id": 1484064,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Comoros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.48695662914764,
+          -11.863368523646471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6774,
+        "source_id": 957114,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Comoros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.40385862528416,
+          -12.279277889349355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6774,
+        "source_id": 1396369,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Comoros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.40383701904927,
+          -12.279346352829032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6774,
+        "source_id": 350574,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Comoros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.4038448181827,
+          -12.279408869388018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6774,
+        "source_id": 1289472,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Comoros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.403843556060735,
+          -12.279363455597798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6774,
+        "source_id": 1263376,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Comoros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.40386476373242,
+          -12.279336235543644
+        ]
+      }
+    }
+  ]
+}

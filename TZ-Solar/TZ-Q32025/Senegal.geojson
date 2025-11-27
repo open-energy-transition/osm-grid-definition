@@ -1,0 +1,1297 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 103477,
+        "source_id": 196206,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.220813868768737,
+          15.85567815288892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 103477,
+        "source_id": 196207,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.222369111245662,
+          15.857525514919407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21641,
+        "source_id": 829273,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.67636254557982,
+          15.129918003996586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21641,
+        "source_id": 196194,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.676326037012295,
+          15.1300185195445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21641,
+        "source_id": 1354608,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.676705310805826,
+          15.129666413137672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21641,
+        "source_id": 60748,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.67398932521404,
+          15.129621820880446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21641,
+        "source_id": 60750,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.67730046709085,
+          15.129604791181436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21641,
+        "source_id": 1286012,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.676476851902294,
+          15.129828813305458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29618,
+        "source_id": 1286007,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.103263845114924,
+          14.652616447712116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29618,
+        "source_id": 1189566,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.103158803062218,
+          14.65265116316858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29618,
+        "source_id": 1440568,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.103145761886115,
+          14.65262935707083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29618,
+        "source_id": 1354604,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.103150029758353,
+          14.652570126334457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29618,
+        "source_id": 829225,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.10315969558021,
+          14.652619954695632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37346,
+        "source_id": 1440566,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.93548960640612,
+          14.473078329269136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37346,
+        "source_id": 196149,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.93565286206962,
+          14.473137908352244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37346,
+        "source_id": 1189565,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.935598713830643,
+          14.473143820532345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37346,
+        "source_id": 829217,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.93549968642973,
+          14.473104499732043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37346,
+        "source_id": 1223164,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.938326869801426,
+          14.473110536054737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37346,
+        "source_id": 1286005,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.9356378633761,
+          14.473044422971832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37346,
+        "source_id": 1375075,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.935509296030414,
+          14.473046530724911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39165,
+        "source_id": 1286016,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.46668106702633,
+          16.516819178886458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39165,
+        "source_id": 829427,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.46669647405266,
+          16.516731445606855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39165,
+        "source_id": 1225153,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.466879956548308,
+          16.516540194495985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39165,
+        "source_id": 41948,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.467036539210977,
+          16.51621637222419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39165,
+        "source_id": 41953,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.469271938150646,
+          16.51676163437436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39165,
+        "source_id": 196258,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.46667180329091,
+          16.51691594442422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39165,
+        "source_id": 1189578,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.46675006456205,
+          16.516782780558938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39165,
+        "source_id": 41947,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.464627073145603,
+          16.518528154761093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42113,
+        "source_id": 1440569,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.19719540634144,
+          14.685988550120928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42113,
+        "source_id": 829231,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.197123074101793,
+          14.685992507628775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42113,
+        "source_id": 196160,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.197130973960792,
+          14.685973619658911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42113,
+        "source_id": 1395317,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.19723594810485,
+          14.68595885592278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58892,
+        "source_id": 1440573,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.0266185201808,
+          14.1790775015045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58892,
+        "source_id": 41949,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.02727714179944,
+          14.17915250303164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58892,
+        "source_id": 1260642,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.024878393359156,
+          14.169271040493008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58892,
+        "source_id": 1189576,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.024934526080525,
+          14.16927999729841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58892,
+        "source_id": 1286011,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.02653605327938,
+          14.178920615345964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58892,
+        "source_id": 196117,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.02682596889828,
+          14.17915418174012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58892,
+        "source_id": 829200,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.02490715777656,
+          14.169323580076256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58892,
+        "source_id": 1189577,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.026918830076404,
+          14.179119567490108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58892,
+        "source_id": 196115,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.02490286490626,
+          14.169236464377368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58892,
+        "source_id": 1259708,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.027908951166793,
+          14.179814702294635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58892,
+        "source_id": 1286010,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.024882022452545,
+          14.16918000214435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58892,
+        "source_id": 829201,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.02669219938959,
+          14.178709377302706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59917,
+        "source_id": 1440565,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.242090262327572,
+          14.727953506117748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59917,
+        "source_id": 196162,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.242187658771297,
+          14.727759626494628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59917,
+        "source_id": 1375074,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.242120396714146,
+          14.7279295941549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59917,
+        "source_id": 829241,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.242107644285422,
+          14.7279592539778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63162,
+        "source_id": 1440567,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.02895828353228,
+          14.54964894475651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63162,
+        "source_id": 1286006,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.029033833505764,
+          14.549583227039504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67220,
+        "source_id": 829329,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.78936210257192,
+          16.17424842231422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67220,
+        "source_id": 1263519,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.78948590357312,
+          16.174312859560587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67220,
+        "source_id": 1354610,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.79169086816502,
+          16.174392247631932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67220,
+        "source_id": 196226,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.789462290912349,
+          16.17432103821994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67220,
+        "source_id": 1286015,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.791618062552203,
+          16.174348189470596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67220,
+        "source_id": 1440576,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.79164828591096,
+          16.174414658175312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70257,
+        "source_id": 829248,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.921567282503554,
+          14.77266095322124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70257,
+        "source_id": 196166,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.921567426566282,
+          14.772639347030491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70257,
+        "source_id": 1440575,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.92162071295612,
+          14.772667185527029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70257,
+        "source_id": 1395318,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.92165349438262,
+          14.772641055729316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70257,
+        "source_id": 1247156,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.921672091148944,
+          14.77266295070942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79013,
+        "source_id": 196163,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.202713462538828,
+          14.731947627017972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79013,
+        "source_id": 1354605,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.202709962300325,
+          14.73199481623856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79013,
+        "source_id": 1440570,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.20270242627894,
+          14.732005919574798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86659,
+        "source_id": 196195,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.594201119965927,
+          15.15494183752731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86659,
+        "source_id": 1354609,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.594349754343472,
+          15.154911606568724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86659,
+        "source_id": 22678,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.59438786010723,
+          15.154931258620152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86659,
+        "source_id": 1286013,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.59429920030494,
+          15.154789055563768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86659,
+        "source_id": 829275,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.59429950642373,
+          15.155008611616614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88923,
+        "source_id": 22677,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.194213261196577,
+          14.743526033229958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88923,
+        "source_id": 829244,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.19425702809744,
+          14.74353127833185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88923,
+        "source_id": 1286008,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.194231862131797,
+          14.743535365617552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88923,
+        "source_id": 1440571,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.194203490112333,
+          14.74358034365816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88923,
+        "source_id": 196164,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.19412101245754,
+          14.743657463129155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88923,
+        "source_id": 1375076,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.194193681258547,
+          14.74350236481342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91215,
+        "source_id": 1440574,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.82770526937198,
+          15.048292069303804
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71408,
+        "source_id": 1437218,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.45835573745535,
+          10.372707100017651
+        ]
+      }
+    }
+  ]
+}

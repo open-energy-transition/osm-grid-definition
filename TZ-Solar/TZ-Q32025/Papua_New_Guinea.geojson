@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82563,
+        "source_id": 626140,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Papua New Guinea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.21177986243453,
+          -9.087959681685374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82563,
+        "source_id": 1290347,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Papua New Guinea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.211684966705,
+          -9.087940755856645
+        ]
+      }
+    }
+  ]
+}

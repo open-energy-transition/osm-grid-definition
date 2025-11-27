@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40048,
+        "source_id": 370694,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Seychelles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47093359074661,
+          -4.626173449186617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40048,
+        "source_id": 970314,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Seychelles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47122025407988,
+          -4.627518484674924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40048,
+        "source_id": 1200470,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Seychelles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47127846596418,
+          -4.626871109412049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40048,
+        "source_id": 1272724,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Seychelles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47093077259998,
+          -4.62628591362776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40048,
+        "source_id": 970315,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Seychelles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47102193172636,
+          -4.625844431579205
+        ]
+      }
+    }
+  ]
+}

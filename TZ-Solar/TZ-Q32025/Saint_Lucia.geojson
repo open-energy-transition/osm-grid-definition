@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39865,
+        "source_id": 22085,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Saint Lucia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.96110126468667,
+          13.737938148843826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39865,
+        "source_id": 66817,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Saint Lucia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.96578605188736,
+          13.73714861862472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39865,
+        "source_id": 1373705,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Saint Lucia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.96095617694154,
+          13.73797486437376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39865,
+        "source_id": 175558,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Saint Lucia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.96092549355436,
+          13.73820894055836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39865,
+        "source_id": 808560,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Saint Lucia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9609902830965,
+          13.737950040114868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39865,
+        "source_id": 1269634,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Saint Lucia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.96071888542932,
+          13.738961964010082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39865,
+        "source_id": 1279947,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Saint Lucia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.96094078507257,
+          13.737953364603475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39865,
+        "source_id": 808559,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Saint Lucia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.96609022446022,
+          13.736862399559309
+        ]
+      }
+    }
+  ]
+}

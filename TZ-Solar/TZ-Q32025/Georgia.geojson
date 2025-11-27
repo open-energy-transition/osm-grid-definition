@@ -1,0 +1,430 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100258,
+        "source_id": 1450394,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.92868213275688,
+          41.67352763943927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 102921,
+        "source_id": 1358449,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.09322246441435,
+          42.02842483486587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 102921,
+        "source_id": 1300089,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.09319473262104,
+          42.02817952769228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 105780,
+        "source_id": 1214827,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.71909863393785,
+          41.93511040953348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22186,
+        "source_id": 1378783,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.90891037571767,
+          41.62631186711543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22186,
+        "source_id": 1450391,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.90869108712966,
+          41.62634639532227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42588,
+        "source_id": 960876,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.03143861466584,
+          41.54149666638019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42588,
+        "source_id": 354292,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.03127363342749,
+          41.541620482588215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42588,
+        "source_id": 1419841,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.03107369495923,
+          41.54200414282239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42588,
+        "source_id": 1302867,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.03125773844512,
+          41.54168052404373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50220,
+        "source_id": 1212295,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.03726757724145,
+          41.53607946344639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50220,
+        "source_id": 1302866,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.03702165968432,
+          41.53640960038657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50220,
+        "source_id": 1359231,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0367032117083,
+          41.53678403480967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50220,
+        "source_id": 1452664,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.03663410664377,
+          41.536815302054926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52327,
+        "source_id": 1358450,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.17653042003887,
+          42.04734739294589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52327,
+        "source_id": 1300090,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.176408021876405,
+          42.04729284886773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72513,
+        "source_id": 1399794,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.87702587652355,
+          41.91525978288554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75159,
+        "source_id": 1419115,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.27033066847657,
+          41.36284085653768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75159,
+        "source_id": 1346776,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.270393950969655,
+          41.36281679086464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85489,
+        "source_id": 1358435,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.77786198940704,
+          41.94691533487447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85489,
+        "source_id": 1299896,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.77783364807387,
+          41.94679225682897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86040,
+        "source_id": 1300093,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.46315123514948,
+          41.96916723767828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 90252,
+        "source_id": 354301,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.854401260250256,
+          41.65037211983023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98491,
+        "source_id": 1378782,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.49382020768478,
+          41.39519954368181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 99240,
+        "source_id": 1450392,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.86528267575496,
+          41.67895605333767
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,804 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 101528,
+        "source_id": 1437226,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.63394575250207,
+          13.193300652972413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100931,
+        "source_id": 1414124,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.50029631350745,
+          13.134374005765796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21239,
+        "source_id": 1414123,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.53378206881205,
+          13.181332472141715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21239,
+        "source_id": 810713,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.533856570005184,
+          13.181354683925306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22566,
+        "source_id": 1223945,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.60222296618683,
+          13.155500560130356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22566,
+        "source_id": 810706,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.60015509781359,
+          13.1541280134221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22566,
+        "source_id": 810707,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.60223032417122,
+          13.155333806704354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22566,
+        "source_id": 177789,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.60078534133821,
+          13.155034021896062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33213,
+        "source_id": 1437223,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.48893230179158,
+          13.10193236146745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33213,
+        "source_id": 1373706,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.484150637642266,
+          13.10454018018298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33213,
+        "source_id": 810697,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.48698880391383,
+          13.102716701675664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33213,
+        "source_id": 177786,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.48904137234085,
+          13.101939737054003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33213,
+        "source_id": 1437224,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.48408155059572,
+          13.104300647660702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33213,
+        "source_id": 810696,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.489033329713706,
+          13.101890525388637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33213,
+        "source_id": 1279950,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.48414323476605,
+          13.104203652352956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37767,
+        "source_id": 1437221,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.60625279868344,
+          13.145351296794551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40371,
+        "source_id": 1212405,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.593605205911445,
+          13.11691785839579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40371,
+        "source_id": 1353227,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.593485409843126,
+          13.11689415573591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40371,
+        "source_id": 1279948,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5935461411626,
+          13.1168696694553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41862,
+        "source_id": 1437228,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.63048816645016,
+          13.29446916837873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41862,
+        "source_id": 808558,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6304683345418,
+          13.294541446433833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41862,
+        "source_id": 1189420,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.63043828785999,
+          13.294519298293176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41862,
+        "source_id": 100,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.63049592741224,
+          13.294547592043433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41862,
+        "source_id": 1414125,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.630478358171686,
+          13.29452933477062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41862,
+        "source_id": 177793,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.63043046111768,
+          13.294591665601375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41862,
+        "source_id": 1279951,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.63035619832783,
+          13.29450344834796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55862,
+        "source_id": 1414126,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.61804359978616,
+          13.330290962852931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55862,
+        "source_id": 1437229,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.61802759029912,
+          13.330240890875094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5765,
+        "source_id": 1189449,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.49482929108657,
+          13.16146572708124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5765,
+        "source_id": 1228321,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.495020931094125,
+          13.161661430809412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5765,
+        "source_id": 810709,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.49461692551998,
+          13.161527124136356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58256,
+        "source_id": 177785,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.49570235543362,
+          13.10128554540186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58256,
+        "source_id": 810695,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.49571542334647,
+          13.10118950438804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58256,
+        "source_id": 1437222,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.49574339355465,
+          13.1012870087737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58256,
+        "source_id": 1393918,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.49562355208671,
+          13.101192569427145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61745,
+        "source_id": 1393919,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.46781668701019,
+          13.117389278102632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61745,
+        "source_id": 810701,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.46781430029296,
+          13.11735096801648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61745,
+        "source_id": 1437225,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.46783274317951,
+          13.117379828105268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73720,
+        "source_id": 810717,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.62674898930556,
+          13.26904946256706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73720,
+        "source_id": 1393920,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.62670918974284,
+          13.269142982487198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73720,
+        "source_id": 177792,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.62678206897907,
+          13.269389300572817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73720,
+        "source_id": 1437227,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.62670789161746,
+          13.269740553367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81412,
+        "source_id": 1393917,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.54079210157888,
+          13.170584406464174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81412,
+        "source_id": 1279949,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.54082938514467,
+          13.170541882439908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84759,
+        "source_id": 1393921,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.61097308223875,
+          13.331985600513049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84759,
+        "source_id": 1189421,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6109554098573,
+          13.332035492747886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84759,
+        "source_id": 177795,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.61072216925283,
+          13.33199546282502
+        ]
+      }
+    }
+  ]
+}

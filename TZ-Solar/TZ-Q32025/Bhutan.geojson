@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59021,
+        "source_id": 1461634,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bhutan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.24233578396408,
+          27.525125048693656
+        ]
+      }
+    }
+  ]
+}

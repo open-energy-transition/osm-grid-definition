@@ -1,0 +1,430 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 105668,
+        "source_id": 1333913,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6464908435058,
+          38.99762034247279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 105983,
+        "source_id": 1351103,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.91126898485886,
+          38.91166989244193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 105983,
+        "source_id": 1390347,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.91121449947089,
+          38.91178475845415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27086,
+        "source_id": 1368776,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.05716519829323,
+          39.19321955732714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27086,
+        "source_id": 1117232,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.05738846649872,
+          39.1935014892345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27086,
+        "source_id": 551439,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.05748850852416,
+          39.19341663506759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27086,
+        "source_id": 1475112,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.05731350795956,
+          39.19346307261321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33506,
+        "source_id": 551397,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.22905334967128,
+          37.454264870123644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33506,
+        "source_id": 747,
+        "source": "china-model",
+        "source_date": "2021-01-01",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.22854705672036,
+          37.45407873731848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33506,
+        "source_id": 1368770,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.23050636569596,
+          37.45479415412807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33506,
+        "source_id": 63994,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.22886364195078,
+          37.45404791366262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33506,
+        "source_id": 1265528,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.23618928648229,
+          37.45598458290984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33506,
+        "source_id": 1117189,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.228859454397,
+          37.454193826036345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35741,
+        "source_id": 1260494,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.85349600509124,
+          39.04511880633578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35741,
+        "source_id": 1368773,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.85320132408744,
+          39.045238382918086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35741,
+        "source_id": 551413,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.85433577271652,
+          39.04508777279087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35741,
+        "source_id": 1333918,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.85299691705671,
+          39.04513219388808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35741,
+        "source_id": 1117201,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.85464682255808,
+          39.04517564877359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39671,
+        "source_id": 1333914,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6878962710603,
+          39.01655153127354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39671,
+        "source_id": 1368771,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.68728339600194,
+          39.01633239568947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53114,
+        "source_id": 1334589,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.20318845663805,
+          39.67170992683492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69779,
+        "source_id": 1118914,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.38974713652613,
+          39.73049420520157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77357,
+        "source_id": 1333983,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.08617070366874,
+          39.18444163544018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77357,
+        "source_id": 1429416,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.08678433820717,
+          39.18448088898016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80977,
+        "source_id": 1476264,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.65888228834017,
+          39.5499651602978
+        ]
+      }
+    }
+  ]
+}

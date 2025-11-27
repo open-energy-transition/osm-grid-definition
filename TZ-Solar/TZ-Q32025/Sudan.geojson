@@ -1,0 +1,447 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 102919,
+        "source_id": 1443652,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.927895619058205,
+          13.101981188028512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 102919,
+        "source_id": 935158,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.92684874921011,
+          13.102004918063663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 110897,
+        "source_id": 943772,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.408964739478975,
+          22.40420578923145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28998,
+        "source_id": 943770,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.66791160243695,
+          22.175160845749232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28998,
+        "source_id": 333440,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.66765487405889,
+          22.174851315583624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42533,
+        "source_id": 324428,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.000999660197415,
+          17.61258745483406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42533,
+        "source_id": 1249103,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.00091293903645,
+          17.612672653570385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42533,
+        "source_id": 1290503,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.00089564270904,
+          17.61267247639634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42533,
+        "source_id": 1376278,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.00094521083847,
+          17.61267063593605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42533,
+        "source_id": 937879,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.00095991987111,
+          17.612659962376426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56977,
+        "source_id": 1290454,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.46261966441821,
+          13.670168869739244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56977,
+        "source_id": 920523,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.462983721282445,
+          13.670265075695148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56977,
+        "source_id": 1264394,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.462968222283777,
+          13.67029732735898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56977,
+        "source_id": 297631,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.46299073880649,
+          13.670273897621716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59508,
+        "source_id": 922917,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.21884952958333,
+          11.454759305001575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59508,
+        "source_id": 1376272,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.21820379700384,
+          11.454808495931731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59508,
+        "source_id": 1265953,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.218190368698565,
+          11.454745605777692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59508,
+        "source_id": 1290453,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.21819073202648,
+          11.454744681910126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85625,
+        "source_id": 1446685,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.61240044898192,
+          23.12724282577776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85625,
+        "source_id": 1295567,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.61236476337456,
+          23.127141568935485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85625,
+        "source_id": 941954,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.61197393090266,
+          23.12719888334669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85625,
+        "source_id": 329338,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.61258890246831,
+          23.127021735828016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85625,
+        "source_id": 1247456,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.61241403852444,
+          23.12709665274962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85625,
+        "source_id": 1377499,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.61236343493966,
+          23.127175044992423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9623,
+        "source_id": 1290502,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.60583047828628,
+          17.257281470174846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9623,
+        "source_id": 1355837,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.605883428141695,
+          17.257179881612256
+        ]
+      }
+    }
+  ]
+}

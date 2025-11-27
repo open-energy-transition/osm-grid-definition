@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94538,
+        "source_id": 1228491,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Micronesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.29104430026834,
+          6.836640967132811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94538,
+        "source_id": 1370668,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Micronesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.29133579041073,
+          6.836695393699074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94538,
+        "source_id": 1172837,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Micronesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.2912512790217,
+          6.836651343750098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94538,
+        "source_id": 1351247,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Micronesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.29117415051525,
+          6.836649273833864
+        ]
+      }
+    }
+  ]
+}

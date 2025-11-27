@@ -1,0 +1,481 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 101479,
+        "source_id": 855849,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5050922977869768,
+          15.649775878278383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 102424,
+        "source_id": 52115,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.307803032029353,
+          15.167723994485282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 102424,
+        "source_id": 830551,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.307623839120868,
+          15.16768959977696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20547,
+        "source_id": 1245499,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.39462382028999,
+          13.080419762265398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20547,
+        "source_id": 829147,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.39441098528847,
+          13.079019083354092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20547,
+        "source_id": 1189583,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.394426621345628,
+          13.080282637430663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20547,
+        "source_id": 198087,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.394544328451625,
+          13.07869963291278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20547,
+        "source_id": 198091,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.388513590735498,
+          13.082023109511637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20547,
+        "source_id": 1440572,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.39463862077763,
+          13.080186309143649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20547,
+        "source_id": 1375078,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.39477046357496,
+          13.08022089625151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20547,
+        "source_id": 829149,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.39863854250324,
+          13.081973415726734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20547,
+        "source_id": 829148,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.386153830563366,
+          13.07930004162771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75058,
+        "source_id": 829112,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.35586364772181,
+          12.527472765100542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75058,
+        "source_id": 198041,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.3569340385694,
+          12.526269533683765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75058,
+        "source_id": 1375077,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.355947945596403,
+          12.527606464695992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86565,
+        "source_id": 834439,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.203221198120453,
+          11.157699485147154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86565,
+        "source_id": 1285897,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.203863854813395,
+          11.157851464848216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86565,
+        "source_id": 1395314,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.203520092499,
+          11.157822001972034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86565,
+        "source_id": 1440559,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.204307868055247,
+          11.157897445340147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87780,
+        "source_id": 1483624,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.918710835474362,
+          13.048157166086115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9096,
+        "source_id": 1224674,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.527793562280758,
+          13.030643347171456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9096,
+        "source_id": 1415499,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.524460526652891,
+          13.028407408437245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9096,
+        "source_id": 198085,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.524427430102444,
+          13.02846373355931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9096,
+        "source_id": 1286027,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.524314507751182,
+          13.028382936175031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9096,
+        "source_id": 829143,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.524490040925604,
+          13.028461629294627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96401,
+        "source_id": 1210025,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.734684523498957,
+          12.76155600033374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96401,
+        "source_id": 1440578,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.734719584016234,
+          12.76167355675312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96401,
+        "source_id": 1286029,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.734689172817123,
+          12.761598800814491
+        ]
+      }
+    }
+  ]
+}

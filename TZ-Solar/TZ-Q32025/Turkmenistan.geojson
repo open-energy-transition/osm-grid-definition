@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11056,
+        "source_id": 973647,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Turkmenistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.09022717964752,
+          40.14216014313803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11056,
+        "source_id": 1235672,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Turkmenistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.09016055032608,
+          40.14208416831461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11056,
+        "source_id": 1200485,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Turkmenistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.090210230841066,
+          40.1420837463153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11056,
+        "source_id": 1302913,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Turkmenistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.09014158860163,
+          40.14213909343519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11056,
+        "source_id": 1359235,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Turkmenistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.09018787203279,
+          40.142107878904326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94092,
+        "source_id": 1246655,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Turkmenistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.48992503774718,
+          38.39921995321031
+        ]
+      }
+    }
+  ]
+}

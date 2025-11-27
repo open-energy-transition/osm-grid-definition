@@ -1,0 +1,8267 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10028,
+        "source_id": 22453,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.979314806920776,
+          52.82216681238444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10028,
+        "source_id": 375014,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.97834197244947,
+          52.819996258912994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10028,
+        "source_id": 1221266,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.97821454497884,
+          52.81989695067912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10028,
+        "source_id": 974516,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.978268453285104,
+          52.820008547864624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10028,
+        "source_id": 1403633,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.978455123648615,
+          52.820200392580034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 102503,
+        "source_id": 1348422,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.69751748591544,
+          55.23520766712718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 104467,
+        "source_id": 1491210,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.383898611372,
+          50.384215107972544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 104467,
+        "source_id": 1482091,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.37670834044816,
+          50.38266191107133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10597,
+        "source_id": 993233,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.65693123401589,
+          54.18492464774912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10597,
+        "source_id": 407151,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.65519360338598,
+          54.18778448661561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10597,
+        "source_id": 1201036,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.65530719761821,
+          54.187904385677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10597,
+        "source_id": 993232,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.65252049048281,
+          54.18789658175638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10597,
+        "source_id": 1214483,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.65527525881757,
+          54.18790824096084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 106881,
+        "source_id": 1459694,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.27168603778305,
+          53.78809122391449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 106591,
+        "source_id": 1485856,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.77106882320948,
+          55.62728344923462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 108895,
+        "source_id": 1403625,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.88241377840372,
+          45.440274023429794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 110197,
+        "source_id": 51879,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.85053529911479,
+          46.68176448857119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13942,
+        "source_id": 1314153,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.94055351985576,
+          55.88665440029074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13942,
+        "source_id": 1220196,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.94052183698432,
+          55.88655388467521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13942,
+        "source_id": 1403634,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.94034923538989,
+          55.886682917388015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13942,
+        "source_id": 970242,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.94065941026317,
+          55.88681013757062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13942,
+        "source_id": 370518,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.940589514959306,
+          55.88670084709157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15744,
+        "source_id": 1363007,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.19094481191563,
+          51.948837664770096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15744,
+        "source_id": 974504,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.18247116072939,
+          51.950809266608886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15903,
+        "source_id": 51878,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.68871620580714,
+          42.86912310440026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15903,
+        "source_id": 963456,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.68895422422006,
+          42.86933783208824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15903,
+        "source_id": 1379534,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.68897165293856,
+          42.86936487873102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15903,
+        "source_id": 1302768,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.68899238780836,
+          42.86927256867303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15903,
+        "source_id": 359338,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.68905117416017,
+          42.869381607965465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15930,
+        "source_id": 1363002,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.17951115427205,
+          50.93311112612775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15930,
+        "source_id": 1213634,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.17926926953117,
+          50.934603303962525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15930,
+        "source_id": 22480,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.17988493354929,
+          50.93260988419007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15930,
+        "source_id": 359545,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.17893041009611,
+          50.93442860212373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15930,
+        "source_id": 1383382,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.179267725083,
+          50.93658533443226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15930,
+        "source_id": 965822,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1791441352586,
+          50.93449937683947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15930,
+        "source_id": 22455,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1811573201156,
+          50.93720908300207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15930,
+        "source_id": 1459681,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.17924285420895,
+          50.93451788189094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15930,
+        "source_id": 22454,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.17722120156533,
+          50.93621022809921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16789,
+        "source_id": 1459734,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.12272710907621,
+          50.419124166424304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16789,
+        "source_id": 426896,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.10936511587784,
+          50.42101048156673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16789,
+        "source_id": 1459733,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.10751998171176,
+          50.42160835637296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16789,
+        "source_id": 1214648,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.10925203876724,
+          50.421057057126056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16789,
+        "source_id": 426895,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1228208492519,
+          50.41923770019299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18102,
+        "source_id": 1459686,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.405623312950944,
+          51.70944273352367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18102,
+        "source_id": 1200480,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.404692235390286,
+          51.71009915915141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18102,
+        "source_id": 68237,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.40385788020074,
+          51.708804157682586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18102,
+        "source_id": 972087,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.405388079615946,
+          51.70976732764994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18102,
+        "source_id": 1403631,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.405405670894574,
+          51.70996308412749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18102,
+        "source_id": 372224,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.40535497212977,
+          51.70992225587575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18102,
+        "source_id": 1220201,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.40496737896774,
+          51.70981758692199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19147,
+        "source_id": 1034920,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.85457616117988,
+          50.55803116617924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19147,
+        "source_id": 1412429,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.85466761004189,
+          50.55816972340379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19147,
+        "source_id": 1351487,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.85470562319227,
+          50.55799483474556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19147,
+        "source_id": 468094,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.8547410583996,
+          50.55804287542859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19147,
+        "source_id": 1215602,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.85447871707623,
+          50.55803052351478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21733,
+        "source_id": 1218460,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.17621411814697,
+          50.4774967717564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21733,
+        "source_id": 1363001,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.17555932134397,
+          50.477496695984726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21733,
+        "source_id": 965807,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.17630264770065,
+          50.477486746266536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21733,
+        "source_id": 359457,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.17614765916953,
+          50.477597479761805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21733,
+        "source_id": 51884,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.17777203793813,
+          50.47793814863832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22777,
+        "source_id": 1200426,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.16999092339584,
+          45.79882009453504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22777,
+        "source_id": 963519,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.170023334496825,
+          45.79878302109161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22777,
+        "source_id": 1224716,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.17004204471938,
+          45.798794711839605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22777,
+        "source_id": 357161,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.17007336643418,
+          45.79875782245433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22777,
+        "source_id": 1314051,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.17004474501954,
+          45.79871290293334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23431,
+        "source_id": 1459688,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2704936970584,
+          53.426022067402826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23431,
+        "source_id": 1221448,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.26737230463154,
+          53.42534133395256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23431,
+        "source_id": 1200478,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.26740825938852,
+          53.42530462742064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23431,
+        "source_id": 1403632,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.26597396425619,
+          53.42487673089835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23431,
+        "source_id": 972114,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.26742553542962,
+          53.42533595356087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23431,
+        "source_id": 372592,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.26775115563596,
+          53.42558798335531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24060,
+        "source_id": 959201,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.72336802406545,
+          48.81346760704141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24060,
+        "source_id": 1314083,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.723303971663455,
+          48.81347601390653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24760,
+        "source_id": 1459695,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.42666671840423,
+          56.40088014855173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24760,
+        "source_id": 1485879,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.43009568900564,
+          56.39745452583357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24760,
+        "source_id": 976461,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.42970733346516,
+          56.39788780704324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24760,
+        "source_id": 380072,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.43013903039829,
+          56.39741785658016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25071,
+        "source_id": 959006,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.30088662530034,
+          46.359717369585226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25071,
+        "source_id": 959009,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.285501071075466,
+          46.36281447620215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25071,
+        "source_id": 1200410,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.30101479293511,
+          46.36206748213096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25071,
+        "source_id": 352004,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.30118008304507,
+          46.362024431721615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25071,
+        "source_id": 1235966,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.30103108204661,
+          46.36208738832492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25071,
+        "source_id": 959004,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.304266460519806,
+          46.35845595629125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25071,
+        "source_id": 959005,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.29788179196497,
+          46.35886307740793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25071,
+        "source_id": 1314066,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.30075898883577,
+          46.36217303698404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25071,
+        "source_id": 959008,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.30677809623486,
+          46.36244806504026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25616,
+        "source_id": 1200431,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1457326725934,
+          46.24390864632113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25616,
+        "source_id": 1221122,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.14754430957746,
+          46.240027003199934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25616,
+        "source_id": 965583,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.14762687016318,
+          46.24010563247932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25616,
+        "source_id": 1200430,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.14991095672279,
+          46.23527322145963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25616,
+        "source_id": 1314054,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.15365247365297,
+          46.24451383289296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25616,
+        "source_id": 1383381,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.14762536103495,
+          46.2401129792915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25616,
+        "source_id": 22436,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.14775094848002,
+          46.23817045386011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25616,
+        "source_id": 359355,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1477952539297,
+          46.240003824402926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25616,
+        "source_id": 1459677,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.14718371518063,
+          46.24025087889036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25616,
+        "source_id": 22438,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.14988499700394,
+          46.24488975678131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28107,
+        "source_id": 961140,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.68269858360677,
+          44.69847113511793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28107,
+        "source_id": 1247311,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.682682691525336,
+          44.698488348088254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28107,
+        "source_id": 354534,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.68280032620952,
+          44.69844378455458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28107,
+        "source_id": 1399796,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.68276474354569,
+          44.69848975299623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29492,
+        "source_id": 352076,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3804547874743,
+          48.52202105040791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29492,
+        "source_id": 1200411,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.38019241784143,
+          48.52207604496325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29492,
+        "source_id": 1232310,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.38013298068184,
+          48.52203048494143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29492,
+        "source_id": 959171,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.380122526349766,
+          48.5221907166821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29492,
+        "source_id": 1314080,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.37981826870463,
+          48.52250293239501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29492,
+        "source_id": 1362922,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.38018980963815,
+          48.5220450814736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30279,
+        "source_id": 1485876,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.60163003217493,
+          52.07510929840704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30279,
+        "source_id": 367469,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.60577344447924,
+          52.07151463489978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30279,
+        "source_id": 1314196,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.61398827153584,
+          52.07119131976889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30279,
+        "source_id": 68181,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.601903108023656,
+          52.07161364697897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30279,
+        "source_id": 1485877,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.61409331980224,
+          52.07119796582257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30279,
+        "source_id": 970207,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.605104791767445,
+          52.0714326487574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31354,
+        "source_id": 357207,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.681779815093016,
+          47.94347516627731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31354,
+        "source_id": 1314095,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.68367958815356,
+          47.94384709746284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31354,
+        "source_id": 963695,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.68165172100552,
+          47.94354215414052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31354,
+        "source_id": 22464,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.68330094111842,
+          47.94043320904306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31364,
+        "source_id": 1491335,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.66330579445264,
+          59.21245135676174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35636,
+        "source_id": 1243088,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66454715719502,
+          44.89264712917908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35636,
+        "source_id": 339440,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6695351632153,
+          44.882699574445496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35636,
+        "source_id": 1346752,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6715754162052,
+          44.88160651582442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35636,
+        "source_id": 948029,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.664767153355925,
+          44.89266774513479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35636,
+        "source_id": 339442,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66366617726887,
+          44.89189657821065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35867,
+        "source_id": 475565,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.47011414953522,
+          50.36624203170884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35867,
+        "source_id": 1222567,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.46999691450412,
+          50.36616287881164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35867,
+        "source_id": 1412430,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.47001594719433,
+          50.36616211169174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35867,
+        "source_id": 1482085,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.47007036006418,
+          50.36620676108815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35867,
+        "source_id": 1041994,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.46992804090084,
+          50.3662186207996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35636,
+        "source_id": 1266708,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66925934217196,
+          44.88276733865084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35636,
+        "source_id": 1419086,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66521877279692,
+          44.88951557571708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35636,
+        "source_id": 339441,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66377876791008,
+          44.88293470550033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35636,
+        "source_id": 1266274,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66362652679512,
+          44.88289244698862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35636,
+        "source_id": 1346751,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66307285099666,
+          44.88336670714806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35636,
+        "source_id": 948027,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66377272772749,
+          44.88135203102592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35636,
+        "source_id": 948028,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.673122643968014,
+          44.88139291132638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36833,
+        "source_id": 1226569,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.47060538553934,
+          52.830345443239935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36833,
+        "source_id": 22465,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.46952947825712,
+          52.83056723173829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36833,
+        "source_id": 970212,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.46919391078046,
+          52.8305946880272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36833,
+        "source_id": 367632,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.4697210980164,
+          52.83059642611819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36833,
+        "source_id": 1459687,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.469768333420525,
+          52.830658837382224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36833,
+        "source_id": 1314197,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.46978130284809,
+          52.830482627161146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36833,
+        "source_id": 1423588,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.469636369010296,
+          52.83059015080244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 366,
+        "source_id": 357194,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.01967758106663,
+          47.25711702834563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 366,
+        "source_id": 1383379,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.02472420498799,
+          47.25889838707792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 366,
+        "source_id": 1223727,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.01958207566904,
+          47.257038483209264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 366,
+        "source_id": 1235046,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.026945451716976,
+          47.25968907602454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 366,
+        "source_id": 357195,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.02702798904947,
+          47.25962289805731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 366,
+        "source_id": 1459674,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.02442253429348,
+          47.258846509825055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 366,
+        "source_id": 963681,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.027051071085765,
+          47.2596778724888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 366,
+        "source_id": 1485874,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0236859271034,
+          47.26027454973504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 366,
+        "source_id": 1314052,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.01972954465427,
+          47.25585796789864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 366,
+        "source_id": 68201,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.02744213586024,
+          47.25940450596264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 366,
+        "source_id": 963680,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.01965149265252,
+          47.25710317841315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 366,
+        "source_id": 1485873,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.01967351706276,
+          47.256070457287386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3730,
+        "source_id": 965835,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.79891107405703,
+          51.2166176431692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3730,
+        "source_id": 362001,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.79910732131782,
+          51.21650874473851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3730,
+        "source_id": 1200433,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.79899844533998,
+          51.21649084532546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3730,
+        "source_id": 1403628,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.79899043914439,
+          51.21650896156692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3730,
+        "source_id": 1213311,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.798943807972336,
+          51.216492947494366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37514,
+        "source_id": 1485854,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.85350178604676,
+          50.46863275108901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37514,
+        "source_id": 1314084,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.85346366477901,
+          50.46869336803927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37514,
+        "source_id": 1220580,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.85337158758509,
+          50.46862193277437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37562,
+        "source_id": 1238615,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.55924854281778,
+          50.59411834694299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37562,
+        "source_id": 22475,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.55911578736776,
+          50.59409583013785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37562,
+        "source_id": 1045812,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.560523203392,
+          50.594430730007126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37562,
+        "source_id": 480146,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.55938015864704,
+          50.594136891221154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37562,
+        "source_id": 1392283,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5590510064582,
+          50.59417741451196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39799,
+        "source_id": 404738,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.24275379545553,
+          55.069870076874864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39799,
+        "source_id": 993261,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2425453691967,
+          55.07616975781847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39799,
+        "source_id": 1213108,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.23989919122174,
+          55.07502203926951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39799,
+        "source_id": 1423590,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.23857612843132,
+          55.07487010031216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39799,
+        "source_id": 1459696,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.23938872785182,
+          55.07385505868994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39799,
+        "source_id": 993257,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.24301521229017,
+          55.06947353969403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39799,
+        "source_id": 1214333,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.24072835615512,
+          55.06840516986249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40116,
+        "source_id": 961244,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.90070350627788,
+          47.96053484798748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40116,
+        "source_id": 1314069,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.90057200480954,
+          47.96037902176928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40116,
+        "source_id": 1200412,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.90000009176135,
+          47.95932431366548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40116,
+        "source_id": 1221019,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.90066514515031,
+          47.96035802277344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40116,
+        "source_id": 354623,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.900483124143854,
+          47.9602719933177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40116,
+        "source_id": 1362920,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.90059818191621,
+          47.9604154620832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40136,
+        "source_id": 22439,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.51579858782651,
+          46.39852386587538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40136,
+        "source_id": 1459678,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.51580425780189,
+          46.39839814703222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40136,
+        "source_id": 361730,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.51577393843556,
+          46.39849000598641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40136,
+        "source_id": 965596,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.515808915894674,
+          46.39851658553752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40136,
+        "source_id": 1264333,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5157553948592,
+          46.39847552475455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40136,
+        "source_id": 1348494,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.51581407542309,
+          46.39851559284605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40136,
+        "source_id": 1362999,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.51585222777415,
+          46.398506900326765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40780,
+        "source_id": 650807,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.94344755845262,
+          63.6815599142524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40780,
+        "source_id": 650808,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.95014296863815,
+          63.68218288343689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40780,
+        "source_id": 1215791,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.94653157323248,
+          63.68190983419216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42126,
+        "source_id": 1010198,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.60590471970681,
+          50.49162470242834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42126,
+        "source_id": 429783,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.60595810097671,
+          50.49150777869455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42126,
+        "source_id": 1010197,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.6131708970719,
+          50.48535978740502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42126,
+        "source_id": 429782,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.61302440942592,
+          50.4855303390573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42126,
+        "source_id": 1222990,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.6059036349276,
+          50.49162467516148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42126,
+        "source_id": 1223067,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.61337146654826,
+          50.485344345806574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4137,
+        "source_id": 1239984,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.47385129878833,
+          51.266105485879095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4137,
+        "source_id": 1200496,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.47382214176927,
+          51.26592185065831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4137,
+        "source_id": 1459692,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.49084565720757,
+          51.26929385768886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4137,
+        "source_id": 1235344,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.490655132662766,
+          51.26927011941696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4137,
+        "source_id": 66819,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.49067345815932,
+          51.26935071288327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4137,
+        "source_id": 976399,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.49016051042312,
+          51.26903584117327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4137,
+        "source_id": 379652,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.47406573980918,
+          51.265892250858535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4137,
+        "source_id": 1485878,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.49070883838709,
+          51.26932584929156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4137,
+        "source_id": 379653,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.49092931043564,
+          51.26936276101967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4137,
+        "source_id": 976398,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.47411843297926,
+          51.26576294143813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4137,
+        "source_id": 66823,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.47435127513472,
+          51.2658458848254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4137,
+        "source_id": 1383385,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.49073540591373,
+          51.269380904525725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4137,
+        "source_id": 1459691,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4739225391914,
+          51.26591888553599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43201,
+        "source_id": 1383392,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.85548483552488,
+          51.97407240193215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43201,
+        "source_id": 1221680,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.85564211071846,
+          51.97416606526186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43201,
+        "source_id": 1010204,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.85551227239111,
+          51.97409497970719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43890,
+        "source_id": 976391,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.287372429671066,
+          50.84494441732265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43890,
+        "source_id": 1226839,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.28499027433837,
+          50.84450940529189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43890,
+        "source_id": 1459693,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.28507778226203,
+          50.84444195590545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43890,
+        "source_id": 1403638,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.28494298607927,
+          50.8446590674386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43890,
+        "source_id": 379583,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.28382967426747,
+          50.84635358643662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43890,
+        "source_id": 976392,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.28161832829178,
+          50.84478752373948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44090,
+        "source_id": 477843,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.63729401103176,
+          52.04185849401013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44090,
+        "source_id": 1482088,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6370927238665,
+          52.04188072879732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44090,
+        "source_id": 1231662,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.63727746057596,
+          52.04187117963635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44090,
+        "source_id": 1351522,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.63722643683369,
+          52.0418295230271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44090,
+        "source_id": 1043989,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.63734652253682,
+          52.04185720977191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4438,
+        "source_id": 377733,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4037981289188,
+          53.089165097246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4438,
+        "source_id": 974517,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.40347543245751,
+          53.0886397421417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4438,
+        "source_id": 1423589,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.40311721917566,
+          53.08833713162644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44891,
+        "source_id": 954242,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.175068021039166,
+          45.08871830973244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44891,
+        "source_id": 1383308,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.1812801606138,
+          45.08912697703802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44891,
+        "source_id": 346807,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.17531937857944,
+          45.088753586827615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44891,
+        "source_id": 1236782,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.17495195301223,
+          45.08867891583832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45106,
+        "source_id": 1459684,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.03146547296582,
+          51.3241331272222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45106,
+        "source_id": 372207,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.03136726276555,
+          51.32410137302492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45106,
+        "source_id": 1200479,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.03142592458257,
+          51.32391947491804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45106,
+        "source_id": 972074,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0315426258865,
+          51.32394358030551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45106,
+        "source_id": 1383383,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.03137506702172,
+          51.32390479839067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46217,
+        "source_id": 1225195,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.29766701965071,
+          46.08868915680692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46474,
+        "source_id": 502683,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.20802707509948,
+          52.03836642645628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46474,
+        "source_id": 1215363,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.20790694160532,
+          52.03841068610003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46474,
+        "source_id": 1069954,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.20800019663606,
+          52.0383939684842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46474,
+        "source_id": 1482193,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2085613485955,
+          52.03882667707116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49026,
+        "source_id": 1363009,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.87976574218841,
+          53.80743600408221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49026,
+        "source_id": 404631,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.87972945297989,
+          53.80743094883299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49026,
+        "source_id": 993224,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.87797317671289,
+          53.80285490322692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49026,
+        "source_id": 1214547,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.87973739145832,
+          53.80750325613044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49026,
+        "source_id": 993225,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.88125410910186,
+          53.80782661061907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49026,
+        "source_id": 993226,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.87940437298289,
+          53.80978081513676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50368,
+        "source_id": 1491333,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.3938695869531,
+          67.5346291934972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51066,
+        "source_id": 370517,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.98141965235126,
+          55.88055209175543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51066,
+        "source_id": 1459689,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.97767158919059,
+          55.879199902931376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51066,
+        "source_id": 970241,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.97572223035184,
+          55.87785658306827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51066,
+        "source_id": 1314154,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.98143907156042,
+          55.88044303913765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51066,
+        "source_id": 370514,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.9742965755657,
+          55.87804124898424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51384,
+        "source_id": 1459573,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.43633315486896,
+          47.07700925384571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51384,
+        "source_id": 1313970,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.43633978705088,
+          47.07703130152905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51384,
+        "source_id": 1403564,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.43632597810756,
+          47.07711843076248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51384,
+        "source_id": 1268464,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.43633487197141,
+          47.07700696511745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52546,
+        "source_id": 1403627,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8331602284411,
+          46.69790798217131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52546,
+        "source_id": 359377,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.83334365603597,
+          46.6977857610331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52546,
+        "source_id": 1314056,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.833178241735546,
+          46.69783879957933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52546,
+        "source_id": 965652,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.83318695573661,
+          46.69788037432527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52546,
+        "source_id": 1459679,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.83320933768319,
+          46.6978599489473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52546,
+        "source_id": 1265142,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8331912646929,
+          46.69781702461295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53832,
+        "source_id": 1482291,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.87143579358124,
+          55.79037119823127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56253,
+        "source_id": 961262,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.51775696079379,
+          48.24267773721972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56253,
+        "source_id": 961264,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.52931407691836,
+          48.2443937970176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56253,
+        "source_id": 1459680,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5226912163728,
+          48.24029929447639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57538,
+        "source_id": 374962,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.51839392590934,
+          52.17088194580237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57538,
+        "source_id": 974510,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.51841596790915,
+          52.170864861993614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57538,
+        "source_id": 22458,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.51838042238574,
+          52.17090354829672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57538,
+        "source_id": 1403637,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.51813722288264,
+          52.1712649808774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57745,
+        "source_id": 1459673,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.26031142667681,
+          57.17776047100447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5925,
+        "source_id": 1200417,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6198717109519,
+          48.49952157230355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5925,
+        "source_id": 352070,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.61996628757908,
+          48.4995955411732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5925,
+        "source_id": 1237699,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.62669040623003,
+          48.50072185257435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5925,
+        "source_id": 1314077,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.622047971676,
+          48.499945952821385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5925,
+        "source_id": 22461,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.62678938869847,
+          48.50079403756321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5925,
+        "source_id": 959168,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.62020485298042,
+          48.49939631775274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5925,
+        "source_id": 1423520,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6198499712607,
+          48.49957700316583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5925,
+        "source_id": 22476,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.619812699518576,
+          48.49958646784806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5925,
+        "source_id": 354678,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.62682560475635,
+          48.50079380517182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5925,
+        "source_id": 1200418,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.62673191496271,
+          48.50072678536424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5925,
+        "source_id": 1248341,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.61990431535708,
+          48.49950856189769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59583,
+        "source_id": 502682,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.19609891314354,
+          52.00156675228104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59583,
+        "source_id": 1392330,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.196108725606,
+          52.00159573587427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59583,
+        "source_id": 1232491,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.19602733282926,
+          52.00164438695608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59583,
+        "source_id": 1069953,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.19607141604055,
+          52.00162272719535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 60715,
+        "source_id": 1403655,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.97617846049644,
+          51.457555776769325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 60715,
+        "source_id": 1010202,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.97651598283711,
+          51.45830468499364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62158,
+        "source_id": 1265578,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.97931855993056,
+          46.39330333091019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62158,
+        "source_id": 965594,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.979392276283846,
+          46.39328909819602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62158,
+        "source_id": 1403626,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.97945959552935,
+          46.39327526370229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62158,
+        "source_id": 1314053,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.97943141082644,
+          46.39329540310037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62158,
+        "source_id": 1459676,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.97944506196696,
+          46.39325166904993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62158,
+        "source_id": 22443,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.97925020243043,
+          46.39325681708683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62158,
+        "source_id": 359369,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.9794134830026,
+          46.39316857121606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62527,
+        "source_id": 972102,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.1535281436864,
+          51.889941419273256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62527,
+        "source_id": 22459,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.15397535090068,
+          51.89004177075883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62527,
+        "source_id": 1459682,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.156008721952624,
+          51.88940525189538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62527,
+        "source_id": 22460,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.15759404684505,
+          51.888922945283625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62527,
+        "source_id": 370008,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.15581934207784,
+          51.88946175725084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62527,
+        "source_id": 1363004,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.15567288980623,
+          51.88953205259607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62527,
+        "source_id": 972101,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.15752533230365,
+          51.88888291069341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63111,
+        "source_id": 978567,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.88636048390053,
+          50.84444138820353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63111,
+        "source_id": 1213330,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.88645986734424,
+          50.844451460050834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63111,
+        "source_id": 1200498,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.88635790037518,
+          50.84444717893617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63111,
+        "source_id": 384299,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.88663100023648,
+          50.8443498948171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65292,
+        "source_id": 1362919,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.02851243958686,
+          47.23108265058335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65292,
+        "source_id": 1313971,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.028658679382815,
+          47.231056476866826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6562,
+        "source_id": 1432718,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.35657405654786,
+          53.72514101585831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6562,
+        "source_id": 1014541,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.35653484614284,
+          53.72509841240182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6562,
+        "source_id": 1482082,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.35654965781552,
+          53.72506960926396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6562,
+        "source_id": 439102,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3565273551843,
+          53.7251226062847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6562,
+        "source_id": 22462,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3563958404445,
+          53.72513824903346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6562,
+        "source_id": 1214265,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.35668959570242,
+          53.72509928126392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 660,
+        "source_id": 1314055,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.923617278698565,
+          46.451866101156085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 660,
+        "source_id": 22440,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.92343916709253,
+          46.45182805102518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 660,
+        "source_id": 1252490,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.92352494293981,
+          46.451888123481424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 660,
+        "source_id": 965601,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.92362827753622,
+          46.451856201820746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 660,
+        "source_id": 359372,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.92351463004556,
+          46.45188391542684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6629,
+        "source_id": 1363003,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.3146657359555,
+          53.06677449119391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6629,
+        "source_id": 1215703,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.31263589321749,
+          53.06538235177487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6629,
+        "source_id": 970214,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.31250006053521,
+          53.065038977146486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6629,
+        "source_id": 367661,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.31272343594593,
+          53.06468431671436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6629,
+        "source_id": 22452,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.31272091186567,
+          53.06485760434786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6629,
+        "source_id": 1314194,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.31278101070007,
+          53.06480958849767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66860,
+        "source_id": 359365,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.951767014442616,
+          46.351413610760325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66860,
+        "source_id": 1348412,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.95112627735998,
+          46.35143070488756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66860,
+        "source_id": 1459675,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.95148381324744,
+          46.3514550721286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66860,
+        "source_id": 1383380,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.95157324731017,
+          46.35145590647152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66860,
+        "source_id": 1244405,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.951689583257576,
+          46.35141242588382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66860,
+        "source_id": 965592,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.95165866288284,
+          46.351407541251206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67204,
+        "source_id": 959163,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.64461000918768,
+          48.49325265193715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67204,
+        "source_id": 1222771,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.64464750148657,
+          48.493159990692455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67204,
+        "source_id": 354676,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.64449019061811,
+          48.49307995601717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67441,
+        "source_id": 1254730,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.69772707846043,
+          50.02125452725377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67441,
+        "source_id": 1012610,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.70081010856244,
+          50.01988845247014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67441,
+        "source_id": 22467,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.69774364481088,
+          50.02117900364905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67441,
+        "source_id": 432159,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.69778539834418,
+          50.021088529346805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67441,
+        "source_id": 1012609,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6937072279,
+          50.01973211692082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68122,
+        "source_id": 1071643,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.36269840551708,
+          52.08719068263414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68122,
+        "source_id": 1392331,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.3626385053264,
+          52.08723614416064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68122,
+        "source_id": 502685,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.36266370141072,
+          52.087176358133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68122,
+        "source_id": 1482194,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.3628111132864,
+          52.08718400028232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68122,
+        "source_id": 1238456,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.36261219536702,
+          52.08719025873529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6908,
+        "source_id": 339454,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.05707627657862,
+          45.01664716403219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6908,
+        "source_id": 1252954,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.05687421533566,
+          45.01635668515825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6908,
+        "source_id": 950269,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.05618051218938,
+          45.01588810589052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6908,
+        "source_id": 1362907,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.05661241199703,
+          45.016365943907466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6908,
+        "source_id": 1314063,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.05706505312768,
+          45.01686941022351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69815,
+        "source_id": 30059,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.618075847698655,
+          48.49272750457914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69815,
+        "source_id": 1314072,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.620980748139466,
+          48.49162412648564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69815,
+        "source_id": 30062,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.62085346977523,
+          48.49136693934651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69815,
+        "source_id": 959162,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.61809185303012,
+          48.4926564642678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69815,
+        "source_id": 352067,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.62104088654583,
+          48.49162466938307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69815,
+        "source_id": 352068,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.61828203236673,
+          48.492704190797866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69815,
+        "source_id": 1314071,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.618135427931456,
+          48.492665061114025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70006,
+        "source_id": 1392284,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.36749440090006,
+          51.492606491882974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70006,
+        "source_id": 1482089,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.36776896152632,
+          51.49197370979881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70006,
+        "source_id": 1228924,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.36779955458942,
+          51.4919190650807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70006,
+        "source_id": 1432721,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.36954419035716,
+          51.49012969578612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72444,
+        "source_id": 1351523,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.8141978679972,
+          52.18084700977551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72444,
+        "source_id": 1051910,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.81420178952123,
+          52.18075367819389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72444,
+        "source_id": 488189,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.8144098361923,
+          52.18067508669168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72444,
+        "source_id": 1412432,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.81429863179376,
+          52.18076068740916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73199,
+        "source_id": 1459574,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.49972168654412,
+          49.39064985348847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73050,
+        "source_id": 1482090,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.22056226044964,
+          64.2760556176955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73050,
+        "source_id": 454431,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.22232868926116,
+          64.27469707567826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73050,
+        "source_id": 454432,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2192354938894,
+          64.2773232777619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73905,
+        "source_id": 1403566,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.749822101896015,
+          54.08340302009475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74649,
+        "source_id": 22478,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.009080664911146,
+          51.06943948825633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74649,
+        "source_id": 972068,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.00091681626834,
+          51.06832701266513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75047,
+        "source_id": 66822,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.83279620023822,
+          51.95107404027757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75047,
+        "source_id": 427013,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.83039851281634,
+          51.94932594247107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75047,
+        "source_id": 1202389,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.83211894320098,
+          51.950098601682924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75047,
+        "source_id": 427014,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.83290232667278,
+          51.94939263768381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75047,
+        "source_id": 1010203,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.83318069350736,
+          51.951462634873856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75047,
+        "source_id": 427019,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8324184800691,
+          51.952260807437575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75047,
+        "source_id": 427017,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.83435319626976,
+          51.95105594896635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75047,
+        "source_id": 1219253,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.83309628373064,
+          51.9513964548182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75667,
+        "source_id": 1010200,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.11525796324116,
+          50.76904066614118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75667,
+        "source_id": 1383391,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.11515402219472,
+          50.76906016724869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75667,
+        "source_id": 22468,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.11517152498172,
+          50.76901086235899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75667,
+        "source_id": 426919,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.11505314607926,
+          50.76900012742807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78600,
+        "source_id": 1432720,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.087417183679,
+          50.66829794167158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78600,
+        "source_id": 1482087,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0882452868913,
+          50.66560580880017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80482,
+        "source_id": 1363005,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.35011340540076,
+          51.11035532933985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80482,
+        "source_id": 372189,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.34995350636336,
+          51.11034522148704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80482,
+        "source_id": 972072,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.349923262272426,
+          51.110323502546485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80482,
+        "source_id": 1459685,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.350032479197175,
+          51.11034586575247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81351,
+        "source_id": 1452669,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.33797137774197,
+          43.664719828280646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81351,
+        "source_id": 1228036,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.33398486798235,
+          43.66266773448764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81023,
+        "source_id": 1403630,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.16534801576319,
+          51.9046797097922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81023,
+        "source_id": 370009,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.16563314056428,
+          51.90468893942704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81023,
+        "source_id": 1217899,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.16551041358948,
+          51.90469334858369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81023,
+        "source_id": 972103,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.16551529693342,
+          51.90476147746708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81023,
+        "source_id": 1459683,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.16563525353846,
+          51.90468480341478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83469,
+        "source_id": 1403563,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.20071842314939,
+          45.00949916811665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83469,
+        "source_id": 1313924,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.20042543665733,
+          45.00920170981448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83469,
+        "source_id": 1266076,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.20058672293063,
+          45.00919309316143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84355,
+        "source_id": 424609,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.7866345046398,
+          50.96215162773986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84355,
+        "source_id": 1221050,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.78679944011303,
+          50.96217262956329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84355,
+        "source_id": 66821,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.7868104451035,
+          50.96206212704377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84355,
+        "source_id": 1008383,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.78677342606252,
+          50.96223894590817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84374,
+        "source_id": 1403629,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.74809760571216,
+          52.01370939524323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84374,
+        "source_id": 362254,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.75110842763759,
+          52.01506557634767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84374,
+        "source_id": 22444,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.74841816983957,
+          52.01360045958746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84374,
+        "source_id": 965862,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.74829423916371,
+          52.01359365383427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84374,
+        "source_id": 1222802,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.74447139109428,
+          52.01196345602384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84374,
+        "source_id": 362252,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.74303975268943,
+          52.01208690777596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84876,
+        "source_id": 1363006,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.66056064383695,
+          54.11783826727783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84876,
+        "source_id": 1314198,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.66038032709478,
+          54.11770639672944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85328,
+        "source_id": 1214806,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.22303960909804,
+          52.462958175145125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85328,
+        "source_id": 1485875,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.22322955594362,
+          52.47391936636329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85328,
+        "source_id": 367591,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.221935714982166,
+          52.46866233073966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85328,
+        "source_id": 1213051,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.220579946292965,
+          52.47245954602485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85328,
+        "source_id": 970211,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.22116931406379,
+          52.4678029704334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85328,
+        "source_id": 22456,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.22004583678687,
+          52.46789749810735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85328,
+        "source_id": 1212198,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.21666350099409,
+          52.46221649512911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85328,
+        "source_id": 1314193,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.22006505141399,
+          52.46792441632184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86393,
+        "source_id": 1403624,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.48312583081456,
+          45.97025383224175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86393,
+        "source_id": 1237308,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.48308557807532,
+          45.9701517172943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87719,
+        "source_id": 1300095,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.99106046816393,
+          44.66927832872833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87719,
+        "source_id": 341742,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.991248581162594,
+          44.66931272702026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87719,
+        "source_id": 952166,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.99105445197648,
+          44.66934707838301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87719,
+        "source_id": 1269414,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.99106157369986,
+          44.669348898554446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88698,
+        "source_id": 593668,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.65735535324131,
+          67.66572260348599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91736,
+        "source_id": 357217,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0132490318263,
+          48.0640406497306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91736,
+        "source_id": 1214058,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.01324746512072,
+          48.06400871849828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91736,
+        "source_id": 1314087,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.01326130234848,
+          48.06396965694898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91736,
+        "source_id": 1363000,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0132202450164,
+          48.06407110486277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91736,
+        "source_id": 961251,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.013150543164734,
+          48.06404793528496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93631,
+        "source_id": 1016479,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.044759683495,
+          52.56079707782371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93631,
+        "source_id": 1213155,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.0445269969284,
+          52.56088296596156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93631,
+        "source_id": 446789,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.0447925379349,
+          52.56080735970232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 1314070,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.623550304189806,
+          48.48624038414277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 959160,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.64005274619725,
+          48.49003882027165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 1314075,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.64471523198264,
+          48.485656125609005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 1403565,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.63814054812131,
+          48.49169572544598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 959159,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.62641873747874,
+          48.48941441838399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 959153,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.63847363475629,
+          48.48517845551814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 354674,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.63905239182204,
+          48.49102643559717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 959155,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.62357275017279,
+          48.486195981255705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 1200416,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.63289744629303,
+          48.48913665208816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 959157,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.63285711990635,
+          48.48909095657503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 1226245,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.644144697946615,
+          48.48517791114789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 354671,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6289836255942,
+          48.48930505915265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 1227193,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.645743041470126,
+          48.486045174119056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 1383309,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.623628862384045,
+          48.486296825980574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 1383310,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6311059901978,
+          48.48766702763368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 959164,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.634954324086486,
+          48.49379583965675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 354665,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.62753387010942,
+          48.48338459035099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 354675,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.63753896806131,
+          48.49222306740368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 1235508,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6236040115388,
+          48.48619815605102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 354673,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.63039603411965,
+          48.49047706154821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 959154,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.64468252623362,
+          48.48556296941482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 959158,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.628883682289256,
+          48.4892216353354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 959156,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.63097694006096,
+          48.48750848727858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 959161,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.63825093730606,
+          48.49156264041006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 1220310,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.63859957287885,
+          48.48531304954636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 1223593,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.63123693311344,
+          48.48750371515782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 354668,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.63112836370495,
+          48.487449656931446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 1314074,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.63442201861485,
+          48.48751381940897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 1314078,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.63511145226346,
+          48.49374404937984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 354666,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.63838939512622,
+          48.4852899441048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 352065,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.62371487199167,
+          48.486159318202105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 1314076,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.63860492512495,
+          48.49128046713198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 959151,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.627406044910906,
+          48.48340750977456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 1423519,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.64486297403412,
+          48.48558962558353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 354670,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.63297131968356,
+          48.48918382890048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 1362921,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.62761399889618,
+          48.48330466024568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 959166,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.63651604415016,
+          48.495757416435104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 1314073,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.62740594672688,
+          48.48344327894908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 354672,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.62658706547115,
+          48.48952137168152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9561,
+        "source_id": 354667,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.64478493191064,
+          48.48554861028421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9601,
+        "source_id": 1200443,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.817044729145,
+          53.0158761606428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9601,
+        "source_id": 967851,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.81205353771177,
+          53.017939450210136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9601,
+        "source_id": 967853,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.79659221217273,
+          53.0187326819381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9601,
+        "source_id": 362425,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8115815215264,
+          53.017683598600506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9601,
+        "source_id": 68188,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.815450533920426,
+          53.01343987620157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 97710,
+        "source_id": 1314155,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.072629755123785,
+          55.04303592335953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 97710,
+        "source_id": 974542,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.072850039335954,
+          55.04402722481451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 97710,
+        "source_id": 375260,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.07276605480202,
+          55.04324973425173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 97710,
+        "source_id": 1403635,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.07270669958757,
+          55.04323675689127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 97866,
+        "source_id": 1226336,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.819737715649424,
+          44.46564788457498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 97866,
+        "source_id": 1450395,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.81671935254708,
+          44.46053424483667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9844,
+        "source_id": 963710,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.84997682081194,
+          50.037625727234015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9844,
+        "source_id": 357286,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.84994721992513,
+          50.03754838393763
+        ]
+      }
+    }
+  ]
+}

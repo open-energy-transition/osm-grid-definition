@@ -1,0 +1,1773 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 103660,
+        "source_id": 1484900,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.85041651268614,
+          27.621766940277887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10707,
+        "source_id": 1453820,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.59158369222789,
+          28.175061333877103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10707,
+        "source_id": 1304586,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.59158829466185,
+          28.17507459660232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10707,
+        "source_id": 1400197,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.59161749720076,
+          28.175012563515374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10707,
+        "source_id": 1005625,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.59158851685677,
+          28.175050410359127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10707,
+        "source_id": 1226698,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.59152368886711,
+          28.17507821310868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 109393,
+        "source_id": 1007244,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.97192958446317,
+          27.15973947609164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15446,
+        "source_id": 1420200,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.801544722159,
+          26.54875212202161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15446,
+        "source_id": 1304513,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.8015861327358,
+          26.548754913591363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15446,
+        "source_id": 1453778,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.80161651657687,
+          26.548750803308536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15446,
+        "source_id": 1011231,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.80154522688996,
+          26.54877501057114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17344,
+        "source_id": 1304355,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.45236323947422,
+          27.632497454581337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17344,
+        "source_id": 1007273,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.45240758116168,
+          27.63256329700549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17344,
+        "source_id": 423539,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.45234778122816,
+          27.63246519306233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17344,
+        "source_id": 1484901,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.45230514763652,
+          27.63213916532554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17344,
+        "source_id": 1420177,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.45240289364396,
+          27.63250751259254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18326,
+        "source_id": 1005623,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5844815829225,
+          28.158829190769453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18326,
+        "source_id": 421503,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.58258691833586,
+          28.16346149063772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18326,
+        "source_id": 1359643,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.58297048542505,
+          28.16185093240276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18326,
+        "source_id": 421502,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.58401247961311,
+          28.15946900019517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18326,
+        "source_id": 1304585,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.58291088267002,
+          28.161923389800265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18326,
+        "source_id": 1005624,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.58249308071002,
+          28.162745462255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18326,
+        "source_id": 1453819,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.58296409274234,
+          28.16182045472837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18326,
+        "source_id": 1239372,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.58272041944116,
+          28.162544116362444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25092,
+        "source_id": 1453775,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.94309752956237,
+          26.93684068057822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25092,
+        "source_id": 425791,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.94301240358405,
+          26.93674778532588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25092,
+        "source_id": 1250623,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.94382007236545,
+          26.93642793381493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25092,
+        "source_id": 1008874,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.94317208168935,
+          26.93684081252613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25092,
+        "source_id": 1202388,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.94312278144727,
+          26.936837765219884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25092,
+        "source_id": 1420196,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.94309292868161,
+          26.936822733004693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25092,
+        "source_id": 1304509,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.94308186859446,
+          26.93682001384509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26029,
+        "source_id": 423532,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.81349339957836,
+          27.41447005955117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26029,
+        "source_id": 1453707,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.81341575733461,
+          27.414439656687435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26029,
+        "source_id": 1007265,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.813434882905,
+          27.414409974611672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26029,
+        "source_id": 1359612,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.81338325293959,
+          27.414477892379683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31063,
+        "source_id": 1453766,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.36927745035996,
+          27.107046871370784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31063,
+        "source_id": 1420193,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.36933883071873,
+          27.10707486741504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31063,
+        "source_id": 1008879,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3693169863518,
+          27.106998836695027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31063,
+        "source_id": 1257689,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3692717712393,
+          27.10720413573288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31063,
+        "source_id": 425795,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.36940883234448,
+          27.106989517963704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31063,
+        "source_id": 1304503,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.36930109340317,
+          27.10704126073166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35175,
+        "source_id": 1304510,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.98142518863284,
+          26.93783264309273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35175,
+        "source_id": 425792,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.98147472218177,
+          26.93776101162608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35175,
+        "source_id": 1008875,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.98138703557423,
+          26.937800137032635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35175,
+        "source_id": 1420197,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.981453040372,
+          26.937846163477552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35175,
+        "source_id": 1254594,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.98161850149442,
+          26.937794510381988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35667,
+        "source_id": 1420192,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.01186057410021,
+          27.1514180920181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35667,
+        "source_id": 1008880,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.01180313231713,
+          27.15136034493037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35667,
+        "source_id": 1304502,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.01192094804519,
+          27.151333318678898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35667,
+        "source_id": 425798,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.01200238025426,
+          27.151424402438515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39393,
+        "source_id": 1008888,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.13797383879776,
+          27.89428805695664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39393,
+        "source_id": 1420195,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.13442185468237,
+          27.89097903795103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39393,
+        "source_id": 1453772,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1380325291505,
+          27.89429494688472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39393,
+        "source_id": 1304506,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.13414811939433,
+          27.890663463659283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39393,
+        "source_id": 1400184,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.13180473498895,
+          27.88715034496829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39393,
+        "source_id": 1304507,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.13806579381342,
+          27.893736916381908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39393,
+        "source_id": 1008887,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.13424969917243,
+          27.890778071118632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39393,
+        "source_id": 425818,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.13214860735357,
+          27.88738766094768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39393,
+        "source_id": 1484906,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.13791354682044,
+          27.894308612297824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39393,
+        "source_id": 1359631,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.13802358855492,
+          27.894293614119466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39393,
+        "source_id": 1453771,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.13439613495096,
+          27.89093948865712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39393,
+        "source_id": 425819,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.13431764404773,
+          27.89093065626013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39393,
+        "source_id": 1453770,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.13176911410363,
+          27.88709034554816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39393,
+        "source_id": 1008886,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.13178071304417,
+          27.887080613788864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39393,
+        "source_id": 425820,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.13802812822304,
+          27.894240108547475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48429,
+        "source_id": 1453776,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.29286241804047,
+          26.552989886811147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48429,
+        "source_id": 1011232,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.29276378812622,
+          26.552926057493217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48429,
+        "source_id": 1304511,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.29278219626971,
+          26.55290633180937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48429,
+        "source_id": 428596,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.29284599851736,
+          26.55289676959632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48429,
+        "source_id": 1420198,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.29283445999444,
+          26.552929466980974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54037,
+        "source_id": 425822,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.13786895769972,
+          27.90759985684782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54037,
+        "source_id": 1304508,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.13746066200628,
+          27.90876571533184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54037,
+        "source_id": 1379948,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.13788043389279,
+          27.90740238045182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54037,
+        "source_id": 1453773,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.13791631625091,
+          27.907269862585075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54037,
+        "source_id": 1008891,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.13784511709608,
+          27.90741177629716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61518,
+        "source_id": 1453767,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.62172908813386,
+          27.87758972920688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61976,
+        "source_id": 1453768,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.29439804503272,
+          27.67120766511214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61976,
+        "source_id": 1304504,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.29440542128707,
+          27.671195148529144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61976,
+        "source_id": 1008884,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.29446248978718,
+          27.67122293906151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61976,
+        "source_id": 1400183,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.29437476428554,
+          27.67124688167219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61976,
+        "source_id": 425811,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.29442416109286,
+          27.671108573715195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62306,
+        "source_id": 1007293,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.07948235255888,
+          28.033042676595333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62306,
+        "source_id": 423549,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.07942777231709,
+          28.03307665068644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62306,
+        "source_id": 1400163,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.07943726913378,
+          28.033081599634823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62306,
+        "source_id": 1234593,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.07946461236054,
+          28.03310176872265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67806,
+        "source_id": 1007270,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.69255776046509,
+          27.555006625069225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67806,
+        "source_id": 1304357,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.69254709253343,
+          27.554973459939884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67806,
+        "source_id": 1400162,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.6925370239592,
+          27.554991560948324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67806,
+        "source_id": 423538,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.69255803754885,
+          27.55490291956052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67806,
+        "source_id": 1304356,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.68777717138822,
+          27.554266253047626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78149,
+        "source_id": 425816,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.12402969906371,
+          27.880828515131995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78149,
+        "source_id": 1453769,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.12416463437145,
+          27.881120919813068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78149,
+        "source_id": 1008885,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.12413735728586,
+          27.881120002314923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78149,
+        "source_id": 1420194,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1241950482558,
+          27.8812250822808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78149,
+        "source_id": 1304505,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.12490739449854,
+          27.88211980930032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84706,
+        "source_id": 1453774,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.9451498718584,
+          26.92261779901392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 90592,
+        "source_id": 1453821,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.13110792006123,
+          28.1499232539336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 90592,
+        "source_id": 423563,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.1311498020912,
+          28.149738111576475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 90592,
+        "source_id": 1304587,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.1311200830797,
+          28.149816213349062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 90592,
+        "source_id": 1400198,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.13108438786475,
+          28.14991233043088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 90592,
+        "source_id": 1007294,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.13111517706048,
+          28.14978814119296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91269,
+        "source_id": 1453777,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.27728488019014,
+          26.632063363359407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91269,
+        "source_id": 1420199,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.27720526264126,
+          26.632166842914494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92239,
+        "source_id": 1420176,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.60613106781229,
+          27.52016064265948
+        ]
+      }
+    }
+  ]
+}

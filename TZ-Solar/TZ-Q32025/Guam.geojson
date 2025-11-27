@@ -1,0 +1,243 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48829,
+        "source_id": 1166150,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Guam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8626311879645,
+          13.486182023842224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48829,
+        "source_id": 1206243,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Guam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.86266259151452,
+          13.486267195733989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48829,
+        "source_id": 1370667,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Guam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.86254586292745,
+          13.486268446714462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48829,
+        "source_id": 1257648,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Guam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.86261848129752,
+          13.486227173294065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48829,
+        "source_id": 1338439,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Guam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.86237964173165,
+          13.486140470060178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48829,
+        "source_id": 631380,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Guam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.86262893427073,
+          13.486230589071663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59830,
+        "source_id": 1411134,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Guam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.74952945211945,
+          13.30311859928901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59830,
+        "source_id": 1479159,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Guam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.74958136109765,
+          13.303072942822324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59830,
+        "source_id": 1271088,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Guam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.74957370615485,
+          13.303167759613334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59830,
+        "source_id": 64630,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Guam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.74955411849717,
+          13.303193237545097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59830,
+        "source_id": 1206242,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Guam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.74959285214337,
+          13.30313733894918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59830,
+        "source_id": 1166148,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Guam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.74940191332138,
+          13.303133893847088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59830,
+        "source_id": 631379,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Guam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7494182976005,
+          13.303152074258309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59830,
+        "source_id": 1338438,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Guam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7496521061716,
+          13.3031353093931
+        ]
+      }
+    }
+  ]
+}

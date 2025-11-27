@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13649,
+        "source_id": 1394075,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bahamas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.89735251522156,
+          25.415451071547125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13649,
+        "source_id": 780134,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bahamas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.89731034498098,
+          25.41546111676828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13649,
+        "source_id": 124512,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bahamas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.89728329942376,
+          25.41545315158604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13649,
+        "source_id": 1437658,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bahamas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.89749742831711,
+          25.4153700818861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13649,
+        "source_id": 1280620,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bahamas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.89733328058801,
+          25.4154231053157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57067,
+        "source_id": 1437657,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bahamas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.55964608737673,
+          24.302750820302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80240,
+        "source_id": 1394076,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bahamas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.69137099103503,
+          26.542899235106887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80240,
+        "source_id": 1216187,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bahamas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.69136655683285,
+          26.54321381563621
+        ]
+      }
+    }
+  ]
+}

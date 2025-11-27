@@ -1,0 +1,1773 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 102281,
+        "source_id": 1482573,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.23342815361636,
+          14.511386305167676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107322,
+        "source_id": 751912,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.47742498411276,
+          14.520456314215002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 110642,
+        "source_id": 1352322,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.83051512178967,
+          14.65830946856569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1611,
+        "source_id": 1434717,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.88219523613536,
+          13.971318523775036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1611,
+        "source_id": 1372775,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.88212638810624,
+          13.970884001550823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18382,
+        "source_id": 1275696,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.35928493566914,
+          14.042685716168297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18382,
+        "source_id": 1180870,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3592654767389,
+          14.04119095968931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18382,
+        "source_id": 62744,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.36430993249375,
+          14.05085424060952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18382,
+        "source_id": 1413239,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.35920018227976,
+          14.042734700529644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18382,
+        "source_id": 62746,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.35729642406064,
+          14.03632412351608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18382,
+        "source_id": 62745,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.36361850214828,
+          14.04170032186058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18382,
+        "source_id": 90073,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3593033096948,
+          14.042811480383303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18382,
+        "source_id": 753786,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.35933511882536,
+          14.04275866493051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18382,
+        "source_id": 1225029,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.35919308194823,
+          14.041431114444489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18382,
+        "source_id": 1482570,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.36479362071688,
+          14.049317277699355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20594,
+        "source_id": 1279674,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.65083347235553,
+          14.97490907224115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20594,
+        "source_id": 1393868,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.65076425133205,
+          14.975042389947053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20594,
+        "source_id": 758951,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.65065016835122,
+          14.975067179713134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20594,
+        "source_id": 92520,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.65069820167876,
+          14.974980327527422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20594,
+        "source_id": 1239530,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.65049841673384,
+          14.975049146119831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20594,
+        "source_id": 1437123,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.65069634961564,
+          14.974992015072129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20594,
+        "source_id": 1181159,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.65063222475408,
+          14.9751448412782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23613,
+        "source_id": 1344737,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4103618934215,
+          16.175563871016994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28945,
+        "source_id": 1372777,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.83808830569969,
+          14.073133467832038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28945,
+        "source_id": 1275699,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.83813428675774,
+          14.07318867671503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28945,
+        "source_id": 87468,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.83839445449486,
+          14.07467098003004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28945,
+        "source_id": 749481,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.83832558958984,
+          14.074639590500704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28945,
+        "source_id": 1209445,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.83857842717522,
+          14.07363943666429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28945,
+        "source_id": 1434720,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.83815219522508,
+          14.073154100520114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33688,
+        "source_id": 1437119,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.71263040800343,
+          14.312102008007072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33688,
+        "source_id": 1414075,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.71270007180907,
+          14.31212568040072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33688,
+        "source_id": 758946,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.71363612812982,
+          14.3123233758898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33688,
+        "source_id": 92504,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.71313161442373,
+          14.31226129896785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33688,
+        "source_id": 1279669,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.71263742606985,
+          14.312017938534058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33688,
+        "source_id": 1259558,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.71261649975538,
+          14.312106158347246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37170,
+        "source_id": 1238917,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.53562579565316,
+          14.297042973567525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37170,
+        "source_id": 1393038,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5349258649374,
+          14.296917354149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37170,
+        "source_id": 1275704,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.53495626452518,
+          14.296878835557736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38452,
+        "source_id": 1414078,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.48235234809853,
+          15.087995479073902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38452,
+        "source_id": 92523,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.48230386779144,
+          15.088051548847275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38452,
+        "source_id": 760034,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.48239390613985,
+          15.08792810799188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38452,
+        "source_id": 11528,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.48245412827583,
+          15.087907021678182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38452,
+        "source_id": 1279676,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.48234292937236,
+          15.08785889104801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38452,
+        "source_id": 1437124,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.48226097291418,
+          15.087978822269164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39707,
+        "source_id": 1434721,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.86156328633112,
+          14.1014812576443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39707,
+        "source_id": 1352321,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.86157925759528,
+          14.101450551623962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39707,
+        "source_id": 749484,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.86116269731312,
+          14.101509851649428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39707,
+        "source_id": 1239752,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.86156465297458,
+          14.101510402253403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39707,
+        "source_id": 1275700,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.86163968563278,
+          14.101484567945064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41462,
+        "source_id": 747236,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1024612143297,
+          14.396510124332906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56622,
+        "source_id": 1413240,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.55575837197438,
+          14.626893681782445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56622,
+        "source_id": 1434723,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5556747400956,
+          14.62681434147899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59635,
+        "source_id": 1434718,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3395563193198,
+          14.041462134625162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59635,
+        "source_id": 1209879,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3396142977812,
+          14.041402788155064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59635,
+        "source_id": 1275687,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3395084698811,
+          14.04140612476401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62250,
+        "source_id": 1275703,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.47751333309684,
+          14.063504552962428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62250,
+        "source_id": 90075,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4774128406973,
+          14.06343741915339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62250,
+        "source_id": 751908,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4777758043094,
+          14.063298162607277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62250,
+        "source_id": 90074,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.47924130864678,
+          14.06239109397445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62250,
+        "source_id": 11532,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.47719806117772,
+          14.063370458918016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62250,
+        "source_id": 1248246,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.47761567792156,
+          14.063518919362943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64494,
+        "source_id": 1434722,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.75729951776349,
+          14.356740498502454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64494,
+        "source_id": 1275701,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.75731520718044,
+          14.356695410974131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64494,
+        "source_id": 1226233,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.75725595455545,
+          14.35674832629736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64494,
+        "source_id": 749486,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.75734409052404,
+          14.356838277893626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64494,
+        "source_id": 87487,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.75729275223928,
+          14.356811913781614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71499,
+        "source_id": 1214640,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.70648813302232,
+          14.982376539706346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 76391,
+        "source_id": 90078,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.95087573122562,
+          14.26015294625377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 76391,
+        "source_id": 1181046,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.95086376013306,
+          14.260229117091408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 76391,
+        "source_id": 1269146,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.95087345015523,
+          14.260320099622929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 76391,
+        "source_id": 757816,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.95094343669433,
+          14.260251664116158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 76391,
+        "source_id": 1373661,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.95077129234143,
+          14.260288215989556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 76391,
+        "source_id": 1279668,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.95090327588701,
+          14.26020783354297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 76391,
+        "source_id": 64629,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.95098030018775,
+          14.260217052773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77941,
+        "source_id": 90063,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.10883430728089,
+          13.860838736798122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77941,
+        "source_id": 755275,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.10881541664892,
+          13.860842179015116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77941,
+        "source_id": 1352319,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.10869756466872,
+          13.860726803011325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77941,
+        "source_id": 1275697,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.10870296525624,
+          13.860649453505188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81770,
+        "source_id": 1434725,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.16252511434476,
+          16.147471608339664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81770,
+        "source_id": 1344736,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.16170618918824,
+          16.146963422992286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81770,
+        "source_id": 1413241,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.16246702612602,
+          16.14742136065857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84346,
+        "source_id": 1482571,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2150351930447,
+          13.936583666612938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86755,
+        "source_id": 1393037,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.58972653728428,
+          14.090567685885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86755,
+        "source_id": 1275702,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.58917219375596,
+          14.091994177645097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86561,
+        "source_id": 1434724,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.54257354885851,
+          14.650803482622551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86561,
+        "source_id": 1352323,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.54244530044082,
+          14.650832599853857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89801,
+        "source_id": 1437118,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.95448191288357,
+          14.073444069211034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89801,
+        "source_id": 1220925,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.95449166294783,
+          14.073435073930032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89801,
+        "source_id": 756635,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.95448918164927,
+          14.073367370904716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89801,
+        "source_id": 1393865,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.95449840155408,
+          14.07343777673067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89801,
+        "source_id": 1279667,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9545034431546,
+          14.07335909405764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91515,
+        "source_id": 1482572,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.71186650573362,
+          14.102944327030748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92361,
+        "source_id": 92522,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.65728517929486,
+          15.01764403088087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92361,
+        "source_id": 1279675,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.65719771066948,
+          15.017311296165932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95101,
+        "source_id": 1434719,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.52790940123369,
+          14.54228050401734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95101,
+        "source_id": 1352320,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.52793701068153,
+          14.542275869961475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95101,
+        "source_id": 1247014,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.52784654681908,
+          14.542411545447395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95101,
+        "source_id": 1275698,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5279592900796,
+          14.542235223270891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95111,
+        "source_id": 1267454,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.46203012748116,
+          13.943732315342446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95111,
+        "source_id": 1372776,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.46205068588964,
+          13.942599509415867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95111,
+        "source_id": 1275695,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.462039361554,
+          13.94359642567618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95111,
+        "source_id": 11525,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.46203913718496,
+          13.94377722209598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95111,
+        "source_id": 90068,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.46202902187228,
+          13.943862145403362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95111,
+        "source_id": 751907,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.46204332789011,
+          13.94386155533455
+        ]
+      }
+    }
+  ]
+}

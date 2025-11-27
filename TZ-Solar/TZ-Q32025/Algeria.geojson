@@ -1,0 +1,3626 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100410,
+        "source_id": 1376286,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.564527836803547,
+          31.211811799698545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100410,
+        "source_id": 1290465,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.564231932007171,
+          31.212143565224224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107341,
+        "source_id": 1484136,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.932341598561691,
+          33.65049986446387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 111066,
+        "source_id": 1286600,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.001517179067718,
+          35.07063185732731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11382,
+        "source_id": 222258,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.504548744424063,
+          27.182970764690403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11382,
+        "source_id": 859270,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5044974673691227,
+          27.183210379259577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11382,
+        "source_id": 26881,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.504400880591697,
+          27.18328608522861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11382,
+        "source_id": 1253742,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5044698632299487,
+          27.183177386835908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13550,
+        "source_id": 1375103,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0466798139477646,
+          28.451367654537147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13550,
+        "source_id": 64566,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0467239551292361,
+          28.451312392751863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13550,
+        "source_id": 215524,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.046486252523092,
+          28.451577582792613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13550,
+        "source_id": 1286082,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0466980276887128,
+          28.45126882762993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13550,
+        "source_id": 1440622,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0466980373240255,
+          28.45155382939168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13550,
+        "source_id": 854153,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0466771959312451,
+          28.45134228134045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13550,
+        "source_id": 1268511,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.046696603010311,
+          28.451376073513742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14387,
+        "source_id": 26877,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6024020239899602,
+          34.69060332043739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14387,
+        "source_id": 1483716,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6027506504831659,
+          34.69106153612916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14387,
+        "source_id": 1415641,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6013983788955659,
+          34.69189265850736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14387,
+        "source_id": 1190467,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6013871459359587,
+          34.691884213370514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14387,
+        "source_id": 26878,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5981340920319341,
+          34.69274325087364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14387,
+        "source_id": 215535,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6014058619750603,
+          34.69186475400017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14387,
+        "source_id": 1286601,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6013896528190116,
+          34.691881667846346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14387,
+        "source_id": 852365,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6013364113691732,
+          34.69189452834787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14387,
+        "source_id": 1263313,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6013805328607553,
+          34.69187375960898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14387,
+        "source_id": 26883,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.599037441131559,
+          34.69189412106389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16031,
+        "source_id": 1416698,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.203061434134904,
+          34.860343516792675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16031,
+        "source_id": 1443681,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.20324767972799,
+          34.860259881985094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16031,
+        "source_id": 1219624,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.203071980393039,
+          34.860340656532514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16031,
+        "source_id": 862727,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.203142154661697,
+          34.86035963809432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16031,
+        "source_id": 224482,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.20315436564856,
+          34.8602267012313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16031,
+        "source_id": 1290516,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.202957427036183,
+          34.86024420327994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16031,
+        "source_id": 1190974,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.203022690064151,
+          34.86034556581358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16031,
+        "source_id": 30176,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.20302039085877,
+          34.860279421995415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20316,
+        "source_id": 1290412,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.460375556079477,
+          24.48868696469968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20316,
+        "source_id": 1355841,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.460678546889714,
+          24.48850040415944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20316,
+        "source_id": 1261860,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.460779800814246,
+          24.48827043961405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20316,
+        "source_id": 30443,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.460329638777148,
+          24.488722234745005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20316,
+        "source_id": 240083,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.460324916422175,
+          24.48874890654723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20316,
+        "source_id": 875846,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.460343542443722,
+          24.488726628727296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23875,
+        "source_id": 1286083,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5187106657237478,
+          29.30034375943146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23875,
+        "source_id": 215525,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5188392369488172,
+          29.300239040960065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23875,
+        "source_id": 852359,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5186789509366959,
+          29.30024987604465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23875,
+        "source_id": 1395344,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5186621189871508,
+          29.30030582119133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31091,
+        "source_id": 872352,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.871038284195637,
+          35.919187875335254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31091,
+        "source_id": 1228792,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.870175692797252,
+          35.91794069409544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31091,
+        "source_id": 1191376,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.870963822237256,
+          35.91904563776637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31091,
+        "source_id": 235393,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.867364380269145,
+          35.914828991310394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31091,
+        "source_id": 1355844,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.87100582357559,
+          35.91914676467421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31091,
+        "source_id": 30275,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.870954833535578,
+          35.919255350467054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31091,
+        "source_id": 235394,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.871009874784635,
+          35.918958804686326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31091,
+        "source_id": 1443686,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.870261639806323,
+          35.92103146166126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33050,
+        "source_id": 8117,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.163855367109698,
+          34.34473441715657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33050,
+        "source_id": 1416697,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1673217208253748,
+          34.34330397814812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33050,
+        "source_id": 1290515,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.167237588981194,
+          34.34328760453522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33050,
+        "source_id": 1250756,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.167360147990135,
+          34.3434162429654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33050,
+        "source_id": 860857,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.167241779922956,
+          34.34338461416612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33050,
+        "source_id": 222281,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1671990131659875,
+          34.34341261581509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33050,
+        "source_id": 8112,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.169510945540277,
+          34.34254551026921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33050,
+        "source_id": 1190915,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1674363774523995,
+          34.34339245990406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33050,
+        "source_id": 1443680,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1680556188015165,
+          34.34402687080722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38769,
+        "source_id": 8115,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5542254036769255,
+          32.94480257706717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38769,
+        "source_id": 1443674,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5544137371544577,
+          32.94472787754121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38769,
+        "source_id": 1253425,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.554203200078904,
+          32.9447366050897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38769,
+        "source_id": 1190736,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5541898192769484,
+          32.94478718813024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38769,
+        "source_id": 1396509,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.554351439170822,
+          32.94469864188403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38769,
+        "source_id": 217807,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5542552880249887,
+          32.94467400126717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38769,
+        "source_id": 1290414,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5542745996513124,
+          32.94464604603356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38769,
+        "source_id": 855916,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5542175956539164,
+          32.94408927639678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43437,
+        "source_id": 8126,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7420176611741454,
+          33.760357439315264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43705,
+        "source_id": 855922,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8048252280879088,
+          34.53224500716582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43705,
+        "source_id": 219986,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8048937823735067,
+          34.532243297545705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43705,
+        "source_id": 1396513,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8048657498467094,
+          34.532257411179614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43705,
+        "source_id": 1290508,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8047602647660332,
+          34.53209995224935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43705,
+        "source_id": 8124,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8048247732149248,
+          34.5322219346135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43705,
+        "source_id": 1190786,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8048623139583908,
+          34.53225414617578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43705,
+        "source_id": 1263689,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8048220469138265,
+          34.53224587194214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45687,
+        "source_id": 1290435,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.775599397232636,
+          19.61965488163685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45687,
+        "source_id": 1265043,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.775604341264958,
+          19.61970932950432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45687,
+        "source_id": 227137,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.775528227380273,
+          19.61968586455639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45687,
+        "source_id": 1376267,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.775574850387318,
+          19.61972394016307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48050,
+        "source_id": 1396516,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.986230216036342,
+          35.679976569715656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48050,
+        "source_id": 867278,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.986186263442508,
+          35.67992028453596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48050,
+        "source_id": 1191066,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.986214800568212,
+          35.67991953210143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48050,
+        "source_id": 1257922,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.986224552494625,
+          35.67990286538112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48050,
+        "source_id": 229562,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.986255848605052,
+          35.679904033008455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48050,
+        "source_id": 30172,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.986136098678152,
+          35.68003057420699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48343,
+        "source_id": 215519,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1737891126787687,
+          27.24052398223081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48343,
+        "source_id": 1440611,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1737678684956116,
+          27.240750308631743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48343,
+        "source_id": 1272017,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1738049360786081,
+          27.24059403181945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48343,
+        "source_id": 1395341,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1737693222148381,
+          27.24062736095137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48343,
+        "source_id": 26879,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1738164135788472,
+          27.24067901060348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48343,
+        "source_id": 1286042,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1738420025838398,
+          27.24064516851613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48343,
+        "source_id": 854143,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1742579641612091,
+          27.24153833373888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49261,
+        "source_id": 1286137,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.154016642576178,
+          27.752063314847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49261,
+        "source_id": 8123,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.153938171751175,
+          27.75213830763411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49261,
+        "source_id": 1261863,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.15400523647623,
+          27.75213756655767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49261,
+        "source_id": 830576,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.153976687375286,
+          27.75199236666769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49261,
+        "source_id": 1189591,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.153954565132354,
+          27.75218018095542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49261,
+        "source_id": 1440610,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.153996762015392,
+          27.75207132575748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49261,
+        "source_id": 198449,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.15391780781233,
+          27.75205286440121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49261,
+        "source_id": 1354626,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.153925604803108,
+          27.75208007582845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50693,
+        "source_id": 862719,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7014132751005833,
+          32.60052306979907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50693,
+        "source_id": 224473,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.701320097766448,
+          32.6005413090799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50693,
+        "source_id": 1290416,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.701132659294271,
+          32.60017905857975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53022,
+        "source_id": 1443675,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.81056085960193,
+          33.726732469332546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53022,
+        "source_id": 1190913,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.80714204082054,
+          33.72484652732529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53022,
+        "source_id": 1244568,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.807168616403927,
+          33.72479952178298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53022,
+        "source_id": 8114,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8071573562287653,
+          33.724815650044704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53022,
+        "source_id": 222272,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8105686448850733,
+          33.72662771932355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53022,
+        "source_id": 1376283,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8105023962578035,
+          33.726683031244484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53022,
+        "source_id": 860851,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.807082840178757,
+          33.72487797998431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53022,
+        "source_id": 860852,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.816443780055754,
+          33.7297916204717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53022,
+        "source_id": 1190914,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.816313127960057,
+          33.72979106997479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53022,
+        "source_id": 1254806,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8163395909399647,
+          33.72976401766922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53022,
+        "source_id": 8113,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.816327756717392,
+          33.72979766218659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53022,
+        "source_id": 860850,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.799878561170523,
+          33.72402397251535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56190,
+        "source_id": 240082,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.469243579597032,
+          24.482436367990463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56190,
+        "source_id": 1266283,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.469404200211953,
+          24.48248430900262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56190,
+        "source_id": 875845,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4692811885402,
+          24.48241132178255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56190,
+        "source_id": 1290411,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.469194626577943,
+          24.482398994010097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56190,
+        "source_id": 1355840,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.46929412501786,
+          24.48245003441212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 579,
+        "source_id": 852363,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.370977831437581,
+          33.2737848390839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 579,
+        "source_id": 8125,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3719653734051145,
+          33.27392572609644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 579,
+        "source_id": 1440623,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3720739142667901,
+          33.27382479253544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 579,
+        "source_id": 1190665,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3719957452574817,
+          33.273914179444546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 579,
+        "source_id": 1415520,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3719554629254035,
+          33.27390384481517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 579,
+        "source_id": 1269654,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3718859611642747,
+          33.27385696698022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 579,
+        "source_id": 1285957,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3719488744662643,
+          33.2738918775564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 579,
+        "source_id": 215526,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3718140867502748,
+          33.27380586734376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58395,
+        "source_id": 1440612,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3172371217831853,
+          27.90758570237064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58395,
+        "source_id": 1267331,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.317256709332786,
+          27.907649597132703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58395,
+        "source_id": 854150,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3172110271293549,
+          27.90768693679566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58395,
+        "source_id": 215523,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.31715193559032,
+          27.9075599678164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58395,
+        "source_id": 8122,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3173408681390485,
+          27.90768198272029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58395,
+        "source_id": 1190664,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3172535566282723,
+          27.9076859205749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58395,
+        "source_id": 1415514,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3172344560504095,
+          27.90762422600916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61138,
+        "source_id": 1290410,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3350440785203026,
+          26.998967226398783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61138,
+        "source_id": 8116,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3350627126002343,
+          26.999044802568203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61138,
+        "source_id": 1265544,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3351164758990162,
+          26.99903008993041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61138,
+        "source_id": 1396507,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3350906799552995,
+          26.99907205832277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61138,
+        "source_id": 857673,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.335125229786556,
+          26.99899622018993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61138,
+        "source_id": 219978,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3351751935588887,
+          26.99899779716427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6217,
+        "source_id": 846293,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.272417845559804,
+          29.405053853936952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6217,
+        "source_id": 1242483,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.272839557885113,
+          29.40484678791895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6217,
+        "source_id": 208492,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.272399376474055,
+          29.40502307105304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6217,
+        "source_id": 1286080,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.272354114061319,
+          29.405337970619588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6217,
+        "source_id": 1375102,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.272298487911991,
+          29.405411308456124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65106,
+        "source_id": 1290568,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.966199942049856,
+          36.88221131273112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66146,
+        "source_id": 1290464,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.834358969006069,
+          32.60161257667421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66146,
+        "source_id": 1246731,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.834346083656332,
+          32.601791832940734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66146,
+        "source_id": 1443678,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.83442752461727,
+          32.601701160807764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66146,
+        "source_id": 229508,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.834130820708783,
+          32.60134722736514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66146,
+        "source_id": 865300,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.83431062448157,
+          32.60175982684625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66146,
+        "source_id": 1396510,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.834330437523181,
+          32.60163201179462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70048,
+        "source_id": 1286136,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.110622025466085,
+          27.60111230936247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70048,
+        "source_id": 1354625,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.11046878095598,
+          27.60106860806163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70048,
+        "source_id": 1440609,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.110593196904613,
+          27.60102829753332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71655,
+        "source_id": 868640,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.808445628810936,
+          28.183482108968704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71655,
+        "source_id": 233346,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.808460765731401,
+          28.183425867808936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71655,
+        "source_id": 1416695,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.808415247597908,
+          28.18347002435401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71655,
+        "source_id": 1290463,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.808399480693565,
+          28.18345461091212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71655,
+        "source_id": 1269483,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.808508825952872,
+          28.1835204993408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72537,
+        "source_id": 1376282,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1371968490542295,
+          26.768148525861488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72537,
+        "source_id": 854135,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1372210461958287,
+          26.76818129833893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72537,
+        "source_id": 1266762,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1371511148263123,
+          26.76812468914096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72537,
+        "source_id": 217800,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.137307318704522,
+          26.768101184418143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72537,
+        "source_id": 1290409,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.13710967958559,
+          26.76808424411512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72537,
+        "source_id": 30168,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1371948916383465,
+          26.768200839753884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73430,
+        "source_id": 1396508,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2470548012746908,
+          29.16963443920952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73430,
+        "source_id": 26880,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2469631937112659,
+          29.16965861016456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73430,
+        "source_id": 1263879,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2470019879258,
+          29.169623536867533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73430,
+        "source_id": 217803,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.247106335467179,
+          29.169507972611463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73430,
+        "source_id": 1290413,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2470024326799972,
+          29.16960406042097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73430,
+        "source_id": 854156,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2469928613771636,
+          29.169602297981942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74372,
+        "source_id": 1416679,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9206271699245796,
+          21.349215644937672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74372,
+        "source_id": 1240096,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9206540743583724,
+          21.349203549873195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74372,
+        "source_id": 219974,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.920641628948952,
+          21.349463737522964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74372,
+        "source_id": 1290434,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9206477416303762,
+          21.349205810140973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74372,
+        "source_id": 855907,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.92066316386294,
+          21.349199882110284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74372,
+        "source_id": 1443637,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.920715343923658,
+          21.349187047378763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75819,
+        "source_id": 222204,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8182074291517745,
+          20.4485363853464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75819,
+        "source_id": 859254,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8182573278336576,
+          20.44849828265634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75819,
+        "source_id": 1355821,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8182459132227424,
+          20.44851248206152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75819,
+        "source_id": 1290433,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8182436244217683,
+          20.44850589722844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80766,
+        "source_id": 222198,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.971674512313641,
+          19.988645120590466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80766,
+        "source_id": 860777,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9718563104313214,
+          19.988675623674546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80766,
+        "source_id": 1221733,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.971712134709556,
+          19.9887096601018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84118,
+        "source_id": 1290554,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.450530268651457,
+          22.849416034270657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84118,
+        "source_id": 1376281,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.450511059948704,
+          22.849381333130857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84118,
+        "source_id": 865258,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.450471170946551,
+          22.84944514413806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84118,
+        "source_id": 1237595,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.450524433866275,
+          22.849444876689137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84118,
+        "source_id": 8121,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.450540987825558,
+          22.849458991655005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84118,
+        "source_id": 227140,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.449771389792151,
+          22.84933040470773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84118,
+        "source_id": 1191013,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.450518290344525,
+          22.84944582099595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84433,
+        "source_id": 1443679,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.57599535573235,
+          31.21721415581961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84433,
+        "source_id": 237779,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.575125023954673,
+          31.21962422145145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84433,
+        "source_id": 1259983,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.57525076948865,
+          31.21977512623545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84433,
+        "source_id": 872305,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.575141591760094,
+          31.21983072022771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84433,
+        "source_id": 1290466,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.575226993151842,
+          31.219695605601984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84433,
+        "source_id": 8109,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.575231965145049,
+          31.219720703687727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84433,
+        "source_id": 1416696,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.575219361206852,
+          31.21970798064416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9663,
+        "source_id": 1376285,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.353039252786777,
+          33.126852087029285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9663,
+        "source_id": 224475,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3528395338358403,
+          33.12686293104686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9663,
+        "source_id": 1290461,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.360007476172894,
+          33.12062117190348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9663,
+        "source_id": 224474,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3601674493089857,
+          33.12069650341769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9663,
+        "source_id": 8118,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3599667635304766,
+          33.12080390640627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9663,
+        "source_id": 1443676,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.360049240769688,
+          33.1207169302978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9663,
+        "source_id": 860846,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3566327192947614,
+          33.12418327975365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9663,
+        "source_id": 8110,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.356801541684053,
+          33.125571882416565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9663,
+        "source_id": 1443677,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3531630693780494,
+          33.12669591581496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9663,
+        "source_id": 1290462,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3529317156767693,
+          33.12687271325491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9663,
+        "source_id": 8120,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3524776701749035,
+          33.127021534359564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9663,
+        "source_id": 1376284,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3601177469653463,
+          33.12059503908948
+        ]
+      }
+    }
+  ]
+}

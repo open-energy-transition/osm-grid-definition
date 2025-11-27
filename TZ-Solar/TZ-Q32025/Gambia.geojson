@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29166,
+        "source_id": 1354607,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Gambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.691780665822108,
+          13.304776864149575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29166,
+        "source_id": 1189564,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Gambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.691844659335583,
+          13.304877439110848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29166,
+        "source_id": 829159,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Gambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.69180115915167,
+          13.304898908751689
+        ]
+      }
+    }
+  ]
+}

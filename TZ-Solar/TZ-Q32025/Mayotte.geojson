@@ -1,0 +1,243 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18044,
+        "source_id": 1443298,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Mayotte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.232032189354086,
+          -12.756571902778177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18044,
+        "source_id": 1289796,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mayotte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.23204134087237,
+          -12.756563480675878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18044,
+        "source_id": 1355685,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mayotte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.23204518483547,
+          -12.75661728922946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45213,
+        "source_id": 1231151,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mayotte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.18971500863457,
+          -12.831423500249391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45213,
+        "source_id": 959665,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mayotte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1896939349263,
+          -12.831363761307816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45213,
+        "source_id": 1376145,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mayotte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.18969922824566,
+          -12.83130740018608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45213,
+        "source_id": 1289795,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mayotte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.18959240968142,
+          -12.831380271340567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47819,
+        "source_id": 959666,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mayotte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.17050534987077,
+          -12.732127107441192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47819,
+        "source_id": 353217,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mayotte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.170436942105134,
+          -12.731951098474273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47819,
+        "source_id": 1249409,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mayotte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.16788420104317,
+          -12.732744400765611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47819,
+        "source_id": 1270248,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mayotte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.17040075808308,
+          -12.731936392934296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47819,
+        "source_id": 1443297,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Mayotte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.17052254078297,
+          -12.732033700717212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47819,
+        "source_id": 1200413,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Mayotte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.17049345791182,
+          -12.73189388107552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47819,
+        "source_id": 1289794,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mayotte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1703222271367,
+          -12.731804944923764
+        ]
+      }
+    }
+  ]
+}

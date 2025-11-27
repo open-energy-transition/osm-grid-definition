@@ -1,0 +1,5411 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10042,
+        "source_id": 158293,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.4174175720037,
+          -29.32187678615441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10042,
+        "source_id": 158294,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.41922639988589,
+          -29.32148444189208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10042,
+        "source_id": 1351807,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.42178317684386,
+          -29.311781168488512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10042,
+        "source_id": 797763,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.42495013135074,
+          -29.31075863273893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10042,
+        "source_id": 797762,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.42338922009789,
+          -29.31859442947494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10042,
+        "source_id": 1189360,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.42193581600844,
+          -29.31441886352572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10042,
+        "source_id": 1217438,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.42142406690758,
+          -29.313952679512006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10042,
+        "source_id": 1273347,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.4218049119881,
+          -29.31176389085494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 101129,
+        "source_id": 1343874,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.59131153679859,
+          -39.04043472539488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 102413,
+        "source_id": 1412706,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.20859656050658,
+          -26.48576874529645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 102617,
+        "source_id": 1482363,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.66071805434798,
+          -32.46085453724956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 103991,
+        "source_id": 797886,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.40822712739515,
+          -26.07123938255177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 103991,
+        "source_id": 1268067,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.40827487168657,
+          -26.071213561098663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 106271,
+        "source_id": 1433272,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.36792091218993,
+          -29.151622371548505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 106338,
+        "source_id": 1433170,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.48279316658135,
+          -31.92815995372171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107741,
+        "source_id": 1433263,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.47686254164671,
+          -35.0756232154562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10785,
+        "source_id": 1189290,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4776971727427,
+          -31.406785716731747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10785,
+        "source_id": 1273266,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.47756900936552,
+          -31.40681452408164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10785,
+        "source_id": 62926,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.47764145651162,
+          -31.40685668993257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10785,
+        "source_id": 795981,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.47760616060296,
+          -31.40679527388665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10785,
+        "source_id": 1266098,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4776894902892,
+          -31.40680648854049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10785,
+        "source_id": 1392507,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.47757525653776,
+          -31.40682950823471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10785,
+        "source_id": 155753,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.47771413258468,
+          -31.4068708901797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 109654,
+        "source_id": 809761,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.987056447487085,
+          -29.636433100448134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 110870,
+        "source_id": 1232793,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.83128539096119,
+          -34.351568459952894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11555,
+        "source_id": 795927,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.54189094631366,
+          -33.03752855486489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11555,
+        "source_id": 1189285,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.54182162294813,
+          -33.037539811364724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11555,
+        "source_id": 155696,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.54179588724286,
+          -33.03758325984445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11555,
+        "source_id": 1433167,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.54187640323468,
+          -33.03754226675836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11555,
+        "source_id": 1412659,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.54181937962518,
+          -33.03737003856761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11555,
+        "source_id": 1250593,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.54185298979895,
+          -33.03754995409247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12071,
+        "source_id": 1189289,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.65035309679354,
+          -31.601725787243712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12071,
+        "source_id": 1259997,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.65037899451907,
+          -31.601737104815403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12071,
+        "source_id": 1433172,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.650344508961,
+          -31.601767291437056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12071,
+        "source_id": 155749,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.65041225825816,
+          -31.601826039734423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12071,
+        "source_id": 1351776,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.6503641882151,
+          -31.60176180502328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12071,
+        "source_id": 1273261,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.65042463608383,
+          -31.60184778324953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12071,
+        "source_id": 795977,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.65041789300929,
+          -31.60187747656233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14516,
+        "source_id": 1271865,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.42382092487962,
+          -29.331027486644828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14516,
+        "source_id": 158292,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.42399316038642,
+          -29.331067585682284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14516,
+        "source_id": 797761,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.42390575501398,
+          -29.331134658377923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14516,
+        "source_id": 1433271,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.42393398322365,
+          -29.331242860888608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14516,
+        "source_id": 62938,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.42377908701476,
+          -29.331175626651305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14516,
+        "source_id": 1189359,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.42382273164303,
+          -29.331051503245163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14516,
+        "source_id": 1273346,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.42393891823878,
+          -29.331262731407072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14584,
+        "source_id": 1246936,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.38715639213484,
+          -33.29654788850417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14584,
+        "source_id": 161120,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.38717495042832,
+          -33.29640407545321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14584,
+        "source_id": 62922,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.38906957414295,
+          -33.29113808620018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14584,
+        "source_id": 1412695,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.38722540444762,
+          -33.29625369909134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14584,
+        "source_id": 1273288,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.38726898004758,
+          -33.29618609550684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14584,
+        "source_id": 1433266,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.3872885791401,
+          -33.296120855686034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14584,
+        "source_id": 1189380,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.38722185464536,
+          -33.296326742950725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14584,
+        "source_id": 797662,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.38719794230978,
+          -33.296322234787475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16159,
+        "source_id": 1189248,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.29059345609875,
+          -30.36380089357007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16159,
+        "source_id": 153497,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.28940459057614,
+          -30.357205410894327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16159,
+        "source_id": 1351787,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.29087268797568,
+          -30.363841946250083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16159,
+        "source_id": 796000,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.29058773931436,
+          -30.363777601156418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16159,
+        "source_id": 1273233,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.29061185198118,
+          -30.36388283173762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16159,
+        "source_id": 1241202,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.29055660371536,
+          -30.363802730114447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16159,
+        "source_id": 153495,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.29113664808854,
+          -30.36884628986628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22768,
+        "source_id": 1189327,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.19227601765262,
+          -33.11054886442766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22768,
+        "source_id": 1237872,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1922635515599,
+          -33.11055567280894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22768,
+        "source_id": 1351774,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.19222696949795,
+          -33.11052343894453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22768,
+        "source_id": 1273257,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.19226288401765,
+          -33.110513693406205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22768,
+        "source_id": 155690,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.19224190874344,
+          -33.11024866300966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22768,
+        "source_id": 1433166,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1922597646168,
+          -33.110523475868845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22768,
+        "source_id": 795921,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1922664139154,
+          -33.110461311589425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23516,
+        "source_id": 1218879,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.67296829789038,
+          -31.331013496022507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23516,
+        "source_id": 1228936,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.66838060739025,
+          -31.330987647268337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23516,
+        "source_id": 1220712,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.66894006965721,
+          -31.341321748786285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23516,
+        "source_id": 1189295,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.66840801389125,
+          -31.33100844644484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23516,
+        "source_id": 155758,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.66908958787596,
+          -31.33891733306201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23516,
+        "source_id": 1392506,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.66928322702411,
+          -31.3386024206094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23516,
+        "source_id": 795990,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.66920643701684,
+          -31.33858304102246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23516,
+        "source_id": 1273265,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.6692949936709,
+          -31.33874845986914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23516,
+        "source_id": 1189294,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.66944029874932,
+          -31.34005155411156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27469,
+        "source_id": 1412699,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.037713543079,
+          -31.72404208264977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27469,
+        "source_id": 1273343,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.03761342116265,
+          -31.724104332188315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27469,
+        "source_id": 1235185,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.03210764400072,
+          -31.72394675013749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27469,
+        "source_id": 1433270,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.0376475985507,
+          -31.72408995719923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27469,
+        "source_id": 1189401,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.03749540016399,
+          -31.724106216032244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27469,
+        "source_id": 164107,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.03765958549523,
+          -31.724107584708392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27469,
+        "source_id": 799781,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.03780412242102,
+          -31.72397422335492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30085,
+        "source_id": 1412680,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.53107237980622,
+          -28.08775206954609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30085,
+        "source_id": 158324,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.53113682028565,
+          -28.08774831743335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30085,
+        "source_id": 797815,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.53114514727291,
+          -28.08774168130698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30085,
+        "source_id": 1252465,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.53105894204164,
+          -28.08776126756944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30085,
+        "source_id": 1433228,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.53104301601147,
+          -28.087790882471285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30085,
+        "source_id": 1189361,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.53106263812288,
+          -28.08779044555293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31004,
+        "source_id": 155756,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.66649296415815,
+          -31.37765104745193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31004,
+        "source_id": 795986,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.66649694252551,
+          -31.377648346511776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31004,
+        "source_id": 1229148,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.67929815005711,
+          -31.38747156471011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31004,
+        "source_id": 1189293,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.66647877415252,
+          -31.377606293075672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31004,
+        "source_id": 155754,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.67876306393093,
+          -31.38758661476446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31004,
+        "source_id": 1273264,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.67030936738385,
+          -31.38072147608495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31004,
+        "source_id": 1189291,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.67929200016519,
+          -31.38747580558305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31004,
+        "source_id": 1351777,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.66646069488881,
+          -31.377725762139622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31004,
+        "source_id": 1224622,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.66652460522108,
+          -31.37758834533838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31004,
+        "source_id": 1242330,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.67550799234965,
+          -31.38851295354834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31004,
+        "source_id": 795984,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.67868779809993,
+          -31.38757634457357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31004,
+        "source_id": 1189292,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.67550314188964,
+          -31.38848579113988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32699,
+        "source_id": 62920,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.65660463948085,
+          -31.3502623973461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32699,
+        "source_id": 1263216,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.65635476278631,
+          -31.3502677203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32699,
+        "source_id": 1273341,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.65634447065705,
+          -31.35022659781149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32699,
+        "source_id": 797726,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.65600429982534,
+          -31.350172419399968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32699,
+        "source_id": 1351806,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.65629137756359,
+          -31.350210202618605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32699,
+        "source_id": 158216,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.65622179662212,
+          -31.350267294859027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32853,
+        "source_id": 171178,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.48863013622903,
+          -35.47935676759018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32853,
+        "source_id": 804226,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4883802352334,
+          -35.479070516422446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32853,
+        "source_id": 1251768,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.48867520116431,
+          -35.47939427029541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32842,
+        "source_id": 1433268,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.12307955471539,
+          -33.35255126924789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32842,
+        "source_id": 1273291,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.12302788817438,
+          -33.35256995767106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32842,
+        "source_id": 797655,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.12307170291182,
+          -33.352500567708006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32842,
+        "source_id": 1237822,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.12304318433017,
+          -33.35249715594159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32842,
+        "source_id": 1412697,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.12306406620378,
+          -33.35246801872848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32842,
+        "source_id": 161114,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.12304131189218,
+          -33.35246611295382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34238,
+        "source_id": 1433293,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.90763462261341,
+          -24.14524145301285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34238,
+        "source_id": 1273305,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.90735610068789,
+          -24.14570930988286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34238,
+        "source_id": 158355,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.90684940134344,
+          -24.145452114202097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34238,
+        "source_id": 797911,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.90745212099078,
+          -24.146016479719933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34238,
+        "source_id": 1412702,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.90746023405829,
+          -24.145733352407472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34238,
+        "source_id": 1189368,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.90334422513979,
+          -24.15291731323353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35219,
+        "source_id": 1433261,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.34723698842772,
+          -36.79093288544605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35271,
+        "source_id": 1433295,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.04249331000842,
+          -24.462983388366165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36124,
+        "source_id": 811485,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.95900589817793,
+          -27.38409360481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36124,
+        "source_id": 1273428,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.95897971788672,
+          -27.38420868410572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36124,
+        "source_id": 1235703,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.958934277714285,
+          -27.384146683170314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36124,
+        "source_id": 1189451,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.95898098228968,
+          -27.38411909647109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36124,
+        "source_id": 1433318,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.95895059311688,
+          -27.384059072774058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36124,
+        "source_id": 178870,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.958866269243146,
+          -27.38402274070544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36124,
+        "source_id": 1351831,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.95897043382448,
+          -27.38411553920427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40920,
+        "source_id": 1433321,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.72386409828797,
+          -26.55044018070428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40920,
+        "source_id": 1255996,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.72387265335692,
+          -26.55034714645715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40920,
+        "source_id": 1351833,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.72385716731382,
+          -26.55045294672175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40920,
+        "source_id": 180783,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.72397019592052,
+          -26.550604778781143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40920,
+        "source_id": 1273434,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.723867745231495,
+          -26.550565606541724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41314,
+        "source_id": 173666,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.17954351043439,
+          -33.38089023425089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43408,
+        "source_id": 1251331,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.34958251254346,
+          -33.1862267043675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43408,
+        "source_id": 1273292,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.34964057562789,
+          -33.18624710285146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43408,
+        "source_id": 1392535,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.34965789098716,
+          -33.186276200566844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43408,
+        "source_id": 1189381,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.34958739606083,
+          -33.18619557884975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43408,
+        "source_id": 161129,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.34943561986175,
+          -33.186043349831074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43408,
+        "source_id": 797665,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.34954738099496,
+          -33.186049051351056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43408,
+        "source_id": 1433269,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.34958737417357,
+          -33.18623254652081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44573,
+        "source_id": 1343883,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.84340515881082,
+          -36.14333893322754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45062,
+        "source_id": 795989,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4565691713303,
+          -31.36925901094556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45062,
+        "source_id": 155757,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.45658463135784,
+          -31.36938222368724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45062,
+        "source_id": 1433173,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.45656982991413,
+          -31.36930891266106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45062,
+        "source_id": 1239166,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4566049546546,
+          -31.36927640902677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45062,
+        "source_id": 1372211,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4566009443582,
+          -31.369287297081083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45062,
+        "source_id": 1273267,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4565786846404,
+          -31.36928947072937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45396,
+        "source_id": 1189362,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.55284163227503,
+          -28.036568392495496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45396,
+        "source_id": 158325,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.55271135749884,
+          -28.036676743641017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45396,
+        "source_id": 797821,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.55856515350574,
+          -28.03695810353888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45396,
+        "source_id": 797822,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.55287119749788,
+          -28.036602552807324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45396,
+        "source_id": 1392526,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.55292983282297,
+          -28.036688742476475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45396,
+        "source_id": 1433230,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.55283586530564,
+          -28.036690141665208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45396,
+        "source_id": 1222814,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.55286338359666,
+          -28.03656964569828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49042,
+        "source_id": 161176,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.31447435302792,
+          -30.292989965793915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49042,
+        "source_id": 797735,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.31453057283926,
+          -30.29333556502853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49042,
+        "source_id": 1273344,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.31452121527926,
+          -30.293387753855832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49042,
+        "source_id": 1189382,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.31448427124134,
+          -30.29352504446904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49042,
+        "source_id": 1243219,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.31447292781934,
+          -30.293519679127428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51683,
+        "source_id": 1252299,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8537039684262,
+          -32.84458780484185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51683,
+        "source_id": 797688,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8536543598816,
+          -32.844564247199216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51683,
+        "source_id": 1273340,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.85358187628437,
+          -32.844658446725056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51683,
+        "source_id": 1412698,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.85363541332492,
+          -32.84464178349232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51683,
+        "source_id": 158200,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.85369192531775,
+          -32.84456216392084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54052,
+        "source_id": 1372228,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.33719428438816,
+          -30.60719598461193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54052,
+        "source_id": 153493,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.33709351296264,
+          -30.607215726506418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54052,
+        "source_id": 1273232,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.33720061948283,
+          -30.60725278957353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54052,
+        "source_id": 1189247,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.33711642110725,
+          -30.60723783741407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54052,
+        "source_id": 795997,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.33731308514187,
+          -30.607181030153875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54052,
+        "source_id": 1246063,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.33713461236819,
+          -30.607235756905983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55407,
+        "source_id": 1249400,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.18164178737996,
+          -31.69665847429139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55407,
+        "source_id": 1433171,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.18164376217389,
+          -31.696668205372067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55407,
+        "source_id": 1372210,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.18163147614561,
+          -31.696633638814447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55983,
+        "source_id": 180768,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.61299510511089,
+          -27.01114992150464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55983,
+        "source_id": 813799,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.61328779083613,
+          -27.01153698946556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55983,
+        "source_id": 1249745,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.61285856702888,
+          -27.01131983159808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56723,
+        "source_id": 1351830,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.13822841083373,
+          -27.85191977975735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59025,
+        "source_id": 1233958,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.9178279343888,
+          -26.03281658164284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59025,
+        "source_id": 1189393,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.91777654544275,
+          -26.03283213666717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59025,
+        "source_id": 161298,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.91787308571632,
+          -26.032824159168435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59025,
+        "source_id": 1351815,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.91781291118959,
+          -26.03285663579408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59025,
+        "source_id": 797887,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.91793108180117,
+          -26.032775928760888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59211,
+        "source_id": 796042,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.19276549661853,
+          -24.780686072748995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59211,
+        "source_id": 1273219,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20086143003739,
+          -24.78057913815284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59211,
+        "source_id": 1433247,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.19164591780451,
+          -24.781154734736795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59211,
+        "source_id": 1412687,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20092249408486,
+          -24.78055042774997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59211,
+        "source_id": 155847,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1927156469853,
+          -24.782643801617155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59211,
+        "source_id": 796039,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.19398840140137,
+          -24.784657469135208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59211,
+        "source_id": 1248494,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20089882816184,
+          -24.780537197244023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59211,
+        "source_id": 796043,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20072329090203,
+          -24.779430013310616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 60203,
+        "source_id": 1482351,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.02345276351286,
+          -34.55644502770916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63642,
+        "source_id": 1208578,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.15142989850804,
+          -30.54413550503873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64594,
+        "source_id": 62921,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.28600320790196,
+          -33.3024391658757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64594,
+        "source_id": 1189379,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.28558331180173,
+          -33.3028692883699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64594,
+        "source_id": 1273289,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.2857214477902,
+          -33.30279722720736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64594,
+        "source_id": 797661,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.28567589564379,
+          -33.30281008572387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64594,
+        "source_id": 1269251,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.2855775805953,
+          -33.30286459075104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64594,
+        "source_id": 161119,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.28549272220611,
+          -33.302824668220595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64594,
+        "source_id": 1412696,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.28553598443193,
+          -33.302874634152246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6565,
+        "source_id": 1273290,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.17107751326206,
+          -33.319877129032115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6565,
+        "source_id": 1189378,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.17107173778304,
+          -33.31973606935845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6565,
+        "source_id": 1248678,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.17105048499636,
+          -33.31977361125262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6565,
+        "source_id": 1372248,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.16942074211636,
+          -33.31985431279644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6565,
+        "source_id": 62930,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.17092146430134,
+          -33.319749011191824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6565,
+        "source_id": 1433267,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.16855245431022,
+          -33.320690816733446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6565,
+        "source_id": 161118,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.17108372595919,
+          -33.319840908521805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6565,
+        "source_id": 797658,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.17113464375502,
+          -33.3198262063531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65914,
+        "source_id": 1273348,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.77252780136645,
+          -29.987024194783828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65914,
+        "source_id": 1189410,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.77242496735031,
+          -29.986901784746053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65914,
+        "source_id": 166361,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.77253690749598,
+          -29.98682236984361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65914,
+        "source_id": 804487,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.772306258229904,
+          -29.98688268355152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65914,
+        "source_id": 1270744,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.772539428696085,
+          -29.986872185895184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65914,
+        "source_id": 1372249,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.77234005446593,
+          -29.986943472545224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65914,
+        "source_id": 1433273,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.77248767392644,
+          -29.98689193176794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66729,
+        "source_id": 1412703,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.10125410601898,
+          -24.356433721357465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66729,
+        "source_id": 1273309,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.10157959968754,
+          -24.356184656143043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66729,
+        "source_id": 1189402,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.10287648649535,
+          -24.35565166616588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66729,
+        "source_id": 1215294,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.10287629607684,
+          -24.3556026442419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67793,
+        "source_id": 1273258,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.46740919812022,
+          -31.398065271209298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67793,
+        "source_id": 153465,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.46736545419444,
+          -31.398020657452022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67793,
+        "source_id": 795983,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.46733870959106,
+          -31.3979708775419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67793,
+        "source_id": 1252946,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.4674542076484,
+          -31.39801061870568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67793,
+        "source_id": 1433168,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.46745783708128,
+          -31.398064157905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67793,
+        "source_id": 1392505,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.46753887964267,
+          -31.398049388036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70041,
+        "source_id": 1251596,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4220181489788,
+          -37.25886367961224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70041,
+        "source_id": 1272849,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.42204125202217,
+          -37.25884247340667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70041,
+        "source_id": 1412552,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.42200164802509,
+          -37.2588376731102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70882,
+        "source_id": 1263415,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.62370310272503,
+          -28.031238621574765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70882,
+        "source_id": 1433229,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.62368687388899,
+          -28.0312146384064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70882,
+        "source_id": 1412681,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.62372727021074,
+          -28.031200104310333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71756,
+        "source_id": 1259451,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.27852268093464,
+          -38.93518332327703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71756,
+        "source_id": 1272850,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.2786380579157,
+          -38.93522631145152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71756,
+        "source_id": 1351683,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.27938837656464,
+          -38.93576515174891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73275,
+        "source_id": 1273349,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.76383231572871,
+          -32.72598639382322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73275,
+        "source_id": 173675,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.76373407900663,
+          -32.72604498162768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73275,
+        "source_id": 1258714,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.763841650055376,
+          -32.72596018710428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73275,
+        "source_id": 806935,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.76387223063251,
+          -32.72594683543818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7397,
+        "source_id": 1211825,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.0796992933333,
+          -24.340873095503635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7397,
+        "source_id": 1433296,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.07972907776237,
+          -24.340893551200143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7397,
+        "source_id": 1412704,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.0800394597417,
+          -24.340677033368102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77066,
+        "source_id": 1273307,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.41770470082093,
+          -24.813056746225456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78045,
+        "source_id": 158329,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.61525849183825,
+          -27.63140193897923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78045,
+        "source_id": 797845,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.61538766061183,
+          -27.6314083593498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78045,
+        "source_id": 1189363,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.6154340536228,
+          -27.63135704832898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78045,
+        "source_id": 1412682,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.61543783505356,
+          -27.631325981654378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78045,
+        "source_id": 1433231,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.61543357756567,
+          -27.63134891408258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78045,
+        "source_id": 1238043,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.61542629467739,
+          -27.63138323232032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7808,
+        "source_id": 1189173,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.47026242825294,
+          -30.821502032573942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7808,
+        "source_id": 1249996,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.47011503992137,
+          -30.821441119796663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7808,
+        "source_id": 1433209,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.47321856824769,
+          -30.817053373367614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7808,
+        "source_id": 1273231,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.47355596344114,
+          -30.81760017592428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7808,
+        "source_id": 795991,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.47062105357197,
+          -30.8213655594907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7808,
+        "source_id": 153482,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.46937798563427,
+          -30.818350783792365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78741,
+        "source_id": 795909,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16590290682508,
+          -33.212235353480146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78741,
+        "source_id": 155672,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16638250973851,
+          -33.214126159248615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78741,
+        "source_id": 1433165,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16596628160315,
+          -33.212493698846004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78741,
+        "source_id": 1351773,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1659499907984,
+          -33.21248056195253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78741,
+        "source_id": 1189326,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16599578772191,
+          -33.21244617135285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78741,
+        "source_id": 1273256,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16595587921745,
+          -33.21251910975641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78741,
+        "source_id": 1222274,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16597822366445,
+          -33.212445984924734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79189,
+        "source_id": 811484,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.98568609067668,
+          -27.398137735748097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80821,
+        "source_id": 1392533,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.97386293694564,
+          -34.50437485256443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80821,
+        "source_id": 168361,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.97382988854195,
+          -34.50429762044018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81529,
+        "source_id": 799742,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.43160252522691,
+          -36.23303670893868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81529,
+        "source_id": 1433262,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.43182270664349,
+          -36.23306342840746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81529,
+        "source_id": 1232259,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.43188361357917,
+          -36.23308632006147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81529,
+        "source_id": 1273280,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.43186222251701,
+          -36.23306686433755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83615,
+        "source_id": 1433297,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.686641154180506,
+          -27.53064904753667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83615,
+        "source_id": 1392544,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.68511994960064,
+          -27.530122435149217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8418,
+        "source_id": 797749,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.41267519033978,
+          -29.599805583242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8418,
+        "source_id": 1273345,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.4126765208936,
+          -29.59976084171669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8418,
+        "source_id": 1392536,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.41268841890862,
+          -29.599775992810056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8418,
+        "source_id": 158276,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.41145504537619,
+          -29.59642838581397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8418,
+        "source_id": 158275,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.41660817226382,
+          -29.599792392751137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8418,
+        "source_id": 1256925,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.41268998344528,
+          -29.59974020998639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84805,
+        "source_id": 1482362,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8745410899035,
+          -33.328984976531466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85209,
+        "source_id": 1343887,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.22698618937181,
+          -28.16318501643409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85209,
+        "source_id": 62936,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.22624998930867,
+          -28.16300756518113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85209,
+        "source_id": 797811,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.22680207834303,
+          -28.162914970200376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85209,
+        "source_id": 1189383,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.22702171025826,
+          -28.16319001453749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85209,
+        "source_id": 161216,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.22698756946384,
+          -28.163133925332943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85209,
+        "source_id": 1237559,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.22702125500304,
+          -28.163206284874875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87755,
+        "source_id": 799725,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.34086976555275,
+          -39.83640034471056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8782,
+        "source_id": 1246945,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.70967853166924,
+          -24.102253601450613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8782,
+        "source_id": 1433294,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.71446945042531,
+          -24.09447538576355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8782,
+        "source_id": 1189369,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.71034661129924,
+          -24.1018271882518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8782,
+        "source_id": 797913,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.71263727186577,
+          -24.091587063843274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8782,
+        "source_id": 1233204,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.713047854573,
+          -24.08269013039051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8782,
+        "source_id": 1189371,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.71338364837457,
+          -24.08261717908499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8782,
+        "source_id": 797912,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.70965381215565,
+          -24.102257921161275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8782,
+        "source_id": 158372,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.72105212555827,
+          -24.08414464060636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8782,
+        "source_id": 1234146,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.7248398183487,
+          -24.081554656461588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8782,
+        "source_id": 1262744,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.71487448154178,
+          -24.088448185369806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8782,
+        "source_id": 158363,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.70957219142683,
+          -24.10238636562552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8782,
+        "source_id": 1189372,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.72480490332757,
+          -24.08155931106494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8782,
+        "source_id": 1189370,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.71493630614533,
+          -24.088426420798463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8782,
+        "source_id": 1392543,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.71485072275493,
+          -24.094942443291146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8782,
+        "source_id": 797914,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.72101574461492,
+          -24.083868748045862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8959,
+        "source_id": 62916,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.54013331609744,
+          -31.988172553290195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8959,
+        "source_id": 1433169,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.54048613660082,
+          -31.989983865604344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8959,
+        "source_id": 1273259,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.54046216579128,
+          -31.989988948518228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8959,
+        "source_id": 795967,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5404333953795,
+          -31.98968287200648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8959,
+        "source_id": 1189286,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5405330586443,
+          -31.989816642545005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8959,
+        "source_id": 1237495,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.54053973374187,
+          -31.989857202847617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8959,
+        "source_id": 1351775,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.540464489564,
+          -31.98995517495392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8959,
+        "source_id": 155735,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.54014752941411,
+          -31.98875523872898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89930,
+        "source_id": 1217575,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.8125202251565,
+          -24.08188089024306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89930,
+        "source_id": 1273336,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.81243281087886,
+          -24.08182524129759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89930,
+        "source_id": 1412705,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.81250276958995,
+          -24.08192434362062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91324,
+        "source_id": 1273255,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.99881244605837,
+          -33.0558204192497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93416,
+        "source_id": 1257713,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.63999382936925,
+          -27.46305523507679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93416,
+        "source_id": 1273328,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.63992930329931,
+          -27.463120128010644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98981,
+        "source_id": 1343897,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.02834057124117,
+          -26.65634436937815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98981,
+        "source_id": 1372256,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.02836221059364,
+          -26.65629575041348
+        ]
+      }
+    }
+  ]
+}

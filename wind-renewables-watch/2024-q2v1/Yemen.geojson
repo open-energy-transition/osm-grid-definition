@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Yemen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "construction_year": 2020.0, "construction_quarter": 1.0, "landcover_in_2018": "landcover_210", "local_utm_crs": "EPSG:32638", "local_utm_x": 217744.20627133566, "local_utm_y": 1717604.8725441364, "COUNTRY": "Yemen" }, "geometry": { "type": "Point", "coordinates": [ 42.36887372660226, 15.520255169762034 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_200", "local_utm_crs": "EPSG:32638", "local_utm_x": 218058.06169225811, "local_utm_y": 1716746.333554676, "COUNTRY": "Yemen" }, "geometry": { "type": "Point", "coordinates": [ 42.371895404747903, 15.512536326204588 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_120", "local_utm_crs": "EPSG:32640", "local_utm_x": 184779.01154073211, "local_utm_y": 1379806.2978401002, "COUNTRY": "Yemen" }, "geometry": { "type": "Point", "coordinates": [ 54.100373578561147, 12.465996073326437 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2019.0, "construction_quarter": 3.0, "landcover_in_2018": "landcover_130", "local_utm_crs": "EPSG:32640", "local_utm_x": 184892.78438746347, "local_utm_y": 1378608.1776832631, "COUNTRY": "Yemen" }, "geometry": { "type": "Point", "coordinates": [ 54.101539496685604, 12.455186550529499 ] } }
+]
+}

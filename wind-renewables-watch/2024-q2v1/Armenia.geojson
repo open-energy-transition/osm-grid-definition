@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Armenia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "construction_year": 2022.0, "construction_quarter": 3.0, "landcover_in_2018": "landcover_10", "local_utm_crs": "EPSG:32638", "local_utm_x": 451957.03212409135, "local_utm_y": 4529092.7662430909, "COUNTRY": "Armenia" }, "geometry": { "type": "Point", "coordinates": [ 44.429513868982973, 40.911529989461897 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_20", "local_utm_crs": "EPSG:32638", "local_utm_x": 452154.35660046013, "local_utm_y": 4529012.3872713745, "COUNTRY": "Armenia" }, "geometry": { "type": "Point", "coordinates": [ 44.431863085942425, 40.910817507940472 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2019.0, "construction_quarter": 2.0, "landcover_in_2018": "landcover_10", "local_utm_crs": "EPSG:32638", "local_utm_x": 452307.39753835183, "local_utm_y": 4528927.1126887258, "COUNTRY": "Armenia" }, "geometry": { "type": "Point", "coordinates": [ 44.433686820160965, 40.910058297869995 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2019.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_10", "local_utm_crs": "EPSG:32638", "local_utm_x": 451871.20364554186, "local_utm_y": 4529206.2774279686, "COUNTRY": "Armenia" }, "geometry": { "type": "Point", "coordinates": [ 44.42848594225746, 40.912547443984742 ] } }
+]
+}

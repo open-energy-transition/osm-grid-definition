@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "United_Arab_Emirates",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_210", "local_utm_crs": "EPSG:32639", "local_utm_x": 726087.53785020323, "local_utm_y": 2688971.9050971931, "COUNTRY": "United Arab Emirates" }, "geometry": { "type": "Point", "coordinates": [ 53.227618600271235, 24.297484351157319 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_210", "local_utm_crs": "EPSG:32639", "local_utm_x": 726188.07712421031, "local_utm_y": 2688651.9925302984, "COUNTRY": "United Arab Emirates" }, "geometry": { "type": "Point", "coordinates": [ 53.228558177058737, 24.294582589629815 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_200", "local_utm_crs": "EPSG:32640", "local_utm_x": 355615.67517298076, "local_utm_y": 2829644.0192185771, "COUNTRY": "United Arab Emirates" }, "geometry": { "type": "Point", "coordinates": [ 55.562479624580625, 25.577192452716247 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2022.0, "construction_quarter": 3.0, "landcover_in_2018": "landcover_200", "local_utm_crs": "EPSG:32640", "local_utm_x": 354473.19826975442, "local_utm_y": 2828886.7904844121, "COUNTRY": "United Arab Emirates" }, "geometry": { "type": "Point", "coordinates": [ 55.551190052646099, 25.570244395983035 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_200", "local_utm_crs": "EPSG:32640", "local_utm_x": 355795.55200410803, "local_utm_y": 2828641.0016081235, "COUNTRY": "United Arab Emirates" }, "geometry": { "type": "Point", "coordinates": [ 55.564378073480256, 25.568155249137241 ] } }
+]
+}

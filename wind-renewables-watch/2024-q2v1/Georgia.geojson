@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "Georgia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_40", "local_utm_crs": "EPSG:32638", "local_utm_x": 421117.79669189191, "local_utm_y": 4653606.6013948629, "COUNTRY": "Georgia" }, "geometry": { "type": "Point", "coordinates": [ 44.047067889950917, 42.030542981447887 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_10", "local_utm_crs": "EPSG:32638", "local_utm_x": 421143.4830409289, "local_utm_y": 4653332.6640028292, "COUNTRY": "Georgia" }, "geometry": { "type": "Point", "coordinates": [ 44.047414985529244, 42.028078648332446 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_40", "local_utm_crs": "EPSG:32638", "local_utm_x": 420937.12780640263, "local_utm_y": 4653016.1041639866, "COUNTRY": "Georgia" }, "geometry": { "type": "Point", "coordinates": [ 44.044965224440489, 42.025207195717037 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_10", "local_utm_crs": "EPSG:32638", "local_utm_x": 421105.63266049308, "local_utm_y": 4652604.0072233807, "COUNTRY": "Georgia" }, "geometry": { "type": "Point", "coordinates": [ 44.047055817070238, 42.021513021623527 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_10", "local_utm_crs": "EPSG:32638", "local_utm_x": 421427.39639405755, "local_utm_y": 4652015.323732513, "COUNTRY": "Georgia" }, "geometry": { "type": "Point", "coordinates": [ 44.051020629255476, 42.016243889419457 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_10", "local_utm_crs": "EPSG:32638", "local_utm_x": 421287.59444499318, "local_utm_y": 4651684.3772435216, "COUNTRY": "Georgia" }, "geometry": { "type": "Point", "coordinates": [ 44.049376748375707, 42.013249612256075 ] } }
+]
+}

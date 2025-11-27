@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "Slovakia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_30", "local_utm_crs": "EPSG:32633", "local_utm_x": 683652.1650779777, "local_utm_y": 5408559.3644947354, "COUNTRY": "Slovakia" }, "geometry": { "type": "Point", "coordinates": [ 17.501130013972954, 48.802871278787109 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2022.0, "construction_quarter": 2.0, "landcover_in_2018": "landcover_60", "local_utm_crs": "EPSG:32633", "local_utm_x": 675733.42188601755, "local_utm_y": 5382340.8709072508, "COUNTRY": "Slovakia" }, "geometry": { "type": "Point", "coordinates": [ 17.382238456997936, 48.569500785065401 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_60", "local_utm_crs": "EPSG:32633", "local_utm_x": 675876.89261326659, "local_utm_y": 5382401.0870996965, "COUNTRY": "Slovakia" }, "geometry": { "type": "Point", "coordinates": [ 17.384207048293181, 48.570001797445542 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2019.0, "construction_quarter": 3.0, "landcover_in_2018": "landcover_60", "local_utm_crs": "EPSG:32633", "local_utm_x": 675998.28196887439, "local_utm_y": 5382452.2559158383, "COUNTRY": "Slovakia" }, "geometry": { "type": "Point", "coordinates": [ 17.385872779389153, 48.570427654065746 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2018.0, "construction_quarter": 2.0, "landcover_in_2018": "landcover_30", "local_utm_crs": "EPSG:32633", "local_utm_x": 676252.04975419107, "local_utm_y": 5382560.5181310577, "COUNTRY": "Slovakia" }, "geometry": { "type": "Point", "coordinates": [ 17.389355671680729, 48.571329456245884 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2019.0, "construction_quarter": 3.0, "landcover_in_2018": "landcover_60", "local_utm_crs": "EPSG:32633", "local_utm_x": 676134.5922482824, "local_utm_y": 5382517.8280845415, "COUNTRY": "Slovakia" }, "geometry": { "type": "Point", "coordinates": [ 17.387746726872123, 48.57097875730917 ] } }
+]
+}

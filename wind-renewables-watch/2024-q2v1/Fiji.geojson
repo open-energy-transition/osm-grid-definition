@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Fiji",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "construction_year": 2018.0, "construction_quarter": 1.0, "landcover_in_2018": "landcover_30", "local_utm_crs": "EPSG:32760", "local_utm_x": 553792.05103189731, "local_utm_y": 8038449.438050936, "COUNTRY": "Fiji" }, "geometry": { "type": "Point", "coordinates": [ 177.50738837643388, -17.740519281388806 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_30", "local_utm_crs": "EPSG:32760", "local_utm_x": 554252.9290604773, "local_utm_y": 8037281.9872336742, "COUNTRY": "Fiji" }, "geometry": { "type": "Point", "coordinates": [ 177.511765416780804, -17.751060011444658 ] } }
+]
+}

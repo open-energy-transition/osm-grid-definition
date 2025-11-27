@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "North_Korea",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "construction_year": 2019.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_60", "local_utm_crs": "EPSG:32652", "local_utm_x": 631747.92005895893, "local_utm_y": 4684578.0220769905, "COUNTRY": "North Korea" }, "geometry": { "type": "Point", "coordinates": [ 130.598387628097811, 42.302298851585107 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2021.0, "construction_quarter": 3.0, "landcover_in_2018": "landcover_60", "local_utm_crs": "EPSG:32652", "local_utm_x": 631785.24676009489, "local_utm_y": 4684587.1100702435, "COUNTRY": "North Korea" }, "geometry": { "type": "Point", "coordinates": [ 130.598842381358565, 42.302374355847867 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2024.0, "construction_quarter": 2.0, "landcover_in_2018": "landcover_60", "local_utm_crs": "EPSG:32652", "local_utm_x": 631836.30007532262, "local_utm_y": 4684598.7435379382, "COUNTRY": "North Korea" }, "geometry": { "type": "Point", "coordinates": [ 130.599464186837508, 42.302470452051367 ] } },
+{ "type": "Feature", "properties": { "construction_year": 2017.0, "construction_quarter": 4.0, "landcover_in_2018": "landcover_60", "local_utm_crs": "EPSG:32652", "local_utm_x": 631887.36756545643, "local_utm_y": 4684609.6151940329, "COUNTRY": "North Korea" }, "geometry": { "type": "Point", "coordinates": [ 130.600085992316451, 42.302559684108985 ] } }
+]
+}

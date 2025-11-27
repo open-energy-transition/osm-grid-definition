@@ -1,0 +1,4544 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100095,
+        "source_id": 870851,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6024071252588,
+          47.19506767389904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100095,
+        "source_id": 1032,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.602360983347233,
+          47.19507328980513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100319,
+        "source_id": 59640,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62352191549471,
+          47.21774147388309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100319,
+        "source_id": 870856,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.623366376996197,
+          47.217725901674505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100577,
+        "source_id": 870842,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.570794596023575,
+          47.09775055111874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10167,
+        "source_id": 1305471,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.131090333823138,
+          47.41944168123749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10167,
+        "source_id": 1380187,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.131243447098321,
+          47.41965449408587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10167,
+        "source_id": 1220125,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.131053068146559,
+          47.41968818767763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 102464,
+        "source_id": 1420446,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.540740029893381,
+          46.63273867238009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 102464,
+        "source_id": 868949,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.540705826250606,
+          46.63261158193459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10167,
+        "source_id": 233806,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.131386213297004,
+          47.419586320424926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10167,
+        "source_id": 870898,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.131093332570124,
+          47.41951088346288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 103456,
+        "source_id": 59843,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.712732212659759,
+          47.279102210234015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10454,
+        "source_id": 53998,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.027657246743861,
+          46.19004987835039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10454,
+        "source_id": 1380159,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.027668370909505,
+          46.18982340319555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10454,
+        "source_id": 229780,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.027690533949944,
+          46.190016067073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 104876,
+        "source_id": 1400463,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.978094812682114,
+          47.184638922210816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 105191,
+        "source_id": 874768,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.96075396110213,
+          46.15520466595997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 104050,
+        "source_id": 1359985,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.641453643160144,
+          47.45390506452314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 104050,
+        "source_id": 1305645,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.641601978203871,
+          47.45380345926192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 106632,
+        "source_id": 872942,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.375161342072058,
+          47.42194370901462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 106632,
+        "source_id": 1026,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.375547979976814,
+          47.42192378122518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 106632,
+        "source_id": 1305581,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.375177338980501,
+          47.421847259082334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 106632,
+        "source_id": 238471,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.375481810010621,
+          47.42207777247887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 106635,
+        "source_id": 1454449,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.499121795502941,
+          46.96770426934293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 106896,
+        "source_id": 868940,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9176115181166224,
+          46.56989326991086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107156,
+        "source_id": 876671,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.583983911911426,
+          47.3918003147039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 108446,
+        "source_id": 1420451,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.912132738229237,
+          47.00037538608261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 109121,
+        "source_id": 1400571,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.48191708446593,
+          47.47956616700141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 110064,
+        "source_id": 1400447,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.302009451158738,
+          46.22345879495126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 110064,
+        "source_id": 1262236,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.301833984146229,
+          46.22350867047067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11208,
+        "source_id": 233699,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.084206050502149,
+          46.10146963163685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11208,
+        "source_id": 1380179,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.084497088045054,
+          46.10160852486288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11208,
+        "source_id": 429,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.08419353636943,
+          46.101396041209206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11208,
+        "source_id": 1222710,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.084369594824368,
+          46.10151249543014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13287,
+        "source_id": 1380186,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.333507539730736,
+          47.116013588245536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13287,
+        "source_id": 1030,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.333389555817145,
+          47.11591983398898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17421,
+        "source_id": 240679,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.090729156201878,
+          47.56424505779967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17421,
+        "source_id": 1400572,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.090509573956291,
+          47.5645956893161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17421,
+        "source_id": 1454563,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.090196363086534,
+          47.564615973778736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18090,
+        "source_id": 1380276,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.091679232052693,
+          47.29169314604382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20011,
+        "source_id": 1347192,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.786870131716816,
+          47.323045769655785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20829,
+        "source_id": 1420447,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.544872337213933,
+          46.71933522651198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22319,
+        "source_id": 59438,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.197865828583528,
+          47.42901896457783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22319,
+        "source_id": 870900,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.197928436592875,
+          47.42913884432631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23575,
+        "source_id": 869001,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.903771992278841,
+          47.062849800451794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26315,
+        "source_id": 868936,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.571375814645429,
+          46.542244861881215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26315,
+        "source_id": 231819,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.571487633067091,
+          46.54216787823626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26315,
+        "source_id": 1305452,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.571711050600369,
+          46.54219577571958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26315,
+        "source_id": 1017,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5713380962299,
+          46.54229035355771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26315,
+        "source_id": 1258171,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5714010838644334,
+          46.54232372951578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26489,
+        "source_id": 1305469,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.568040820860702,
+          47.07675115955719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26489,
+        "source_id": 870837,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.568384684318907,
+          47.07689214875106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26489,
+        "source_id": 59889,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.568829255041997,
+          47.07682413352695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26489,
+        "source_id": 1359886,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.568338672270263,
+          47.07698855629854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26489,
+        "source_id": 1231467,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.568609937637022,
+          47.07681982416164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27703,
+        "source_id": 1041,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.238049202703095,
+          46.94960997907556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27703,
+        "source_id": 233772,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.237835897394934,
+          46.94978852166058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27703,
+        "source_id": 870809,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.238073612574461,
+          46.94950243704613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29416,
+        "source_id": 874826,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.06920542792306,
+          47.44910617392966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29416,
+        "source_id": 1400570,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.06907985643508,
+          47.4489812826556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29416,
+        "source_id": 1239022,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.06902714228963,
+          47.44900925396942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29416,
+        "source_id": 1191565,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.068949837001767,
+          47.448984442195375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29416,
+        "source_id": 240661,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.069229629763369,
+          47.44894988926554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29437,
+        "source_id": 870855,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.555436739236839,
+          47.208966505731205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29437,
+        "source_id": 1034,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5553967845307,
+          47.20899251777807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29437,
+        "source_id": 1454451,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.555459321286371,
+          47.20902976803928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29437,
+        "source_id": 236176,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.555458689622544,
+          47.20904838757522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29437,
+        "source_id": 1219740,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.555375126589626,
+          47.20906931515456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29437,
+        "source_id": 1400456,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.555626844748415,
+          47.20902450310851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33728,
+        "source_id": 240641,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.114591107930568,
+          47.26634191955284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33728,
+        "source_id": 943,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.114366571767208,
+          47.26641326367648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34217,
+        "source_id": 1359884,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.596627749790278,
+          46.52982978678657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34217,
+        "source_id": 1243777,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.596658756412133,
+          46.52984586260956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34217,
+        "source_id": 231815,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.596927850797202,
+          46.52983053321562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34217,
+        "source_id": 868933,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.596542296824718,
+          46.52985491898749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34217,
+        "source_id": 59673,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.596618292856231,
+          46.5298535161258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34217,
+        "source_id": 1454436,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.596641820862321,
+          46.52984321096719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34225,
+        "source_id": 231847,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.686727894814952,
+          46.83242542939704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34225,
+        "source_id": 1454438,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.686604989456113,
+          46.832460949372766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34225,
+        "source_id": 1420448,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.686555704687561,
+          46.83237118786349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34225,
+        "source_id": 868969,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.686484332090408,
+          46.83229666574447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34225,
+        "source_id": 1226770,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.686421805755787,
+          46.832406450713954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34225,
+        "source_id": 1191068,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.686397325240495,
+          46.83240797575326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34225,
+        "source_id": 1037,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.68689576893635,
+          46.83254878086182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3526,
+        "source_id": 870871,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.789474186093437,
+          47.310093192666216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3526,
+        "source_id": 236195,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.789540084627425,
+          47.31019625284971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3526,
+        "source_id": 1048,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.78948917710851,
+          47.310104482457824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3526,
+        "source_id": 901,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.783917618197237,
+          47.30841109262074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3526,
+        "source_id": 1380191,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.789490932641457,
+          47.310132619045085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3526,
+        "source_id": 236192,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.782786190197981,
+          47.30798256125716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3526,
+        "source_id": 1359894,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.782457389841733,
+          47.30786557146644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3526,
+        "source_id": 870869,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.782564969178898,
+          47.30784227610576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36862,
+        "source_id": 1046,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.256684670634163,
+          47.35266349585648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36862,
+        "source_id": 872927,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.256195910597933,
+          47.35252979658196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36862,
+        "source_id": 1347184,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.257259340395226,
+          47.35302121119773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38014,
+        "source_id": 59484,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.552787406416348,
+          46.568255468017824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38014,
+        "source_id": 231822,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.552654371995152,
+          46.56820010522692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38014,
+        "source_id": 868939,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.552638310430473,
+          46.56822637117358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41242,
+        "source_id": 1214920,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.636079611021961,
+          47.55271628411166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41242,
+        "source_id": 870932,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63641289223981,
+          47.55269997399815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41242,
+        "source_id": 1454456,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63620679761727,
+          47.55265393523516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41242,
+        "source_id": 1420459,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.636116264672887,
+          47.55265644874474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41409,
+        "source_id": 1420463,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.790165237524658,
+          47.545644843254784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41409,
+        "source_id": 1305582,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.790853585979461,
+          47.54555974259628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41409,
+        "source_id": 1074,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.791327693793626,
+          47.545475951800746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41409,
+        "source_id": 236222,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.790472441764813,
+          47.54562670131328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41409,
+        "source_id": 872972,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.790355607454527,
+          47.545611022054246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42135,
+        "source_id": 870859,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.650856630881288,
+          47.22689604662918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42135,
+        "source_id": 236179,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.649660748815935,
+          47.22668822702784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45734,
+        "source_id": 1347182,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.016860640373174,
+          47.32347991915773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47601,
+        "source_id": 1454568,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.476996194203222,
+          47.472696946978026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49050,
+        "source_id": 1021,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.556479469667056,
+          47.50738549523963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49050,
+        "source_id": 1305477,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.556524157799054,
+          47.50727892169743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49080,
+        "source_id": 870849,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.282112004281916,
+          47.15595010362892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49080,
+        "source_id": 936,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.282324188116445,
+          47.15596054200326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49080,
+        "source_id": 233794,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.282432321455175,
+          47.15603542330131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49080,
+        "source_id": 1359887,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.282278468527511,
+          47.15596513592411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49566,
+        "source_id": 870788,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.055322661268116,
+          46.71203054429565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50243,
+        "source_id": 903,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.481666531931433,
+          47.170754311776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5168,
+        "source_id": 1305470,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.128195047835906,
+          47.409949008741286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5168,
+        "source_id": 870895,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1278903319567375,
+          47.41045721588063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5168,
+        "source_id": 1400455,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.128015322629515,
+          47.41055900658521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5168,
+        "source_id": 233804,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.128144864649876,
+          47.410644659352656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5168,
+        "source_id": 1239253,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.12795918386306,
+          47.410668089983936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51971,
+        "source_id": 1305479,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.662475738059487,
+          47.53687192707131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52364,
+        "source_id": 1027,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.079689990844401,
+          46.219641102094414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52364,
+        "source_id": 1420426,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.079695649320086,
+          46.21974218775283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52364,
+        "source_id": 867466,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0795681788429325,
+          46.219614986761336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52364,
+        "source_id": 229783,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.079583906880813,
+          46.219506718451015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54851,
+        "source_id": 870813,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.46610246106421,
+          46.963141821921965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54851,
+        "source_id": 1025,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.465847300497417,
+          46.962778269472366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55326,
+        "source_id": 1245207,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.749087501835657,
+          47.278704776160986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55326,
+        "source_id": 1454459,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.749130385839653,
+          47.278769626185856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55326,
+        "source_id": 1420460,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.749113437477244,
+          47.27876570246404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55745,
+        "source_id": 1305465,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.623079621708951,
+          46.73150160160282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55745,
+        "source_id": 1454447,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.622834632338721,
+          46.73107554350041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55745,
+        "source_id": 236099,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.623242143537869,
+          46.73179062807589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56322,
+        "source_id": 229784,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.11921863637934,
+          46.23434545048656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56322,
+        "source_id": 1261113,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.119271622858474,
+          46.23439730494341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56322,
+        "source_id": 1420427,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.11919191344761,
+          46.23436536600322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56322,
+        "source_id": 1191067,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.119364660987686,
+          46.23445493008755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56322,
+        "source_id": 1305385,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.118942436335387,
+          46.23448092121083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56322,
+        "source_id": 867468,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.119071347752166,
+          46.234381901864126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57125,
+        "source_id": 1380192,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.829497382163179,
+          47.28663712209136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57429,
+        "source_id": 1380182,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.753503388490817,
+          46.799171233890775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57429,
+        "source_id": 1235276,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.753568196789334,
+          46.79916456474742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 577,
+        "source_id": 238522,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.646926599233959,
+          47.69077241046232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 577,
+        "source_id": 238521,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.648936080909069,
+          47.69035380934608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59003,
+        "source_id": 238388,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.921602790215859,
+          45.84133409381023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59003,
+        "source_id": 1246966,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.921478198094574,
+          45.84136290226409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59003,
+        "source_id": 874764,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.921409818661878,
+          45.8413378106265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59003,
+        "source_id": 1359940,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.922588221346757,
+          45.841703912729145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59003,
+        "source_id": 1031,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.921562843957306,
+          45.841347802336216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59674,
+        "source_id": 1191566,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.919139360309655,
+          47.57491679604875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59674,
+        "source_id": 238497,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.917628501919877,
+          47.57170546304825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59674,
+        "source_id": 1258275,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.917400470856272,
+          47.57157711753069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 60962,
+        "source_id": 874852,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.875856280681333,
+          47.56439156285479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61221,
+        "source_id": 874825,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.071965949365074,
+          47.44394018473463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61221,
+        "source_id": 1241298,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.072708690720376,
+          47.44416603934111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61221,
+        "source_id": 1400569,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.073029756937853,
+          47.44432411966049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61221,
+        "source_id": 1454561,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.07262235205376,
+          47.444237319491535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61221,
+        "source_id": 1191564,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.072664007830118,
+          47.44415591824055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62001,
+        "source_id": 1400450,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.55709658203879,
+          46.536289356717326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62001,
+        "source_id": 868934,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.556316351144227,
+          46.53642925648553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62001,
+        "source_id": 231816,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.557310950982396,
+          46.536249284527536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62001,
+        "source_id": 868935,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.557662184569954,
+          46.536375781775625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62001,
+        "source_id": 59455,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.557073754443003,
+          46.536280267459205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62084,
+        "source_id": 1261098,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.933501999047483,
+          46.813154788634726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62084,
+        "source_id": 233744,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.933671397305491,
+          46.81313631081166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62084,
+        "source_id": 1305456,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.933517121764246,
+          46.81312829532634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62084,
+        "source_id": 1191192,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.933566562272659,
+          46.81312114939305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62084,
+        "source_id": 1420450,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.933557533163092,
+          46.81316577825628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62084,
+        "source_id": 1454439,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.933591401237945,
+          46.81315518784294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62084,
+        "source_id": 1042,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.933554442737578,
+          46.813154254665385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62084,
+        "source_id": 868964,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.93355762433869,
+          46.81311296239957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65054,
+        "source_id": 1252898,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.98026169380585,
+          47.21064253302007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65054,
+        "source_id": 872885,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.980146092042933,
+          47.210598621743166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65054,
+        "source_id": 1018,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.979897189068152,
+          47.21079924585554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65054,
+        "source_id": 1191407,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.980230401282302,
+          47.210647273739696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6603,
+        "source_id": 238460,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.72579490495906,
+          47.35838439102821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6603,
+        "source_id": 874806,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.726477409070366,
+          47.35935455678541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6603,
+        "source_id": 1380275,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.725684642667204,
+          47.35833759078013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69437,
+        "source_id": 1420449,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.871558679257454,
+          46.83446624492221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69437,
+        "source_id": 1305455,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.871566189242521,
+          46.834403669234725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69437,
+        "source_id": 868971,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.871472594951189,
+          46.83438118908496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69437,
+        "source_id": 233749,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.871196055011199,
+          46.83477440892944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73078,
+        "source_id": 59442,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.637766784082771,
+          47.41752562538062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73078,
+        "source_id": 1305644,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.637631976175664,
+          47.41749842438355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73078,
+        "source_id": 876672,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.637700559611948,
+          47.41804960995421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74214,
+        "source_id": 64393,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.058207059210428,
+          46.21862174470781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 76214,
+        "source_id": 240622,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.53154453193303,
+          46.87014802077488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 76214,
+        "source_id": 1049,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.531404032309478,
+          46.870042177975904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78513,
+        "source_id": 1244511,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.014936608887093,
+          46.620556334966906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78513,
+        "source_id": 1400451,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.01484060554097,
+          46.62053620311385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79092,
+        "source_id": 870829,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.462669286448459,
+          47.01360941183906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79092,
+        "source_id": 1380185,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.462536013562225,
+          47.01372408592057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79092,
+        "source_id": 1230922,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.46254807048289,
+          47.01372105331717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79191,
+        "source_id": 872813,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.219858798020635,
+          46.85954793988088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79570,
+        "source_id": 238431,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.367238746842323,
+          47.11444029423823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79570,
+        "source_id": 1347183,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.36717929573001,
+          47.11450441024487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79570,
+        "source_id": 872849,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.366866394894034,
+          47.11440470632093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79570,
+        "source_id": 1420461,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.367114720037153,
+          47.114470414447936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80176,
+        "source_id": 1454463,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.235231469998359,
+          47.57705000787262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80405,
+        "source_id": 1035,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.648949987765484,
+          46.71248402947656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80405,
+        "source_id": 231835,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6489945962159895,
+          46.71237419805245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80405,
+        "source_id": 868953,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.64894651214158,
+          46.712253994134606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82047,
+        "source_id": 876656,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.561473785684663,
+          46.954723310075686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82047,
+        "source_id": 1008,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.561673653761831,
+          46.95426401708429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82362,
+        "source_id": 1011,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.538265118798045,
+          47.40057722732184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82362,
+        "source_id": 1420456,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.538251973510226,
+          47.40036586393961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82362,
+        "source_id": 870891,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.538341932409035,
+          47.40042529628008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82362,
+        "source_id": 1305472,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.538225236603275,
+          47.40031961096821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82591,
+        "source_id": 1022,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.04601156212282,
+          47.456196094578935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82591,
+        "source_id": 1260353,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.04614641909054,
+          47.45612579056029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82591,
+        "source_id": 1305638,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.046029037794533,
+          47.45604388021391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82591,
+        "source_id": 238476,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.046137399670554,
+          47.45605972582698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82591,
+        "source_id": 1420542,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.046137284659462,
+          47.45622023669314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82725,
+        "source_id": 1454560,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.483237161783082,
+          46.852310554729925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82725,
+        "source_id": 1420541,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.483306145119704,
+          46.85227860379978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83651,
+        "source_id": 231813,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.421983978394509,
+          46.47491766028245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83651,
+        "source_id": 942,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.421520645721677,
+          46.47493753926395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86263,
+        "source_id": 1380189,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.688620432658991,
+          47.527785487328224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86263,
+        "source_id": 1265035,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6886898745543935,
+          47.52778434220801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86607,
+        "source_id": 1420545,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.239316695545762,
+          47.42377622307077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86550,
+        "source_id": 1420462,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.427900936236083,
+          47.36745750273463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86550,
+        "source_id": 1347185,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.427815708132819,
+          47.36743512175973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87099,
+        "source_id": 905,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.24324284948055,
+          47.09757941891541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87099,
+        "source_id": 1347169,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.243399533529232,
+          47.09751774621571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87312,
+        "source_id": 1420455,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.042608519076907,
+          47.04081455845136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87312,
+        "source_id": 1305466,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.042555077385279,
+          47.04084633270895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87312,
+        "source_id": 233786,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.042653553050349,
+          47.04084654314676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87312,
+        "source_id": 1230191,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.04254187235739,
+          47.040855165573696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87312,
+        "source_id": 870833,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.042336468563395,
+          47.04083633565013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88453,
+        "source_id": 868931,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.906740834767051,
+          46.51632132344919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88453,
+        "source_id": 1380181,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.906807350246651,
+          46.51644745272486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88453,
+        "source_id": 233718,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.906724357629121,
+          46.51637571858769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88453,
+        "source_id": 1454437,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.906452065272069,
+          46.516355842554354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89207,
+        "source_id": 1359889,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.429648965453354,
+          47.3954500735252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89258,
+        "source_id": 872830,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.31877388164726,
+          47.042998205162405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89190,
+        "source_id": 1359871,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.953610772841396,
+          46.264751720383785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89190,
+        "source_id": 1454398,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.953825437638256,
+          46.26472562288565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89880,
+        "source_id": 1250299,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.970279470370634,
+          47.19988759297402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89880,
+        "source_id": 872881,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.969968599426103,
+          47.20007307824402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89880,
+        "source_id": 1359893,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.970250618445403,
+          47.19987905941672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89880,
+        "source_id": 1454460,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9702678109077,
+          47.199879546908335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89880,
+        "source_id": 1191406,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.970240832579627,
+          47.19991113523045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91181,
+        "source_id": 1216922,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.21929069313086,
+          47.040318032655534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91181,
+        "source_id": 1191405,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.219390221354434,
+          47.0402905688574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91181,
+        "source_id": 1400454,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.219325912174249,
+          47.0402717711753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91720,
+        "source_id": 1013,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.863057876633024,
+          47.33897480424119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94169,
+        "source_id": 904,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.213401867401462,
+          47.57548541127783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94169,
+        "source_id": 876686,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.213360765230666,
+          47.57548907830054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94303,
+        "source_id": 1454567,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.381320470530031,
+          47.46636067503845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96134,
+        "source_id": 1454450,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.916488051262068,
+          47.0624756213363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 97161,
+        "source_id": 868993,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.896294407310589,
+          46.9789917051797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98637,
+        "source_id": 1400457,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.512382984849833,
+          47.42830024235446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98785,
+        "source_id": 1454452,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5805107293432785,
+          47.20503916875927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98785,
+        "source_id": 870854,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.580169967722744,
+          47.2049567019661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98785,
+        "source_id": 1359888,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5806045664461,
+          47.20498701466502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98785,
+        "source_id": 236174,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.580903566021611,
+          47.20496255378365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 99193,
+        "source_id": 1044,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9907001772119175,
+          47.16370031100467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 99193,
+        "source_id": 1305459,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.990643642787875,
+          47.16363209192469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 99159,
+        "source_id": 872857,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.286305165265832,
+          47.13560828957462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 99062,
+        "source_id": 1347193,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.060554263288498,
+          47.12065537228055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 99062,
+        "source_id": 1400568,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.06049371381283,
+          47.12099885417969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 99340,
+        "source_id": 872826,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.384881107967704,
+          46.97432153873345
+        ]
+      }
+    }
+  ]
+}

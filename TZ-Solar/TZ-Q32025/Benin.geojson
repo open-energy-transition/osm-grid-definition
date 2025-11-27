@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21250,
+        "source_id": 860586,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Benin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6716910502014977,
+          7.171601353753066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21250,
+        "source_id": 221753,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Benin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.671612980024057,
+          7.171571604646542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21250,
+        "source_id": 1443616,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Benin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.671735117267976,
+          7.171877248788291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21250,
+        "source_id": 1355815,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Benin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6716869209175664,
+          7.171721524991493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21250,
+        "source_id": 1290372,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Benin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6717299156496765,
+          7.171751594530098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55164,
+        "source_id": 1396485,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Benin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.597449890583629,
+          8.991744894004466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55164,
+        "source_id": 1290378,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Benin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5974834475768818,
+          8.991748915409161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74694,
+        "source_id": 1396486,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Benin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8164797321809454,
+          10.798287071627351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74694,
+        "source_id": 1290380,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Benin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8164660780418243,
+          10.798294991968728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95128,
+        "source_id": 857408,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Benin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.619602265086226,
+          9.6659255049134
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107979,
+        "source_id": 1484702,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Iraq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.11929021937,
+          35.59363421136095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 109353,
+        "source_id": 1452562,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Iraq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.338757005572646,
+          30.40812811538093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27301,
+        "source_id": 1398949,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Iraq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.91669212237935,
+          36.86804632877326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27301,
+        "source_id": 348653,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Iraq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.91664105865535,
+          36.86804107647361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27301,
+        "source_id": 1299587,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Iraq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.91672379296073,
+          36.86804131554791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27301,
+        "source_id": 955611,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Iraq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.91666273324046,
+          36.868088173599865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27301,
+        "source_id": 1223750,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Iraq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.91658972279583,
+          36.86801502367259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74396,
+        "source_id": 1450148,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Iraq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.70777610461666,
+          36.61452006222246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83244,
+        "source_id": 1302539,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Iraq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.982267667571065,
+          30.904692828044244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83244,
+        "source_id": 1379480,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Iraq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.98230097898045,
+          30.904649764309926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83244,
+        "source_id": 1229465,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Iraq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.98222585572642,
+          30.90469700237615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83244,
+        "source_id": 358719,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Iraq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.98236030358702,
+          30.904662947730163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83244,
+        "source_id": 964547,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Iraq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.98224549993033,
+          30.90450303410602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84529,
+        "source_id": 66123,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Iraq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.03436362713629,
+          35.982918104151274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96702,
+        "source_id": 1299588,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Iraq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.43730433541705,
+          36.67237559517914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96702,
+        "source_id": 958005,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Iraq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.437310336432056,
+          36.67239717179632
+        ]
+      }
+    }
+  ]
+}

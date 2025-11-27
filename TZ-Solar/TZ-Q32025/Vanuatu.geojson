@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107266,
+        "source_id": 659596,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Vanuatu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.33482154111996,
+          -17.5466351940219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38805,
+        "source_id": 1172759,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Vanuatu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.20341233482665,
+          -17.71940043534347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38805,
+        "source_id": 1254367,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Vanuatu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.20388709910978,
+          -17.71917421762758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38805,
+        "source_id": 1355811,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Vanuatu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.20393665175837,
+          -17.71902711803871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38805,
+        "source_id": 659595,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Vanuatu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.2039074179127,
+          -17.719023640203297
+        ]
+      }
+    }
+  ]
+}

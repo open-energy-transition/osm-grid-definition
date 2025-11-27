@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12160,
+        "source_id": 310421,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Tanzania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.68776470637023,
+          -4.898657747996003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12160,
+        "source_id": 1266079,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Tanzania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.687711167023643,
+          -4.898701579355999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12160,
+        "source_id": 1197789,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Tanzania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6877156095574,
+          -4.898676371728842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12160,
+        "source_id": 1289579,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Tanzania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.68779910515144,
+          -4.898849291919667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12160,
+        "source_id": 929552,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Tanzania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.687702440958155,
+          -4.898685076470002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12160,
+        "source_id": 1416550,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Tanzania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.687702696799104,
+          -4.898775811076003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74126,
+        "source_id": 323872,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Tanzania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.483622254707726,
+          -5.842545257119119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74126,
+        "source_id": 1215238,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Tanzania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.48387203219625,
+          -5.842552508386169
+        ]
+      }
+    }
+  ]
+}

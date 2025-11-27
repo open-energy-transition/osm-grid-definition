@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85749,
+        "source_id": 1400210,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Tajikistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.02302759216134,
+          38.17690122486274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85749,
+        "source_id": 1230433,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Tajikistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0229650498932,
+          38.17688600916049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85749,
+        "source_id": 1200906,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Tajikistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0229653512416,
+          38.17688856463333
+        ]
+      }
+    }
+  ]
+}

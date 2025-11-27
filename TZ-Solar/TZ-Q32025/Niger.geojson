@@ -1,0 +1,243 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20917,
+        "source_id": 1290338,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Niger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.118373333466728,
+          16.051135466886876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29593,
+        "source_id": 221996,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Niger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.113251140320785,
+          13.419732476347818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29593,
+        "source_id": 1290327,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Niger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.113357480146702,
+          13.419658843643084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29593,
+        "source_id": 1190894,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Niger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11331631319435,
+          13.41961326628507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29593,
+        "source_id": 859184,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Niger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.113496661598904,
+          13.419366759914656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29593,
+        "source_id": 1416676,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Niger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1131863475491466,
+          13.419801207806724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34955,
+        "source_id": 1290329,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Niger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.52122013009466,
+          13.968985841582883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34955,
+        "source_id": 1376264,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Niger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.521217762316561,
+          13.968975866418956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34955,
+        "source_id": 1251235,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Niger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.521206625288034,
+          13.969069805876218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34955,
+        "source_id": 1191012,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Niger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.521221235822631,
+          13.969019269973074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34955,
+        "source_id": 66766,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Niger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.52113672607389,
+          13.968952033521116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34955,
+        "source_id": 864861,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Niger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.521251061918571,
+          13.969018579384086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34955,
+        "source_id": 227065,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Niger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.521337991881176,
+          13.968350032765754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93344,
+        "source_id": 887273,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Niger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.88393828879693,
+          18.999369677443752
+        ]
+      }
+    }
+  ]
+}

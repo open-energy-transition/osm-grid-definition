@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107737,
+        "source_id": 805879,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Saint Vincent and the Grenadines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.419046966271104,
+          12.599715351517409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27612,
+        "source_id": 1353226,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Saint Vincent and the Grenadines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.18814652804679,
+          12.87176883764971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27612,
+        "source_id": 1279903,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Saint Vincent and the Grenadines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.18812015390114,
+          12.87181245912975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89562,
+        "source_id": 808555,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Saint Vincent and the Grenadines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1513632704834,
+          13.147033009861651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89562,
+        "source_id": 1373704,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Saint Vincent and the Grenadines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.15139624046803,
+          13.146992582497203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89562,
+        "source_id": 1279946,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Saint Vincent and the Grenadines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.15133266059882,
+          13.146955010918852
+        ]
+      }
+    }
+  ]
+}

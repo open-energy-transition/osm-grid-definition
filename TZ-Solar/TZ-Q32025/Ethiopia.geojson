@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 104717,
+        "source_id": 1290444,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Ethiopia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.54149174985383,
+          4.52548533665219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 104717,
+        "source_id": 1396496,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Ethiopia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.54148582049644,
+          4.525529744394061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78202,
+        "source_id": 1399075,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Ethiopia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.43458568160221,
+          7.295993763014562
+        ]
+      }
+    }
+  ]
+}

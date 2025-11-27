@@ -1,0 +1,1365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 102891,
+        "source_id": 1208370,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.7976430318082,
+          47.849402635381466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10533,
+        "source_id": 1204051,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.35267894694115,
+          46.31809130240242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10533,
+        "source_id": 66721,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.35258080938638,
+          46.31808189186994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10533,
+        "source_id": 483780,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.35269190974996,
+          46.31807146925902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10533,
+        "source_id": 1242691,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.35276610515224,
+          46.31811491898641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10533,
+        "source_id": 1412431,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.35266717959176,
+          46.31815828231702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10533,
+        "source_id": 1482086,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.35266813619822,
+          46.31813854454103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10533,
+        "source_id": 1343648,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.35260900561003,
+          46.318073017534005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10533,
+        "source_id": 1047136,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.35258906693932,
+          46.31808066025376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 105335,
+        "source_id": 1207778,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.82280990445484,
+          46.91874356733686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15827,
+        "source_id": 148,
+        "source": "china-annotator",
+        "source_date": "2021-01-01",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.99453481020734,
+          43.76430659187165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15827,
+        "source_id": 1406131,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.99460690465862,
+          43.764291800877785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15827,
+        "source_id": 2804,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.99476394088629,
+          43.764453343028215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15827,
+        "source_id": 1466996,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.99458402391528,
+          43.76424024422818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15827,
+        "source_id": 1062837,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.99452738502568,
+          43.76424124355456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15827,
+        "source_id": 495572,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.99461592009864,
+          43.76412287351275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15827,
+        "source_id": 350,
+        "source": "china-model",
+        "source_date": "2021-01-01",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.99451191281068,
+          43.76433933462051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15827,
+        "source_id": 1236343,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.99361704148995,
+          43.76401957873322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27231,
+        "source_id": 1372003,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.31559196274824,
+          46.425326123753536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27231,
+        "source_id": 1018337,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.3155651363443,
+          46.42536113436331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27231,
+        "source_id": 446613,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.3155130764228,
+          46.42526349416531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27231,
+        "source_id": 1482081,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.31555296210723,
+          46.4253339528216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27231,
+        "source_id": 1227350,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.31540485990784,
+          46.42537051835279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40803,
+        "source_id": 1055119,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.19818672807632,
+          44.9103607629522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40803,
+        "source_id": 490545,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.19831492043616,
+          44.91042762825504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40803,
+        "source_id": 1426195,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.19828277147649,
+          44.91043883890543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40803,
+        "source_id": 1204202,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.19822293832182,
+          44.91044017099749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40803,
+        "source_id": 1322597,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.19831738016316,
+          44.91037442910133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40803,
+        "source_id": 1224940,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.19824918637202,
+          44.91037781748456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42156,
+        "source_id": 1016286,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.92335617515612,
+          44.62026347948558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42156,
+        "source_id": 1405479,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.92330269658474,
+          44.620108628920406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43180,
+        "source_id": 1228942,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.72463367673684,
+          43.795020461386095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43180,
+        "source_id": 1466992,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.7217223101964,
+          43.79616030233255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43180,
+        "source_id": 1061215,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.7248476745054,
+          43.795113571009416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48550,
+        "source_id": 1061214,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.82682478404692,
+          43.72503517686786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48550,
+        "source_id": 495571,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.82714100516456,
+          43.72503026132072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48550,
+        "source_id": 1466994,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.82729296722628,
+          43.7250123216253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48550,
+        "source_id": 22147,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.8268538656493,
+          43.72507380375171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48550,
+        "source_id": 1236727,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.82734852621752,
+          43.72512728458165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48550,
+        "source_id": 1426196,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.82698336732405,
+          43.72506108281322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50581,
+        "source_id": 1043968,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.72697785961977,
+          47.62009003622452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50581,
+        "source_id": 1372006,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7267402705144,
+          47.62022242862435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50581,
+        "source_id": 1203641,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.72889167377862,
+          47.62010525751139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50581,
+        "source_id": 1215653,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.72714029306256,
+          47.620119014006576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50581,
+        "source_id": 477790,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.72710700404195,
+          47.62015231316865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50581,
+        "source_id": 62793,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.72712763801762,
+          47.620122815935154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62,
+        "source_id": 473201,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.94101733554923,
+          49.40027744266264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62,
+        "source_id": 1432719,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9409279379866,
+          49.40029682396359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62,
+        "source_id": 1482084,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.94079025181784,
+          49.40008542665585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62,
+        "source_id": 1039986,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.94086781489784,
+          49.400406131339885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62,
+        "source_id": 1351493,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.94089875608243,
+          49.40034593824299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62,
+        "source_id": 22186,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9405480025668,
+          49.39973328853336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64424,
+        "source_id": 1254455,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.47773350830788,
+          47.59811246583067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64424,
+        "source_id": 1372004,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.47774758059788,
+          47.59807283886983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64424,
+        "source_id": 1343646,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.477787825213,
+          47.59799641006628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67516,
+        "source_id": 1232728,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.92759577039077,
+          48.25217639324926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67516,
+        "source_id": 1482080,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.92756733763711,
+          48.25200716464781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67516,
+        "source_id": 1372002,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.92756234585347,
+          48.25217811159902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67516,
+        "source_id": 1014256,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.92769252492567,
+          48.252204417695246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67516,
+        "source_id": 438871,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.92775933493152,
+          48.25207050254489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68475,
+        "source_id": 1491206,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.12992700570308,
+          45.54617851043006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73230,
+        "source_id": 1351520,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.74108372805956,
+          48.10435244195756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73230,
+        "source_id": 1432717,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7411114594529,
+          48.10436181670127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7619,
+        "source_id": 1043972,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78543783989366,
+          47.83208068415394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81701,
+        "source_id": 1392282,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.67074742028608,
+          45.7096236468787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81701,
+        "source_id": 1343647,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.67099560315005,
+          45.71048922976889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84822,
+        "source_id": 1213451,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.94776727363636,
+          47.90979067283782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86226,
+        "source_id": 1491208,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.92337644270216,
+          45.92934042616762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 90159,
+        "source_id": 1491209,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.2034549895354,
+          47.69628823483502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 90159,
+        "source_id": 1215495,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.2036325859525,
+          47.6953195315626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93146,
+        "source_id": 1351521,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2055489596192,
+          49.61569380485493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93146,
+        "source_id": 1022276,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.20533445783624,
+          49.61592825710032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93146,
+        "source_id": 1372005,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.20542041301876,
+          49.615880285152336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93146,
+        "source_id": 1232026,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.20548735016824,
+          49.6158524875515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95772,
+        "source_id": 1482083,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.51421053220972,
+          48.03195974417237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95772,
+        "source_id": 475530,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.5142283435776,
+          48.031884985325874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95772,
+        "source_id": 22108,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.514839797734,
+          48.03228400963943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95772,
+        "source_id": 1392281,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.51437729993206,
+          48.032154207413576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95772,
+        "source_id": 1041978,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.51468952249878,
+          48.03222400435348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95772,
+        "source_id": 1240745,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.51463538665178,
+          48.0321281355969
+        ]
+      }
+    }
+  ]
+}

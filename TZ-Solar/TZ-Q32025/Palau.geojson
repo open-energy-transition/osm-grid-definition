@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68315,
+        "source_id": 1145667,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Palau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.53587407194564,
+          7.447834770186126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68315,
+        "source_id": 592320,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Palau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.53616512125575,
+          7.447758787484861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68315,
+        "source_id": 1263386,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Palau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.53586349722585,
+          7.44786079393013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68315,
+        "source_id": 1316623,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Palau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.53493011898877,
+          7.446733669342324
+        ]
+      }
+    }
+  ]
+}

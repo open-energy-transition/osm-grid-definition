@@ -1,0 +1,311 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65230,
+        "source_id": 52143,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Antigua and Barbuda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.7413743121549,
+          17.055251250076086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65230,
+        "source_id": 805908,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Antigua and Barbuda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.7408392215631,
+          17.05570380849427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65230,
+        "source_id": 1483002,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Antigua and Barbuda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.73971485335768,
+          17.054225171529875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65230,
+        "source_id": 1279986,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Antigua and Barbuda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.74062996985742,
+          17.055928846546397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65230,
+        "source_id": 1437253,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Antigua and Barbuda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.740518959273125,
+          17.05557382510678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65230,
+        "source_id": 1414136,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Antigua and Barbuda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.74065056406469,
+          17.055368342083476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65230,
+        "source_id": 1267902,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Antigua and Barbuda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.74084831773329,
+          17.055688884094952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65230,
+        "source_id": 172868,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Antigua and Barbuda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.7406983160348,
+          17.05564405534655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65230,
+        "source_id": 52184,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Antigua and Barbuda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.73943254489678,
+          17.056840696032943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71815,
+        "source_id": 1414137,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Antigua and Barbuda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.8066554750339,
+          17.654240837559527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71815,
+        "source_id": 1279987,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Antigua and Barbuda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.806712992385336,
+          17.65428903646057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8009,
+        "source_id": 1272621,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Antigua and Barbuda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.808979202791285,
+          17.129548116968017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8009,
+        "source_id": 1393937,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Antigua and Barbuda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.8090744969199,
+          17.129528789638062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8009,
+        "source_id": 1279985,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Antigua and Barbuda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.80907964267661,
+          17.129566582645204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8009,
+        "source_id": 47,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Antigua and Barbuda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.80911338774438,
+          17.129526379615893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8009,
+        "source_id": 172869,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Antigua and Barbuda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.80897809821019,
+          17.12965755517659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8009,
+        "source_id": 805909,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Antigua and Barbuda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.80905167514129,
+          17.129530095376637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8009,
+        "source_id": 1437252,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Antigua and Barbuda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.809076162806974,
+          17.12955970442785
+        ]
+      }
+    }
+  ]
+}

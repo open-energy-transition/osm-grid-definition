@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70821,
+        "source_id": 1373685,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Haiti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.11688120414027,
+          18.836459181873533
+        ]
+      }
+    }
+  ]
+}

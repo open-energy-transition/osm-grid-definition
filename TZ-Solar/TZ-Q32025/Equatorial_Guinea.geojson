@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93618,
+        "source_id": 226600,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Equatorial Guinea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.619730182643335,
+          -1.411074971229034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93618,
+        "source_id": 1225559,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Equatorial Guinea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.619685009377081,
+          -1.4110371654331648
+        ]
+      }
+    }
+  ]
+}

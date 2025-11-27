@@ -1,0 +1,719 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 105120,
+        "source_id": 1452519,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.55352764513627,
+          26.23442271299771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 106716,
+        "source_id": 1452520,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.600766675594535,
+          26.263353884513258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16644,
+        "source_id": 1452518,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.537545142480745,
+          26.229368752009183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16644,
+        "source_id": 1419793,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.53775044442671,
+          26.22936757334377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16644,
+        "source_id": 360931,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5378079180009,
+          26.22935590744698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36579,
+        "source_id": 1346907,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.6216428351109,
+          26.180756921662528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36984,
+        "source_id": 1302595,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.58340056356523,
+          25.95381261649017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36984,
+        "source_id": 966155,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.58342201131002,
+          25.953787493208416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36984,
+        "source_id": 360905,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.58351176803585,
+          25.95382699397374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36984,
+        "source_id": 1419792,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.583550615613206,
+          25.953856428534312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3797,
+        "source_id": 52175,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.57305437869664,
+          26.072279078093253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3797,
+        "source_id": 1302600,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.573075135379554,
+          26.07222340609589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3797,
+        "source_id": 966165,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.573110263012985,
+          26.07223905296316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39119,
+        "source_id": 1359165,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.61011735992535,
+          26.0712776610161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39119,
+        "source_id": 1302601,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.610121572074846,
+          26.071249915893617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55072,
+        "source_id": 1452516,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.50907246893768,
+          26.036348843294228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55072,
+        "source_id": 360913,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.50916090102387,
+          26.03632819604204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55072,
+        "source_id": 1379461,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.50903422915288,
+          26.03636152618358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59178,
+        "source_id": 1359166,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.475414596807454,
+          26.15720901646783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59178,
+        "source_id": 1452517,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.47539521495048,
+          26.15725235354997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59223,
+        "source_id": 1302598,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.539424033462446,
+          26.05751418007353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59223,
+        "source_id": 966163,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.539451637796105,
+          26.057552047236868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59223,
+        "source_id": 1399723,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.53943306736405,
+          26.05751236447037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7232,
+        "source_id": 1264468,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.60010534024492,
+          26.12140353015919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7232,
+        "source_id": 52166,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.60003939909648,
+          26.121470212834687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7232,
+        "source_id": 1379462,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.60014547038036,
+          26.12139352151097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7232,
+        "source_id": 1302602,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.60012350281213,
+          26.121453895799803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7232,
+        "source_id": 966167,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.6001217294651,
+          26.121410244415813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7232,
+        "source_id": 360923,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.60021154621905,
+          26.121422428817468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78363,
+        "source_id": 1399721,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.99554628357301,
+          26.250113475560905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78363,
+        "source_id": 1302597,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.99558370987368,
+          26.2501084393173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78363,
+        "source_id": 1452515,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.99556564820413,
+          26.25005976564932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78363,
+        "source_id": 360936,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.99556726438015,
+          26.25005377151855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91562,
+        "source_id": 1302596,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.6112007140574,
+          25.97333505504034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91562,
+        "source_id": 966158,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.61102034350473,
+          25.97373657026139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91562,
+        "source_id": 52189,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.61156852207685,
+          25.973416211937177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91562,
+        "source_id": 966157,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.61028423280317,
+          25.973067049449668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91562,
+        "source_id": 1379460,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.61092751814364,
+          25.973395896740268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94374,
+        "source_id": 1200440,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.10637762584447,
+          26.327991642087383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94374,
+        "source_id": 1399722,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.106387702199726,
+          26.32814177238632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94374,
+        "source_id": 1212893,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.10779319630875,
+          26.332009525619867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9789,
+        "source_id": 1359164,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bahrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.50748270780328,
+          26.05587542745108
+        ]
+      }
+    }
+  ]
+}

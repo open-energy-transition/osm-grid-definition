@@ -1,0 +1,124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25033,
+        "source_id": 1289582,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Burundi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.98729699849008,
+          -3.3753572488638848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25033,
+        "source_id": 312485,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Burundi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.987280699480326,
+          -3.375236206648199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25033,
+        "source_id": 1355665,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Burundi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.98730179501346,
+          -3.375327205971583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25033,
+        "source_id": 1197937,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Burundi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.987289949546952,
+          -3.3752197088808926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25033,
+        "source_id": 929583,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Burundi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.98726140409736,
+          -3.375297586549153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25033,
+        "source_id": 1443274,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Burundi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.987294803696496,
+          -3.3752739230140403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25033,
+        "source_id": 1266249,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Burundi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.98729805943901,
+          -3.3753098700041417
+        ]
+      }
+    }
+  ]
+}

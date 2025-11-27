@@ -1,0 +1,515 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23356,
+        "source_id": 1351904,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.43273851388194,
+          -17.771993473690017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23356,
+        "source_id": 158444,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.43302797886125,
+          -17.771991930731964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23356,
+        "source_id": 1273745,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.43279440202818,
+          -17.77217852128914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23356,
+        "source_id": 1189364,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.43296060934074,
+          -17.771953497089534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23356,
+        "source_id": 1242477,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.432994311015,
+          -17.77199522976354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23356,
+        "source_id": 798028,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.43273587262418,
+          -17.772018743522814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29883,
+        "source_id": 1344005,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.00461688981487,
+          -17.31076927315277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46099,
+        "source_id": 164292,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.10163602103664,
+          -21.838030479645152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46099,
+        "source_id": 472,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.10173006155858,
+          -21.837995533334265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46099,
+        "source_id": 799944,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.10165054579622,
+          -21.837953753238683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46099,
+        "source_id": 1351903,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.10166337597731,
+          -21.837919527318203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46099,
+        "source_id": 1189403,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.10169695859446,
+          -21.838006151232094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46099,
+        "source_id": 1433487,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.10168178372682,
+          -21.83799145076667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46099,
+        "source_id": 1270333,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.10167960516124,
+          -21.838016791970368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46099,
+        "source_id": 1273690,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.10163731186323,
+          -21.837976312118062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63893,
+        "source_id": 1270786,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.76965995008925,
+          -11.082711707240362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63893,
+        "source_id": 156126,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.76937673446406,
+          -11.082343918276091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63893,
+        "source_id": 1273684,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.76930141987972,
+          -11.082310863404985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63893,
+        "source_id": 1189275,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.76935454733079,
+          -11.082295688418046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63893,
+        "source_id": 63008,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.76937822406346,
+          -11.082340383116208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63893,
+        "source_id": 1433483,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7693800371784,
+          -11.082370085189586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81841,
+        "source_id": 1433491,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.95861052433308,
+          -16.349497524793186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82406,
+        "source_id": 464,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.76934297389501,
+          -20.57509471820338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82406,
+        "source_id": 797954,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.76928611453694,
+          -20.57652870569642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82406,
+        "source_id": 1482397,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.76961027243732,
+          -20.57591631284717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82406,
+        "source_id": 158407,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.76941226032619,
+          -20.57678004994333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82406,
+        "source_id": 1392634,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.76922299512725,
+          -20.57653918867522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82406,
+        "source_id": 1273691,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.76930271836852,
+          -20.57626733062668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82406,
+        "source_id": 1258305,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.76945162404829,
+          -20.57671369546944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82406,
+        "source_id": 1189373,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.76944689363475,
+          -20.57676011121869
+        ]
+      }
+    }
+  ]
+}

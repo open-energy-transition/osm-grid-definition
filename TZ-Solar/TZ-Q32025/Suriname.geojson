@@ -1,0 +1,192 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85327,
+        "source_id": 812870,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Suriname"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.01142939421227,
+          5.883756849109792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85327,
+        "source_id": 1252396,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Suriname"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.01142121355676,
+          5.883728418763563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85327,
+        "source_id": 1189455,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Suriname"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.01141089146399,
+          5.883762255600519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85327,
+        "source_id": 180283,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Suriname"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.01134079302215,
+          5.883866024835244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94816,
+        "source_id": 1255988,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Suriname"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.25630952419677,
+          5.088918018692473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94816,
+        "source_id": 180274,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Suriname"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.25625404787156,
+          5.088944435902111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94816,
+        "source_id": 812853,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Suriname"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.25624684868012,
+          5.0890100091656585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94816,
+        "source_id": 28096,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Suriname"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.25652938729105,
+          5.089024014118671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94816,
+        "source_id": 1345169,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Suriname"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.25644455805756,
+          5.088940114101307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94816,
+        "source_id": 1414122,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Suriname"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2567923388692,
+          5.088931117363468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94816,
+        "source_id": 1189454,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Suriname"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.256274569889946,
+          5.089021479088335
+        ]
+      }
+    }
+  ]
+}

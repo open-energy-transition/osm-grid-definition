@@ -1,0 +1,4527 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100226,
+        "source_id": 1452553,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.25320509365062,
+          25.15572758360448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 101797,
+        "source_id": 48,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.440428291998174,
+          24.39275227033319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 102327,
+        "source_id": 1302617,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.70989926741563,
+          24.201286014215004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 102327,
+        "source_id": 1484686,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.70875034474191,
+          24.201210705419907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1030,
+        "source_id": 1452552,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.423509376044336,
+          25.124179083346096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1030,
+        "source_id": 1359180,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.42345817850537,
+          25.12406515350629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1030,
+        "source_id": 371070,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.42365323908007,
+          25.1240483507006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100917,
+        "source_id": 1419800,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.02862573041011,
+          24.923528097915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100917,
+        "source_id": 1302734,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.02866838598845,
+          24.923493466622045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100917,
+        "source_id": 371032,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.028480222601935,
+          24.92342751528001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 109011,
+        "source_id": 1452542,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0820537384764,
+          24.96863352330085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 970518,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41470108771056,
+          24.70832154199689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 370991,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4587536944636,
+          24.742483747499865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1200473,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.42190204404829,
+          24.733754033514888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1222943,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.430549555859535,
+          24.741011811542243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 371007,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4537988342057,
+          24.76996592197013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1452539,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.516075841936185,
+          24.770101466156955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 970526,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.52750537826806,
+          24.72831856201362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 970532,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.454187395354246,
+          24.747704621674536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 371003,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48499523768893,
+          24.762951341380514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 970529,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.44341765678305,
+          24.74449389611215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1452534,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.43025677503406,
+          24.70788542569114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1200471,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41477846247096,
+          24.708306641336627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 371000,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48764912125549,
+          24.75570884418783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1484687,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41252351945204,
+          24.73199472401324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 970543,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47323398186116,
+          24.76738095030226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1200472,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.40684597853516,
+          24.730950642071527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1484691,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.52145633636952,
+          24.74663589005224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 52181,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.38290361813525,
+          24.75896939591325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1200475,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.433386823176384,
+          24.73914868067853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 970530,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.51721148179952,
+          24.74586752129013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 371009,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4577715590176,
+          24.769996368888386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 970533,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.46636343626388,
+          24.747925745999147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1452536,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.39760086870318,
+          24.754075996702166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 970525,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.44070108855569,
+          24.727825123823784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1244678,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.414938802887605,
+          24.70878680696397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 970534,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47080111914888,
+          24.747968796233657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1419803,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.45987725254067,
+          24.73153224347477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 970537,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.384903898657306,
+          24.75721935634177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1452535,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.42143186287176,
+          24.73274870940888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1452537,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.46886289159539,
+          24.769482548399687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 970527,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.40605666055474,
+          24.748847641800992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 370993,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5276797961016,
+          24.745703110415523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1229644,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.38675331312788,
+          24.753674251181472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 970538,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.500539502626296,
+          24.760415783187263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1399736,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.39694764978019,
+          24.754266555904653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1200476,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48093548095458,
+          24.766194871423195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 370996,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.51982088800907,
+          24.75927026394868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1452538,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.522588492933686,
+          24.748980326844368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 970528,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.527610137732765,
+          24.73938332679077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 371006,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.44611338281103,
+          24.768583091457103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1239215,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47310826227911,
+          24.76074525606096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 371008,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.46618377632736,
+          24.770090010172584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1484688,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.43040907397005,
+          24.70791689394892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1419802,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.42609373566561,
+          24.74146827565544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1379470,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.42153557832063,
+          24.73245778880881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1200474,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5221144854162,
+          24.751139434743656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1484690,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.46662574803658,
+          24.76905311383789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 52208,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.38317548991807,
+          24.7470173312205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1484689,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.396260936231805,
+          24.754171471505128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 370986,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41436166507744,
+          24.708187194385605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1302739,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.39567942912485,
+          24.754239674552625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 370994,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.38344865106027,
+          24.75309128021356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1302740,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.45920810571477,
+          24.73401520544521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1213598,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.503728002439146,
+          24.73670268297659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1232651,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.417376544299614,
+          24.761456980350573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1254535,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.52222113996699,
+          24.750519120929315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11126,
+        "source_id": 1216003,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.40716251855255,
+          24.730651439471856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 111301,
+        "source_id": 1302575,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.35599756616688,
+          25.222146468433355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 111785,
+        "source_id": 1302733,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.068613524575696,
+          24.90796322355698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13456,
+        "source_id": 1399733,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.08526400015288,
+          24.854354744380704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13456,
+        "source_id": 970552,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.085144477493934,
+          24.85430449910797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13456,
+        "source_id": 1302732,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.08509511141092,
+          24.854239998720555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13456,
+        "source_id": 1237593,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.08502142042243,
+          24.854294862046142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22604,
+        "source_id": 1302621,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.63875435114908,
+          24.45285701523819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22604,
+        "source_id": 970480,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.6388041138249,
+          24.45293451007664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22604,
+        "source_id": 1452526,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.6387319847788,
+          24.452858014941363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22604,
+        "source_id": 1359172,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.63869796022429,
+          24.452895438048348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22604,
+        "source_id": 370946,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.63857203774119,
+          24.45244868141027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26160,
+        "source_id": 970595,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.20220927477275,
+          25.11734756981983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26160,
+        "source_id": 50,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.20206304317266,
+          25.1171714778668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26160,
+        "source_id": 1419804,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.20218540250418,
+          25.117324754777474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26160,
+        "source_id": 1302569,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.20221793303495,
+          25.117394267434708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26477,
+        "source_id": 1399737,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1075905628264,
+          25.052180197965008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26477,
+        "source_id": 970590,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.10751276594216,
+          25.052130950640404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26477,
+        "source_id": 1302744,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.10757955865178,
+          25.05221432958156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26477,
+        "source_id": 371063,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.10775239172618,
+          25.05230348349985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27096,
+        "source_id": 371033,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.02552617413295,
+          24.96212605425244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27096,
+        "source_id": 1302743,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.02554476996578,
+          24.9621597097032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27096,
+        "source_id": 1379472,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.02555260843531,
+          24.96216281023717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27096,
+        "source_id": 970567,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.02547052130901,
+          24.96213291957072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27096,
+        "source_id": 1452541,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.02535152721062,
+          24.96220882502152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27858,
+        "source_id": 970531,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68587164741838,
+          24.747400342451872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27858,
+        "source_id": 1379467,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68581384573479,
+          24.747849401315936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27858,
+        "source_id": 1302626,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68579475997824,
+          24.74783908913749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27858,
+        "source_id": 370995,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68576183061215,
+          24.747871850758152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27858,
+        "source_id": 1452527,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68578438957345,
+          24.74786739938812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27858,
+        "source_id": 370997,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68622579359327,
+          24.75195211061276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27858,
+        "source_id": 370999,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68642406967435,
+          24.75364897526788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27858,
+        "source_id": 1246493,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68575340925709,
+          24.74785774010576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27858,
+        "source_id": 1200452,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68574896153163,
+          24.747829254085552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28426,
+        "source_id": 1419798,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.010918318854166,
+          24.912887912580626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29788,
+        "source_id": 1419794,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.71461826301808,
+          23.569932545546155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29788,
+        "source_id": 1231505,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.71234913363375,
+          23.571154885136337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29788,
+        "source_id": 968036,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.70631151053695,
+          23.57493715236559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29788,
+        "source_id": 968034,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.71571340071506,
+          23.56889641476812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29788,
+        "source_id": 968037,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.70847450266788,
+          23.57535328866202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29788,
+        "source_id": 365790,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.71483491032713,
+          23.5699618226376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29788,
+        "source_id": 1302612,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.71466688654412,
+          23.569896323235483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29788,
+        "source_id": 968035,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.71108220173399,
+          23.57458236930104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29863,
+        "source_id": 1452545,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.184875628613874,
+          25.116812674409697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31393,
+        "source_id": 1379475,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47315670420851,
+          25.23483433731821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31393,
+        "source_id": 1452555,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47319309137149,
+          25.234904785667613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 321,
+        "source_id": 62951,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41851686409878,
+          24.53322649900324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 321,
+        "source_id": 1222631,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.44466210697218,
+          24.54283713348061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 321,
+        "source_id": 62954,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.44412293089909,
+          24.542264576718985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 321,
+        "source_id": 1452529,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.44277894421119,
+          24.542478018746746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 321,
+        "source_id": 970490,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.44466468562317,
+          24.54276148651206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 321,
+        "source_id": 970491,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.42664558087253,
+          24.541546773540432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 321,
+        "source_id": 1359174,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.44473656581117,
+          24.542829057467383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 321,
+        "source_id": 1302632,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.44473407583195,
+          24.5428208767068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 321,
+        "source_id": 1482305,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.44452497481395,
+          24.54267925285152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32469,
+        "source_id": 1379471,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2867612869655,
+          24.85739268307116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32469,
+        "source_id": 970554,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.28675671338941,
+          24.85740017564603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32469,
+        "source_id": 52194,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.28661738979642,
+          24.85736982863244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32469,
+        "source_id": 1302741,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.28671128697903,
+          24.857343058864046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32469,
+        "source_id": 1452540,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.28642530954208,
+          24.85741433165123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32852,
+        "source_id": 1359177,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.19629543625434,
+          24.975383911800527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32852,
+        "source_id": 970572,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.19618769025456,
+          24.975322099938897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32852,
+        "source_id": 1302745,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.19632047699306,
+          24.975373242474213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34287,
+        "source_id": 970486,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.61766124299453,
+          24.48860962855764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34287,
+        "source_id": 1419796,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.618499440159866,
+          24.488601995513203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34287,
+        "source_id": 1302624,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.61852734133715,
+          24.488583937757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34287,
+        "source_id": 370954,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.61861802021192,
+          24.48863238936036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34287,
+        "source_id": 970487,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.61899552318032,
+          24.48864260601232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34287,
+        "source_id": 1268833,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.61858110329389,
+          24.48873534531236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34287,
+        "source_id": 1302623,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.61820341360807,
+          24.485924451304268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34287,
+        "source_id": 1419795,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.61831048148576,
+          24.486470996159994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36390,
+        "source_id": 1346927,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.29760189957042,
+          25.100364489617725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36390,
+        "source_id": 373757,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.29752160047776,
+          25.100658455764112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36390,
+        "source_id": 1452596,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.29701763694381,
+          25.101135308658705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38425,
+        "source_id": 1452531,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.07238396662165,
+          24.91323485287069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38642,
+        "source_id": 1399732,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0570520146177,
+          24.864252976599506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38642,
+        "source_id": 1302731,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.057063760533495,
+          24.864339636135742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38824,
+        "source_id": 1359173,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.674137086303546,
+          24.7582793616785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38824,
+        "source_id": 970536,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.6758917100656,
+          24.75679205250045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38824,
+        "source_id": 371001,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.67451935367915,
+          24.75837014534323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38824,
+        "source_id": 970539,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.67720118544546,
+          24.757992086344235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38824,
+        "source_id": 970541,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.6746725773362,
+          24.759201369508425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38824,
+        "source_id": 970535,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.67310559640546,
+          24.75704736542636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38824,
+        "source_id": 970542,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.67620218484248,
+          24.759536739959223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38824,
+        "source_id": 1452528,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.67319046901022,
+          24.75842995548543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38824,
+        "source_id": 1302627,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.67425329372596,
+          24.75828926227571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38824,
+        "source_id": 1200453,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.67314666840982,
+          24.75717003265342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38824,
+        "source_id": 970540,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.67602800899534,
+          24.7581118734267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39399,
+        "source_id": 1452549,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47082362597226,
+          24.99534596973932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39399,
+        "source_id": 371048,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47084735428378,
+          24.995667185176497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39730,
+        "source_id": 1359170,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.51763984644143,
+          24.13639805413267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39730,
+        "source_id": 1302615,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.51752753378541,
+          24.13634936510024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39730,
+        "source_id": 1243417,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.51762568928377,
+          24.13643447452034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39730,
+        "source_id": 970421,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.51760348760384,
+          24.13637615474643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39730,
+        "source_id": 368387,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.51786475253687,
+          24.13641139944204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39730,
+        "source_id": 970423,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.50014755333163,
+          24.13626678074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39730,
+        "source_id": 1200450,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.51780932563437,
+          24.13640546041477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40178,
+        "source_id": 1302577,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.44753128847977,
+          25.176463215324723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40178,
+        "source_id": 970608,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.44748508243158,
+          25.176454847819443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40178,
+        "source_id": 52177,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.44697374536906,
+          25.176502735014736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40178,
+        "source_id": 1379474,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.44745738692912,
+          25.176468293026392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40178,
+        "source_id": 371083,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.44759736906143,
+          25.176498420360232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4047,
+        "source_id": 1302729,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.73643311554922,
+          24.229915161286247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4047,
+        "source_id": 970436,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.73638517715249,
+          24.22989625678926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4047,
+        "source_id": 1399731,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.73637151208937,
+          24.229884952747067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41218,
+        "source_id": 1452550,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.40373686807118,
+          25.09095788883916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41218,
+        "source_id": 1302573,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.40376859856015,
+          25.09094884766371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41218,
+        "source_id": 1399741,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.40378105051989,
+          25.09100170420686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41814,
+        "source_id": 1379469,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1073581836902,
+          24.92961186462941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41814,
+        "source_id": 1302735,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1074028005489,
+          24.92958974784253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41814,
+        "source_id": 1452532,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.107382682616645,
+          24.92957366801847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42874,
+        "source_id": 62962,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.05749612791578,
+          24.91927868665563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44221,
+        "source_id": 1302730,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.05407081794469,
+          24.85165557175637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44221,
+        "source_id": 371020,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.05506611081134,
+          24.850480970222737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50920,
+        "source_id": 970445,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.79376527670616,
+          24.32346635542379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50920,
+        "source_id": 62957,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.79557571030942,
+          24.322658758110062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54478,
+        "source_id": 1484692,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65668252750931,
+          25.337116240105285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58881,
+        "source_id": 1359176,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.089388795031134,
+          24.84326338340805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59764,
+        "source_id": 1200477,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4186814129693,
+          25.032935470962027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59764,
+        "source_id": 371057,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41867826900737,
+          25.03298819404842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59764,
+        "source_id": 1264088,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4187556781533,
+          25.03288789071584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59764,
+        "source_id": 1302571,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.418682453556,
+          25.03305568962743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59764,
+        "source_id": 1419805,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41863259374293,
+          25.03305710842688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59764,
+        "source_id": 1452548,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41838267701125,
+          25.03324225506183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59764,
+        "source_id": 970585,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41864576021694,
+          25.03302498666264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68196,
+        "source_id": 1399742,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.43436266062393,
+          25.148375389561355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68196,
+        "source_id": 970604,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.434280431609366,
+          25.1483681611072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68196,
+        "source_id": 1302576,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.43430078223022,
+          25.148376295619588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68196,
+        "source_id": 371074,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.434134184519934,
+          25.1487580113897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68639,
+        "source_id": 1419799,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.08362517432432,
+          24.821510982362287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69585,
+        "source_id": 1452530,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.748483859518096,
+          24.15528065643109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69712,
+        "source_id": 1379466,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.6002794814019,
+          24.491979437843035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69712,
+        "source_id": 1302622,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.600277618358845,
+          24.49191307644932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7030,
+        "source_id": 1217073,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.606403438801685,
+          24.4352198309636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7030,
+        "source_id": 970479,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.60846893264218,
+          24.434675489010505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7030,
+        "source_id": 368409,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.60743302032467,
+          24.43515371879017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7030,
+        "source_id": 1302614,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.60829607702925,
+          24.43474811185364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7030,
+        "source_id": 52167,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.609317219428455,
+          24.434212378137683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7030,
+        "source_id": 1200451,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.6070606188468,
+          24.43534361135432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7030,
+        "source_id": 1359171,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.60786793722432,
+          24.43553624164621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72371,
+        "source_id": 1379473,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.43929845319364,
+          24.981685064419743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72371,
+        "source_id": 1302570,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.43930609805231,
+          24.98163469954284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72750,
+        "source_id": 1302630,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.89019164427652,
+          24.560753975343022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72750,
+        "source_id": 1399730,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.89019312402159,
+          24.56072072567776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74768,
+        "source_id": 1452544,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.11827557804893,
+          25.041389100203364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77260,
+        "source_id": 371029,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.12847998971139,
+          24.88203807508297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77260,
+        "source_id": 1302631,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.12830724899644,
+          24.88211340971853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77260,
+        "source_id": 970555,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1281308347788,
+          24.88202517284838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77260,
+        "source_id": 1399735,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.12829797165275,
+          24.88216498378632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7735,
+        "source_id": 1359169,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.53312112834125,
+          23.739493335197235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7735,
+        "source_id": 1238651,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.53321655236752,
+          23.739521394693256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7735,
+        "source_id": 968039,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.53318574118235,
+          23.73951325211744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7735,
+        "source_id": 365795,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.5333583886109,
+          23.73959407155701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7735,
+        "source_id": 1302613,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.53318167072114,
+          23.739531904564856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77991,
+        "source_id": 98,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.096149797677946,
+          25.03146500470053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79019,
+        "source_id": 371050,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.27457427622698,
+          24.99707007248854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79019,
+        "source_id": 1359178,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.27450053026102,
+          24.99691985113122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79019,
+        "source_id": 1302746,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2744811951643,
+          24.99684351069196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79019,
+        "source_id": 970577,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.274525227658366,
+          24.996846035543125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79019,
+        "source_id": 1243945,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.27330743325575,
+          24.995262857510223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82446,
+        "source_id": 1302583,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.753890119778895,
+          25.6837899794668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82446,
+        "source_id": 1399745,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.75376805574615,
+          25.683689675316145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82446,
+        "source_id": 1452557,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.75391876438512,
+          25.68370164199265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83650,
+        "source_id": 1399734,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.06353893684496,
+          24.91331030753528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84167,
+        "source_id": 1452547,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.24406514862472,
+          25.127233944374115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84167,
+        "source_id": 1399740,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.24406118643872,
+          25.12728259486172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85300,
+        "source_id": 1399727,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.61889251332165,
+          24.409628725914605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85300,
+        "source_id": 370938,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.61844953025682,
+          24.40908846120615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85300,
+        "source_id": 970476,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.6200221051476,
+          24.41091307505878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85300,
+        "source_id": 1452524,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.61884842143915,
+          24.409551397505773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85300,
+        "source_id": 1227805,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.62033938400918,
+          24.41144922331052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86559,
+        "source_id": 1452523,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.73901025134719,
+          24.14415392105366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86559,
+        "source_id": 1258132,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.7389663412049,
+          24.14420037913573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86559,
+        "source_id": 1399726,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.73901282410496,
+          24.144213350577207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86559,
+        "source_id": 970425,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.739004102071256,
+          24.14421603970563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86559,
+        "source_id": 1302616,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.73901156530969,
+          24.144193495436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86559,
+        "source_id": 370881,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.73895587802725,
+          24.14422812209815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89235,
+        "source_id": 1302747,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.23814610152139,
+          25.04809388832664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89235,
+        "source_id": 1399738,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.23827181589606,
+          25.048008451969547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89235,
+        "source_id": 371060,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.23851306986624,
+          25.04773105007328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89593,
+        "source_id": 371069,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.412260812111725,
+          25.12284815194018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89593,
+        "source_id": 1359179,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.411890240448,
+          25.122627772947485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89593,
+        "source_id": 1452551,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41179600453746,
+          25.122565818487416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89593,
+        "source_id": 1302574,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.411918191717696,
+          25.12261230632681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89593,
+        "source_id": 970598,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41204017734725,
+          25.12338814233363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 90591,
+        "source_id": 1452543,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.17019465747609,
+          24.98225671546536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 90824,
+        "source_id": 1200444,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.56265577928283,
+          24.33489560267628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 90824,
+        "source_id": 966090,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.56270825877246,
+          24.334818650908595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 90824,
+        "source_id": 365842,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5624504171551,
+          24.330951981739712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 90824,
+        "source_id": 1258175,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.56267582464493,
+          24.33491915926972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 90824,
+        "source_id": 1399725,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.56262468109605,
+          24.334807690318968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 90824,
+        "source_id": 1302610,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.562623842471,
+          24.334720679397225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92662,
+        "source_id": 49,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.69047966505486,
+          24.40108770962915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9338,
+        "source_id": 1302736,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.10263009970738,
+          24.937348435749342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9338,
+        "source_id": 1419801,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.102665972267765,
+          24.937441315142543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95267,
+        "source_id": 1452546,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2516400012516,
+          25.084011434885017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94885,
+        "source_id": 1302737,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.06730412177219,
+          24.94070323563897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93809,
+        "source_id": 1359182,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.40714137126294,
+          25.26076799295535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93809,
+        "source_id": 1452554,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "United Arab Emirates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.40719195926091,
+          25.260870598765862
+        ]
+      }
+    }
+  ]
+}

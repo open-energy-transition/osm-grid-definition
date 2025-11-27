@@ -1,0 +1,5547 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100266,
+        "source_id": 1377479,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.96482038632173,
+          44.06790362033975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100266,
+        "source_id": 1225786,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.964783032660318,
+          44.06788750157623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100331,
+        "source_id": 1295370,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.864854348851786,
+          43.45522646139914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100331,
+        "source_id": 1377469,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8649159267082,
+          43.45528459966018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 103320,
+        "source_id": 899552,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.89696080995696,
+          44.894645766540094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 103320,
+        "source_id": 61350,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.896838487259085,
+          44.89489157779762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 104795,
+        "source_id": 1295488,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.61365547492631,
+          43.19530174162068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 104993,
+        "source_id": 1357069,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.363458375198853,
+          43.4432836604915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10543,
+        "source_id": 1244592,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.05434642420216,
+          45.05360880258548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10543,
+        "source_id": 1381703,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.05437762032516,
+          45.05363696469305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 105442,
+        "source_id": 1377481,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.36751944161374,
+          44.85276924005903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 104130,
+        "source_id": 1295496,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.86269308356217,
+          43.16267768042809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 106454,
+        "source_id": 1485293,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.290258511989386,
+          45.085663899912994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107304,
+        "source_id": 1484309,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.79685915851547,
+          44.601497272686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107304,
+        "source_id": 1446637,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.796264841453663,
+          44.601537967914105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107697,
+        "source_id": 1347634,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.258769146332348,
+          45.12469943395213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107697,
+        "source_id": 1422007,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.258738288546166,
+          45.124689682685926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 110351,
+        "source_id": 1377466,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.62935496257758,
+          43.37761425580269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11026,
+        "source_id": 1295375,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.425992103394307,
+          42.78999822062805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11026,
+        "source_id": 1260816,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42608950330116,
+          42.7900272997018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11026,
+        "source_id": 274244,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42769762135583,
+          42.78894705336104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11026,
+        "source_id": 1446630,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.426078324760816,
+          42.79008496317179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11026,
+        "source_id": 901321,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42608483906633,
+          42.79003315506764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 110414,
+        "source_id": 1381725,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.44626563395169,
+          45.03781540925516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11026,
+        "source_id": 1377472,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4260793214562,
+          42.79004130308888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 111193,
+        "source_id": 1397724,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.488555442190524,
+          44.07111157998418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 111428,
+        "source_id": 1422006,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.14174866465155,
+          45.060632764050375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 111480,
+        "source_id": 1309451,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.341155573893186,
+          45.12542376972706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 112481,
+        "source_id": 1357081,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.374744857777777,
+          43.6092008299313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 112605,
+        "source_id": 1484306,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.437480488242596,
+          43.34550784008764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12245,
+        "source_id": 1397716,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.827372923949234,
+          43.20614558893134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12245,
+        "source_id": 1295495,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.827428451338584,
+          43.20607516241214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12418,
+        "source_id": 164,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.680365736820036,
+          43.07689380877435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12418,
+        "source_id": 1295486,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.680544779770152,
+          43.07676541634548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12418,
+        "source_id": 1267102,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.68036129643236,
+          43.07685951160815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12418,
+        "source_id": 1377462,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.68095158682769,
+          43.07647846078176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12418,
+        "source_id": 270468,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.68058059541733,
+          43.07681987061791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12418,
+        "source_id": 899474,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.680486520816675,
+          43.07679214627537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13180,
+        "source_id": 1377464,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.687556753549828,
+          43.21472868339558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13180,
+        "source_id": 1346378,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.687528231935467,
+          43.21472726195399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13180,
+        "source_id": 1446620,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.687516834753733,
+          43.214707689018645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13676,
+        "source_id": 1196013,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.78414138847387,
+          43.237325998088494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13676,
+        "source_id": 899487,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.784072922121148,
+          43.23729173036349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13676,
+        "source_id": 270481,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.784142920375253,
+          43.237343735796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13676,
+        "source_id": 1295492,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.78412128210033,
+          43.23738027808775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13676,
+        "source_id": 1226528,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.784165692258536,
+          43.23732992984591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13676,
+        "source_id": 1397715,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.78414457352271,
+          43.23735111294796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13676,
+        "source_id": 1446623,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.78417139802753,
+          43.23733375554633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15314,
+        "source_id": 272474,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.202088276925604,
+          43.220159742603634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15314,
+        "source_id": 1295499,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.20194913560596,
+          43.21989615093069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15314,
+        "source_id": 272473,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.199014011575045,
+          43.21806675636626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15314,
+        "source_id": 1357073,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.202021309685232,
+          43.21991814097338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15314,
+        "source_id": 1377465,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.19892250688381,
+          43.21806674809761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15885,
+        "source_id": 1360990,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.65031431382674,
+          45.0229463563693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15885,
+        "source_id": 897557,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.649958699554418,
+          45.02209547906549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16018,
+        "source_id": 1381704,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.06570236344284,
+          45.107732195431154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16018,
+        "source_id": 1347671,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.06550819734583,
+          45.10766434954631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16437,
+        "source_id": 1295374,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.396959772122507,
+          42.63853077908351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16437,
+        "source_id": 274242,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.39698382219826,
+          42.63847663791971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16437,
+        "source_id": 53259,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.39631023896611,
+          42.63880395487421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16437,
+        "source_id": 1417836,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.396943096880737,
+          42.63853346130638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16437,
+        "source_id": 901320,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.39698262218725,
+          42.6385400131765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16437,
+        "source_id": 1256116,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.39707170713875,
+          42.63853831013392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16939,
+        "source_id": 1377461,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.663569837653856,
+          42.9117877101374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16939,
+        "source_id": 1295433,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.663604873927966,
+          42.91185981751624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17146,
+        "source_id": 1397723,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.19953786660952,
+          43.679288543846056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20656,
+        "source_id": 899499,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.731678741135315,
+          43.33881637678455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20656,
+        "source_id": 1377467,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.72971426557662,
+          43.34421923626165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20656,
+        "source_id": 899506,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.73273665313439,
+          43.34373592363715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20656,
+        "source_id": 1446624,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.72973102034401,
+          43.344191736787366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20656,
+        "source_id": 1218507,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.731635147263933,
+          43.34371296873882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21904,
+        "source_id": 1377455,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.449411207035084,
+          43.32758727462609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21904,
+        "source_id": 1265625,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.44395163585913,
+          43.32806705808359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21904,
+        "source_id": 1377454,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.443848498379378,
+          43.32805073459866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21904,
+        "source_id": 1295428,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.443819601186707,
+          43.3279872114308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21904,
+        "source_id": 270486,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.443947634579697,
+          43.32817195623599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21904,
+        "source_id": 899495,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.44391973444781,
+          43.32810356709147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22000,
+        "source_id": 1295484,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.58248618388687,
+          43.1412668834229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22000,
+        "source_id": 1295485,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.58675603528335,
+          43.14690240561817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22000,
+        "source_id": 1446618,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.582522129900415,
+          43.14123510318198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22000,
+        "source_id": 899478,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.583182535027017,
+          43.141036276460696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22000,
+        "source_id": 1484307,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.58680809702111,
+          43.14688222123911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22000,
+        "source_id": 1212761,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.586766944884985,
+          43.14693438112064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22000,
+        "source_id": 1357071,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.582535210511622,
+          43.14121786343679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22000,
+        "source_id": 1239888,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.582547101836088,
+          43.141196183348754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22000,
+        "source_id": 270471,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.582571263658988,
+          43.14126120472827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23874,
+        "source_id": 1237616,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.644545475512615,
+          43.17598420485791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23874,
+        "source_id": 1446619,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.64481301388038,
+          43.1764463452452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23874,
+        "source_id": 270474,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.64472742566506,
+          43.17647345978983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23874,
+        "source_id": 1295489,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.644755302700446,
+          43.17643137053552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23874,
+        "source_id": 899481,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.64448427918167,
+          43.17558871366419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23874,
+        "source_id": 1377463,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.644834556888693,
+          43.176445390104206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24384,
+        "source_id": 1309450,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.326169447844663,
+          45.07824599417095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24395,
+        "source_id": 1295376,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.44985746244073,
+          42.84361218233349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24395,
+        "source_id": 274246,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.44850567585687,
+          42.84414138178493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24395,
+        "source_id": 274245,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.45099576117474,
+          42.843400395572665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24395,
+        "source_id": 1357074,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.44979700044308,
+          42.84367732619604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24631,
+        "source_id": 1227196,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.771795995991457,
+          43.30016840743723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24631,
+        "source_id": 1397720,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.77087750317592,
+          43.29995543293887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24631,
+        "source_id": 270484,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.771901254211354,
+          43.30017672217405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24631,
+        "source_id": 899492,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.77113845606242,
+          43.299788856026986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24631,
+        "source_id": 1295502,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7708662177856,
+          43.29987822587301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25921,
+        "source_id": 270472,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.880793194061148,
+          43.14614546659375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25921,
+        "source_id": 899479,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.880888640139595,
+          43.14740887939526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25921,
+        "source_id": 1214168,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.877520317696476,
+          43.147287855787134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25921,
+        "source_id": 1417831,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.874252198624536,
+          43.14857532139993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26593,
+        "source_id": 1446631,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.43420224118918,
+          42.859234879832464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26593,
+        "source_id": 1295377,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.43567325086548,
+          42.85763647550825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26472,
+        "source_id": 1377457,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.42055624393598,
+          43.374461160317225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26472,
+        "source_id": 1446615,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.420595571657355,
+          43.374463197146426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27479,
+        "source_id": 1251833,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.600743332102024,
+          43.1951457623425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27479,
+        "source_id": 270475,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.602213474478376,
+          43.19598630543591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27479,
+        "source_id": 899482,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.600809723990366,
+          43.19510034801663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27479,
+        "source_id": 1295487,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.60067489191171,
+          43.19508908179895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28818,
+        "source_id": 1377220,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.278684832140165,
+          44.56954665081708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28818,
+        "source_id": 895644,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.279712795790896,
+          44.56891174113863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28818,
+        "source_id": 1235505,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.278475903599272,
+          44.56985076025529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28818,
+        "source_id": 265872,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.278906348435036,
+          44.56943336564083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28818,
+        "source_id": 895645,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.278288535647132,
+          44.56997807726036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29095,
+        "source_id": 1417840,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3772077795087,
+          44.98072444430166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29095,
+        "source_id": 1346399,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.377159080648106,
+          44.98067225018258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29095,
+        "source_id": 1446644,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.376877728366647,
+          44.98126878631668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31206,
+        "source_id": 1357065,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.20507655133192,
+          42.73866191088709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31912,
+        "source_id": 1196131,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.900610371980385,
+          43.12895352838187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31912,
+        "source_id": 53817,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.89639351454084,
+          43.12887091407942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31912,
+        "source_id": 1295491,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.900764316416215,
+          43.12897340645986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31912,
+        "source_id": 163,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.898676932065673,
+          43.13037480222124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31912,
+        "source_id": 52750,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.896584074174623,
+          43.127421708546215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31912,
+        "source_id": 161,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.90300851825824,
+          43.12990336730324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31912,
+        "source_id": 270470,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.90136527131785,
+          43.12898344664392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31912,
+        "source_id": 899476,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.900814360440954,
+          43.12873789859343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31912,
+        "source_id": 1446622,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.90073883023857,
+          43.12895937283232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31912,
+        "source_id": 899477,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.895912058762978,
+          43.13284839486483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31912,
+        "source_id": 1248972,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.90055830874979,
+          43.12893896571916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31912,
+        "source_id": 52524,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.897671383371314,
+          43.12582883051614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33761,
+        "source_id": 1377474,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.43825775636701,
+          42.8896003159174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33761,
+        "source_id": 1237088,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.43830109455392,
+          42.88961094195759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33761,
+        "source_id": 901325,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.43871741908151,
+          42.88976726560826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33761,
+        "source_id": 274248,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.43823247539972,
+          42.88967985038207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33761,
+        "source_id": 1295493,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.43821235504088,
+          42.889644128541775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33761,
+        "source_id": 901324,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.43761293040818,
+          42.88929242957711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34459,
+        "source_id": 1457122,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.49803359578807,
+          45.05976757882135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34459,
+        "source_id": 1253487,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.498027726205603,
+          45.05980789647645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34459,
+        "source_id": 1381706,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.49799227788412,
+          45.0598214927744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34459,
+        "source_id": 899560,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.49856158996698,
+          45.05967285382437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34459,
+        "source_id": 899561,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.49688894286145,
+          45.05977445870449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34459,
+        "source_id": 270508,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.49784508114236,
+          45.05976056677181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34459,
+        "source_id": 899559,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.49695890893438,
+          45.05917262965556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35259,
+        "source_id": 1484305,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.324933337528442,
+          43.381061919641525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35259,
+        "source_id": 1397713,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.324854888075695,
+          43.38109911289038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35259,
+        "source_id": 270489,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.32739151470761,
+          43.37761886592703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35259,
+        "source_id": 1256132,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.32484065506961,
+          43.38110775723618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35259,
+        "source_id": 899511,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.326896803804622,
+          43.376965732288895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35259,
+        "source_id": 1264657,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.327022104162772,
+          43.37713252712995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35259,
+        "source_id": 899512,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3248238584273,
+          43.38105798958264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35259,
+        "source_id": 270490,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.324901193319015,
+          43.381060760878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35259,
+        "source_id": 1295426,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.324803675734433,
+          43.38104481440782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35259,
+        "source_id": 1357067,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.32723216830407,
+          43.37752280374466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35259,
+        "source_id": 1295427,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.326893173002855,
+          43.37696508962943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35458,
+        "source_id": 1196011,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.795289771086892,
+          43.23032777112184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35458,
+        "source_id": 1196012,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.79248845324142,
+          43.233155909434416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35458,
+        "source_id": 899485,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.79536634446741,
+          43.23054389224952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35458,
+        "source_id": 1231766,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.79527679240456,
+          43.230328290110414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35458,
+        "source_id": 270480,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.793818675080743,
+          43.2319459703758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35458,
+        "source_id": 899486,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.79236760334441,
+          43.23335866113506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35458,
+        "source_id": 1244185,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.79247947745279,
+          43.23313497095457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35458,
+        "source_id": 1295494,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.793617807405187,
+          43.23206002531048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37220,
+        "source_id": 1397725,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.626755245894767,
+          43.79032592578141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38955,
+        "source_id": 1446628,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.147179018100605,
+          43.24607953244756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38955,
+        "source_id": 1253752,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.14714928506415,
+          43.24614044650793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38955,
+        "source_id": 1417834,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.147143148992832,
+          43.24611809728084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38955,
+        "source_id": 1295371,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.146928468063432,
+          43.24646175022375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40515,
+        "source_id": 1446639,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.03337017555249,
+          44.793442946852416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40515,
+        "source_id": 1397729,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.03408485685363,
+          44.79316268360188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40806,
+        "source_id": 1457153,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.48314195484401,
+          45.04289420757115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40806,
+        "source_id": 1402044,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.483047724993188,
+          45.04286291615134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41209,
+        "source_id": 1377470,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.143588129505986,
+          43.25858203449879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41209,
+        "source_id": 1346379,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.143555180222123,
+          43.258594985967456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41209,
+        "source_id": 272476,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.143435686894183,
+          43.25857303448599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4242,
+        "source_id": 899549,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.713698532008255,
+          44.85811536974432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4242,
+        "source_id": 1230425,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.713578062249603,
+          44.85815986509331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4242,
+        "source_id": 1397727,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.713643283833775,
+          44.85815480564074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44189,
+        "source_id": 274250,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.38408248178324,
+          42.90400528350689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44189,
+        "source_id": 1295379,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.384094498228954,
+          42.90398530517632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44189,
+        "source_id": 1377475,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.38409004701836,
+          42.904054421441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44189,
+        "source_id": 1446633,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.384144466978192,
+          42.90404700786393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47486,
+        "source_id": 1402017,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.31991349252409,
+          45.07907942106133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47486,
+        "source_id": 1347633,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.31990426686125,
+          45.07900523653608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48113,
+        "source_id": 1357083,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.40617922209842,
+          44.91045726295719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48113,
+        "source_id": 1446642,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.406229744808943,
+          44.91063648180492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48889,
+        "source_id": 1377482,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.287696210387697,
+          44.98588060868472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50493,
+        "source_id": 1445892,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.324809855308363,
+          44.90825499771695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51796,
+        "source_id": 902615,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.57526675412114,
+          44.507581702674266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51796,
+        "source_id": 1357082,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.572175184747323,
+          44.507081870317926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51796,
+        "source_id": 1446640,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.572210629003457,
+          44.50710512766536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51796,
+        "source_id": 1346397,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.57192900103339,
+          44.5071012572086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51796,
+        "source_id": 902614,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.569807824875067,
+          44.50594072629248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51796,
+        "source_id": 1219457,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.57203777361148,
+          44.507047458124006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52740,
+        "source_id": 1346395,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.87026457800692,
+          44.852652644229536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52740,
+        "source_id": 1397728,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.870232478323672,
+          44.85271569713921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54320,
+        "source_id": 1377460,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.228375839565473,
+          43.506871453762926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54320,
+        "source_id": 1446617,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.22836708115691,
+          43.50693607661965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54320,
+        "source_id": 1295432,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.228230407309102,
+          43.50687306306211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55033,
+        "source_id": 1446613,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.351046531148818,
+          43.338891420074354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55033,
+        "source_id": 270487,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.35109582590589,
+          43.33902664421217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55033,
+        "source_id": 899504,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.349603916838724,
+          43.3406581824774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55033,
+        "source_id": 1357066,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.35106654683263,
+          43.338846659821726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55033,
+        "source_id": 899497,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.35106543120033,
+          43.33799955041311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55033,
+        "source_id": 899498,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.354925671805766,
+          43.33886668970087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55033,
+        "source_id": 899502,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.353457037032268,
+          43.34050780539823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55033,
+        "source_id": 899496,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.34829533162864,
+          43.335734020032405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55033,
+        "source_id": 1295425,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.350997533718942,
+          43.33885486241034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55033,
+        "source_id": 1246954,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.351070131974474,
+          43.33888804824134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5692,
+        "source_id": 1422031,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.702220815374226,
+          45.03361118262211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58232,
+        "source_id": 1240979,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.824312552894817,
+          43.29410484632377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58232,
+        "source_id": 1295503,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.82426283720219,
+          43.29407900455686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58232,
+        "source_id": 1377468,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8243213080949,
+          43.29411400103895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58232,
+        "source_id": 1446626,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.82430419213314,
+          43.29411635931088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58232,
+        "source_id": 270483,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.824135590639482,
+          43.295035087468285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58232,
+        "source_id": 899491,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.824252673097007,
+          43.29432577841673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58498,
+        "source_id": 1295497,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.953878215666855,
+          43.2370040414734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58498,
+        "source_id": 1397717,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.953880769814013,
+          43.23698696185359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61756,
+        "source_id": 268270,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.700009477491964,
+          44.76699358925061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61756,
+        "source_id": 897552,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.698303612073577,
+          44.76682113731414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61756,
+        "source_id": 897553,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.700040718416187,
+          44.76720941488843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61756,
+        "source_id": 1397433,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.69978702528937,
+          44.76694883595045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61756,
+        "source_id": 1294378,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.69983447021943,
+          44.76691316550259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61756,
+        "source_id": 897551,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.69915173179326,
+          44.766246989609385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61756,
+        "source_id": 1247482,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.699791492262165,
+          44.76694665698563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63301,
+        "source_id": 1209519,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.442016646098097,
+          44.07712678645328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63301,
+        "source_id": 1446635,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.44215626509201,
+          44.07701164561856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65566,
+        "source_id": 1295429,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.502257159703202,
+          43.38768494661003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65566,
+        "source_id": 1357068,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.502300577952134,
+          43.38763041252737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66955,
+        "source_id": 1347635,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.483051095890172,
+          45.06365952255439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66955,
+        "source_id": 1422008,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.483159661033024,
+          45.06376915169438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67490,
+        "source_id": 1417838,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.33060064237035,
+          44.959102513335225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68039,
+        "source_id": 1295430,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.369989665936796,
+          43.44085713488283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68039,
+        "source_id": 1377458,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.37020829437176,
+          43.44075327542826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68083,
+        "source_id": 1295424,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.921178992462995,
+          43.27784409909786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69254,
+        "source_id": 1377487,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.581669072672245,
+          44.89932866773149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69254,
+        "source_id": 1295388,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.581657046250264,
+          44.89927348421664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69254,
+        "source_id": 1446646,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.58171640330373,
+          44.89930606319086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69254,
+        "source_id": 1211298,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.581525445732066,
+          44.89914190700142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7176,
+        "source_id": 1309643,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.10548731136819,
+          45.10310862723496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7176,
+        "source_id": 1381705,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.105546129041166,
+          45.10314462603253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7176,
+        "source_id": 1243112,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.105586136548194,
+          45.10315457696244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71967,
+        "source_id": 1357075,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.480191307130934,
+          43.16028117350718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71967,
+        "source_id": 1346383,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.48012488728736,
+          43.16022853731817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73456,
+        "source_id": 1446610,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.03957322076588,
+          42.859696813935386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73456,
+        "source_id": 1417829,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.03970896884362,
+          42.85968986651783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74088,
+        "source_id": 1295385,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.756893362971418,
+          43.65581846397253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74088,
+        "source_id": 1357077,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.75669964505113,
+          43.65568837747571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7745,
+        "source_id": 1397722,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.416146269713742,
+          42.90229722643457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7745,
+        "source_id": 1295383,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.416189081940043,
+          42.90242147265532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7745,
+        "source_id": 1377476,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.41254203408772,
+          42.90184472283947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7834,
+        "source_id": 270476,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.770169928787016,
+          43.2052621335007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7834,
+        "source_id": 899483,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.769986886473923,
+          43.20531149396534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7834,
+        "source_id": 1346384,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.76221881637792,
+          43.20551499453218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7834,
+        "source_id": 165,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.763724681608245,
+          43.20531382294924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7834,
+        "source_id": 1397714,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.770131820851585,
+          43.20521887573346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7834,
+        "source_id": 899484,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.76233414535987,
+          43.20561914747726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7834,
+        "source_id": 1218626,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.762665127697428,
+          43.20550307787047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7834,
+        "source_id": 1346385,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.769939665610575,
+          43.20531250528847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7834,
+        "source_id": 1484308,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.77007009151608,
+          43.2052547751214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7834,
+        "source_id": 270477,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.76238243152487,
+          43.20547839763088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7834,
+        "source_id": 1224775,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.770050490771148,
+          43.20528969608129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78503,
+        "source_id": 897541,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.898331335334664,
+          44.05012131415114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81455,
+        "source_id": 1357072,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.700636315625307,
+          43.1988874865701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81455,
+        "source_id": 1211637,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.700659221516844,
+          43.19890731393974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81455,
+        "source_id": 1446621,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.70060770303535,
+          43.19897640492067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81951,
+        "source_id": 1446611,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.56292036509684,
+          43.19381501102664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81951,
+        "source_id": 1211606,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.562907698880554,
+          43.193797588776086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81951,
+        "source_id": 1397712,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.562920974260265,
+          43.19374092272131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82771,
+        "source_id": 1377485,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.92887457963984,
+          44.60250443386023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82771,
+        "source_id": 1446641,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.929204855365004,
+          44.602627426302725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82865,
+        "source_id": 1346398,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.336355599925888,
+          44.96208547108743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82865,
+        "source_id": 1377486,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.336304327737064,
+          44.96212581292914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83604,
+        "source_id": 1377473,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.407756702262382,
+          42.86451674410879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84407,
+        "source_id": 1357080,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.55745037497041,
+          43.8082598423518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84421,
+        "source_id": 1295501,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.623046889929725,
+          43.37583033896614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84421,
+        "source_id": 1397719,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.62310317131779,
+          43.37584836946088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84558,
+        "source_id": 1377471,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.223335003432155,
+          43.25836402797746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84558,
+        "source_id": 1253920,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.22351676922962,
+          43.258314536687145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84558,
+        "source_id": 901347,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2235221583043,
+          43.25828857781084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84558,
+        "source_id": 272475,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.223666516334543,
+          43.25825263500508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84558,
+        "source_id": 1295372,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.223458330645983,
+          43.25830851863038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86030,
+        "source_id": 1446638,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.661800771047098,
+          44.89085996178397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86030,
+        "source_id": 1397726,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.662139901441332,
+          44.89093984370042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86041,
+        "source_id": 1446645,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.44690956341381,
+          44.96367897563435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86041,
+        "source_id": 1357085,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.44693228455652,
+          44.96366760488174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87043,
+        "source_id": 1446625,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.76999982169119,
+          43.29027471109009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87043,
+        "source_id": 1417832,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.769982831389466,
+          43.29026884081732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87161,
+        "source_id": 1377459,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.383138585983428,
+          43.45261191085388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87590,
+        "source_id": 1295386,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.13296044924987,
+          43.85462940523976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87590,
+        "source_id": 1377478,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.13300076159128,
+          43.85460268415747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87439,
+        "source_id": 1456413,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.470878886120776,
+          45.14218475212169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88390,
+        "source_id": 1446627,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.815735241863038,
+          43.383900433554295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88390,
+        "source_id": 1295282,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.81592843618071,
+          43.38359048533413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88390,
+        "source_id": 1417833,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.815915606252844,
+          43.383825739650014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 90201,
+        "source_id": 1295378,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42125884382325,
+          42.87131585234491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 90201,
+        "source_id": 1417837,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.421224005462708,
+          42.87138043452591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91679,
+        "source_id": 901378,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.982831109302463,
+          44.39277786082928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91845,
+        "source_id": 1417830,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.344782676145627,
+          43.454955525339344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92036,
+        "source_id": 1377456,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.430309335652257,
+          43.37052110233979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92036,
+        "source_id": 1446614,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.430231596416213,
+          43.37048087004732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94271,
+        "source_id": 897549,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.379760833862974,
+          44.52668325799804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94271,
+        "source_id": 1346310,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.379976977314296,
+          44.5272079679516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94271,
+        "source_id": 265871,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37985686355086,
+          44.52686710739391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94735,
+        "source_id": 1377221,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.708799570222762,
+          44.56677654748884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94735,
+        "source_id": 1209497,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.70903915873792,
+          44.56787958618735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94735,
+        "source_id": 1208043,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.70816120235982,
+          44.56597296229201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96074,
+        "source_id": 1212948,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3320637363857,
+          44.93835644654867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96074,
+        "source_id": 1377483,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.33202637487398,
+          44.93840866656335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96074,
+        "source_id": 1446636,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.332002200540707,
+          44.93832112416105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96532,
+        "source_id": 1246239,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.15712853130225,
+          43.09190941338871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96532,
+        "source_id": 901332,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.15715594559332,
+          43.09178254416699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96532,
+        "source_id": 272472,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.15737351188729,
+          43.0918454190389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96532,
+        "source_id": 1295498,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.15728913226384,
+          43.09174953793061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96532,
+        "source_id": 1397718,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.157276858955804,
+          43.09179406237552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 97103,
+        "source_id": 1446629,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.41842122925891,
+          42.70851174841917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 97229,
+        "source_id": 1357078,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.061400967862472,
+          43.9608345027704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 97229,
+        "source_id": 1346393,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.061395788908538,
+          43.96077411356965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 97084,
+        "source_id": 1417839,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.341593709814635,
+          44.98131202836838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98262,
+        "source_id": 1238450,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.14088622683101,
+          43.33487425778364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98331,
+        "source_id": 1356801,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.25003028144497,
+          44.61735164160304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98331,
+        "source_id": 1250604,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Bosnia and Herzegovina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.249803799866196,
+          44.61724825423265
+        ]
+      }
+    }
+  ]
+}

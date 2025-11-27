@@ -1,0 +1,430 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15248,
+        "source_id": 1279953,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0764466770602,
+          14.833615854470512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15248,
+        "source_id": 1222223,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.07720852112943,
+          14.830248613346829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15248,
+        "source_id": 808572,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.07645428569148,
+          14.834443160992947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15248,
+        "source_id": 1437233,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0762498593571,
+          14.83453283870938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15248,
+        "source_id": 1255347,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.07633407605636,
+          14.834518082921637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15248,
+        "source_id": 1373709,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.07667518430135,
+          14.832709964297406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15248,
+        "source_id": 808571,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.07649987563079,
+          14.832140001947485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15248,
+        "source_id": 175564,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.07622473204469,
+          14.834698234936884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15248,
+        "source_id": 1437232,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0770424205974,
+          14.830618197802249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28452,
+        "source_id": 175565,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.16167470665212,
+          14.871768511700576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32895,
+        "source_id": 44220,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.14696849608168,
+          14.752942189320414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42859,
+        "source_id": 808566,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.02310187850655,
+          14.617736750377318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51632,
+        "source_id": 808568,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.93892700810638,
+          14.70271182275862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51632,
+        "source_id": 1437231,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.93891964003634,
+          14.702677062171086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51632,
+        "source_id": 1230016,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.93882831251815,
+          14.702652559052696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54231,
+        "source_id": 42932,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.995531252076766,
+          14.772028795747373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54231,
+        "source_id": 1279952,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.99808840115568,
+          14.77281907649492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59832,
+        "source_id": 808567,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.16622590419735,
+          14.690919705647538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59832,
+        "source_id": 43835,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.16614878007499,
+          14.69102160092252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59832,
+        "source_id": 1373708,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.16619364195808,
+          14.690963282844187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65616,
+        "source_id": 808565,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.03278778338214,
+          14.61274219617919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65616,
+        "source_id": 1393922,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.033298374362,
+          14.61297182787328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66801,
+        "source_id": 808569,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.94061089339269,
+          14.707480970998136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66801,
+        "source_id": 62028,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.94060625745412,
+          14.707580407629004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66801,
+        "source_id": 1393923,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Martinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.94061666803691,
+          14.707653629843188
+        ]
+      }
+    }
+  ]
+}

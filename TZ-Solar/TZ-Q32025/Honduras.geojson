@@ -1,0 +1,4408 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 101571,
+        "source_id": 1353188,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.82882200743573,
+          15.758569941210547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 101571,
+        "source_id": 1437144,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.82888187113363,
+          15.75867935667754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 105588,
+        "source_id": 1437145,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.79145599220293,
+          15.771526569389904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 105588,
+        "source_id": 1437146,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.79090139342576,
+          15.773657160985334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 106428,
+        "source_id": 1279690,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.03126568269835,
+          15.472252111578335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 106428,
+        "source_id": 1373664,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.03157929124511,
+          15.4721142964521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 106339,
+        "source_id": 1437135,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0386359231591,
+          15.523704098720216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107396,
+        "source_id": 1279688,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0054116747615,
+          15.40919184084946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107396,
+        "source_id": 1279687,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.00764729625051,
+          15.407858560601166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107749,
+        "source_id": 1373665,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02254879720047,
+          15.524643043189071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 12117,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56420830517817,
+          13.514428156143808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 12146,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.57283056779647,
+          13.520503318444414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 12133,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5742290221333,
+          13.515814893875834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 763633,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55517752876777,
+          13.509146285462489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 12139,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.57365253477788,
+          13.525587290382385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 1240494,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56660541859503,
+          13.51463491750513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 1246584,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5698613939713,
+          13.526063575090532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 1236038,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56003793073128,
+          13.520214736232395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 12158,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56462339162202,
+          13.526040945040156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 1373652,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55969855528443,
+          13.520034907039914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 12140,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56622238784065,
+          13.514864262839186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 1437104,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55964121368017,
+          13.520070862386111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 12114,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56060400633484,
+          13.514196444022256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 1266925,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55513974079872,
+          13.50911276921222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 12132,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56985694852362,
+          13.525723791889565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 763635,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56979549635854,
+          13.526086452382271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 12130,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56975786011688,
+          13.519762361126013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 12143,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56965500978147,
+          13.518621701137478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 1258939,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.57297818420682,
+          13.523864126398154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 1279831,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55947623669252,
+          13.520192673461423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 12149,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.57338354328446,
+          13.52334900205201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 12181,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.54450929934931,
+          13.52640164089811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 1253575,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.54986776595842,
+          13.522566397331296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 12183,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.54998918271282,
+          13.522950061239191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 97455,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56846531029674,
+          13.513931124890954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 12115,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55880958904014,
+          13.52129503263546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 1242444,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.54462278711979,
+          13.526480884770994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 12128,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5686466624636,
+          13.513949884534837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 97453,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55665712411405,
+          13.519716607057664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 12131,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55534760924918,
+          13.509270846378726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 763634,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55901481867572,
+          13.520883379428687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 97457,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56735869705882,
+          13.517047294018166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 12136,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.57225086451058,
+          13.52702093074967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 97456,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56495991308405,
+          13.51428886223067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 12126,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56533718612476,
+          13.522619603399358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 97454,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.57429385770125,
+          13.516026595742767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 1232318,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.57308407987288,
+          13.51660225624905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 97461,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56981259377578,
+          13.52599200229719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 97460,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5444535045264,
+          13.52649549976038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 12144,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56960365058794,
+          13.51734313139588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1547,
+        "source_id": 97459,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.57226874095159,
+          13.522430984747944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19704,
+        "source_id": 1246870,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.54910208887735,
+          13.483528089451529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19704,
+        "source_id": 12175,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55416241049991,
+          13.484329084804498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19704,
+        "source_id": 1279830,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.54921612218682,
+          13.483455499479396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19704,
+        "source_id": 1437103,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.54924644082085,
+          13.483434923827348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19704,
+        "source_id": 97452,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5490798087838,
+          13.483503833930117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19704,
+        "source_id": 12160,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.54789884640591,
+          13.483380120583751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19704,
+        "source_id": 763632,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.54911043692942,
+          13.483526815837212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19704,
+        "source_id": 1414068,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.54912660225743,
+          13.483409837606445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20128,
+        "source_id": 1373662,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61195298305208,
+          14.375189107842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20128,
+        "source_id": 1259181,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61179219824297,
+          14.375284195356562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20128,
+        "source_id": 763661,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61200396758201,
+          14.375170311915744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20128,
+        "source_id": 1437125,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61194874240893,
+          14.375222130687025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20128,
+        "source_id": 97482,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61193090413494,
+          14.375253809524372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20128,
+        "source_id": 1181577,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61177109931621,
+          14.375296361244263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20128,
+        "source_id": 1279677,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61199799434279,
+          14.375165392845677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20323,
+        "source_id": 1260974,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.20138250208048,
+          15.384036279159783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20323,
+        "source_id": 761612,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.20151707917037,
+          15.384110510299102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20323,
+        "source_id": 1279683,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.20134886639622,
+          15.384023241660511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20323,
+        "source_id": 97511,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.20156582426128,
+          15.3842067132255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20323,
+        "source_id": 1393871,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.20129504185294,
+          15.384046400998589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20323,
+        "source_id": 1437128,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.20115668472623,
+          15.384068593413398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20323,
+        "source_id": 12176,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.20155902667916,
+          15.384102012028556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22882,
+        "source_id": 100140,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.25247977218567,
+          13.236613456553492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22882,
+        "source_id": 1253793,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.25248452709236,
+          13.236503433104732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22882,
+        "source_id": 1437097,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2523513712656,
+          13.236434757054798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22882,
+        "source_id": 1353178,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2522315948628,
+          13.2363556978212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22882,
+        "source_id": 1279777,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2523027500445,
+          13.236473906553297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22882,
+        "source_id": 763612,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.25235088809704,
+          13.236568377232771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 100135,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22225394782711,
+          13.214293130517726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 1437095,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.21916970394221,
+          13.212884401816613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 1482981,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.21598632292054,
+          13.212786921633564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 62769,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22792955367035,
+          13.208829628022894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 1263975,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.21155542500911,
+          13.23026235906502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 1256650,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.20995516489857,
+          13.224355960624775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 52271,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22611619277669,
+          13.211724384250209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 100139,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.20926626960242,
+          13.227255628290546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 12190,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.21347348109799,
+          13.223752892867694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 100136,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.21467986069713,
+          13.214760979324666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 12187,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.21590444457128,
+          13.229657058244022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 29880,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.220334357451,
+          13.21635908816832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 1244546,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.21154258726608,
+          13.221492067372749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 1236926,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2151353187802,
+          13.211473629737467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 52263,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22503307037687,
+          13.213539149193002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 12189,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2117639548236,
+          13.221602902503188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 29885,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2202068132416,
+          13.21507667989338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 1353177,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.20892732546994,
+          13.226947251246091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 1235626,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.19925634964912,
+          13.22725805072394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 12188,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.20966350592403,
+          13.227670220842672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 1482983,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.20717369430149,
+          13.22875888424291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 52258,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.21879285757299,
+          13.21899758682365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 52261,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22165964811174,
+          13.216639916463366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 100129,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.21508090929252,
+          13.209923449466652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 763610,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.20931003791989,
+          13.227103355088632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 52264,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22298228678856,
+          13.21409310527154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 12194,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.21547722309529,
+          13.226394069471729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 1437096,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.20944527589886,
+          13.226851932566229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 1181634,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.20928683433269,
+          13.227164021059814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 12193,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.19973565292662,
+          13.226886922676206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 1279776,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.20915307876045,
+          13.2269570214667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 29923,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.21524339081164,
+          13.212144197585411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 52270,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22134106185514,
+          13.212020056577757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 1373650,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.21908672550711,
+          13.212886458403313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 763609,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.21923186829923,
+          13.212500113413718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 1219063,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22289897734818,
+          13.21336525480361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2436,
+        "source_id": 52266,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22346359808358,
+          13.208446425697296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26764,
+        "source_id": 1437134,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.00205270181304,
+          15.482891386963662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26764,
+        "source_id": 1437133,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.00334082257685,
+          15.480286584900428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28267,
+        "source_id": 761630,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9357517373891,
+          15.62388025861562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28267,
+        "source_id": 1437141,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.93794252433563,
+          15.622681124077117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28267,
+        "source_id": 1393873,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.93710393784752,
+          15.622752689637394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28267,
+        "source_id": 97523,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.93763864484009,
+          15.620933211285308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30649,
+        "source_id": 12171,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.13654544274968,
+          13.118057839343765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30649,
+        "source_id": 763605,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.13650474539482,
+          13.11798524063892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30649,
+        "source_id": 12178,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.14077140590588,
+          13.121451018658828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30649,
+        "source_id": 12167,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.14222071357537,
+          13.11691187880912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30649,
+        "source_id": 1279663,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.13651998814576,
+          13.118009056934472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30649,
+        "source_id": 1236043,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.14025725807019,
+          13.121838388918652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30649,
+        "source_id": 1245140,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.13473689434419,
+          13.12489315003111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30649,
+        "source_id": 1263988,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.13654177536436,
+          13.118059827056843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30649,
+        "source_id": 12177,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.13835698068115,
+          13.126046276783756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30649,
+        "source_id": 1353184,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.13646765838836,
+          13.118103876853036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30649,
+        "source_id": 1437117,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.13658169953939,
+          13.118034683111114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30649,
+        "source_id": 763604,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.13977405702158,
+          13.122029956366209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30649,
+        "source_id": 1279662,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.13977777527485,
+          13.122021687986724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30649,
+        "source_id": 1393863,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.13962532796926,
+          13.12213615592239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30649,
+        "source_id": 100124,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.13939046822038,
+          13.12093236966636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30649,
+        "source_id": 52267,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.13471351654057,
+          13.125066152159194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34153,
+        "source_id": 1437142,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.89438555242549,
+          15.741644402448776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35748,
+        "source_id": 1279733,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.86029120998772,
+          16.4555379544451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35748,
+        "source_id": 1353190,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.86037894034845,
+          16.455680741968887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37015,
+        "source_id": 12165,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.26899035899028,
+          13.285253195569382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37015,
+        "source_id": 1414066,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.26604509277342,
+          13.27573215403166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37015,
+        "source_id": 1261477,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.26353804410022,
+          13.2740642549353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37015,
+        "source_id": 100150,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.26333649954832,
+          13.274017580876263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37015,
+        "source_id": 1437098,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2661334347571,
+          13.27586155947728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37015,
+        "source_id": 1482982,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.27156276172822,
+          13.266050066329942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37015,
+        "source_id": 100149,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.27137674570561,
+          13.265789858363556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37015,
+        "source_id": 1265129,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.27170816209296,
+          13.26596705802657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37015,
+        "source_id": 12180,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.26367407417997,
+          13.274109582395129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37015,
+        "source_id": 763614,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.27171592652607,
+          13.265845461485751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37015,
+        "source_id": 1181637,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.26332961212435,
+          13.274141869224415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37015,
+        "source_id": 763617,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.26864586021553,
+          13.284478789087322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37015,
+        "source_id": 1181638,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.26893176716102,
+          13.284851401836605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37015,
+        "source_id": 763615,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.26334185695762,
+          13.274037387098844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37015,
+        "source_id": 65854,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2716735776541,
+          13.265896136833533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37015,
+        "source_id": 100151,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.26880215669226,
+          13.285089829097982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37015,
+        "source_id": 1270629,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.26887830755896,
+          13.28508546207311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37015,
+        "source_id": 1181636,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2717137008741,
+          13.265878254498991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40478,
+        "source_id": 65850,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3211741347302,
+          13.386514532478918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40478,
+        "source_id": 100159,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.32055831582,
+          13.389649231002032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40478,
+        "source_id": 1437106,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3206022497835,
+          13.389436332608271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40478,
+        "source_id": 1279833,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.32061788243814,
+          13.389534467542648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40478,
+        "source_id": 1229888,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.32061890164559,
+          13.389568308110364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40478,
+        "source_id": 12172,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.32071370597305,
+          13.391311682381948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40478,
+        "source_id": 763624,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.32061775534564,
+          13.38960335729049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40478,
+        "source_id": 1414069,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.32053684759916,
+          13.389407388493918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40478,
+        "source_id": 1181639,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3208135681316,
+          13.389362090711426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4176,
+        "source_id": 1181635,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22842864974477,
+          13.26294476612236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4176,
+        "source_id": 763613,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22925741094708,
+          13.263159372667005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4176,
+        "source_id": 1373651,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22939159364535,
+          13.26303400498372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4176,
+        "source_id": 100146,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22909882963299,
+          13.262882539194376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4176,
+        "source_id": 12162,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.23031183483141,
+          13.261677696242776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4176,
+        "source_id": 1279824,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22929340681186,
+          13.263067645097534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4176,
+        "source_id": 12168,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22545011053175,
+          13.264263689412449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4176,
+        "source_id": 1248971,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22862299448971,
+          13.262973642553447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44508,
+        "source_id": 1437129,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9902339311883,
+          15.368404648235094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44508,
+        "source_id": 1414081,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9902145685871,
+          15.368258463593516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44508,
+        "source_id": 1279684,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.98868638049362,
+          15.370989651318595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56281,
+        "source_id": 1437108,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.33224667928155,
+          13.404324848215094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56281,
+        "source_id": 1279835,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.33229879427233,
+          13.404387719976752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56281,
+        "source_id": 65851,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3317259513899,
+          13.404375156777393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56281,
+        "source_id": 100162,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.33233170090625,
+          13.404482361363543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56281,
+        "source_id": 1223792,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3321525632912,
+          13.404405270546851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56281,
+        "source_id": 1373654,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.33225209671376,
+          13.40433018140168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56281,
+        "source_id": 65855,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.33579486016178,
+          13.40445621269465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56281,
+        "source_id": 763627,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.33208436459896,
+          13.404378743289264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56328,
+        "source_id": 761626,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.96028335662137,
+          15.608389793025417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56328,
+        "source_id": 1232528,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9596099853124,
+          15.611908795577834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56328,
+        "source_id": 97520,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.96040784401316,
+          15.608246735510422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57879,
+        "source_id": 1437138,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95304593629612,
+          15.589343357057071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58509,
+        "source_id": 763620,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.30357488881783,
+          13.37557993251422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58509,
+        "source_id": 100157,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.30354804003821,
+          13.375588044980626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58509,
+        "source_id": 1437107,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.30355799310487,
+          13.375558288329907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58509,
+        "source_id": 1414070,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.30352170841758,
+          13.375588088743443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58509,
+        "source_id": 1266542,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.30351716453332,
+          13.37555399301822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58509,
+        "source_id": 1279834,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.30357305341107,
+          13.375605999533342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58509,
+        "source_id": 12161,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.30354228923994,
+          13.375538413929632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65138,
+        "source_id": 1437131,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.998303206948,
+          15.395361927383489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65138,
+        "source_id": 1223853,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.99851348498035,
+          15.395260040177355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65138,
+        "source_id": 1353187,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.99849508919641,
+          15.395198730012693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65138,
+        "source_id": 1279686,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.99842893610884,
+          15.395098140009615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67209,
+        "source_id": 100299,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52122673831536,
+          16.34616777343696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67209,
+        "source_id": 763681,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52123626577044,
+          16.346292407392625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67209,
+        "source_id": 1263869,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52121521835801,
+          16.346313313409038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67209,
+        "source_id": 1437147,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52116074234218,
+          16.346312611075998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67209,
+        "source_id": 1414083,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52117005731559,
+          16.346319338150607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69394,
+        "source_id": 1279685,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9712027235588,
+          15.363548505966753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69394,
+        "source_id": 1414082,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.97093171856713,
+          15.36350001681091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69899,
+        "source_id": 1437126,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.96179220365293,
+          15.249635849342823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69899,
+        "source_id": 1279681,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.96185573133597,
+          15.249566079408751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69899,
+        "source_id": 1414080,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9617477030855,
+          15.2496501954238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70682,
+        "source_id": 1279665,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.17584036961152,
+          14.050932813485243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70682,
+        "source_id": 1393864,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.17581557148871,
+          14.05090354197342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71121,
+        "source_id": 1249139,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.17754768098428,
+          15.33342037469553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71121,
+        "source_id": 761607,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1775765956324,
+          15.33340821556124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71121,
+        "source_id": 1279682,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.17751765030683,
+          15.333401207809064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71121,
+        "source_id": 1393870,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.17753731169917,
+          15.333436759801726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71121,
+        "source_id": 1437127,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.17750088154601,
+          15.333686575681671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71121,
+        "source_id": 97505,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.17749207266802,
+          15.333429056721746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75888,
+        "source_id": 1393869,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65370886221004,
+          14.507988773462746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75888,
+        "source_id": 1181580,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65378747533526,
+          14.507976471549188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75888,
+        "source_id": 97492,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6536767361658,
+          14.507986794206328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75888,
+        "source_id": 1221274,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65378676496155,
+          14.507966321149144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75888,
+        "source_id": 761584,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65371824114253,
+          14.50798774090499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75888,
+        "source_id": 1279680,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6537423892553,
+          14.507999686692996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83501,
+        "source_id": 1414079,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2123898620157,
+          14.074797640530807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83501,
+        "source_id": 1279679,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.21242963109817,
+          14.074843114152545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8374,
+        "source_id": 1414074,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.00140225079858,
+          14.014827712570488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8374,
+        "source_id": 1236030,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.00162652902296,
+          14.014814744772902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8374,
+        "source_id": 1279666,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.00144844956463,
+          14.014746332380948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84627,
+        "source_id": 761621,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02897621929289,
+          15.489668745386131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84627,
+        "source_id": 1482987,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02837553235598,
+          15.48961337181591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84627,
+        "source_id": 62770,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02900658319606,
+          15.48967435392138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85073,
+        "source_id": 1373655,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22033706767938,
+          14.0624961938708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85073,
+        "source_id": 1279678,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22037064764791,
+          14.062526819510206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85073,
+        "source_id": 1231322,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22039655144151,
+          14.06251505927364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88267,
+        "source_id": 1437130,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.00818255127925,
+          15.401775336445931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89036,
+        "source_id": 1269925,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.96859037224422,
+          15.46813719639186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89036,
+        "source_id": 1373663,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.96861535365606,
+          15.468187337886546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89036,
+        "source_id": 1279689,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.96853420196717,
+          15.468141908678206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89036,
+        "source_id": 761620,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.96857507882693,
+          15.468099065774604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89036,
+        "source_id": 1437132,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.96852286633832,
+          15.468233112076542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 90233,
+        "source_id": 1279691,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95726702483917,
+          15.58604185750206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 90233,
+        "source_id": 1437137,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95725873989316,
+          15.586141129593482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92529,
+        "source_id": 100300,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.45317541748327,
+          16.356638296405222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92529,
+        "source_id": 765873,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.45319784395623,
+          16.356683505060495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92529,
+        "source_id": 1353189,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.45315688258954,
+          16.35666106109282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92529,
+        "source_id": 1260071,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.45319963684992,
+          16.356673747201093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9332,
+        "source_id": 1393872,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9562568316882,
+          15.603461835288934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9332,
+        "source_id": 1437139,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.96041798745058,
+          15.601649821461653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9332,
+        "source_id": 1279692,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.96032344675992,
+          15.601548416314106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9332,
+        "source_id": 1437140,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95659488391688,
+          15.603434529311723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 97784,
+        "source_id": 1345133,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.18332736352156,
+          14.088021001780271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 97784,
+        "source_id": 1373666,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.18325623478293,
+          14.08806023567767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9839,
+        "source_id": 1215091,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.66168784698743,
+          15.45736425075933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9839,
+        "source_id": 763676,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.66717527046964,
+          15.471003665232402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9839,
+        "source_id": 1393874,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6637856441133,
+          15.468849024811414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9839,
+        "source_id": 1437143,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Honduras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6637545688186,
+          15.468311099159942
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14365,
+        "source_id": 1197425,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.035932550274488,
+          -15.776922392650606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37225,
+        "source_id": 1197611,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.43210114608262,
+          -15.51577805562182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37225,
+        "source_id": 927192,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4175260842015,
+          -15.519093845890664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37225,
+        "source_id": 1228496,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.42074146291457,
+          -15.518558539763562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37225,
+        "source_id": 927194,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.432109479076548,
+          -15.51574016053922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37225,
+        "source_id": 1258569,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.43210898368715,
+          -15.515835265631344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37225,
+        "source_id": 1484063,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.420957764225506,
+          -15.518583314289312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37225,
+        "source_id": 1443265,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.42067893756837,
+          -15.51856710971186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37225,
+        "source_id": 307389,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.42072501787176,
+          -15.518571794384572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37225,
+        "source_id": 927193,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.422055555175053,
+          -15.51841775660326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37225,
+        "source_id": 1289416,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.42929242392405,
+          -15.516497078707108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37225,
+        "source_id": 307390,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4321511309056,
+          -15.515761712641805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54827,
+        "source_id": 1443266,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.23199663998593,
+          -12.800321699028594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54827,
+        "source_id": 1376134,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.231992368564704,
+          -12.80026780043832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54827,
+        "source_id": 927227,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.23193467216676,
+          -12.800275803819224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54827,
+        "source_id": 1289420,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.23208965265512,
+          -12.800380632715145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54827,
+        "source_id": 307731,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.237180165455047,
+          -12.807852680360138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54827,
+        "source_id": 1197427,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2320658028255,
+          -12.80039947823183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54827,
+        "source_id": 1246120,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.23158683955472,
+          -12.799694362581832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54827,
+        "source_id": 307732,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.23497045836139,
+          -12.8045290675663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54827,
+        "source_id": 1246402,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.237019769384137,
+          -12.807790838365936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7135,
+        "source_id": 1197428,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.18242245765795,
+          -12.692972254377052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7135,
+        "source_id": 1289421,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.182488630343776,
+          -12.69313981131121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7135,
+        "source_id": 927228,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.182379780977907,
+          -12.692819084758812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7135,
+        "source_id": 1221518,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.182416072333744,
+          -12.693094438978507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88657,
+        "source_id": 1197612,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5412456488125,
+          -13.299133127742824
+        ]
+      }
+    }
+  ]
+}

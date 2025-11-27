@@ -1,0 +1,1263 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107425,
+        "source_id": 1437235,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.11045733625724,
+          18.13092840761837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 108578,
+        "source_id": 1353235,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.88273204658338,
+          18.373859538456102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14121,
+        "source_id": 1414133,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.26726176979594,
+          18.46595407673327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17620,
+        "source_id": 1414134,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.94429912680359,
+          18.380461154468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17620,
+        "source_id": 799382,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.94423436311475,
+          18.38052942342512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22925,
+        "source_id": 1373720,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.35218327853185,
+          18.45121544797576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22925,
+        "source_id": 1393933,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.34950892282419,
+          18.448831848296063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22925,
+        "source_id": 1437247,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.34900065417426,
+          18.44888439540828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22925,
+        "source_id": 1437246,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.35215302495376,
+          18.45099212732526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22925,
+        "source_id": 799391,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.35225158140923,
+          18.45131896329423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22925,
+        "source_id": 62874,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.35067500326875,
+          18.4487584004829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22925,
+        "source_id": 22316,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.35222812403863,
+          18.4512750624835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22925,
+        "source_id": 799390,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.34901923377203,
+          18.44894470961478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22925,
+        "source_id": 22327,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.34895516426899,
+          18.44900832113859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22925,
+        "source_id": 1280021,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.35218348883596,
+          18.451289607935635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22925,
+        "source_id": 162053,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.34905090570552,
+          18.448811716269525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22925,
+        "source_id": 1189392,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.35212517532734,
+          18.45114746136669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22925,
+        "source_id": 162052,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.35056293483264,
+          18.448771520976173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30021,
+        "source_id": 22374,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.81719985337031,
+          18.13475154075441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30021,
+        "source_id": 1189395,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.81721400937981,
+          18.134624946900622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30021,
+        "source_id": 1240487,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.8172216074577,
+          18.134580470466485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30021,
+        "source_id": 162043,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.81717619178077,
+          18.13488855631154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30021,
+        "source_id": 1393930,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.8172785099586,
+          18.134795599513343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30021,
+        "source_id": 1437242,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.81795611139599,
+          18.13353337524648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30021,
+        "source_id": 799375,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.82322281394974,
+          18.13643131096888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30021,
+        "source_id": 1279975,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.81723699231495,
+          18.13474051859508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30021,
+        "source_id": 799374,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.81710843526082,
+          18.13460796218221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30383,
+        "source_id": 1437249,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.90356936859641,
+          18.412532769532696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30383,
+        "source_id": 162050,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.90352447165681,
+          18.41269592940983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30383,
+        "source_id": 1393935,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.90355851335158,
+          18.41257630048953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30383,
+        "source_id": 799386,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.90128866757827,
+          18.41548272574302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30383,
+        "source_id": 1280024,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.90345227192729,
+          18.412658940425576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30383,
+        "source_id": 799384,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.90559382301196,
+          18.409981672415675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30383,
+        "source_id": 53853,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.9024529035737,
+          18.413988734361304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30383,
+        "source_id": 1189398,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.90345124501637,
+          18.41268488925041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30383,
+        "source_id": 66824,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.90729315194147,
+          18.40783727201609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30383,
+        "source_id": 1244411,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.90161931440925,
+          18.4149587344546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39047,
+        "source_id": 1393934,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.12850926729942,
+          18.415588826464848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39047,
+        "source_id": 1245354,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.12857874632094,
+          18.4155004765454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39047,
+        "source_id": 799387,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.12858413542719,
+          18.41550694142414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39047,
+        "source_id": 162051,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.12864952338951,
+          18.41544758077427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39047,
+        "source_id": 1345181,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.12868539986975,
+          18.41562183028481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39047,
+        "source_id": 1189391,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.12858201485787,
+          18.4154766164481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4775,
+        "source_id": 799393,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.09394900087692,
+          18.45419227954616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4775,
+        "source_id": 1272551,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.09391451354327,
+          18.454225058364813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4775,
+        "source_id": 1280022,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.09391023981263,
+          18.45421713539405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4775,
+        "source_id": 1437248,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0938992840827,
+          18.454191815001508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4775,
+        "source_id": 1272674,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.09111983968226,
+          18.45199428086666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4775,
+        "source_id": 799392,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.09110691531976,
+          18.45191637401658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4775,
+        "source_id": 162055,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.09383535300425,
+          18.45416280455014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4775,
+        "source_id": 22348,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.09395315612795,
+          18.45417671195891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4775,
+        "source_id": 1189399,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0911307849918,
+          18.452003928856094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4775,
+        "source_id": 22317,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.09120182598244,
+          18.452011636574053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4775,
+        "source_id": 1353234,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.09387078874646,
+          18.454191198657764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4775,
+        "source_id": 162054,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.09110994387304,
+          18.452032352821643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4775,
+        "source_id": 1280023,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.09118675117399,
+          18.45202148981512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4775,
+        "source_id": 1189400,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.09391342324392,
+          18.4542680913708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53679,
+        "source_id": 799385,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.13435112422927,
+          18.41488014157607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56789,
+        "source_id": 53839,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.11430527440736,
+          18.40894612317332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56789,
+        "source_id": 53840,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.11232654563388,
+          18.41176126374744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59489,
+        "source_id": 1373721,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.8173841562443,
+          18.377878835258752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61154,
+        "source_id": 53838,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.49602187434395,
+          18.0074144652802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61154,
+        "source_id": 799351,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.4961960413974,
+          18.007436414344216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61154,
+        "source_id": 1414128,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.4962244070745,
+          18.007452812916778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73781,
+        "source_id": 53852,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.01594391408976,
+          18.246748177730225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75250,
+        "source_id": 799373,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.78990964341314,
+          18.130186843059963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75250,
+        "source_id": 162044,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.78980921388954,
+          18.13055851229781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79789,
+        "source_id": 22324,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.14856714415036,
+          18.458585999778368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79789,
+        "source_id": 1373716,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.14883233171702,
+          18.458591794710745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80128,
+        "source_id": 53846,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.11299342454467,
+          18.424333487513167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87874,
+        "source_id": 1280015,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.10194185407641,
+          18.49289740997957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87874,
+        "source_id": 799397,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.10191565576895,
+          18.49285793963147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87874,
+        "source_id": 1189376,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.10198494738364,
+          18.492743582544136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89282,
+        "source_id": 53836,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.13861964565466,
+          18.38474424818609
+        ]
+      }
+    }
+  ]
+}

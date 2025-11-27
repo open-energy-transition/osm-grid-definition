@@ -1,0 +1,532 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10546,
+        "source_id": 61337,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.37282832112196,
+          25.46661830645177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22297,
+        "source_id": 363287,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.46720364239901,
+          25.40845964627206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22297,
+        "source_id": 1229166,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4683771144173,
+          25.40891560910885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22297,
+        "source_id": 966123,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.46635039236315,
+          25.407958220491462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22297,
+        "source_id": 966125,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.46768988475327,
+          25.40892671678292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22297,
+        "source_id": 966124,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.469101137684895,
+          25.40885529496884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22297,
+        "source_id": 1359183,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.466950316070246,
+          25.40840945800592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32408,
+        "source_id": 363270,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.01437894389037,
+          25.23868454778717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32408,
+        "source_id": 1399724,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.014859269834055,
+          25.23876094528957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32408,
+        "source_id": 1200445,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.01731702854982,
+          25.238721112240352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32408,
+        "source_id": 1452521,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.01486644865764,
+          25.238738368874937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32408,
+        "source_id": 1484685,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.01860638809263,
+          25.24040211049993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32408,
+        "source_id": 1302606,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.014864790027495,
+          25.2387313332125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32408,
+        "source_id": 363274,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.026296084795,
+          25.240417893325507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32408,
+        "source_id": 966111,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.01478688349334,
+          25.238853622884367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5120,
+        "source_id": 1379464,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.52791707550288,
+          25.013331659858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5120,
+        "source_id": 966103,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.52814101146775,
+          25.02068476679148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5120,
+        "source_id": 1452522,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.528007688167015,
+          25.01339951492304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5120,
+        "source_id": 966101,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.53253731742336,
+          25.00334918197049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70888,
+        "source_id": 966147,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.43768304957669,
+          25.89644610081626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70888,
+        "source_id": 1419807,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.44269696717487,
+          25.89802474703378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70888,
+        "source_id": 363323,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4362054390168,
+          25.90654391714777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70888,
+        "source_id": 1452556,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.44262929990084,
+          25.897954045740253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70888,
+        "source_id": 363324,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.44326791286391,
+          25.90666134148612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 76964,
+        "source_id": 1302580,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.416171778602525,
+          25.63633946495135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 76964,
+        "source_id": 1419806,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.41614359613119,
+          25.63632187022969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89761,
+        "source_id": 59605,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.439027057149495,
+          25.318315374033705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98826,
+        "source_id": 1359168,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.35781368063551,
+          25.17162287827589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98826,
+        "source_id": 1302609,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.35802127100461,
+          25.171657011671574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 99600,
+        "source_id": 363300,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3169827933524,
+          25.56177860443058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 99600,
+        "source_id": 61327,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.31653641831825,
+          25.56365975997121
+        ]
+      }
+    }
+  ]
+}

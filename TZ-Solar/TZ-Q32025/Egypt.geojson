@@ -1,0 +1,4391 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100614,
+        "source_id": 55515,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.439696301131995,
+          29.989703859149422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 102025,
+        "source_id": 940131,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.41432365137533,
+          27.983875960790225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 102025,
+        "source_id": 1377502,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.41418395569316,
+          27.984225840782347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 102476,
+        "source_id": 1446680,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.629143767239235,
+          30.338867209401545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 106958,
+        "source_id": 1484314,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.27585414416436,
+          25.889276297282382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107660,
+        "source_id": 1397740,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.08403579824072,
+          30.277946022371207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 108484,
+        "source_id": 938167,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.00586642744163,
+          29.78461317140055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 109128,
+        "source_id": 1446679,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.549575859284783,
+          30.36252301024321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 110301,
+        "source_id": 1228749,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.425080618011755,
+          30.49111033113252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 110681,
+        "source_id": 55519,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.82730954381889,
+          30.15075702086142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 110896,
+        "source_id": 1295565,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.45614099558439,
+          29.95645477876643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 110896,
+        "source_id": 1484319,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.456113256578355,
+          29.95697652286864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11164,
+        "source_id": 1255056,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.24566394669497,
+          25.292781678877983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11164,
+        "source_id": 1295506,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.245664228586325,
+          25.292746661958017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11164,
+        "source_id": 929734,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.245719614912336,
+          25.292779694116444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11164,
+        "source_id": 310636,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.24570934808066,
+          25.29280270538957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11164,
+        "source_id": 1397737,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.24568564874893,
+          25.2927545118362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11378,
+        "source_id": 312966,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.366435271172914,
+          27.92275405271607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11378,
+        "source_id": 312967,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.36241525512252,
+          27.930552241334688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11378,
+        "source_id": 931511,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.36432752862037,
+          27.92677993327333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12351,
+        "source_id": 319697,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.72957894351893,
+          23.30434158010229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12351,
+        "source_id": 1417852,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.72948714393396,
+          23.30427177287464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12351,
+        "source_id": 1295510,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.72947627584837,
+          23.3042392189457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12351,
+        "source_id": 1252066,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.72956126950242,
+          23.30431952274555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12351,
+        "source_id": 935396,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.72949023193546,
+          23.304302520949367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13684,
+        "source_id": 1263098,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1996196686539,
+          27.05750588564734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13684,
+        "source_id": 927460,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.19965992294356,
+          27.05756450232301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13684,
+        "source_id": 308123,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.19924090623324,
+          27.057594410622663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13684,
+        "source_id": 1295515,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.199592650004075,
+          27.05746077483484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13684,
+        "source_id": 1484313,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.199630538120545,
+          27.0574649285345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13684,
+        "source_id": 1446668,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.199123572598577,
+          27.05742971350088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13684,
+        "source_id": 10951,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.19961986190054,
+          27.05760091222404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18607,
+        "source_id": 312983,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.40445496291918,
+          27.96427270170895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18607,
+        "source_id": 931525,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.404368605206688,
+          27.964289897425967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18607,
+        "source_id": 1357091,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.40434615121351,
+          27.964235625633776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20043,
+        "source_id": 929773,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.192709557288754,
+          30.182617848789658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20043,
+        "source_id": 1357093,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.19284472117122,
+          30.182589752107248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20043,
+        "source_id": 313047,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.192740020399867,
+          30.182620733924995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20043,
+        "source_id": 1295472,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.192692269428825,
+          30.18263851428668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20043,
+        "source_id": 1446672,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.19285115279966,
+          30.18260700452746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20043,
+        "source_id": 1259533,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.192749815859223,
+          30.18263320643136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22513,
+        "source_id": 1295517,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.620669066582444,
+          27.416284334511044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22513,
+        "source_id": 1251946,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.620643762003354,
+          27.41625699183325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22513,
+        "source_id": 322504,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.62071107681293,
+          27.416268601806514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22513,
+        "source_id": 1446670,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.621421519316634,
+          27.415387793694222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22513,
+        "source_id": 938148,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.62060450109067,
+          27.416293419097936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22513,
+        "source_id": 1417854,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.62138581237479,
+          27.415408163940963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26304,
+        "source_id": 55539,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.477928872195,
+          31.4496286242046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26304,
+        "source_id": 1346413,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.47789888065668,
+          31.449694037776155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26304,
+        "source_id": 933546,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.47792815382243,
+          31.44970839632905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26304,
+        "source_id": 1397741,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.477877122830908,
+          31.44967319215261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26304,
+        "source_id": 1240351,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.477803446508904,
+          31.4496529131812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28335,
+        "source_id": 933404,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.14586997658736,
+          29.79449440736676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28335,
+        "source_id": 1346412,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.14611469627281,
+          29.794557827071777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28335,
+        "source_id": 1417860,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.14588502950798,
+          29.794503502504224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28335,
+        "source_id": 319779,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.1458459154532,
+          29.79451841656795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28898,
+        "source_id": 1446681,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.59923847554445,
+          30.48973323487651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28868,
+        "source_id": 30051,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.511875992842064,
+          29.17822732231949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28868,
+        "source_id": 1218096,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.514003111782618,
+          29.178974766086142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28868,
+        "source_id": 1295523,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5152795070829,
+          29.178341484557706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28868,
+        "source_id": 297641,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.51635571493203,
+          29.17836542678809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28868,
+        "source_id": 920597,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.51542820889017,
+          29.17840445843762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28868,
+        "source_id": 30046,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.51563673257927,
+          29.178595988810965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28868,
+        "source_id": 30049,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.51428391529831,
+          29.17778503333676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28868,
+        "source_id": 30063,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.51581158692592,
+          29.1775274157019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31699,
+        "source_id": 1261986,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.555389823255155,
+          27.91276010014764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31699,
+        "source_id": 1295518,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.55532700797088,
+          27.91274553327716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31699,
+        "source_id": 931510,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.55531159687503,
+          27.912797015382093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31699,
+        "source_id": 315154,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5553943905687,
+          27.91272585369613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31699,
+        "source_id": 1446669,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5554947396879,
+          27.91248154072981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31699,
+        "source_id": 1377494,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.555335154614983,
+          27.912805951112635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32295,
+        "source_id": 319723,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7239178190308,
+          24.45437683118203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32295,
+        "source_id": 319720,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.73315020395298,
+          24.402448365255683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32295,
+        "source_id": 1214442,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.74138817418898,
+          24.43190240055588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32295,
+        "source_id": 1198663,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.71424038603034,
+          24.427135166165908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32295,
+        "source_id": 319721,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.74440043067419,
+          24.402428177981264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32295,
+        "source_id": 319719,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.71487010324428,
+          24.427794213173023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32295,
+        "source_id": 10922,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.71021128767216,
+          24.41097451936464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32295,
+        "source_id": 935411,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.72092500445873,
+          24.397345041451825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32295,
+        "source_id": 935412,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.72000291229095,
+          24.397597349035653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32295,
+        "source_id": 1295512,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.71688895255368,
+          24.42574241719378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32295,
+        "source_id": 935413,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.717369906413666,
+          24.42545654173753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32295,
+        "source_id": 1245979,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.713951514941826,
+          24.42582900992184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32295,
+        "source_id": 935415,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7240642476912,
+          24.44318773985842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33188,
+        "source_id": 933423,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.594424310965948,
+          29.995727465199234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33188,
+        "source_id": 1295561,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.59476666949005,
+          29.995998090451938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33188,
+        "source_id": 933422,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5955738462536,
+          29.995608579930085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33188,
+        "source_id": 1357098,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.59480616695372,
+          29.995996512500103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33188,
+        "source_id": 317456,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.59490327770005,
+          29.995936404341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38055,
+        "source_id": 324928,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2935741183314,
+          27.932581872742443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38055,
+        "source_id": 1199181,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.29355881220244,
+          27.932407900925487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38055,
+        "source_id": 1248455,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.29811250792714,
+          27.93392199445077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38055,
+        "source_id": 1295528,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.29360917449018,
+          27.932399791042823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38055,
+        "source_id": 940129,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.29355293183784,
+          27.932363936777776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38055,
+        "source_id": 940130,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.29808452469616,
+          27.93400737263469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38055,
+        "source_id": 1295529,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2980918400629,
+          27.933994425485235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38055,
+        "source_id": 324929,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2981546328598,
+          27.933978386244306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38055,
+        "source_id": 10916,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.29859599104077,
+          27.93353342936527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38055,
+        "source_id": 1199182,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2985907836836,
+          27.93326603831996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38055,
+        "source_id": 1262199,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.29358346815774,
+          27.93243243362943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38717,
+        "source_id": 1295521,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8798972724153,
+          28.01081262486252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38717,
+        "source_id": 1357092,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.88006178289404,
+          28.010907580582227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3967,
+        "source_id": 1397744,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.38589874952611,
+          28.014165816071664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3967,
+        "source_id": 1219567,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.38349768920268,
+          28.01428485161769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3967,
+        "source_id": 1269460,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.38622573773317,
+          28.013908155090533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3967,
+        "source_id": 940132,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.38570713211274,
+          28.013866876120503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3967,
+        "source_id": 1446688,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.38611818492935,
+          28.01421469779568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3967,
+        "source_id": 1295530,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.38591688208076,
+          28.01414352236372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3967,
+        "source_id": 324935,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.38647701723854,
+          28.01359869323095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39801,
+        "source_id": 1417851,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.84165053305789,
+          26.465536480100045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39801,
+        "source_id": 1267143,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.841655186431687,
+          26.465372423088564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39801,
+        "source_id": 1446663,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.841488938605927,
+          26.465416183581056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39801,
+        "source_id": 1295415,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.84156701199064,
+          26.46564751849004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40047,
+        "source_id": 1446666,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.78443155002509,
+          24.607412503824627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40047,
+        "source_id": 1446667,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.804093144605545,
+          24.613598177572747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40047,
+        "source_id": 1270209,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.80988852494206,
+          24.614598074259515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40047,
+        "source_id": 319725,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.81034503839919,
+          24.61527359818649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40047,
+        "source_id": 935425,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.79413537110919,
+          24.61194934035148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40047,
+        "source_id": 1198734,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.810293348074225,
+          24.607938552279712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40047,
+        "source_id": 935422,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7866915167176,
+          24.60559671838511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40047,
+        "source_id": 935424,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.80895999615886,
+          24.613066507814143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40047,
+        "source_id": 1397739,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.80666847931344,
+          24.61324310471761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40047,
+        "source_id": 935423,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.78208384364852,
+          24.605585269450547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41282,
+        "source_id": 1295514,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.576881077729563,
+          25.479766829631544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41282,
+        "source_id": 315099,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.57689065971825,
+          25.47974585457404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41282,
+        "source_id": 931461,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.57688478649247,
+          25.479700728368066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41282,
+        "source_id": 1260901,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.57682232734623,
+          25.479724289426333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41282,
+        "source_id": 1417853,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.57681022938584,
+          25.479809690266663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41960,
+        "source_id": 1417858,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.44634427847981,
+          30.35599327493761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41960,
+        "source_id": 1446678,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.446432633161848,
+          30.35591316713989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41960,
+        "source_id": 315260,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.446465699550924,
+          30.35586637938853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41960,
+        "source_id": 1295479,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.446360027103267,
+          30.35589362376587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41960,
+        "source_id": 931732,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.446719357013382,
+          30.355782437807846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42038,
+        "source_id": 305188,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.96309728286192,
+          27.04683892855376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42038,
+        "source_id": 10931,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.963111883330736,
+          27.04682153106313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42038,
+        "source_id": 925288,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.96324688480973,
+          27.04659899622049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49012,
+        "source_id": 1295476,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.22418278016724,
+          30.2433157573488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49012,
+        "source_id": 929778,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.224252629783688,
+          30.243300070106088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49012,
+        "source_id": 1446675,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.22422185054975,
+          30.243267904280835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49012,
+        "source_id": 1262319,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.22416655296156,
+          30.243289451193963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49012,
+        "source_id": 1417856,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.22420207829364,
+          30.24329968202821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49012,
+        "source_id": 313054,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.22423661667632,
+          30.243272908997447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49346,
+        "source_id": 1417855,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.91445136418842,
+          30.059318083018525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49346,
+        "source_id": 1295474,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.91439015870389,
+          30.05936310675516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49346,
+        "source_id": 931638,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.914425700129808,
+          30.05933383780846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49346,
+        "source_id": 1271107,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.91446503911122,
+          30.059322641506974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50264,
+        "source_id": 1377500,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.96117304494624,
+          24.913085884249504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50264,
+        "source_id": 327232,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.96116836059955,
+          24.91311728244761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50264,
+        "source_id": 940116,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.961195847649506,
+          24.913101319736576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50264,
+        "source_id": 1295568,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.961166038027734,
+          24.913099795205703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50264,
+        "source_id": 1258936,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9611311470367,
+          24.91309562641916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51160,
+        "source_id": 1220088,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.61442069062577,
+          25.536743035776293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51160,
+        "source_id": 1417864,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.614370423629026,
+          25.536660740818096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51160,
+        "source_id": 1295573,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.61435080018194,
+          25.5366671692486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51160,
+        "source_id": 940125,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.61443449412197,
+          25.53681663292106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51407,
+        "source_id": 933369,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.24883407303185,
+          29.27739144938545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51407,
+        "source_id": 317432,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.246377408641948,
+          29.2780389144638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52831,
+        "source_id": 1251385,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.503203314741214,
+          30.217566781599256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52831,
+        "source_id": 1446673,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.50324244505936,
+          30.21750333706985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52831,
+        "source_id": 1357094,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.503228267734187,
+          30.217575967708605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52831,
+        "source_id": 1295473,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.50321809649292,
+          30.21750267880991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52831,
+        "source_id": 931702,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.50322504139957,
+          30.21748191367548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52831,
+        "source_id": 315251,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.503256839192808,
+          30.21757287915412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56446,
+        "source_id": 1295522,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.201686284337324,
+          27.32635987900311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56446,
+        "source_id": 933362,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.201708111965782,
+          27.32641894347623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57477,
+        "source_id": 1446684,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.785711648806323,
+          31.458922651581787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58581,
+        "source_id": 317389,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.34805105279517,
+          22.65407416675876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58581,
+        "source_id": 1295508,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.347942310689568,
+          22.65410591995749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58581,
+        "source_id": 933347,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.34792876987304,
+          22.65419202469051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58581,
+        "source_id": 1232237,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.347869404290385,
+          22.65421974319355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58581,
+        "source_id": 1377493,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.34788163764863,
+          22.654101849170267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61127,
+        "source_id": 1295471,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.995650682681184,
+          30.22320695296496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61127,
+        "source_id": 1446671,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.99571916376584,
+          30.22321637006266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61127,
+        "source_id": 1377496,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.99566217725789,
+          30.22324429447668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61439,
+        "source_id": 1417862,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.71297752847434,
+          24.97594762154891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61439,
+        "source_id": 1295569,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.712800530589334,
+          24.97588307237784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61439,
+        "source_id": 940117,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.71282628211631,
+          24.975981177975463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61439,
+        "source_id": 1256581,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7126645199334,
+          24.9753466446998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61439,
+        "source_id": 327235,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.71295808850331,
+          24.975886821118426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62951,
+        "source_id": 1446676,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.700205581076435,
+          30.92745467378046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63874,
+        "source_id": 1417859,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5435450986552,
+          29.177190766145547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63874,
+        "source_id": 1248857,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.54353322083954,
+          29.177211530727725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63874,
+        "source_id": 319769,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.54358644814017,
+          29.17713757588843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63874,
+        "source_id": 1446682,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.54348726108675,
+          29.177186197369213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63874,
+        "source_id": 1295558,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.543561942525585,
+          29.177202060731464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63874,
+        "source_id": 935460,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5435722007664,
+          29.177193935708235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64359,
+        "source_id": 1346411,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.21226106972146,
+          28.65671673610009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64359,
+        "source_id": 322520,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.214038908671675,
+          28.65695255999152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64359,
+        "source_id": 938156,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.21227467787976,
+          28.65664342125689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64359,
+        "source_id": 1377497,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.21201242773188,
+          28.656686367408145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64359,
+        "source_id": 1224089,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.21231929101678,
+          28.656720798137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65398,
+        "source_id": 1484320,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.293217589298145,
+          31.22231606344809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65596,
+        "source_id": 315253,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.58867706724255,
+          30.261178100473384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65596,
+        "source_id": 1357096,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.588567045010382,
+          30.261287142474824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65596,
+        "source_id": 1295481,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.588547618850303,
+          30.261380377807964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65596,
+        "source_id": 1248807,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.58861085189176,
+          30.261342355030703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65596,
+        "source_id": 931713,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.58985320620218,
+          30.26031457511172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66041,
+        "source_id": 1446664,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.682020242774136,
+          24.58326068124215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71804,
+        "source_id": 1446674,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.11914846450758,
+          30.31242682493633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72649,
+        "source_id": 313077,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.051771289732244,
+          30.70445555541276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72649,
+        "source_id": 1446677,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.051716244695,
+          30.70439975990475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72649,
+        "source_id": 1417857,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.051684886531497,
+          30.704469190576592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72649,
+        "source_id": 1295477,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.05172132448284,
+          30.704427503994385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72649,
+        "source_id": 929802,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.051785909510865,
+          30.70435546695944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72649,
+        "source_id": 1262102,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.051717989942755,
+          30.70436324920069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72875,
+        "source_id": 1357099,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.36509969371757,
+          30.080401153524942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74742,
+        "source_id": 1242643,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.97139671597552,
+          26.87586027583292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74742,
+        "source_id": 1357101,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.971278340197,
+          26.875775211876075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74742,
+        "source_id": 938138,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.971806098252294,
+          26.87605594313732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74742,
+        "source_id": 324923,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.97139524837489,
+          26.875886926047333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74742,
+        "source_id": 1446687,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.971406733296256,
+          26.875826468737863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74742,
+        "source_id": 1295574,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.971306648875,
+          26.87579174161971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77483,
+        "source_id": 1257593,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.55805937123262,
+          28.196132184859703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78901,
+        "source_id": 1263674,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.855998381660235,
+          24.439479787485123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78901,
+        "source_id": 1295509,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85599589409339,
+          24.43950053194274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78901,
+        "source_id": 935414,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85601642032908,
+          24.43951825334678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78901,
+        "source_id": 1198733,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85599181839782,
+          24.439543657531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78901,
+        "source_id": 1446665,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.855986727218955,
+          24.43951954630567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78901,
+        "source_id": 319722,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85604833342742,
+          24.439414681663127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78901,
+        "source_id": 1397738,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.855944315294856,
+          24.43954293712733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55026,
+        "source_id": 1295564,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.66981543500477,
+          29.985020298396314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55026,
+        "source_id": 1417861,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.670029931073405,
+          29.98494434665815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81349,
+        "source_id": 1295478,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.451958814506643,
+          30.353680894624546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83215,
+        "source_id": 327237,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.87283833944885,
+          25.062620673661804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83215,
+        "source_id": 1397742,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.872894247876786,
+          25.06267297309117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83215,
+        "source_id": 1295570,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.87286916448273,
+          25.062660777968432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83215,
+        "source_id": 940118,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.873125811382764,
+          25.062741271902745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83215,
+        "source_id": 1258618,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.872683717636846,
+          25.06263233127432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83215,
+        "source_id": 1199325,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.87270117022578,
+          25.062638923676868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85200,
+        "source_id": 1232097,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.32122664865988,
+          29.680484042961847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85200,
+        "source_id": 1377498,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.32113461073057,
+          29.680502467784702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85200,
+        "source_id": 933403,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.321037602009184,
+          29.68057236716573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85200,
+        "source_id": 1295563,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.32121617448386,
+          29.680506460241343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85619,
+        "source_id": 933428,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.407117792649142,
+          30.08450758028133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85619,
+        "source_id": 55520,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.406059561061983,
+          30.084418014702617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86140,
+        "source_id": 1484316,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.688444603065424,
+          30.11083515653417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87055,
+        "source_id": 1357095,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4689375565867,
+          30.53896937687062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87055,
+        "source_id": 1295480,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.46890260233944,
+          30.53894147239548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88535,
+        "source_id": 317442,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.33328171390989,
+          29.82620955979064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88535,
+        "source_id": 1295559,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.333321700252,
+          29.82635062969217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88535,
+        "source_id": 933407,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.33309359658495,
+          29.82616361347975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88919,
+        "source_id": 310654,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.029490168020065,
+          28.70929884728814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88919,
+        "source_id": 1255136,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.02983883871297,
+          28.709826468783188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88919,
+        "source_id": 927473,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.029805934474577,
+          28.709841627783028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88919,
+        "source_id": 1295527,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.02977737809921,
+          28.709840593754866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91066,
+        "source_id": 927469,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.93660725053783,
+          28.215093750571626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91066,
+        "source_id": 310651,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.936668595918583,
+          28.21508077522883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91066,
+        "source_id": 1259208,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.93656773998025,
+          28.215122551621064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91066,
+        "source_id": 55576,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.93662542614896,
+          28.21511607128239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91066,
+        "source_id": 1295526,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.936568031850072,
+          28.214992118514463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91637,
+        "source_id": 1228643,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7144561073716,
+          30.73881001800734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91648,
+        "source_id": 1198856,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.881627678639774,
+          27.060805128222043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91648,
+        "source_id": 324924,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.88166503981622,
+          27.0607391621176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91648,
+        "source_id": 1377501,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.88168895187895,
+          27.060648998097417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91648,
+        "source_id": 1295575,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.881684767247705,
+          27.060627523923937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91648,
+        "source_id": 1255898,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.881638494573856,
+          27.060753835557858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91648,
+        "source_id": 938141,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.88162116906238,
+          27.06076008470409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91648,
+        "source_id": 62848,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.881565634549986,
+          27.060742341542664
+        ]
+      }
+    }
+  ]
+}

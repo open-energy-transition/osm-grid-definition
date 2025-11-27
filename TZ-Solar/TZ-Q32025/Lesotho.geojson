@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 112458,
+        "source_id": 1228489,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Lesotho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.75069315740796,
+          -29.001694773385434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46157,
+        "source_id": 304306,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Lesotho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.327608857867613,
+          -29.8093933548129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46157,
+        "source_id": 1243401,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Lesotho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.32762585326984,
+          -29.809433238449422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46157,
+        "source_id": 1416491,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Lesotho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.327543806946284,
+          -29.80947069976718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46157,
+        "source_id": 1197217,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Lesotho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.327648636681456,
+          -29.80940082208003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46157,
+        "source_id": 1289072,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Lesotho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.32756809368129,
+          -29.80945084235304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46157,
+        "source_id": 924785,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Lesotho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.32798620338814,
+          -29.809248545620044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 60040,
+        "source_id": 1345797,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Lesotho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.560142367644904,
+          -29.45565816368609
+        ]
+      }
+    }
+  ]
+}

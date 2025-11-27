@@ -1,0 +1,532 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11644,
+        "source_id": 1416549,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66741689089574,
+          -13.299304323555818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11644,
+        "source_id": 338090,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66741152168216,
+          -13.29906561700147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11644,
+        "source_id": 947108,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66743831075471,
+          -13.299126966642577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11644,
+        "source_id": 1443271,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66743405998862,
+          -13.299129508404375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11644,
+        "source_id": 1253300,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66746252774914,
+          -13.299130738021557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11644,
+        "source_id": 1200009,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66744195849528,
+          -13.299074383779711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11644,
+        "source_id": 1289523,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66744539180335,
+          -13.299114755372711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23502,
+        "source_id": 943334,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.50419068821852,
+          -14.800095199332237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23502,
+        "source_id": 1443268,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5042766745905,
+          -14.79997119017629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23502,
+        "source_id": 330859,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5042449747956,
+          -14.799964889119597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23502,
+        "source_id": 1289515,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.50427243010586,
+          -14.800025436204717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23502,
+        "source_id": 1262825,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.50425813747908,
+          -14.800020369002642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27492,
+        "source_id": 1227377,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.87868567297439,
+          -13.135709795290916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27492,
+        "source_id": 340677,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.87882819695252,
+          -13.135744156021968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27492,
+        "source_id": 1265728,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.88265261071855,
+          -13.129523608667313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27492,
+        "source_id": 1200183,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.88271212193399,
+          -13.129496464300766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27492,
+        "source_id": 950861,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.87919494116456,
+          -13.130723854797768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27492,
+        "source_id": 1200182,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.87870781213974,
+          -13.135675149786866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27492,
+        "source_id": 340678,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.88272675987667,
+          -13.1295215344124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27492,
+        "source_id": 1289424,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.88087137095844,
+          -13.132214038158336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27492,
+        "source_id": 950860,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.88082908586136,
+          -13.131973445435875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44018,
+        "source_id": 1484058,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.43146551417926,
+          -25.90798492531064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57283,
+        "source_id": 1266189,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.03983619957569,
+          -16.823489421593486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57283,
+        "source_id": 1289516,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0398650670132,
+          -16.823600395340637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57283,
+        "source_id": 333078,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.03977261032015,
+          -16.823596460331064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57283,
+        "source_id": 1199884,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.03648023610501,
+          -16.822802733943348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57283,
+        "source_id": 945108,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.03964775307891,
+          -16.823680018267694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62884,
+        "source_id": 934777,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.40124080085281,
+          -25.92171885813521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62884,
+        "source_id": 1289395,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.40122602408371,
+          -25.92167793774872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62884,
+        "source_id": 1224916,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.401056783008706,
+          -25.921781548584057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62884,
+        "source_id": 318715,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.401300520961094,
+          -25.92178090998925
+        ]
+      }
+    }
+  ]
+}

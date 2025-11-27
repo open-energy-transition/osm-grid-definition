@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14019,
+        "source_id": 1012,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cabo Verde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.5438735197854,
+          14.910445610424286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14019,
+        "source_id": 196170,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cabo Verde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.544252979345504,
+          14.909342468104416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14019,
+        "source_id": 829261,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cabo Verde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.54389913079357,
+          14.911238793940948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14019,
+        "source_id": 1285986,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cabo Verde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.544142610993195,
+          14.909511555247342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22108,
+        "source_id": 1345415,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cabo Verde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.92910460692738,
+          16.895214238986373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68407,
+        "source_id": 59601,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cabo Verde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.914040213956056,
+          16.62718001673442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68407,
+        "source_id": 1415493,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cabo Verde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.91352327197596,
+          16.62575118659228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68407,
+        "source_id": 1218241,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cabo Verde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.91319102530964,
+          16.624443324021595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68407,
+        "source_id": 829506,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cabo Verde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.91379209179903,
+          16.626786956648626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68407,
+        "source_id": 1440552,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cabo Verde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.913535335754627,
+          16.625745638751926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82125,
+        "source_id": 829495,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cabo Verde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.92234169313509,
+          16.614733535873672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82125,
+        "source_id": 1014,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cabo Verde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.92252646557613,
+          16.61472598401928
+        ]
+      }
+    }
+  ]
+}

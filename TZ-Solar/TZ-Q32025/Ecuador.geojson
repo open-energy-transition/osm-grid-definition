@@ -1,0 +1,1110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10626,
+        "source_id": 1273667,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24938539619042,
+          -2.343439214075281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10626,
+        "source_id": 54312,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24946980183037,
+          -2.343312056087238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10626,
+        "source_id": 775935,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24971077330194,
+          -2.343747207601306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10626,
+        "source_id": 1219438,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24934727043359,
+          -2.343185794892361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11064,
+        "source_id": 1273721,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.61506837046785,
+          -0.909430058776153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11064,
+        "source_id": 1433478,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.61500578236652,
+          -0.909390887593148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11064,
+        "source_id": 758930,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.61507590555956,
+          -0.909358288594552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11064,
+        "source_id": 1392630,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.61500857116106,
+          -0.9093442559024576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19007,
+        "source_id": 10911,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.46959310605088,
+          -4.250065321741963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19007,
+        "source_id": 1232998,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4695346529177,
+          -4.250145703336943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19007,
+        "source_id": 1392631,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.46952765469275,
+          -4.250115219804242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19007,
+        "source_id": 1433480,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.46955048995143,
+          -4.250172096544868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19007,
+        "source_id": 119380,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.469572925258,
+          -4.2500347178367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19007,
+        "source_id": 1273724,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.46955548761552,
+          -4.250187360066794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21033,
+        "source_id": 1273727,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.02006617796556,
+          -3.5320498674352487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21033,
+        "source_id": 10917,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.01968030984479,
+          -3.533607992988407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21033,
+        "source_id": 775927,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.02011883090259,
+          -3.5321463746823434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21033,
+        "source_id": 116892,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.02003083475994,
+          -3.532100981400892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21033,
+        "source_id": 1238661,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.02006134712656,
+          -3.5321693564049443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24837,
+        "source_id": 1273743,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.60556130068792,
+          -0.7983791593436824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24837,
+        "source_id": 1249275,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.60551051689889,
+          -0.7983466356735085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31614,
+        "source_id": 1232730,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.17350080922391,
+          0.4838494760785638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31614,
+        "source_id": 1393815,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.17356363488908,
+          0.4837951990161906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31614,
+        "source_id": 124350,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.17349952593328,
+          0.4838045816831585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31614,
+        "source_id": 778123,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.17355984588201,
+          0.4838501085673722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37938,
+        "source_id": 1273726,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1943247407587,
+          -3.5482834520440947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37938,
+        "source_id": 1246775,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19430689169079,
+          -3.5482746672922287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37938,
+        "source_id": 1433481,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19431005603779,
+          -3.548271811888295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45788,
+        "source_id": 1245175,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.71197260580925,
+          -1.908292961523805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45788,
+        "source_id": 54313,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.71207193509889,
+          -1.908223363842985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45788,
+        "source_id": 119612,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.71196764517164,
+          -1.9082366525861607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46114,
+        "source_id": 10986,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.32051412354234,
+          -0.7444225916834631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46114,
+        "source_id": 90054,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.32044876103528,
+          -0.7445085958926811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47759,
+        "source_id": 1372094,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.95775662733512,
+          -0.9470767975692344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47759,
+        "source_id": 87442,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.95768810286606,
+          -0.9470496939564232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47759,
+        "source_id": 749477,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.95785239268704,
+          -0.9470573650114964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47759,
+        "source_id": 1432834,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.95786108085449,
+          -0.9470767803878524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48951,
+        "source_id": 779994,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.941774577566,
+          0.4162179187589256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48951,
+        "source_id": 1353140,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.94169962770007,
+          0.416234986519339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48951,
+        "source_id": 124346,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.94169824330359,
+          0.4162788037243302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48951,
+        "source_id": 1270117,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.94175120825165,
+          0.4161417139310459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56007,
+        "source_id": 62852,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.30267261404721,
+          -4.117147232670565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56007,
+        "source_id": 1351901,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.30264804029358,
+          -4.11713075813608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56007,
+        "source_id": 1273729,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.302897448092,
+          -4.117179762271946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56007,
+        "source_id": 1249108,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.30288838235569,
+          -4.117226108418777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56007,
+        "source_id": 119384,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.30256042097086,
+          -4.117127464189196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56007,
+        "source_id": 1433482,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.30281312271919,
+          -4.117181258311656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62928,
+        "source_id": 778112,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.26864720950498,
+          0.0111971409128518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62928,
+        "source_id": 122038,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.26854745955029,
+          0.0108103353086143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62928,
+        "source_id": 1279474,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.26855998586832,
+          0.0107346535835995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62928,
+        "source_id": 1414023,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.26854815272588,
+          0.0107157883399389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62928,
+        "source_id": 1246958,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.26858975296909,
+          0.0107618019516788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68350,
+        "source_id": 1257720,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.63507403232931,
+          -0.75756541708428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68350,
+        "source_id": 778092,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.63505843752355,
+          -0.7574732464252656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68350,
+        "source_id": 1273432,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6351014070418,
+          -0.7574712660788196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81420,
+        "source_id": 1372358,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8143075857466,
+          -4.387028928117285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81420,
+        "source_id": 10924,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.81440997153165,
+          -4.386852986749742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81420,
+        "source_id": 1251647,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.81438990812089,
+          -4.386853327049168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81420,
+        "source_id": 119375,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.81440247701116,
+          -4.386842745489225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81420,
+        "source_id": 1433479,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.81440860662123,
+          -4.386836871408901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87458,
+        "source_id": 62854,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.41763770408674,
+          -3.920014888623352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87458,
+        "source_id": 119391,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.41796927502111,
+          -3.920389858025176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98222,
+        "source_id": 775950,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.42566332443285,
+          -0.5101542684386929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98222,
+        "source_id": 1273673,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.42555122075805,
+          -0.5101540752589054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98222,
+        "source_id": 1372359,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.42565666858802,
+          -0.5100833252217751
+        ]
+      }
+    }
+  ]
+}

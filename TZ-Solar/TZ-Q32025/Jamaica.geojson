@@ -1,0 +1,498 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 111101,
+        "source_id": 781494,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.90675368283841,
+          17.995126397623213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11308,
+        "source_id": 126419,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.30877941865059,
+          17.94382493568844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11308,
+        "source_id": 1186030,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.30897011424305,
+          17.943752887454096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11308,
+        "source_id": 21442,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.31108661833936,
+          17.942793730181545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11308,
+        "source_id": 1373679,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.30890670583754,
+          17.94379926020321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11308,
+        "source_id": 1268383,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.30891447479182,
+          17.94368668722129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11308,
+        "source_id": 1279794,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.30885778208328,
+          17.94369728062257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11308,
+        "source_id": 780025,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.30893809703358,
+          17.94384870874489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11308,
+        "source_id": 21408,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.30725353679766,
+          17.94439845349806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11308,
+        "source_id": 1437165,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.30890126618966,
+          17.943753547718185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39886,
+        "source_id": 1279795,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.83896286781396,
+          18.009473673402862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39886,
+        "source_id": 128431,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.83895376296017,
+          18.00946390352638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39886,
+        "source_id": 1437166,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.83898130767443,
+          18.009498719993406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39886,
+        "source_id": 1414099,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.83910141416526,
+          18.009705122968523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41470,
+        "source_id": 1279793,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.14588292199345,
+          17.89850544900273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41470,
+        "source_id": 781492,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.14594772931113,
+          17.898465016859355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41470,
+        "source_id": 1373678,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.14588472519085,
+          17.898522138189865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48952,
+        "source_id": 1437164,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1049716692149,
+          18.22761868779968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48952,
+        "source_id": 1279792,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.10492129073303,
+          18.227590751308828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48952,
+        "source_id": 778132,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.10492554435159,
+          18.227674857862244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48952,
+        "source_id": 124379,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.10497874380597,
+          18.227678376837257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48952,
+        "source_id": 1373677,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.10488776455331,
+          18.227608054339367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48952,
+        "source_id": 1272504,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.104960815856,
+          18.22764311274961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48952,
+        "source_id": 1185411,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.10496187967823,
+          18.227658764601674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56013,
+        "source_id": 1414100,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.61585820546216,
+          18.48688145245773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56013,
+        "source_id": 1437167,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6159292499636,
+          18.486806523303056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5980,
+        "source_id": 1353201,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.77154829069583,
+          17.93950324287455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5980,
+        "source_id": 1279796,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.77121647761227,
+          17.939433454813642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83207,
+        "source_id": 1482990,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Jamaica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.57148480895651,
+          17.904566831267047
+        ]
+      }
+    }
+  ]
+}

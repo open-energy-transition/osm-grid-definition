@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69532,
+        "source_id": 1184159,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Cayman Islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.24552963935078,
+          19.290156317404133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69532,
+        "source_id": 774066,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cayman Islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.24624499907586,
+          19.28981389113661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69532,
+        "source_id": 114291,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cayman Islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2454275537499,
+          19.290082851483376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69532,
+        "source_id": 1279740,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cayman Islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.24538552848566,
+          19.290251008364816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69532,
+        "source_id": 1373669,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cayman Islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.24539348378663,
+          19.2902343930004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69532,
+        "source_id": 1256160,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cayman Islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.24544049988393,
+          19.290244887620165
+        ]
+      }
+    }
+  ]
+}

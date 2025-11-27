@@ -1,0 +1,260 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16669,
+        "source_id": 1414085,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Belize"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.35871200962087,
+          16.879959612569998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16669,
+        "source_id": 97530,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Belize"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.35859404518406,
+          16.879895943942678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16669,
+        "source_id": 761646,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Belize"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.35867845517306,
+          16.87994579673516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16669,
+        "source_id": 1241294,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Belize"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.35869705479323,
+          16.879960458418804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4399,
+        "source_id": 1414084,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Belize"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.75963997907141,
+          17.24564242519897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4399,
+        "source_id": 760056,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Belize"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7596895982387,
+          17.24568451629625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4399,
+        "source_id": 52211,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Belize"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7597676864996,
+          17.245711982962483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44392,
+        "source_id": 1393876,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Belize"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05266471518003,
+          17.297627015433875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44392,
+        "source_id": 1271635,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Belize"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05292564524044,
+          17.297644933440857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44392,
+        "source_id": 760057,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Belize"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05293972361403,
+          17.29763338214189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44392,
+        "source_id": 94898,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Belize"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05275775381972,
+          17.29766627621345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92398,
+        "source_id": 1272425,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Belize"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.31785681737863,
+          17.085067559950563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92398,
+        "source_id": 1353191,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Belize"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.31790588623257,
+          17.085062205392788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92398,
+        "source_id": 97531,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Belize"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.31790249639486,
+          17.08502317366451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92398,
+        "source_id": 1279736,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Belize"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.31788048697297,
+          17.085019502139954
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 112244,
+        "source_id": 1461452,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Brunei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.34052865241314,
+          4.613208235542926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59544,
+        "source_id": 1249473,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Brunei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.29483610850004,
+          4.603189250476961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59544,
+        "source_id": 1076770,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Brunei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.29502916400988,
+          4.603233111547724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59544,
+        "source_id": 506337,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Brunei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.29507546059408,
+          4.603312786123107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59544,
+        "source_id": 1461451,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Brunei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.29510096607694,
+          4.602847415384697
+        ]
+      }
+    }
+  ]
+}

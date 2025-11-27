@@ -1,0 +1,1433 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 103309,
+        "source_id": 1286031,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.542815013331168,
+          16.652136701571386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 103309,
+        "source_id": 829525,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.542784497875036,
+          16.652164544727746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 103309,
+        "source_id": 52140,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.542855982121676,
+          16.65215226165933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15588,
+        "source_id": 1244239,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.187783190803566,
+          23.932030165908618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15588,
+        "source_id": 1286135,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.187834208514074,
+          23.932001556900417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15588,
+        "source_id": 1415513,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.187873788060983,
+          23.9319645297206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18136,
+        "source_id": 1286024,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.541671536961037,
+          20.54076606667773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18136,
+        "source_id": 829815,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.541687460045942,
+          20.54077037280205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18136,
+        "source_id": 196484,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.541729314040715,
+          20.540822548728823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18136,
+        "source_id": 1241248,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.541824087897524,
+          20.540813386284505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20633,
+        "source_id": 1286020,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.973149176377424,
+          18.29393439709264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20633,
+        "source_id": 1189581,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.973191243137665,
+          18.29395520442907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20633,
+        "source_id": 829628,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.97302609504816,
+          18.293899741614307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20633,
+        "source_id": 196312,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.973441792486458,
+          18.29339178969803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24884,
+        "source_id": 1189569,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.990345098643168,
+          20.169568951421823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24884,
+        "source_id": 1286023,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.990327315678746,
+          20.16953674232565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24884,
+        "source_id": 1260543,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.99063398753158,
+          20.169504249470947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24884,
+        "source_id": 196475,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.990072024805636,
+          20.16953639299073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24884,
+        "source_id": 829757,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.990201995327045,
+          20.16965723949216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24884,
+        "source_id": 1395319,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.990302070923986,
+          20.16944959373096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30704,
+        "source_id": 1286026,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.055669657348629,
+          20.517186705513904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30704,
+        "source_id": 1270440,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.055673138791995,
+          20.51723913469699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30704,
+        "source_id": 22114,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.05565962771056,
+          20.51719945542697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30704,
+        "source_id": 1375080,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.055654669416848,
+          20.517204451879724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30704,
+        "source_id": 829811,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.05563061898258,
+          20.517149361721337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30704,
+        "source_id": 1189570,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.055632789081534,
+          20.51721830978031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30984,
+        "source_id": 196409,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.40050595957206,
+          19.74652113279344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30984,
+        "source_id": 1189568,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.400491638047194,
+          19.746444754205548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30984,
+        "source_id": 829678,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.400477995121165,
+          19.74656107837329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30984,
+        "source_id": 1269931,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.400510448879276,
+          19.746419979519228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30984,
+        "source_id": 1395320,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.400482927801155,
+          19.74650048618828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30984,
+        "source_id": 22121,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.400495463583455,
+          19.74648754841869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35391,
+        "source_id": 1286032,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.28671163785324,
+          16.59890614009333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 60449,
+        "source_id": 829611,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.890358192144662,
+          18.09298423729208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 60449,
+        "source_id": 1375079,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.890340045846868,
+          18.09307204707141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 60449,
+        "source_id": 62794,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.886840377500333,
+          18.09717515390083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 60449,
+        "source_id": 1345420,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.889854461789945,
+          18.09330206823285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 60449,
+        "source_id": 196310,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.89030524372038,
+          18.0931121439845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 60449,
+        "source_id": 1440577,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.890300703509997,
+          18.09311599033584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 60449,
+        "source_id": 1189579,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.89033075559968,
+          18.09310335138457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63565,
+        "source_id": 1415497,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.401617944603348,
+          19.387830821949844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63565,
+        "source_id": 829640,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.401537609525066,
+          19.38784202933129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63565,
+        "source_id": 196337,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.401563113463732,
+          19.387763811747742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63565,
+        "source_id": 1286021,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.401595985335875,
+          19.387808842350097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63565,
+        "source_id": 1189582,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.401606098271738,
+          19.38787691925477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66373,
+        "source_id": 829969,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.45761103984597,
+          22.722216922301104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66373,
+        "source_id": 1231672,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.457909560059806,
+          22.72207465126621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66373,
+        "source_id": 1285995,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.457877360880373,
+          22.72215927293626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66373,
+        "source_id": 29902,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.457861437927942,
+          22.72404363506562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66373,
+        "source_id": 196839,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.45771694307663,
+          22.723894626754426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66373,
+        "source_id": 1415502,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.457844274054423,
+          22.722152439591405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69730,
+        "source_id": 1286014,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.456426170955996,
+          16.458422941593337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70743,
+        "source_id": 1286033,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.014756909715612,
+          15.527633365502483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77883,
+        "source_id": 1246221,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.983331863056836,
+          18.15278125357609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77883,
+        "source_id": 196311,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.983477618812351,
+          18.15276449237212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77883,
+        "source_id": 829616,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.98333765780021,
+          18.152924365701647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77883,
+        "source_id": 52072,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9835476944006,
+          18.15282852952884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77883,
+        "source_id": 1415496,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.982589445119997,
+          18.152493323602773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77883,
+        "source_id": 1189580,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.983099030034705,
+          18.152582539479376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77883,
+        "source_id": 1286018,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.98289638039026,
+          18.152552250235143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86747,
+        "source_id": 829588,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.900764934237102,
+          17.05447826685294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86747,
+        "source_id": 1286022,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.901085086261226,
+          17.0556875142241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86747,
+        "source_id": 829589,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.901246813558544,
+          17.056770799806515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86747,
+        "source_id": 52114,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.900766616196586,
+          17.054586376561204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86747,
+        "source_id": 29951,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.901273714605066,
+          17.056686013154696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86747,
+        "source_id": 1415498,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.90108226944684,
+          17.055697554583123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86747,
+        "source_id": 1267631,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.901267271271973,
+          17.056697931151696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89115,
+        "source_id": 829539,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.507479028185944,
+          16.666913735903268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89115,
+        "source_id": 1249128,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.50749500521498,
+          16.666708106302895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89115,
+        "source_id": 1286017,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.507371111412102,
+          16.66678829124168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89115,
+        "source_id": 1189584,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.507426779853098,
+          16.66682290326464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89115,
+        "source_id": 52086,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.507459038330223,
+          16.66686621718142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89115,
+        "source_id": 198186,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.507343531697725,
+          16.666802038804065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89027,
+        "source_id": 196291,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.707092193423913,
+          17.53279541539972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89027,
+        "source_id": 52092,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.707052457833724,
+          17.532806536720493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89027,
+        "source_id": 1286019,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.70707261200726,
+          17.53277720539066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89027,
+        "source_id": 829604,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.706970713603528,
+          17.532777677079817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9845,
+        "source_id": 829929,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.53323419864039,
+          21.29532008772131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9845,
+        "source_id": 1268806,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.53325074189096,
+          21.295406155575566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9845,
+        "source_id": 1354611,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.533372591766298,
+          21.29532981338699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9845,
+        "source_id": 196547,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.533266933404423,
+          21.29534601566449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9845,
+        "source_id": 1286025,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.533333714303286,
+          21.29533512057361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9845,
+        "source_id": 1189567,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.53326535489691,
+          21.29540201122865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9845,
+        "source_id": 22103,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.533304993306757,
+          21.295425313929258
+        ]
+      }
+    }
+  ]
+}

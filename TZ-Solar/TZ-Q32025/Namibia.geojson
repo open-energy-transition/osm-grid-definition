@@ -1,0 +1,2810 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10200,
+        "source_id": 1212262,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.607316369744597,
+          -22.95476569446328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10200,
+        "source_id": 1416484,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.60719105210531,
+          -22.95480463460611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107655,
+        "source_id": 42772,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5579377008092,
+          -22.84020876060568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107646,
+        "source_id": 42777,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.118760891739974,
+          -19.99299916438895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12039,
+        "source_id": 1376121,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.963978300935562,
+          -22.429985667664265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12039,
+        "source_id": 1195567,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.964035978525317,
+          -22.430019228926444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12039,
+        "source_id": 42770,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.964023652465674,
+          -22.43005366036945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12039,
+        "source_id": 1443245,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.96418716482795,
+          -22.430007772859824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12039,
+        "source_id": 259469,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.964119641541666,
+          -22.430058282717933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12039,
+        "source_id": 1289315,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.964090195556372,
+          -22.429977787157643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12039,
+        "source_id": 892701,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.96419340818,
+          -22.43011911135392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12039,
+        "source_id": 1245352,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.964109186469084,
+          -22.430023475848103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12442,
+        "source_id": 1416534,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.791468535304215,
+          -22.10229501826877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12442,
+        "source_id": 1258937,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.791643473674124,
+          -22.102246672482497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12442,
+        "source_id": 22151,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.791610975036576,
+          -22.10211804752392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12442,
+        "source_id": 266853,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.79139100212378,
+          -22.10239100929023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12442,
+        "source_id": 1289320,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.791394744889054,
+          -22.10227527067009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12442,
+        "source_id": 896821,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.791577734366054,
+          -22.102225029430887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14384,
+        "source_id": 1443138,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.73152612539984,
+          -27.98234727207268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14384,
+        "source_id": 1261403,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.731573312993813,
+          -27.98238990710047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14384,
+        "source_id": 1195862,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.731526616930445,
+          -27.98236023031601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14384,
+        "source_id": 266799,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.731596786382333,
+          -27.98239239859961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14384,
+        "source_id": 896810,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7314948199437,
+          -27.982303124284385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14384,
+        "source_id": 1289182,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.731309905354554,
+          -27.98223886456348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14384,
+        "source_id": 22164,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.73162091351433,
+          -27.9823512685634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14384,
+        "source_id": 1376075,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.73147961195292,
+          -27.98228965806113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20492,
+        "source_id": 1195929,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.455621889237683,
+          -19.519055574682824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20492,
+        "source_id": 1396358,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.455604864406162,
+          -19.51920452756077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20492,
+        "source_id": 59840,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.455718510977995,
+          -19.519333858543167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20492,
+        "source_id": 1289330,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.45570095229802,
+          -19.51930911543308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20492,
+        "source_id": 1258468,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.45565785064162,
+          -19.51905205067012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20492,
+        "source_id": 1443251,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.455605735232822,
+          -19.519125029307347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20492,
+        "source_id": 898901,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.455610621568074,
+          -19.519085596557613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20492,
+        "source_id": 269448,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.45563840305464,
+          -19.51906985437818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24658,
+        "source_id": 1376063,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.464755633813088,
+          -28.42124772826148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24658,
+        "source_id": 1289128,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.46473131792807,
+          -28.42131876887161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24658,
+        "source_id": 269339,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.46474254923395,
+          -28.421190506430538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24658,
+        "source_id": 898865,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.46481173304694,
+          -28.421283445266784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24658,
+        "source_id": 1195928,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.46476329362969,
+          -28.421332463027387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24658,
+        "source_id": 1237565,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.464752872987575,
+          -28.42133773374731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24658,
+        "source_id": 22166,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.464782175686896,
+          -28.42129313942118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25199,
+        "source_id": 1252653,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.281388678394233,
+          -18.093403843132048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25199,
+        "source_id": 894725,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.28139620555476,
+          -18.09349718896377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25199,
+        "source_id": 264466,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.281271028754283,
+          -18.093347593413245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25199,
+        "source_id": 1289326,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.28110138345003,
+          -18.09326376153761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29177,
+        "source_id": 271535,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289040701948128,
+          -26.42986181863801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29177,
+        "source_id": 1355595,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.288896245441453,
+          -26.430113994789743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29177,
+        "source_id": 1255333,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.28890084449042,
+          -26.4300531259813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29177,
+        "source_id": 900707,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289235496117183,
+          -26.430073331675807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29177,
+        "source_id": 1289186,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.28887154837736,
+          -26.43012551184985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29177,
+        "source_id": 66849,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.292094402861192,
+          -26.434455545879885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29287,
+        "source_id": 1376124,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.839088112755569,
+          -21.94817811980444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29287,
+        "source_id": 1263014,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.838973748575697,
+          -21.94842852916724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29287,
+        "source_id": 894698,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.838899100331387,
+          -21.94845376172003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29287,
+        "source_id": 261972,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.838984977676288,
+          -21.948373944930523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29287,
+        "source_id": 1289319,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.839119655639577,
+          -21.948165913887003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29287,
+        "source_id": 26872,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.838995351799923,
+          -21.94834844465492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31681,
+        "source_id": 896828,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.625263629916194,
+          -20.4465031143475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31681,
+        "source_id": 1376125,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.62533609484987,
+          -20.44639659935772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31681,
+        "source_id": 1289323,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.62525425041595,
+          -20.446581444620325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31681,
+        "source_id": 26885,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.625404410119813,
+          -20.446531486711685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31681,
+        "source_id": 1195807,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.62531790365345,
+          -20.446543464478133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31681,
+        "source_id": 1264746,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.62532153805314,
+          -20.446572496110864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31681,
+        "source_id": 266866,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.625405079578794,
+          -20.446456840035893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31805,
+        "source_id": 1376129,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.379761090254597,
+          -19.666662339313635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31805,
+        "source_id": 898900,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.37980946322787,
+          -19.66673173916694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33796,
+        "source_id": 894701,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.030212418064114,
+          -21.48649326905076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33796,
+        "source_id": 264446,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.030645184753205,
+          -21.486552238575623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33796,
+        "source_id": 1195741,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.03048314119359,
+          -21.486637066525923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33796,
+        "source_id": 1396357,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.03054750470604,
+          -21.486562244460643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33796,
+        "source_id": 1289322,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.030512663754802,
+          -21.48662863034505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33796,
+        "source_id": 1235512,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.03050795111643,
+          -21.48670682770689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35477,
+        "source_id": 894723,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2948017359666,
+          -18.10935569902209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35477,
+        "source_id": 894724,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.296360869635194,
+          -18.10590827058388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35477,
+        "source_id": 1289325,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.294813278925442,
+          -18.10934809215281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35477,
+        "source_id": 264465,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.294924950339944,
+          -18.10894300701876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35477,
+        "source_id": 1416535,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.294795306517802,
+          -18.10937977231236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35477,
+        "source_id": 1238783,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.29500037749916,
+          -18.108914362281748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35386,
+        "source_id": 900711,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.027768895428764,
+          -24.653033051955173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35386,
+        "source_id": 1267356,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.02715295882636,
+          -24.65263824170087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35386,
+        "source_id": 1289188,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.032516178089267,
+          -24.66511438640903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35386,
+        "source_id": 1272189,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.03243244282826,
+          -24.66512943438696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35386,
+        "source_id": 271584,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.032494557367023,
+          -24.664971330346777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35386,
+        "source_id": 900710,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.032520505722896,
+          -24.665083287773907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35386,
+        "source_id": 1289189,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0271435278014,
+          -24.65262296148995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35386,
+        "source_id": 1355596,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.03248923954825,
+          -24.66504262704975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35386,
+        "source_id": 271585,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.02728817486705,
+          -24.652521126275648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36329,
+        "source_id": 22209,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.96934673935596,
+          -22.43832297119652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36329,
+        "source_id": 1376128,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.970737314174457,
+          -22.436510886311822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36329,
+        "source_id": 275734,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.968862480974646,
+          -22.438547923584725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36329,
+        "source_id": 1270064,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.971601029639103,
+          -22.435377559015446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36329,
+        "source_id": 1271640,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.96947048776793,
+          -22.438310942708657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36329,
+        "source_id": 22179,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.971620818011107,
+          -22.435383225058267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36329,
+        "source_id": 275735,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.96966824449688,
+          -22.437455407614166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36329,
+        "source_id": 275736,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.97147509335668,
+          -22.435435591478228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36329,
+        "source_id": 902259,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.970598813633632,
+          -22.436547598744056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36329,
+        "source_id": 1289328,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.97083955259246,
+          -22.4364900384336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38426,
+        "source_id": 1195740,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.01973238859025,
+          -21.490302877495147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38426,
+        "source_id": 1244165,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.01970692739319,
+          -21.490313674644604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38426,
+        "source_id": 894700,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.019681858121903,
+          -21.490280981353965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38426,
+        "source_id": 1396356,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.019815334155595,
+          -21.490447129282664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38426,
+        "source_id": 1289321,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.01969282876088,
+          -21.490378806755107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38426,
+        "source_id": 264445,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.01981032205484,
+          -21.490232271192045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38932,
+        "source_id": 896811,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.788619293625658,
+          -27.96600751100454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38932,
+        "source_id": 1355593,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.788610194650605,
+          -27.96591784369416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38932,
+        "source_id": 1195863,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.788664211315012,
+          -27.9659372839066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38932,
+        "source_id": 1257744,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.78865788743334,
+          -27.965974610027253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38932,
+        "source_id": 1443139,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.788602296126356,
+          -27.96594994476532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38932,
+        "source_id": 1289183,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.78861484249431,
+          -27.96592347918568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38932,
+        "source_id": 266801,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.788653331001107,
+          -27.96589944397345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39891,
+        "source_id": 259468,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.01284311357566,
+          -22.59043231010317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39891,
+        "source_id": 1233263,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.012689437789426,
+          -22.59049220125838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39891,
+        "source_id": 892700,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.012572877354382,
+          -22.59065357280662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39891,
+        "source_id": 1289185,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.012723285244697,
+          -22.590449337990947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39891,
+        "source_id": 1355594,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.012691545639749,
+          -22.590434633097782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39891,
+        "source_id": 1443140,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.01259469625276,
+          -22.59050120592461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39878,
+        "source_id": 1238967,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.90375869092536,
+          -26.45378029557724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43741,
+        "source_id": 1376126,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.00359797193918,
+          -17.517321449885646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43741,
+        "source_id": 1269204,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.003619283380894,
+          -17.51734057637436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43741,
+        "source_id": 1289324,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.00361827927721,
+          -17.517345211918233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43741,
+        "source_id": 259494,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.00359853371207,
+          -17.517341475742448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43741,
+        "source_id": 892709,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.003673907225648,
+          -17.517266999018148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43741,
+        "source_id": 22204,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.003460556162834,
+          -17.517327269254583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43741,
+        "source_id": 1443250,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.003596921663505,
+          -17.51736384674651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49208,
+        "source_id": 898868,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.410774367175677,
+          -28.40124627234341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49208,
+        "source_id": 1376062,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.410743,
+          -28.401236999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53039,
+        "source_id": 269338,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.423348609252688,
+          -28.43022391830305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53039,
+        "source_id": 898864,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.423119619055566,
+          -28.430283238186355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53354,
+        "source_id": 1396316,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.092895952427977,
+          -22.62030873306759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55677,
+        "source_id": 1233709,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.96202969484482,
+          -24.56067006523316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55803,
+        "source_id": 898867,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.40461872856004,
+          -28.41530607023609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55803,
+        "source_id": 1289127,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.404596320238788,
+          -28.41529464065997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55803,
+        "source_id": 1244290,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.404591139879148,
+          -28.415348116040324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55803,
+        "source_id": 269340,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4045208230999,
+          -28.41513581195764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62860,
+        "source_id": 892702,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.806445225438912,
+          -22.156148083337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62860,
+        "source_id": 1263617,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.806546928968134,
+          -22.156070648457547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62860,
+        "source_id": 259472,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.806494742334335,
+          -22.156066356084285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62860,
+        "source_id": 1376122,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.806204772787591,
+          -22.15884096036243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62860,
+        "source_id": 1209566,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.80808134357017,
+          -22.16184254869749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62860,
+        "source_id": 1289316,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.80618901299287,
+          -22.158826725010904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62860,
+        "source_id": 1443246,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.80615217402764,
+          -22.15893574742297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64656,
+        "source_id": 1208869,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.269432445029183,
+          -22.100401229499788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64656,
+        "source_id": 1443248,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.26681973668928,
+          -22.099335981247005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64656,
+        "source_id": 1416533,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.266735267922796,
+          -22.099299187419625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64656,
+        "source_id": 1208532,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.265573870157477,
+          -22.098079924285305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69765,
+        "source_id": 1268055,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.845085920489195,
+          -21.93961359225357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72924,
+        "source_id": 1416536,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.046598383624165,
+          -18.81381755210765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72924,
+        "source_id": 898906,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.046869918858402,
+          -18.8138226061352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77821,
+        "source_id": 22185,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.28379719557412,
+          -26.41702554498744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77821,
+        "source_id": 1396315,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.28388485246363,
+          -26.41688530759517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77821,
+        "source_id": 1289187,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.28398681745669,
+          -26.41690619947032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77821,
+        "source_id": 900709,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.284015566389268,
+          -26.417016528250844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77821,
+        "source_id": 271536,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.28401562228977,
+          -26.416728554944235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77821,
+        "source_id": 1257369,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2839418295541,
+          -26.416919036969013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82921,
+        "source_id": 1210199,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.22582120004204,
+          -22.400269729643345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82921,
+        "source_id": 1443247,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.225411977862889,
+          -22.40128340376001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82921,
+        "source_id": 1416532,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.225370512786576,
+          -22.40125698062593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86288,
+        "source_id": 271617,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.11678368621572,
+          -19.556313761374795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86288,
+        "source_id": 26873,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.11680763243264,
+          -19.55631269758466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87624,
+        "source_id": 1443249,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.448309575170324,
+          -21.3523730755272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 90993,
+        "source_id": 1289327,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.042379026069497,
+          -22.31770647712032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 90993,
+        "source_id": 1259667,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0424074256178,
+          -22.31770425449412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 90993,
+        "source_id": 1376127,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.042367840914025,
+          -22.3176571648349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94486,
+        "source_id": 898888,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.078502923656334,
+          -22.52435785545374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95041,
+        "source_id": 1215677,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2127557845537,
+          -17.920227474488883
+        ]
+      }
+    }
+  ]
+}

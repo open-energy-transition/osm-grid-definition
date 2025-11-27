@@ -1,0 +1,277 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11661,
+        "source_id": 1376259,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Central African Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.47658694873444,
+          4.499801870388716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11661,
+        "source_id": 900753,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Central African Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.47635312265813,
+          4.49986329067667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11661,
+        "source_id": 274028,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Central African Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.476436670077284,
+          4.499941438393052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11661,
+        "source_id": 1196257,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Central African Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.476451937484445,
+          4.499975012565621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11661,
+        "source_id": 1263661,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Central African Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.47651486438852,
+          4.499777631036173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11661,
+        "source_id": 1290420,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Central African Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.47647778621755,
+          4.499932468418991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11661,
+        "source_id": 1443624,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Central African Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.47655127262485,
+          4.499952979609338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40535,
+        "source_id": 1196298,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Central African Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.48980327439562,
+          4.3795644702703065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40535,
+        "source_id": 1416674,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Central African Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.48981701652286,
+          4.379512104389341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40535,
+        "source_id": 1290419,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Central African Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.48986033334938,
+          4.379742466970336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40535,
+        "source_id": 1262133,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Central African Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.489814678799924,
+          4.3795104046275695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40535,
+        "source_id": 1443623,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Central African Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.48984129734496,
+          4.379488467029122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40535,
+        "source_id": 902314,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Central African Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.489800699257763,
+          4.379448356022791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40535,
+        "source_id": 274027,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Central African Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.489821954809788,
+          4.379512691269832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98670,
+        "source_id": 1416673,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Central African Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.785805843281112,
+          4.25249529327082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98670,
+        "source_id": 1290418,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Central African Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.785769065644748,
+          4.252542069740971
+        ]
+      }
+    }
+  ]
+}

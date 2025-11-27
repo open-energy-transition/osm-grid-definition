@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2469,
+        "source_id": 1250042,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Guyana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.73327425820433,
+          6.760218033094476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39577,
+        "source_id": 1279978,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Guyana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.75382397015744,
+          6.7784109441665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39577,
+        "source_id": 1210137,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Guyana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.75373764075475,
+          6.777876878661189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4549,
+        "source_id": 1393916,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Guyana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.62804442431026,
+          6.364267230996675
+        ]
+      }
+    }
+  ]
+}

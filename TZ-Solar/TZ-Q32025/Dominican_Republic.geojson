@@ -1,0 +1,5105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100296,
+        "source_id": 797096,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.34822485700236,
+          18.491078257902625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100296,
+        "source_id": 59833,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.34893636460517,
+          18.49078665764098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100296,
+        "source_id": 1279883,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.34849939037683,
+          18.49095263275625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 101563,
+        "source_id": 1353221,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.35400640180026,
+          18.546792020745773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 101563,
+        "source_id": 1279908,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3539576111399,
+          18.54678486707577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 101537,
+        "source_id": 1279819,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.14073185415586,
+          19.12556908219506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 102161,
+        "source_id": 1373689,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.64834753053736,
+          19.42257924108255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 106203,
+        "source_id": 1437216,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.493427309785,
+          19.77755141533809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 106203,
+        "source_id": 1393913,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.49343610561326,
+          19.777535892896616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 109567,
+        "source_id": 1437183,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.32510713842464,
+          18.27541636927879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 110658,
+        "source_id": 1437194,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9088525779885,
+          19.592756594866675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11752,
+        "source_id": 1437213,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9987674381006,
+          19.52124154175515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11752,
+        "source_id": 1265335,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.99883479604692,
+          19.52132845422652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11752,
+        "source_id": 794609,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9988162630071,
+          19.52138460415553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11752,
+        "source_id": 151801,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.99868295612798,
+          19.52129613860596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11752,
+        "source_id": 1189109,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.99886846465513,
+          19.52141642052425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11752,
+        "source_id": 1414117,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.99886442242186,
+          19.521402021100165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11752,
+        "source_id": 1279823,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.99883967899284,
+          19.521341790332688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12368,
+        "source_id": 1189149,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.78972426314331,
+          18.82034207264595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12368,
+        "source_id": 1279879,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7891381327622,
+          18.82304658271286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12368,
+        "source_id": 10410,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.78890423654384,
+          18.819165750516923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12368,
+        "source_id": 1211777,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.78936949883074,
+          18.82602166982954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12368,
+        "source_id": 10412,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.79247324680337,
+          18.82132402416472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12368,
+        "source_id": 154668,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.78986417536647,
+          18.81983481575356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12368,
+        "source_id": 1189150,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7901047559332,
+          18.82814393615009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12368,
+        "source_id": 1222971,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.79060035430633,
+          18.818346757468788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12368,
+        "source_id": 794557,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.78951122619085,
+          18.819538416602526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12368,
+        "source_id": 10409,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.79281355199886,
+          18.82227646174002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12368,
+        "source_id": 1189151,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.78721037240993,
+          18.828708422687782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15899,
+        "source_id": 792181,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8620640030344,
+          18.354502147395888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15899,
+        "source_id": 1393895,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.86197700307973,
+          18.35451170052234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15899,
+        "source_id": 1269077,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.86206399488492,
+          18.354488632415304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15899,
+        "source_id": 151755,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.86198010911497,
+          18.354587094916493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15899,
+        "source_id": 1279762,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.86196474828996,
+          18.35449340115856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16710,
+        "source_id": 794522,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.67683342014301,
+          18.424571833361128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16710,
+        "source_id": 1265925,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.67678742140079,
+          18.42453207002534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16710,
+        "source_id": 1279871,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.67675848940264,
+          18.42452060893489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16710,
+        "source_id": 154623,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.67687126777302,
+          18.424677788039062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16710,
+        "source_id": 1393905,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.67678808973243,
+          18.42458695351623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17108,
+        "source_id": 1353216,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.13581035587023,
+          18.465038534846048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17108,
+        "source_id": 1437197,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.13593923284027,
+          18.465060327942066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17108,
+        "source_id": 1279868,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1358670416248,
+          18.465023359446487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17912,
+        "source_id": 794513,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4408824325844,
+          18.32536096409904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17912,
+        "source_id": 151750,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4410711607561,
+          18.32523495509265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17912,
+        "source_id": 1279765,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.44104696992612,
+          18.325222806428545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17912,
+        "source_id": 1353211,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.44108311336784,
+          18.325172137981426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17912,
+        "source_id": 1437185,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.44108154414968,
+          18.32517023689009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17912,
+        "source_id": 1189057,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.44101500775108,
+          18.325285354728475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17912,
+        "source_id": 1253364,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.44114383158615,
+          18.32516176790941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23201,
+        "source_id": 1414110,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12860998077294,
+          18.344665944050345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23201,
+        "source_id": 1252432,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12854639116958,
+          18.34464070795336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23201,
+        "source_id": 1188738,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12856627079076,
+          18.34466828662631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23201,
+        "source_id": 149076,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12866030836155,
+          18.34463246928458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23201,
+        "source_id": 792179,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1285159198039,
+          18.344669914944216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23201,
+        "source_id": 1279760,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1285956788697,
+          18.34466378392157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23807,
+        "source_id": 1279872,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.92137979574319,
+          18.62921239136703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23807,
+        "source_id": 1210695,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.92135961242195,
+          18.62916983557012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23807,
+        "source_id": 1189148,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.91766590845334,
+          18.627518856745954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23807,
+        "source_id": 1437203,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.92135718523781,
+          18.62928108827434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23807,
+        "source_id": 1353217,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.92138785723495,
+          18.62927051144872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25679,
+        "source_id": 1224907,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.35412156652107,
+          19.50703982399768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25679,
+        "source_id": 1437188,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.35473844231558,
+          19.50683846278216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25679,
+        "source_id": 1353212,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.35431716900229,
+          19.50691017970212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25679,
+        "source_id": 1273969,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.35477207019098,
+          19.50684803920265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26586,
+        "source_id": 797122,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4873841881642,
+          18.686239931221653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26586,
+        "source_id": 1353223,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.48726287535771,
+          18.68616148622726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26586,
+        "source_id": 1279911,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.48712518234377,
+          18.686084971918163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26586,
+        "source_id": 156866,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.48734601068477,
+          18.686263062031795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26586,
+        "source_id": 1251256,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.48723821343478,
+          18.686096799414425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26586,
+        "source_id": 1437214,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4873178498525,
+          18.6861821195594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28199,
+        "source_id": 1259829,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.20481532480008,
+          18.25190352647488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28199,
+        "source_id": 1279863,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.20485671861104,
+          18.25197475598344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28199,
+        "source_id": 1414112,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.20480939099974,
+          18.25196430786689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28199,
+        "source_id": 794501,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.20479328657015,
+          18.25193476290713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28199,
+        "source_id": 1189106,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.20478425873786,
+          18.251926263484133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29039,
+        "source_id": 1437198,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.96884478173332,
+          18.506996396530763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29039,
+        "source_id": 1393903,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9687394668556,
+          18.5070077684558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32234,
+        "source_id": 1373688,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.40359018514731,
+          18.2985493531508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32234,
+        "source_id": 1279764,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.40533696838551,
+          18.300361655603552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33236,
+        "source_id": 1437201,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.79417131329173,
+          18.512093681960792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36286,
+        "source_id": 1242268,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.84500529407389,
+          18.615395481013746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36286,
+        "source_id": 1279874,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.84506164211638,
+          18.615350657763035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36286,
+        "source_id": 154653,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.83999649686793,
+          18.61575170775197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36286,
+        "source_id": 794552,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.84159245086332,
+          18.61493818162796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36286,
+        "source_id": 1437205,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.84502998809819,
+          18.61546214066169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36286,
+        "source_id": 794553,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8460829601076,
+          18.6180330331158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36286,
+        "source_id": 1353218,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.84508780775863,
+          18.61537598674128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36286,
+        "source_id": 1189147,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.84511255017375,
+          18.61539874979304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36286,
+        "source_id": 794551,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.84708942918537,
+          18.61387926405512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36496,
+        "source_id": 1345136,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.56892002907024,
+          18.405686980452625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36496,
+        "source_id": 1373687,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.56893893497517,
+          18.405660723261747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36496,
+        "source_id": 151757,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.56886163731708,
+          18.405473911113347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36496,
+        "source_id": 1236328,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.56943449056168,
+          18.40570495728154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38488,
+        "source_id": 797100,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.33928145368749,
+          18.510627089647745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38488,
+        "source_id": 1414114,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.33922364083152,
+          18.510598034609192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38488,
+        "source_id": 30165,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.33924291083687,
+          18.510637460564627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38488,
+        "source_id": 1247336,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.33923767452119,
+          18.510591043832417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38488,
+        "source_id": 1279876,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.3391671426255,
+          18.51054245683243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40040,
+        "source_id": 1189108,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.19505611574323,
+          18.33325390359947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40040,
+        "source_id": 151752,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.19583380230286,
+          18.33368260765862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40040,
+        "source_id": 1245871,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.19605031692335,
+          18.333848972279927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40040,
+        "source_id": 1279865,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.19597239432733,
+          18.333786937240333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40040,
+        "source_id": 794515,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.19604473461088,
+          18.333888123875315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40134,
+        "source_id": 1279818,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1925007043818,
+          19.11651101728448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40134,
+        "source_id": 1266331,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.19251956454735,
+          19.116450855541704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40134,
+        "source_id": 794569,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.19252290751724,
+          19.116542933531093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40134,
+        "source_id": 1414116,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.19244348432585,
+          19.1165523918234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40134,
+        "source_id": 30158,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.19255828721626,
+          19.11649160271419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42412,
+        "source_id": 154648,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.71200335459703,
+          18.56524495020725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42412,
+        "source_id": 1393908,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.71268377630395,
+          18.56341350967648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42412,
+        "source_id": 1279877,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.71270126766187,
+          18.56341856357641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42412,
+        "source_id": 794547,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.71174379408264,
+          18.56385886224907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42412,
+        "source_id": 1437208,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.71261930956338,
+          18.563403415776115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42412,
+        "source_id": 1218559,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.71273894167015,
+          18.56346007979424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42412,
+        "source_id": 1189174,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.71214456253766,
+          18.56374272882365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41393,
+        "source_id": 1414113,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.32067249071514,
+          18.466722377793225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41393,
+        "source_id": 1279884,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.32061374017405,
+          18.46660161552777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41393,
+        "source_id": 1437210,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.32062358222757,
+          18.46671124084789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42785,
+        "source_id": 1437196,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.04272387937625,
+          18.38372546340064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42785,
+        "source_id": 1353214,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.04274751903684,
+          18.38365966736181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42785,
+        "source_id": 1437195,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.04384989257687,
+          18.38250076852533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43505,
+        "source_id": 26942,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.25291696985097,
+          18.448744815643742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43505,
+        "source_id": 1437209,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.26205506227089,
+          18.454007666854167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43505,
+        "source_id": 154626,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.25240105900717,
+          18.44875474503647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43505,
+        "source_id": 1279880,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.26124380306024,
+          18.45363393860707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43505,
+        "source_id": 1279886,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.25239912044438,
+          18.44872831401085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43505,
+        "source_id": 797083,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.25233450496982,
+          18.44878762027722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43505,
+        "source_id": 1260531,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.25233016472869,
+          18.44870079516891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44187,
+        "source_id": 1437207,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.71155594633873,
+          18.46436292714688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44187,
+        "source_id": 1393907,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7115305013981,
+          18.4644068980249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44410,
+        "source_id": 792214,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.87923083259206,
+          19.439583338609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44410,
+        "source_id": 1437190,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.88298377047614,
+          19.434873745592004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44410,
+        "source_id": 792215,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.88358625255822,
+          19.43968774308842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44410,
+        "source_id": 1393898,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.88296092698872,
+          19.43485905924848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45552,
+        "source_id": 1189058,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.39910821976206,
+          18.326350860013765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45552,
+        "source_id": 151751,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3993911685254,
+          18.3286102814313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45552,
+        "source_id": 1393896,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.39907581089015,
+          18.326325338474312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45552,
+        "source_id": 1279767,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.39907495834078,
+          18.32636732392682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45552,
+        "source_id": 1227025,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.39914649846155,
+          18.326586217091293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45552,
+        "source_id": 794514,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.39911078638335,
+          18.32625313697012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45552,
+        "source_id": 1437187,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.39908222896226,
+          18.326365336842912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45552,
+        "source_id": 151749,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.39806158380117,
+          18.320113950057333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45637,
+        "source_id": 1437211,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.2806761985203,
+          18.525262726628373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45637,
+        "source_id": 797106,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.28082623282262,
+          18.525328277060336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45637,
+        "source_id": 154639,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.28685557850976,
+          18.525454967162144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45637,
+        "source_id": 1279885,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.28081599789458,
+          18.52525024013196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45637,
+        "source_id": 154638,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.2767131339636,
+          18.52516378047356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45637,
+        "source_id": 1353220,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.28071877362358,
+          18.52528460677303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45637,
+        "source_id": 1239758,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.28090979230862,
+          18.52526285385603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45952,
+        "source_id": 1279821,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.11395890448462,
+          19.20353301485553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45952,
+        "source_id": 794581,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.11391073283617,
+          19.203582846592848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45952,
+        "source_id": 1393910,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.11394991491831,
+          19.203507015907668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45952,
+        "source_id": 1437212,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.11383814972545,
+          19.203564180352817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45952,
+        "source_id": 1244018,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.11399551323112,
+          19.20351192609492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45837,
+        "source_id": 1189146,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.75659796086133,
+          18.491016234534783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45837,
+        "source_id": 1353219,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.75651792260525,
+          18.491128499755646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45837,
+        "source_id": 1279875,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.75654721840063,
+          18.49107071297412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45837,
+        "source_id": 794531,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.75652966779066,
+          18.49104465632036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45837,
+        "source_id": 1235126,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.756536103893,
+          18.49109053729892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47875,
+        "source_id": 1279870,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.63083197061783,
+          18.40573142903531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47875,
+        "source_id": 1437200,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.63083477313405,
+          18.405762976886404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47875,
+        "source_id": 1373693,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.63081899049033,
+          18.405756368937567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48992,
+        "source_id": 1246495,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.96287694864765,
+          19.57700804989621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48992,
+        "source_id": 1279858,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.96309581539451,
+          19.57718480414471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48992,
+        "source_id": 1188879,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.96297015774607,
+          19.57697594771065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48992,
+        "source_id": 149194,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.96284356895671,
+          19.57704656287569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48992,
+        "source_id": 792224,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.96304802333862,
+          19.576986135313533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48992,
+        "source_id": 1437193,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.96306467359139,
+          19.577219728422868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52575,
+        "source_id": 794613,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.56382917468166,
+          19.75281502709757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52575,
+        "source_id": 1254223,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.56396450617387,
+          19.75306164807044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52873,
+        "source_id": 794518,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.02678374859998,
+          18.408377379725096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52873,
+        "source_id": 1269665,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.02679417096644,
+          18.40836916290885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52873,
+        "source_id": 1279867,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.02682055627227,
+          18.40840128164457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52873,
+        "source_id": 151758,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.02675947347696,
+          18.40834588035452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52873,
+        "source_id": 1373690,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.02677142369718,
+          18.408434366248347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53509,
+        "source_id": 1279904,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.65325892462258,
+          19.76815042711296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54954,
+        "source_id": 1189175,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.59682104607155,
+          18.649326756245912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54954,
+        "source_id": 154664,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.60331091591883,
+          18.65416984185485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54954,
+        "source_id": 1279817,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.59624245271688,
+          18.648822352113545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54954,
+        "source_id": 154667,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6108590238288,
+          18.65798349694317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54954,
+        "source_id": 794554,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.59644140337498,
+          18.648982234445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54954,
+        "source_id": 1252831,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.59646853494255,
+          18.64892606218945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54954,
+        "source_id": 1414115,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.59638363362235,
+          18.648900001079536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54954,
+        "source_id": 154658,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.58781498243768,
+          18.64352018571062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58147,
+        "source_id": 1208787,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.87354059218468,
+          18.536586206124223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58156,
+        "source_id": 1482996,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.76526451615894,
+          18.907300452302728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58156,
+        "source_id": 1482995,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.76487823533402,
+          18.90043486345466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58156,
+        "source_id": 1279910,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.76396922399118,
+          18.90008012585433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58305,
+        "source_id": 794550,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8548566898755,
+          18.61254729390652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58305,
+        "source_id": 154651,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.85494746486306,
+          18.6127791649662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58305,
+        "source_id": 1437204,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8550479024376,
+          18.612829259848848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58305,
+        "source_id": 1393906,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.85498257508601,
+          18.61282620625733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58305,
+        "source_id": 1279873,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.85497060180685,
+          18.61280044307541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58305,
+        "source_id": 1257261,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.85500076646143,
+          18.61277370815565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 60467,
+        "source_id": 1414111,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.66931116481375,
+          19.443372076556017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 60467,
+        "source_id": 1437192,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.66933111650312,
+          19.443407653156715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61465,
+        "source_id": 1393912,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.37976302688354,
+          19.70679708303155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61465,
+        "source_id": 10413,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3790146582168,
+          19.70942674434016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61465,
+        "source_id": 1279912,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.37970625591052,
+          19.706765561744763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61465,
+        "source_id": 149216,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.37965215463137,
+          19.706784255642383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61465,
+        "source_id": 10417,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.38489396534062,
+          19.70709119919904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61465,
+        "source_id": 792233,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3797633228677,
+          19.706785659491857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61465,
+        "source_id": 1243713,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.37972554599648,
+          19.706726687898687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61465,
+        "source_id": 1188670,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.37973284784123,
+          19.706752344354527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61717,
+        "source_id": 1482994,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.37669148650848,
+          19.33431336938197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61717,
+        "source_id": 1437189,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.37761243473058,
+          19.334081316049524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61717,
+        "source_id": 1353213,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.37720873576278,
+          19.33439324611181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62303,
+        "source_id": 151741,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.13935301530056,
+          18.27371364143088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62303,
+        "source_id": 1393902,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1393315365827,
+          18.27371231108805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62303,
+        "source_id": 794509,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.13938777432918,
+          18.273715702078693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62303,
+        "source_id": 1279864,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.13934620072025,
+          18.273687670898223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62303,
+        "source_id": 1259965,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.13934358585814,
+          18.27367933700092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6241,
+        "source_id": 1279878,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.75826068317845,
+          18.61476712053543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62938,
+        "source_id": 1279869,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.66927944197332,
+          18.41263573121321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62938,
+        "source_id": 1262063,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.66928542386202,
+          18.41268681507057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62938,
+        "source_id": 1393904,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.66928685366233,
+          18.412699119559072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62938,
+        "source_id": 794521,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.66926504192989,
+          18.412712320765053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62938,
+        "source_id": 1437199,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.66928265545815,
+          18.412705823863806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62938,
+        "source_id": 154622,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.66917791680086,
+          18.41266675334832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63929,
+        "source_id": 1437191,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.90951595257673,
+          19.5022849856868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63929,
+        "source_id": 1393899,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.90958424790173,
+          19.50232952036531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64190,
+        "source_id": 794549,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.98003276027038,
+          18.57578328818544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64190,
+        "source_id": 151760,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.97999215972615,
+          18.57582946734144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64190,
+        "source_id": 1373692,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.98002959075869,
+          18.575877865371627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67540,
+        "source_id": 156864,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.41129760733787,
+          18.52085911528433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67540,
+        "source_id": 797104,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4112521003724,
+          18.520718777817333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67540,
+        "source_id": 1279907,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.41168212358407,
+          18.52055552518815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67540,
+        "source_id": 1414119,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.41172124904841,
+          18.52052175433976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71450,
+        "source_id": 1437186,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.38456830078698,
+          18.319138418647103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71450,
+        "source_id": 1279766,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.38910269229592,
+          18.321306569938088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77724,
+        "source_id": 1393911,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.43519538288095,
+          18.66621005875267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77724,
+        "source_id": 797121,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.43518430069024,
+          18.666206473784406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7900,
+        "source_id": 794606,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9555050763254,
+          19.483005801935885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7900,
+        "source_id": 151798,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.95473055716799,
+          19.48247705377533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7900,
+        "source_id": 794607,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.95391375964611,
+          19.48548378196568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7900,
+        "source_id": 1224068,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.95751493018905,
+          19.48597375882564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7900,
+        "source_id": 1373695,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.95653962929018,
+          19.488030609815294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7900,
+        "source_id": 1279905,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.95742477135711,
+          19.486201918404547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7900,
+        "source_id": 794608,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.95519998841111,
+          19.486805989145715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80034,
+        "source_id": 1353222,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.57875647828013,
+          18.79641104705152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80034,
+        "source_id": 1279909,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.57874261634988,
+          18.79641623964853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80034,
+        "source_id": 156867,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5787431229488,
+          18.79635237972217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80034,
+        "source_id": 797130,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.57880351291467,
+          18.79640135529784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81749,
+        "source_id": 1279859,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.64811592216543,
+          19.413924541379032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81749,
+        "source_id": 1393900,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.64817314750555,
+          19.41393927421943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81099,
+        "source_id": 1188963,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6072442237622,
+          19.404097778803987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81099,
+        "source_id": 1279860,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.60728355280295,
+          19.40418044961458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81099,
+        "source_id": 794597,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.60722731732335,
+          19.404152948049862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83648,
+        "source_id": 1393909,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.05544089000806,
+          18.45672155316237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83648,
+        "source_id": 1226615,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.05568870554846,
+          18.45722451278076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83648,
+        "source_id": 797082,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.05540014471957,
+          18.45515227518964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83648,
+        "source_id": 154627,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.05515038187637,
+          18.449925871459914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83648,
+        "source_id": 154624,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.05354587508796,
+          18.44573248612147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83648,
+        "source_id": 1189254,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0555101200235,
+          18.456684688723065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83648,
+        "source_id": 154629,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.05594292935979,
+          18.45797358850424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83648,
+        "source_id": 1279887,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.05582560284296,
+          18.45784187249481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83648,
+        "source_id": 154625,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.05505731850701,
+          18.44591701159136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83768,
+        "source_id": 1279861,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.63743379464567,
+          19.478897888074645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85124,
+        "source_id": 1437215,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.68476938813433,
+          19.79574937084209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85124,
+        "source_id": 1373699,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.68476555220948,
+          19.79570250481124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8547,
+        "source_id": 1279769,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3947376695053,
+          19.126413883177104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8547,
+        "source_id": 30202,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.39467632225308,
+          19.126341394611806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8547,
+        "source_id": 794572,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.39466658613725,
+          19.126359061280223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85966,
+        "source_id": 1437206,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.78144880556151,
+          18.46680989155996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85764,
+        "source_id": 1188962,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8303998149147,
+          18.353925077889688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85764,
+        "source_id": 1437184,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.83042241354272,
+          18.35385782920435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85764,
+        "source_id": 1279763,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.83050166369964,
+          18.353861861236137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85764,
+        "source_id": 151754,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8303907294097,
+          18.353932693230885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85764,
+        "source_id": 1230918,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.83039918627857,
+          18.35387688773279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85764,
+        "source_id": 1353210,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.83046247549481,
+          18.35384820646272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85764,
+        "source_id": 792180,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.83044499748041,
+          18.3538939364324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86002,
+        "source_id": 1373697,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.54123181388472,
+          18.76847979816532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87510,
+        "source_id": 149215,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2232371001006,
+          19.69219357046844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87510,
+        "source_id": 792232,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.22300490553805,
+          19.6922435655638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87510,
+        "source_id": 1373698,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.22297226796205,
+          19.69222579745505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87510,
+        "source_id": 1256375,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.22306599671818,
+          19.692080149887204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88415,
+        "source_id": 1248828,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.24137417897087,
+          18.220347533920933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88415,
+        "source_id": 1279757,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.24139157250534,
+          18.220316835945745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88415,
+        "source_id": 1353209,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.24141192250109,
+          18.220365776190924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88415,
+        "source_id": 1437181,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2414236968109,
+          18.2203701807524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88823,
+        "source_id": 1373684,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.49259092544445,
+          18.258837589526657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88823,
+        "source_id": 1279758,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.49273075422515,
+          18.25876959479416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88787,
+        "source_id": 1279881,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.54827357641497,
+          18.499924973215787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89375,
+        "source_id": 1373696,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.72439722018473,
+          18.620371945201672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91260,
+        "source_id": 1279866,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.03564220012045,
+          18.408814583286134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91547,
+        "source_id": 151744,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.23318727104409,
+          18.280684995325217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91547,
+        "source_id": 794510,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.23328264672709,
+          18.280500637252192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91547,
+        "source_id": 1264867,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.23315543309772,
+          18.28046250153744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91547,
+        "source_id": 1279862,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.23326041129312,
+          18.28064995221344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91547,
+        "source_id": 1393901,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.23324154846026,
+          18.28064134444499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91721,
+        "source_id": 1437182,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.50824475072011,
+          18.263568466439388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93737,
+        "source_id": 1373686,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.88890505439215,
+          18.3373408875662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93737,
+        "source_id": 1279761,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.88895479975085,
+          18.33745830443945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94036,
+        "source_id": 1345138,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.72538329726112,
+          19.40499608081424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 97134,
+        "source_id": 1353215,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.03447644919984,
+          18.39766704500213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 97292,
+        "source_id": 1251705,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.72694356729176,
+          19.263164841667564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 97292,
+        "source_id": 1373694,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.72697093235661,
+          19.263231291612787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 97292,
+        "source_id": 1279822,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.72695522293536,
+          19.26324237739712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98905,
+        "source_id": 1261993,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.48924469278151,
+          19.758843810772863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98905,
+        "source_id": 1373700,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Dominican Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.48925426289493,
+          19.75900024665499
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21762,
+        "source_id": 1446632,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Montenegro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.351669310349937,
+          42.48970687827593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58289,
+        "source_id": 1227781,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Montenegro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.90802315523872,
+          42.53365391487619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58289,
+        "source_id": 1295373,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Montenegro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.90803767319297,
+          42.53358688143721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58289,
+        "source_id": 274241,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Montenegro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.90804975289453,
+          42.533717373754726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58289,
+        "source_id": 1417835,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Montenegro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.90818828016733,
+          42.53362867753678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58289,
+        "source_id": 902519,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Montenegro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.90818810407196,
+          42.5335570577196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6864,
+        "source_id": 1346381,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Montenegro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.23093332807761,
+          42.39483941779762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6864,
+        "source_id": 1397721,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Montenegro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.230928358655543,
+          42.394852635671086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77014,
+        "source_id": 1346382,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Montenegro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.24459030621034,
+          42.48928237837277
+        ]
+      }
+    }
+  ]
+}

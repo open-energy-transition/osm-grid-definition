@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95908,
+        "source_id": 1484122,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Gabon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.668305476775048,
+          0.3084490221971677
+        ]
+      }
+    }
+  ]
+}

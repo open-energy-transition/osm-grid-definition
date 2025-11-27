@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66318,
+        "source_id": 1354606,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Guinea-Bissau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.447008654784684,
+          12.236579634790411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66318,
+        "source_id": 1286009,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Guinea-Bissau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.447012339485273,
+          12.236589465443672
+        ]
+      }
+    }
+  ]
+}

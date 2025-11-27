@@ -1,0 +1,1229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 108953,
+        "source_id": 1392628,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8007180437786,
+          -16.70556958992125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 110293,
+        "source_id": 1433486,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.84938747177624,
+          -5.087624858328006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11434,
+        "source_id": 792007,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.18658684917283,
+          -17.24777829456658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11434,
+        "source_id": 1372355,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.18673019228721,
+          -17.248051503618672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11434,
+        "source_id": 1230775,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.18653240589725,
+          -17.247727626799527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11434,
+        "source_id": 148901,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.18655960847553,
+          -17.247752588105676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11434,
+        "source_id": 22318,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.18441861369315,
+          -17.251294982349663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13599,
+        "source_id": 1372354,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.33629296545904,
+          -17.993648970006447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13599,
+        "source_id": 794050,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.33638003091296,
+          -17.993677118971547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13599,
+        "source_id": 1273551,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.33626900480176,
+          -17.993700265972677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13599,
+        "source_id": 1189056,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.33650026596769,
+          -17.99361467783598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13599,
+        "source_id": 1433468,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.33633926010677,
+          -17.993728589901306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13599,
+        "source_id": 22354,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.33662787837015,
+          -17.993567553764482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13599,
+        "source_id": 1242707,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3364866505198,
+          -17.993628421465925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13599,
+        "source_id": 151302,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3363572003868,
+          -17.993671002394823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24368,
+        "source_id": 22359,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.03405738921195,
+          -17.54729538939193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24368,
+        "source_id": 1188852,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.03640812736542,
+          -17.543530225805284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24368,
+        "source_id": 1235611,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02686131422257,
+          -17.539684738992243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24368,
+        "source_id": 792004,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02849627870634,
+          -17.54359843290124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24368,
+        "source_id": 22344,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0194136382651,
+          -17.542990040941742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24368,
+        "source_id": 1188850,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.03427568064663,
+          -17.54707448485195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24368,
+        "source_id": 22345,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0268937037193,
+          -17.539601408945558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24368,
+        "source_id": 22336,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.03654584731196,
+          -17.543387234542408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24368,
+        "source_id": 148900,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02903369243109,
+          -17.543963158778745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24368,
+        "source_id": 1188853,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02957981699248,
+          -17.542754540934638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24368,
+        "source_id": 1249901,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.01935826206225,
+          -17.543000163229873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24368,
+        "source_id": 1392626,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02875420081526,
+          -17.54362427130237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24368,
+        "source_id": 1241959,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0351390610564,
+          -17.545607130210193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24368,
+        "source_id": 1433469,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02868017505271,
+          -17.543570625540053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24368,
+        "source_id": 22338,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02973253047826,
+          -17.542680848253827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24368,
+        "source_id": 1188851,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.01925076440008,
+          -17.54291384847347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24368,
+        "source_id": 1260800,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02974055107788,
+          -17.542916955277743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46070,
+        "source_id": 53864,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.11109742095118,
+          -13.527921838305206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53492,
+        "source_id": 1273742,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.56325521293967,
+          -4.813547473171591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53492,
+        "source_id": 1392632,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.56329774444153,
+          -4.813516637854449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53492,
+        "source_id": 781319,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5637050734365,
+          -4.813420370505773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61341,
+        "source_id": 790341,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.22196405540349,
+          -16.435211508821425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61341,
+        "source_id": 144137,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.22193502184906,
+          -16.435180205698096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61341,
+        "source_id": 30125,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.22162603032307,
+          -16.435315671005664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61341,
+        "source_id": 1188190,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.22174557032164,
+          -16.435245194369244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61341,
+        "source_id": 1392629,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.22194394061954,
+          -16.43498941793519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72121,
+        "source_id": 1351900,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.93508312198097,
+          -16.739052966043037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72121,
+        "source_id": 790330,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.93653439141197,
+          -16.739305101763033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72121,
+        "source_id": 1273665,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.93509568778028,
+          -16.73902118711009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72121,
+        "source_id": 1188304,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9351002190948,
+          -16.738929388893368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72121,
+        "source_id": 1433476,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.93513418549273,
+          -16.73901874892695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7961,
+        "source_id": 151327,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.86065089303992,
+          -17.231156692920948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7961,
+        "source_id": 1273552,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.86073579578228,
+          -17.23137962778319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7961,
+        "source_id": 22313,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.86348714300587,
+          -17.233136345288138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7961,
+        "source_id": 1242044,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.86291554431045,
+          -17.230936170293955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7961,
+        "source_id": 792010,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.86098516284358,
+          -17.231400342711893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7961,
+        "source_id": 1188854,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.85500363383241,
+          -17.232311835835883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7961,
+        "source_id": 22329,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.86282349729022,
+          -17.228894495645726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7961,
+        "source_id": 1188855,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.86287702519333,
+          -17.230884839387656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7961,
+        "source_id": 22347,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.854959190668,
+          -17.23271949547047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7961,
+        "source_id": 1412798,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.86082637054199,
+          -17.231315932399685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7961,
+        "source_id": 1241137,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.85501067933858,
+          -17.232349546718112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7961,
+        "source_id": 1433470,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.86144215987834,
+          -17.231433641098157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85149,
+        "source_id": 1372357,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6662651319168,
+          -15.261345365963033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85149,
+        "source_id": 1260089,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.66623279934576,
+          -15.26129156606462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85149,
+        "source_id": 1273659,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.66629757619755,
+          -15.261341082332391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87707,
+        "source_id": 1412803,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.81801417612348,
+          -16.576049867645352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87707,
+        "source_id": 30116,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.81795771297593,
+          -16.576155906828145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87707,
+        "source_id": 790335,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8180081624438,
+          -16.576031239956205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87707,
+        "source_id": 146746,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.81800012388302,
+          -16.575889210828063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87707,
+        "source_id": 1188305,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.81804465918275,
+          -16.575748953794697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87707,
+        "source_id": 1273666,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.81807781486359,
+          -16.57598141764918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87923,
+        "source_id": 1273661,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.95671777139925,
+          -13.43420361173461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87923,
+        "source_id": 1412802,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.956832453383,
+          -13.434115505009569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91889,
+        "source_id": 1433477,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8274846593231,
+          -16.693381983257247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93496,
+        "source_id": 1351902,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09712074067997,
+          -11.037924200641369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93496,
+        "source_id": 781304,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09713789854317,
+          -11.037958128070446
+        ]
+      }
+    }
+  ]
+}

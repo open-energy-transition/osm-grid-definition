@@ -1,0 +1,124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24730,
+        "source_id": 1290879,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Andorra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4522719852617616,
+          42.532613636346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24730,
+        "source_id": 1225618,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Andorra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.452229607098783,
+          42.53260028874606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24730,
+        "source_id": 220164,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Andorra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4523850088237005,
+          42.532659035322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24730,
+        "source_id": 857812,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Andorra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4522799109856432,
+          42.53259090590339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72658,
+        "source_id": 857814,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Andorra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.698836653320425,
+          42.54824303013434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72658,
+        "source_id": 222588,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Andorra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6988782040155044,
+          42.54825551914161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94888,
+        "source_id": 1376350,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Andorra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.485765598734811,
+          42.45624864719556
+        ]
+      }
+    }
+  ]
+}

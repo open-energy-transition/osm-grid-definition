@@ -1,0 +1,1416 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13268,
+        "source_id": 52062,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.70123431154591,
+          -20.1461189260636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13401,
+        "source_id": 972272,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.42444083164845,
+          -20.26153943982406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13401,
+        "source_id": 375599,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.42516702737223,
+          -20.26113984672608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13401,
+        "source_id": 1200487,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.433114389927056,
+          -20.262270645884925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13401,
+        "source_id": 1443302,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.43313285240991,
+          -20.262202982913664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13401,
+        "source_id": 1200488,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.42440539188301,
+          -20.26148355189791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13401,
+        "source_id": 1289746,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.43294553906742,
+          -20.262210523988287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13401,
+        "source_id": 375597,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.43302843536236,
+          -20.262176561668564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13401,
+        "source_id": 1239427,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.433087703299854,
+          -20.26225266721124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13401,
+        "source_id": 972271,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.433187181243184,
+          -20.26236206718445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13401,
+        "source_id": 1250390,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.42440701305006,
+          -20.261501721026388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13401,
+        "source_id": 1416566,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4330171223205,
+          -20.262139309883267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13401,
+        "source_id": 66719,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.432914399751226,
+          -20.26227131654638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13401,
+        "source_id": 1289745,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.42446532081307,
+          -20.26159591536153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13401,
+        "source_id": 22105,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.42429573221813,
+          -20.2614951343867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2911,
+        "source_id": 1443303,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.53501787657024,
+          -20.109988332531497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2911,
+        "source_id": 972278,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.53339182230428,
+          -20.10854116186133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2911,
+        "source_id": 1232828,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5350934697925,
+          -20.109941730291577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2911,
+        "source_id": 1289748,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.53511865518792,
+          -20.109944294259577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2911,
+        "source_id": 1355686,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.53494531485685,
+          -20.1100186428691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3281,
+        "source_id": 375601,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.70332404900931,
+          -20.228227444018547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3281,
+        "source_id": 1416568,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.70386727213497,
+          -20.231487258617435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3281,
+        "source_id": 1443305,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.701828531253774,
+          -20.22937781210872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3281,
+        "source_id": 1228986,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.70055604073531,
+          -20.22935820186605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3281,
+        "source_id": 375600,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.70402975930668,
+          -20.23150216430594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3281,
+        "source_id": 375602,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.699551685341945,
+          -20.22799601448708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3281,
+        "source_id": 29883,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.70067915865,
+          -20.22883110881664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3281,
+        "source_id": 1289753,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.699514226301325,
+          -20.22800071230202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3281,
+        "source_id": 1228966,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.69882585149893,
+          -20.22710350903835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3281,
+        "source_id": 1219009,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.70329567992935,
+          -20.22826688623536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3281,
+        "source_id": 1416567,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.698585004682045,
+          -20.2268219129612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3281,
+        "source_id": 29878,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.69847844956259,
+          -20.22705277051133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35040,
+        "source_id": 375605,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.53764781074083,
+          -20.077751628970542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35040,
+        "source_id": 1396385,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5392199683187,
+          -20.074862109290443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35040,
+        "source_id": 375604,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5347731199326,
+          -20.078740969685967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35040,
+        "source_id": 1219170,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.53469980459229,
+          -20.07859255553493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35040,
+        "source_id": 972279,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.53434435199107,
+          -20.079150327886133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35040,
+        "source_id": 1289749,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.53479856389769,
+          -20.0785208118562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35040,
+        "source_id": 1200490,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.54035001309367,
+          -20.07438290843344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35040,
+        "source_id": 1219404,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.53926409619415,
+          -20.074879883780312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35040,
+        "source_id": 51958,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.53741799316354,
+          -20.07789559443557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35040,
+        "source_id": 22101,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.53730921169809,
+          -20.07360566471377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35040,
+        "source_id": 1443304,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.53921640611344,
+          -20.07492466854336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35040,
+        "source_id": 22104,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.53762077028416,
+          -20.076095852856547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35040,
+        "source_id": 22100,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.539605013648334,
+          -20.074510015347368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35040,
+        "source_id": 1289750,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.53930509429662,
+          -20.075199462324097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36137,
+        "source_id": 1200486,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.46356901652383,
+          -20.33345657855921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36137,
+        "source_id": 1443301,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.46359406292301,
+          -20.33339069172733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36137,
+        "source_id": 972269,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.46353601782273,
+          -20.33354454276733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36137,
+        "source_id": 1289698,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.46350946142692,
+          -20.33350294118138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36137,
+        "source_id": 1396384,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.46357651855491,
+          -20.333427449580345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36137,
+        "source_id": 1268907,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.46359985721688,
+          -20.333416140980543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36137,
+        "source_id": 375596,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.46362060480792,
+          -20.333422739998696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47103,
+        "source_id": 1289751,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.58490052710847,
+          -20.08588398100064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47103,
+        "source_id": 1215189,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.58470383878527,
+          -20.085795425671115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48822,
+        "source_id": 1289804,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.6962908052429,
+          -20.14179163033432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48822,
+        "source_id": 1396387,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.6962287353976,
+          -20.14174147658765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57656,
+        "source_id": 375594,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.47106363035955,
+          -20.35872371912376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57656,
+        "source_id": 1376147,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.47088741046024,
+          -20.35889294045517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57656,
+        "source_id": 1250365,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.47090430795064,
+          -20.358865569126724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57656,
+        "source_id": 1443300,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.47090187257592,
+          -20.35870320077827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57656,
+        "source_id": 972266,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.470590899382,
+          -20.358856177277843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57656,
+        "source_id": 375595,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.46820717693958,
+          -20.355153083315457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57656,
+        "source_id": 972268,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4681781162144,
+          -20.35534535378397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57656,
+        "source_id": 1289797,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4709182364086,
+          -20.358856832098027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57656,
+        "source_id": 1228712,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.46874120161176,
+          -20.355226146236333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59826,
+        "source_id": 1200489,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.45061573917774,
+          -20.18526125149544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59826,
+        "source_id": 972275,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.45062053231593,
+          -20.18519638059044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59826,
+        "source_id": 1266558,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.45060774680589,
+          -20.18525883304976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59826,
+        "source_id": 1376148,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.45063417461272,
+          -20.185282498006494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59826,
+        "source_id": 1289747,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.45064496061676,
+          -20.185306668084905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59826,
+        "source_id": 375603,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.45056797406915,
+          -20.18530538205961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74430,
+        "source_id": 29892,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.55719160813011,
+          -20.03495208449018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74430,
+        "source_id": 1396386,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.55825499759688,
+          -20.034831311385023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74430,
+        "source_id": 375606,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.55804270162235,
+          -20.034932730851835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74430,
+        "source_id": 1200491,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.55808421125879,
+          -20.034952844373457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74430,
+        "source_id": 1289752,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.558327670767305,
+          -20.034884943407445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77091,
+        "source_id": 972273,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.7710720867521,
+          -20.261032454526664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77091,
+        "source_id": 375598,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.77107587386261,
+          -20.26120137592269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77091,
+        "source_id": 1289754,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.77097324193901,
+          -20.2612700568475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77091,
+        "source_id": 1376149,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.7709246868497,
+          -20.26116332505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77091,
+        "source_id": 1443306,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.77102316454614,
+          -20.2611041684864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77091,
+        "source_id": 1270490,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.77103901914638,
+          -20.26117759790537
+        ]
+      }
+    }
+  ]
+}

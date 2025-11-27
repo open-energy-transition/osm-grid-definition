@@ -1,0 +1,532 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14636,
+        "source_id": 1393800,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58834308229982,
+          10.393017485165686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14636,
+        "source_id": 765779,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58835201531386,
+          10.393004852325486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14636,
+        "source_id": 1264889,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58839188117179,
+          10.393073969270562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14636,
+        "source_id": 1436964,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58833935575969,
+          10.39303384684659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14636,
+        "source_id": 102623,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58830635898644,
+          10.393010859535396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14636,
+        "source_id": 1010,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58804094526755,
+          10.39304532880498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14636,
+        "source_id": 1182580,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58839556498319,
+          10.39305562388832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14636,
+        "source_id": 1279283,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58835339554894,
+          10.392981050912658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43059,
+        "source_id": 102621,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.78528688005906,
+          10.352785487669545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43059,
+        "source_id": 1373582,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.78556690662141,
+          10.352605212460809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43059,
+        "source_id": 765772,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7854399446498,
+          10.352711014099388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43059,
+        "source_id": 1436963,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7856688153154,
+          10.35250394452403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43059,
+        "source_id": 1258187,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.78547176623522,
+          10.352736910111297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43059,
+        "source_id": 1279282,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.78546471999076,
+          10.352711029747454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49587,
+        "source_id": 1414020,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.280397264101,
+          9.996373502548405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54253,
+        "source_id": 105156,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5151943499594,
+          10.588124836825491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54253,
+        "source_id": 767969,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5144525274718,
+          10.587893619975835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54253,
+        "source_id": 1353130,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51431861392841,
+          10.587895574802612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54253,
+        "source_id": 1279286,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51419344439506,
+          10.587946876424493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54253,
+        "source_id": 1183196,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51509403589742,
+          10.588317808521085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6473,
+        "source_id": 102641,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.26274084314676,
+          10.580052199395782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6473,
+        "source_id": 1279284,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2626824494558,
+          10.5801229607834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6473,
+        "source_id": 1182688,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.26275065230168,
+          10.58014479762458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6473,
+        "source_id": 765790,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.26275354781131,
+          10.580093677429636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6473,
+        "source_id": 1436965,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.26276605759097,
+          10.580085337761838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6473,
+        "source_id": 1373583,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2627065469502,
+          10.5801134185089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 656,
+        "source_id": 1279285,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.17956637120272,
+          10.718401202442674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 656,
+        "source_id": 102646,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.17962040534739,
+          10.718476272592008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 656,
+        "source_id": 765791,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.17956782733422,
+          10.718381267914404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 656,
+        "source_id": 1182689,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.17959438700251,
+          10.718458783211792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 656,
+        "source_id": 1414008,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.17963678620126,
+          10.718488943826106
+        ]
+      }
+    }
+  ]
+}

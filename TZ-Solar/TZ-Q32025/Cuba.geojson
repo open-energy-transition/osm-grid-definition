@@ -1,0 +1,6414 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100683,
+        "source_id": 1437161,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.52625257135203,
+          22.48795751582504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 101265,
+        "source_id": 1482992,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59150814732612,
+          20.69254327616094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 108435,
+        "source_id": 772083,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.33345153726151,
+          23.0120322397419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 108435,
+        "source_id": 1414138,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.33337897926395,
+          23.01208110121668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 108943,
+        "source_id": 1353238,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.32259240814284,
+          22.52640268613265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 109524,
+        "source_id": 1393939,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.79106873045313,
+          23.00655871775852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 111713,
+        "source_id": 783756,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.12880409413428,
+          19.918189957180985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12137,
+        "source_id": 998,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.30315894251913,
+          22.553960256826755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12137,
+        "source_id": 1353239,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.30301562680363,
+          22.554273904557306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12137,
+        "source_id": 769799,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.30322454970249,
+          22.55416926420809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12137,
+        "source_id": 1279988,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.30316213417714,
+          22.554181943313875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12137,
+        "source_id": 1260571,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.30315406532831,
+          22.55415018183592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12137,
+        "source_id": 109681,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.30314546598129,
+          22.554156230620404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14350,
+        "source_id": 1437168,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.37441726815644,
+          20.38158156062887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14350,
+        "source_id": 781514,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.37443672400023,
+          20.3816126273941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14350,
+        "source_id": 983,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3744779998546,
+          20.38154858937156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14350,
+        "source_id": 131018,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.37442007829877,
+          20.38161705787801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14350,
+        "source_id": 1279799,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.37435857212063,
+          20.38160759458057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14350,
+        "source_id": 1414103,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.37438096436958,
+          20.381620300649985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14350,
+        "source_id": 1271214,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.37440540559962,
+          20.381596523684323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15877,
+        "source_id": 1373682,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64218750884874,
+          21.171941569701644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15877,
+        "source_id": 131026,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64219082426499,
+          21.17191706177579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15877,
+        "source_id": 781571,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64214088777442,
+          21.171976090263986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15877,
+        "source_id": 1437171,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6421686677259,
+          21.1719419552273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15877,
+        "source_id": 1279809,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64224547655516,
+          21.17196094044905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15877,
+        "source_id": 1272046,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64218687686628,
+          21.171970746824503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15877,
+        "source_id": 984,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64216397994878,
+          21.17197006672905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16084,
+        "source_id": 1279744,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.63352365790843,
+          22.40406102938785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16084,
+        "source_id": 1437154,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.63347947304769,
+          22.404014479370726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16084,
+        "source_id": 107673,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.63352798365376,
+          22.404042099220906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16084,
+        "source_id": 1183674,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.63353421027446,
+          22.40401492130177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16084,
+        "source_id": 768054,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.63353167096118,
+          22.404061207545546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16084,
+        "source_id": 987,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.63346219999423,
+          22.40399401986185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16084,
+        "source_id": 1250875,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.63359044096937,
+          22.40407880608632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16084,
+        "source_id": 1414091,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.63349353455502,
+          22.40407035924595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17552,
+        "source_id": 989,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.60299788920308,
+          20.34737286653943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17552,
+        "source_id": 1259110,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.60348456277946,
+          20.346987139552585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17552,
+        "source_id": 131016,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.60343455111197,
+          20.346981881876623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17552,
+        "source_id": 1279797,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.60349449153959,
+          20.346951218829734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17552,
+        "source_id": 1414101,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6034490068678,
+          20.34697110928214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17552,
+        "source_id": 781509,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6034704452512,
+          20.34695762013977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19227,
+        "source_id": 1279802,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4794235507667,
+          20.54217432248606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19227,
+        "source_id": 781529,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.47957231143037,
+          20.542125513483988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19227,
+        "source_id": 131020,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.47952742083397,
+          20.54212820215925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19227,
+        "source_id": 1414105,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.47953594420396,
+          20.54206021011449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19227,
+        "source_id": 1271103,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.47949109680498,
+          20.542061939305675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23164,
+        "source_id": 1393883,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.46610842345461,
+          21.726492462232542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23164,
+        "source_id": 119889,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.46614160638269,
+          21.726294506077547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23164,
+        "source_id": 1437159,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.46606031520027,
+          21.72650826622556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23164,
+        "source_id": 1272386,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.46602873178594,
+          21.726442948309497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23164,
+        "source_id": 776032,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.46609615496648,
+          21.726577271832333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23164,
+        "source_id": 1184933,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4660436433439,
+          21.726506277307347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23164,
+        "source_id": 1279697,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.46605855879952,
+          21.726458963630176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23949,
+        "source_id": 1437158,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28901469548433,
+          22.3349916259994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23949,
+        "source_id": 857,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2892266177339,
+          22.33482059188271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23949,
+        "source_id": 1267305,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2895401850279,
+          22.33451107694913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23949,
+        "source_id": 1414096,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28911079223427,
+          22.33489771512493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23949,
+        "source_id": 776059,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28910252401016,
+          22.33480904451034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24540,
+        "source_id": 1437175,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.23792752837261,
+          20.13569922167378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24540,
+        "source_id": 1259831,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.23794865339117,
+          20.135721037621224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24540,
+        "source_id": 1279814,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.23793482685254,
+          20.1356720861584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24540,
+        "source_id": 136189,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.23791933011718,
+          20.13579982146164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24540,
+        "source_id": 783768,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.23800295057028,
+          20.1356663626995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24540,
+        "source_id": 986,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.23802887234197,
+          20.13561795194396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24540,
+        "source_id": 1414108,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.23791729202989,
+          20.135684370571266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25396,
+        "source_id": 1437180,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.15253045046005,
+          20.24073313638525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25396,
+        "source_id": 1257421,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1525297169362,
+          20.24067928665744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25396,
+        "source_id": 786461,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.15259243969474,
+          20.24068733196661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25396,
+        "source_id": 1279756,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.15256575939075,
+          20.24065023708972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25396,
+        "source_id": 141644,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.15252210863333,
+          20.240846597902333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25396,
+        "source_id": 1353208,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.15251616129689,
+          20.24072599904884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25342,
+        "source_id": 1187025,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.11628795850909,
+          19.93259475190152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25342,
+        "source_id": 1393893,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.11625576420772,
+          19.932561739485347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25342,
+        "source_id": 1437177,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.11631043113104,
+          19.93252485623133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25342,
+        "source_id": 138756,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.11632020469092,
+          19.932666505717464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25342,
+        "source_id": 1279752,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.11615242751854,
+          19.93245780637005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25342,
+        "source_id": 1256739,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.11631827050374,
+          19.932578800077167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25342,
+        "source_id": 783757,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.11621647269531,
+          19.932499580089274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25858,
+        "source_id": 1279743,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.67395973834319,
+          22.39463905374252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25858,
+        "source_id": 107672,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.67390194961824,
+          22.394481218793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25858,
+        "source_id": 1261089,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.67398237920868,
+          22.39462240441107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25858,
+        "source_id": 1373670,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.67394686406298,
+          22.394593715345664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25858,
+        "source_id": 985,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.67391383252365,
+          22.39458105036573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25858,
+        "source_id": 1437153,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.67392408978091,
+          22.394611192405904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25858,
+        "source_id": 768053,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.67396594166563,
+          22.394647817827327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26377,
+        "source_id": 1353195,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.70036761971767,
+          22.283074294304885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26377,
+        "source_id": 1279742,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.700431412215,
+          22.28298548585773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26377,
+        "source_id": 768050,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.70049650226395,
+          22.283111718706635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26377,
+        "source_id": 1266672,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.70046239517833,
+          22.28309491460049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26377,
+        "source_id": 107671,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.70044555521787,
+          22.28306411057134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26619,
+        "source_id": 1007,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.770774856576,
+          20.00766135629945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26619,
+        "source_id": 136186,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.77080586462283,
+          20.00676919815785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26619,
+        "source_id": 781499,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.77093752240397,
+          20.00657368916958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26619,
+        "source_id": 1437172,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.77100235163995,
+          20.006521973033227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26619,
+        "source_id": 1279811,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.77086299578481,
+          20.006545481679773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26619,
+        "source_id": 1270369,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.77093088554291,
+          20.006635628886045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26619,
+        "source_id": 1393890,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.77094262635018,
+          20.00653921731657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26619,
+        "source_id": 855,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.77126558168,
+          20.006238352305218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28571,
+        "source_id": 1271840,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.83409576564999,
+          21.89037517849546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28571,
+        "source_id": 111765,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.83395467267118,
+          21.89039917335184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28571,
+        "source_id": 995,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.83435056832728,
+          21.89033430255448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28571,
+        "source_id": 1279747,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.83416644259188,
+          21.890462080198244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28571,
+        "source_id": 769797,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.83414411098505,
+          21.890424612387505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28571,
+        "source_id": 1373671,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8340557085915,
+          21.890402506988785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28584,
+        "source_id": 1279807,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.71114678412359,
+          21.9432438625262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28584,
+        "source_id": 122124,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7113354121973,
+          21.943210346486723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28584,
+        "source_id": 778171,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.71125101858706,
+          21.94325456601285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28584,
+        "source_id": 431,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.71127556318845,
+          21.943251679228656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28584,
+        "source_id": 1266482,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7111623967899,
+          21.94323016138353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31172,
+        "source_id": 1211337,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.66361041322638,
+          20.644825271948903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31237,
+        "source_id": 1272175,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.259394379868,
+          22.32946446856631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31237,
+        "source_id": 119905,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.25935443991463,
+          22.329399048481005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31237,
+        "source_id": 1373674,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.25941919500461,
+          22.32945588660352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31237,
+        "source_id": 1437162,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.25935523750485,
+          22.329469255771272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31237,
+        "source_id": 778189,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.25940601596875,
+          22.32946321671516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3247,
+        "source_id": 122135,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.89364005922212,
+          22.20763445073238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3247,
+        "source_id": 778180,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.89365647653169,
+          22.2076611444966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3247,
+        "source_id": 1279784,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.89365587487681,
+          22.207697889053748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3247,
+        "source_id": 1373675,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.89367703983338,
+          22.207669575650883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3247,
+        "source_id": 1261446,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.89366025961502,
+          22.207655956755545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33080,
+        "source_id": 1373722,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.87515549684649,
+          23.00507335096488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33080,
+        "source_id": 1257491,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8807432982648,
+          23.005206986378823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33080,
+        "source_id": 1251752,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.87127120483109,
+          23.005166932929964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33080,
+        "source_id": 111775,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.87537906093661,
+          23.00514583902828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33080,
+        "source_id": 769802,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.87517277051664,
+          23.00509630402124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36311,
+        "source_id": 1373672,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.82618432178978,
+          22.37827768099337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36311,
+        "source_id": 1259173,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.82632943101615,
+          22.378271576141493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36311,
+        "source_id": 1279751,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.82620184812366,
+          22.378319133084503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36311,
+        "source_id": 774073,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.82618593909892,
+          22.378247375479138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36311,
+        "source_id": 117284,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.82622563917589,
+          22.37836240291298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36567,
+        "source_id": 117279,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.43881940378607,
+          22.19136663922201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36567,
+        "source_id": 1437156,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.43880515235473,
+          22.19145138313675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36567,
+        "source_id": 990,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.43901899887062,
+          22.1914368297728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36567,
+        "source_id": 1279695,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.43886476833053,
+          22.191384461371666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36567,
+        "source_id": 1268891,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.43885935339264,
+          22.191371910791982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36567,
+        "source_id": 776047,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.43888354502921,
+          22.19146979512931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36567,
+        "source_id": 1393882,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.43884149631997,
+          22.191440956418404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37045,
+        "source_id": 1261269,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.53583922913435,
+          22.33052405963945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37045,
+        "source_id": 1353197,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.53582134589283,
+          22.33051491793187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37045,
+        "source_id": 26612,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.53585640862825,
+          22.33055707393565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37045,
+        "source_id": 1279694,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.53582209983881,
+          22.33051280806392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37045,
+        "source_id": 117282,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.53574581548456,
+          22.3304706752359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37045,
+        "source_id": 776057,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.53581139277796,
+          22.33053468721217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38266,
+        "source_id": 126436,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.47178971050499,
+          21.532663356539462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38266,
+        "source_id": 780050,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.47175476781504,
+          21.5326885563634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38266,
+        "source_id": 1393889,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.47184410900948,
+          21.53262885517412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38266,
+        "source_id": 1239002,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4717373178771,
+          21.532699800168423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39321,
+        "source_id": 981,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.78952842931035,
+          21.867579933114342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39321,
+        "source_id": 769796,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.79117697329715,
+          21.86764443749962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39321,
+        "source_id": 111764,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.78933847585682,
+          21.867444537710384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39321,
+        "source_id": 1262322,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.78980289554022,
+          21.86745829924753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39321,
+        "source_id": 1414093,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.78979154849479,
+          21.86754675074473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39321,
+        "source_id": 1437155,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.78935348624722,
+          21.867473305916985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39321,
+        "source_id": 1279748,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.78941631319128,
+          21.867481718193627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40028,
+        "source_id": 1004,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.43846016313874,
+          20.359183799168644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40028,
+        "source_id": 1414102,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.43840149171285,
+          20.359184472511803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40028,
+        "source_id": 1272278,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.43844133175949,
+          20.359251722819504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40028,
+        "source_id": 1279798,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.43847747716985,
+          20.35919062943995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40028,
+        "source_id": 131017,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.43840822848382,
+          20.35930972482322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40028,
+        "source_id": 781510,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.43841515793187,
+          20.35923919322232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41508,
+        "source_id": 1279780,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94122147220605,
+          22.385855659691835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41508,
+        "source_id": 1353199,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94142911778312,
+          22.38604470349813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41508,
+        "source_id": 119908,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9414055531398,
+          22.386073127252786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41508,
+        "source_id": 776066,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94139197434556,
+          22.386090272094226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41508,
+        "source_id": 54348,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94142173057129,
+          22.38607879989988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41587,
+        "source_id": 1266655,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.021489888667,
+          22.02898764363541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41587,
+        "source_id": 768048,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.02156363028115,
+          22.02899420240708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41587,
+        "source_id": 1393881,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.02156864289506,
+          22.02895998159476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41587,
+        "source_id": 1000,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.02157792263333,
+          22.02901169632966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41587,
+        "source_id": 1279741,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.02158342621816,
+          22.02897152017224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42232,
+        "source_id": 768055,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.63470728935555,
+          22.411712953961818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42232,
+        "source_id": 107674,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.63515358379331,
+          22.411644314595257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42232,
+        "source_id": 1279745,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.63481265407738,
+          22.411619037791205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42232,
+        "source_id": 1249551,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.63461507450155,
+          22.41166783348479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42232,
+        "source_id": 994,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.63447843545399,
+          22.411633900295705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42232,
+        "source_id": 1414092,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.63458858585584,
+          22.411675878475272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44468,
+        "source_id": 1267491,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23597854937628,
+          23.049309716273985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44468,
+        "source_id": 774106,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23603012742562,
+          23.04933352967286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44468,
+        "source_id": 1184166,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23601679988884,
+          23.049335179881066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44468,
+        "source_id": 1437262,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23601079850029,
+          23.049353774641723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44468,
+        "source_id": 1373725,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23609199378112,
+          23.04931736483781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44468,
+        "source_id": 114300,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23602221034612,
+          23.04936893041196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47339,
+        "source_id": 1267746,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2188441428969,
+          22.83705035749633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47339,
+        "source_id": 1437263,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21727914118102,
+          22.836589716651257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47339,
+        "source_id": 1002,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21525545128426,
+          22.83646849990861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47339,
+        "source_id": 1279997,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21721981210494,
+          22.83660538471131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47339,
+        "source_id": 1353243,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2171620822831,
+          22.836640988246867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47339,
+        "source_id": 1268557,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21600166743048,
+          22.8365121734716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47339,
+        "source_id": 776083,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21716865031668,
+          22.83663480984048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47339,
+        "source_id": 117301,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21719709550092,
+          22.836642517902305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47339,
+        "source_id": 1006,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21918315302962,
+          22.836772292508915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48362,
+        "source_id": 1437258,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35139150751597,
+          22.994403825302445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48362,
+        "source_id": 1353241,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35135831296012,
+          22.99435346789691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48362,
+        "source_id": 772080,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35140569171818,
+          22.994361418373902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48362,
+        "source_id": 1275822,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35136518634062,
+          22.99437459175089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50747,
+        "source_id": 122139,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.08002749156306,
+          22.27357308731316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50747,
+        "source_id": 778183,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.08014230914246,
+          22.27347100127887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50747,
+        "source_id": 1279783,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.080129301859,
+          22.273898724399647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50747,
+        "source_id": 1353200,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.08009421681841,
+          22.273562029539168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50747,
+        "source_id": 1271026,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.08013824879734,
+          22.273583188179344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50822,
+        "source_id": 1245128,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.47656610012189,
+          22.087317283666188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50822,
+        "source_id": 1393885,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.47659976467392,
+          22.08731771666815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50822,
+        "source_id": 776039,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.47657101982085,
+          22.087371100058128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50822,
+        "source_id": 54061,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.47662937914826,
+          22.08730812630891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50822,
+        "source_id": 1279779,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4766882843587,
+          22.0873432846299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50822,
+        "source_id": 119903,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4765480954438,
+          22.087355087018743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51725,
+        "source_id": 117280,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.41006509825192,
+          22.24211932926902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51725,
+        "source_id": 856,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.41009596957537,
+          22.24208384266646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51725,
+        "source_id": 1264553,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4100832470569,
+          22.24207732804149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51725,
+        "source_id": 1437157,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.41001676418746,
+          22.2420694519627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51725,
+        "source_id": 1414095,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.41005366922828,
+          22.24206019742296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51725,
+        "source_id": 1279696,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.41006991096587,
+          22.242018927779675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51725,
+        "source_id": 776048,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.41003915407805,
+          22.24214368872102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52677,
+        "source_id": 1373723,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.72430172127092,
+          22.94586529475841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52677,
+        "source_id": 1279990,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.72412786525994,
+          22.94593211573518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52677,
+        "source_id": 1261632,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.72430998129961,
+          22.94585112891308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52677,
+        "source_id": 111772,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.72432812476431,
+          22.945921274103416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52677,
+        "source_id": 1183923,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.72431151953761,
+          22.945868280259283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52677,
+        "source_id": 772079,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.72431011368239,
+          22.94585266100713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52677,
+        "source_id": 1437254,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.72429244955521,
+          22.945888563634234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55908,
+        "source_id": 1414106,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.95298391418146,
+          21.415916120244614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55908,
+        "source_id": 1261984,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.95305191318229,
+          21.4159312279767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55908,
+        "source_id": 1279805,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.95296570302882,
+          21.41592552458341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55908,
+        "source_id": 124394,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.95314673360728,
+          21.41603651913901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56875,
+        "source_id": 1279816,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.10592641388308,
+          19.90056763166599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56875,
+        "source_id": 138753,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.10584191744168,
+          19.90059959567495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56875,
+        "source_id": 1393892,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.10587959066577,
+          19.90058447377526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56875,
+        "source_id": 1437176,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.10567404907593,
+          19.90050994181341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56875,
+        "source_id": 783753,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.10595261851287,
+          19.90051292512748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56875,
+        "source_id": 1187024,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.10582701386218,
+          19.9005654858164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56875,
+        "source_id": 1260039,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.10587189365783,
+          19.900558085589743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57274,
+        "source_id": 1279754,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.84607663601523,
+          20.05285734779517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57274,
+        "source_id": 1373683,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.84592885019667,
+          20.05280668540124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57274,
+        "source_id": 1271892,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.84597709510706,
+          20.05278039332329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57274,
+        "source_id": 138760,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.84618018480538,
+          20.052755798293106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57274,
+        "source_id": 783762,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.84596246403758,
+          20.052851716641403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58125,
+        "source_id": 1211578,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37309966897729,
+          22.689803171297683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59360,
+        "source_id": 54060,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.89531510150627,
+          21.41042090015852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59360,
+        "source_id": 124393,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.89537682583183,
+          21.410538975320687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59360,
+        "source_id": 1185634,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.89529071044821,
+          21.41043017508251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59360,
+        "source_id": 1373680,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.89522689573842,
+          21.4104491953075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59928,
+        "source_id": 1238820,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.24969381052371,
+          21.762729183916573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59928,
+        "source_id": 778165,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.24930252116218,
+          21.76253922962621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59928,
+        "source_id": 119890,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2491642423915,
+          21.76261813355641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59928,
+        "source_id": 993,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.24930896856193,
+          21.76258338172797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59928,
+        "source_id": 1353198,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.24930613299229,
+          21.76250089786549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59928,
+        "source_id": 1437160,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.24932007175346,
+          21.762488843416467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61825,
+        "source_id": 133557,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9114737689446,
+          21.08721175189321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61825,
+        "source_id": 781569,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.91152087309432,
+          21.08703236813459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61825,
+        "source_id": 59618,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9115213320179,
+          21.087121314570616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61825,
+        "source_id": 1264705,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.91147803021738,
+          21.087059788534283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61825,
+        "source_id": 1353207,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.91152445876736,
+          21.087007375568565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61825,
+        "source_id": 1482993,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.91221446262989,
+          21.0875335501462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6180,
+        "source_id": 1437173,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.88697889341616,
+          20.17466435128751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6180,
+        "source_id": 1393891,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.88697228890774,
+          20.174721029461733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6180,
+        "source_id": 781500,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.88698421678745,
+          20.174716079670475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6180,
+        "source_id": 133550,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.88690593110321,
+          20.174759061265927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6180,
+        "source_id": 1258122,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.88704439823661,
+          20.17467819790963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6180,
+        "source_id": 1279812,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.88695219634764,
+          20.174795407309546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6180,
+        "source_id": 991,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.88658377955323,
+          20.1744424373634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61656,
+        "source_id": 111771,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.53380878393351,
+          22.91927088718506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61656,
+        "source_id": 1279992,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5338482440201,
+          22.91923076642512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61656,
+        "source_id": 1373724,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.53382320780584,
+          22.91927467559428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61656,
+        "source_id": 772078,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.53385774846802,
+          22.91923626455028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61656,
+        "source_id": 1437255,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.53385060960278,
+          22.91928407489848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61656,
+        "source_id": 1254100,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5338693731324,
+          22.91923929989699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63063,
+        "source_id": 778164,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78893627487861,
+          21.74431991583678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63063,
+        "source_id": 1261728,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78884194113178,
+          21.74421801525534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63063,
+        "source_id": 1393884,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78887354551908,
+          21.74431310921743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63063,
+        "source_id": 1279778,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7888896925848,
+          21.744326421231456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65996,
+        "source_id": 988,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.90294390361231,
+          22.76059237166982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66302,
+        "source_id": 1437178,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20748170984997,
+          20.1103128147133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66302,
+        "source_id": 783766,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20751965332856,
+          20.11034825221308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66302,
+        "source_id": 1393894,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20747320934848,
+          20.11035222625928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66302,
+        "source_id": 992,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20746996661966,
+          20.110321213769748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66302,
+        "source_id": 1279753,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2077548411062,
+          20.11134176189953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66302,
+        "source_id": 136187,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2075004356577,
+          20.11035879032533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66302,
+        "source_id": 1263896,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20750297624217,
+          20.110383068625367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66922,
+        "source_id": 776071,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90150369817005,
+          22.43311371368424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66922,
+        "source_id": 1279781,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90145699438663,
+          22.43308690781713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66922,
+        "source_id": 119909,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90129096083993,
+          22.43312946671988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66922,
+        "source_id": 1261641,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90171962839271,
+          22.433132945087745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66922,
+        "source_id": 1393886,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90146429982377,
+          22.43309767646222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72160,
+        "source_id": 1269397,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51244927265972,
+          20.408740900525768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72160,
+        "source_id": 783775,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51244788222664,
+          20.408758106085973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72160,
+        "source_id": 136191,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51230595380233,
+          20.409008227714143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72160,
+        "source_id": 1437179,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51241917599803,
+          20.40874360305008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72160,
+        "source_id": 1279755,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51241454020416,
+          20.408693288338824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72160,
+        "source_id": 999,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51245737537346,
+          20.408730963974115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72160,
+        "source_id": 1414109,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51242084582354,
+          20.4087160840531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72400,
+        "source_id": 1279810,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96305039038899,
+          21.29211507437661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72400,
+        "source_id": 781575,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96308109567336,
+          21.292193403588072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72400,
+        "source_id": 128462,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96306622814969,
+          21.29214583663032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72400,
+        "source_id": 1353206,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96309791067723,
+          21.29219232468432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72400,
+        "source_id": 1256466,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96305584648782,
+          21.29212248038977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72844,
+        "source_id": 114299,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3781916645941,
+          22.990641067435345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72844,
+        "source_id": 1437257,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.37881565132125,
+          22.990639058202543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74079,
+        "source_id": 1353205,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.63565709592683,
+          22.0878747883026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74079,
+        "source_id": 1213306,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.63567438177051,
+          22.087923433780123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74869,
+        "source_id": 1279996,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18668239362107,
+          22.550607954181743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74869,
+        "source_id": 1373726,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18663371859746,
+          22.55061618113111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75994,
+        "source_id": 1279800,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64005430430107,
+          20.40270671722882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75994,
+        "source_id": 781517,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64010741379336,
+          20.402720194247628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75994,
+        "source_id": 131019,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64014747578399,
+          20.40272991402688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75994,
+        "source_id": 1266719,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64009593580283,
+          20.402746831765874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75994,
+        "source_id": 1414104,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64008827821455,
+          20.40272020503056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77410,
+        "source_id": 1233720,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.13274178836086,
+          22.161327299043016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77410,
+        "source_id": 122131,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1322203851628,
+          22.161308536285087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77410,
+        "source_id": 1279782,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.13278462147532,
+          22.16133139115658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77410,
+        "source_id": 1414097,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1327987107343,
+          22.16130197480369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77410,
+        "source_id": 778179,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.13287831180533,
+          22.16138487140621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78285,
+        "source_id": 776072,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.98839786265754,
+          22.487645427928005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78285,
+        "source_id": 119910,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.98832401569042,
+          22.48760095967832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78285,
+        "source_id": 1267888,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9884362943343,
+          22.48759201461073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78285,
+        "source_id": 1373673,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.98849481308912,
+          22.48763583674984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78591,
+        "source_id": 772067,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7483114572163,
+          21.73360902008626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78591,
+        "source_id": 1353196,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7483480646859,
+          21.73425947286172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78591,
+        "source_id": 1279746,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.74833133067797,
+          21.73412144262281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79179,
+        "source_id": 1353203,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61256185754043,
+          20.39207972527097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79179,
+        "source_id": 1437169,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61254683563716,
+          20.39216404198205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79179,
+        "source_id": 1279801,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61248998690952,
+          20.391989116391464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79646,
+        "source_id": 1482991,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2485995815254,
+          20.138025265159097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79794,
+        "source_id": 772072,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.59087490926464,
+          22.81881786605941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79794,
+        "source_id": 1279989,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.59076534791265,
+          22.818837868500328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79794,
+        "source_id": 1262721,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.59074298723937,
+          22.81884523670661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79794,
+        "source_id": 1393938,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.59075887305309,
+          22.81878261064527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79794,
+        "source_id": 111770,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.59063508015994,
+          22.81897093462318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80118,
+        "source_id": 136185,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20891964953391,
+          19.91615319911348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80118,
+        "source_id": 1279815,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20880387405218,
+          19.91627614041129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80118,
+        "source_id": 783754,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20890325676147,
+          19.916355488185488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80982,
+        "source_id": 126430,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36653767564584,
+          21.071613643680127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80982,
+        "source_id": 780047,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36659791946337,
+          21.07164566466372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80982,
+        "source_id": 1353202,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36652135846992,
+          21.07160072365638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80982,
+        "source_id": 1259241,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36652032396124,
+          21.071603047673182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82159,
+        "source_id": 54033,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.71321579206571,
+          22.25368427425529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82159,
+        "source_id": 1269302,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.71331550097997,
+          22.253632238240847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82159,
+        "source_id": 1184430,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.713240158673,
+          22.253665474358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82159,
+        "source_id": 1414094,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.71315178746384,
+          22.253650748727164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82159,
+        "source_id": 1279749,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.71322467192248,
+          22.253669657965848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82159,
+        "source_id": 117281,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.71324271210221,
+          22.25365726381705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82159,
+        "source_id": 776049,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.71321986295933,
+          22.253621939619105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82772,
+        "source_id": 772088,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3877370530173,
+          23.07389221149712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82772,
+        "source_id": 53954,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.38769351045003,
+          23.073820950548274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82772,
+        "source_id": 1353242,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.38765406508993,
+          23.073866221868347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83695,
+        "source_id": 1279993,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.60626219078469,
+          23.018967863102016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83695,
+        "source_id": 772085,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.60618705309676,
+          23.019001151597507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83695,
+        "source_id": 111777,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.60622107063523,
+          23.018969333039305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83695,
+        "source_id": 1268144,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.60623418774877,
+          23.01895839125149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83695,
+        "source_id": 1353240,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.60622876192309,
+          23.01900975805764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83854,
+        "source_id": 1482989,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.77100494810914,
+          21.89421609878728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86719,
+        "source_id": 1483003,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.87027050301671,
+          22.73966596448833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8715,
+        "source_id": 1437174,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.32439761903947,
+          20.12936170254511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8715,
+        "source_id": 136188,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.32434185324713,
+          20.12939714898245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8715,
+        "source_id": 982,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.32438400135676,
+          20.12936084929403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8715,
+        "source_id": 1279813,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.32454675653797,
+          20.12934298595016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8715,
+        "source_id": 783767,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3244085538547,
+          20.129338525468143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8715,
+        "source_id": 1262259,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3243927353491,
+          20.129364249985084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8715,
+        "source_id": 1414107,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.32441713092581,
+          20.12934270486547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87361,
+        "source_id": 1393888,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.58061172314227,
+          20.00577873898711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89517,
+        "source_id": 780056,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.75683852988949,
+          21.70309224039728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89517,
+        "source_id": 1373681,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.75684607931025,
+          21.70310980065981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89517,
+        "source_id": 1244111,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7568049564026,
+          21.70307070941864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89517,
+        "source_id": 126438,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7567807240544,
+          21.70308695603458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89517,
+        "source_id": 1345141,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.75684215105791,
+          21.70302164399654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89517,
+        "source_id": 54289,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.75684331906282,
+          21.70308092438468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89683,
+        "source_id": 1482988,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39129252586174,
+          22.05155049342356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91895,
+        "source_id": 1437260,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23818140937242,
+          22.81100243478263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92428,
+        "source_id": 1279995,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.24048615680701,
+          23.009542745884943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92428,
+        "source_id": 1437259,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.24068128132187,
+          23.00930448583272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92428,
+        "source_id": 1393940,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.24068169607408,
+          23.009289566230617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93506,
+        "source_id": 1437256,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.41884008034297,
+          22.94581500234592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94521,
+        "source_id": 783755,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1410495804455,
+          19.91721012423117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9539,
+        "source_id": 1264923,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.66531702006519,
+          23.01208623203864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9539,
+        "source_id": 1279991,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.66507260674335,
+          23.012146738565782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9539,
+        "source_id": 111776,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6651249156332,
+          23.01217037486828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9539,
+        "source_id": 772084,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.66509283578306,
+          23.012113192379424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 99313,
+        "source_id": 1437261,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Cuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9442986282225,
+          22.74146671106177
+        ]
+      }
+    }
+  ]
+}

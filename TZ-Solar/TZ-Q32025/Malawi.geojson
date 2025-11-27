@@ -1,0 +1,481 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28492,
+        "source_id": 1289522,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.73579831304752,
+          -12.07860154767997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28492,
+        "source_id": 1416548,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.73580287383826,
+          -12.078495065071673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28492,
+        "source_id": 939367,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.73579784549641,
+          -12.078548109240156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35139,
+        "source_id": 1443269,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.32921588682769,
+          -13.711122077188534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35139,
+        "source_id": 1199076,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3294391757419,
+          -13.711147615364569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35139,
+        "source_id": 323761,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.32937755097634,
+          -13.711180832279013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35139,
+        "source_id": 1289517,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.32916149349518,
+          -13.711142200975408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35139,
+        "source_id": 1265086,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.329445162420136,
+          -13.711146259808771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35139,
+        "source_id": 1416547,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.329118641486815,
+          -13.711077343896406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35139,
+        "source_id": 939363,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.329252436994715,
+          -13.711072197128429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49859,
+        "source_id": 1198854,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.78177477909777,
+          -13.7786798251558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49859,
+        "source_id": 321220,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7817701363048,
+          -13.778692676653202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49859,
+        "source_id": 937139,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.781518975404104,
+          -13.778794707365169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49859,
+        "source_id": 1227395,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.78175224709607,
+          -13.778702728710622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49859,
+        "source_id": 1345899,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.78178186827253,
+          -13.77869279253746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64014,
+        "source_id": 1199075,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.60161969942954,
+          -14.442709428647792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64014,
+        "source_id": 939362,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.601694617275754,
+          -14.442745965092517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64014,
+        "source_id": 1289514,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.60157361388644,
+          -14.442722564527374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64014,
+        "source_id": 326247,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.60155170268999,
+          -14.442606088627835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64014,
+        "source_id": 1259301,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.601565093920705,
+          -14.442735478633724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64014,
+        "source_id": 1376135,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.601627748055265,
+          -14.44271579106764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91052,
+        "source_id": 1270053,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.25529785956904,
+          -12.967519920442626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91052,
+        "source_id": 1355661,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.25519516963149,
+          -12.967804840529078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91052,
+        "source_id": 939366,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.25534551855234,
+          -12.967748085131422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91052,
+        "source_id": 1443270,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.255253695966736,
+          -12.967763330548928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91052,
+        "source_id": 1289518,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.25528622870462,
+          -12.967973251683665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91052,
+        "source_id": 1199077,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.25530745603944,
+          -12.96735927791963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91052,
+        "source_id": 323772,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.25535171815331,
+          -12.967495334535736
+        ]
+      }
+    }
+  ]
+}

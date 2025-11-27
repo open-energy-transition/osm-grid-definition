@@ -1,0 +1,4629 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 101211,
+        "source_id": 1289978,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.2717424069638,
+          -6.364948459808333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 101211,
+        "source_id": 475676,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.27149487551648,
+          -6.365017036329818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 101236,
+        "source_id": 1443339,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.2023399847388,
+          -6.390043388691295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100822,
+        "source_id": 1443334,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6362965592837,
+          -6.284366030477692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 101655,
+        "source_id": 1253056,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.21629582608976,
+          -7.324056088029328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 102350,
+        "source_id": 1289936,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.65678113247364,
+          -2.0746230460642496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10311,
+        "source_id": 1443377,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.63560034420831,
+          -7.917476445844625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 103796,
+        "source_id": 1224300,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.14771567577374,
+          -6.2719434413410005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 103573,
+        "source_id": 1484083,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1526975200096,
+          -0.2395865450415763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 104291,
+        "source_id": 1245876,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.54250800364322,
+          -7.394483002999285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 105017,
+        "source_id": 1443356,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.96940230073284,
+          -2.1410263458769108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 105518,
+        "source_id": 1443379,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.62173341120116,
+          -7.091132690743501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107594,
+        "source_id": 1084189,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.36673465533087,
+          -8.35291169047115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107594,
+        "source_id": 1355715,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.36676560044695,
+          -8.352964715104262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107946,
+        "source_id": 1289976,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.50224270878591,
+          -6.506223597400597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 108288,
+        "source_id": 1443380,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.50857900630348,
+          -8.218046069274699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 108846,
+        "source_id": 1443346,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.03921551962432,
+          -6.194798684315256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 109137,
+        "source_id": 1086303,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.85654834555652,
+          -0.3188660628240732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10899,
+        "source_id": 1090090,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.29439053323458,
+          -8.793622376729155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10899,
+        "source_id": 1289997,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.29432465865406,
+          -8.793706455444912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10899,
+        "source_id": 1443372,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2942460382386,
+          -8.793673971977258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10899,
+        "source_id": 519087,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.29447360967636,
+          -8.793560431587645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10899,
+        "source_id": 1416587,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.29440811442308,
+          -8.793639938147557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10899,
+        "source_id": 1255995,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.29439745544724,
+          -8.79365191937499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 109260,
+        "source_id": 1443333,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.28706729963038,
+          -6.131293514863373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 110310,
+        "source_id": 1230338,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.85837870988166,
+          -0.6630531139514252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 110516,
+        "source_id": 1443351,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.20495984983266,
+          -7.713232507000655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 110522,
+        "source_id": 1443376,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.550088200855,
+          -8.099838597584545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 111813,
+        "source_id": 1443338,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.94312311764948,
+          -6.500820560675758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12831,
+        "source_id": 1345978,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.64213660934172,
+          -6.785667827794914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13326,
+        "source_id": 1289981,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.34137257349953,
+          -6.382069944151708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15586,
+        "source_id": 1443383,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.11209563571175,
+          -3.255981956485638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15586,
+        "source_id": 1214995,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.11214387260792,
+          -3.256069226655488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15586,
+        "source_id": 1290030,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.11210995641277,
+          -3.2560073995432326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16017,
+        "source_id": 1238271,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.63135186547817,
+          -8.517045183641779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16017,
+        "source_id": 1090095,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.6314625384548,
+          -8.517092758425388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16017,
+        "source_id": 1355714,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.63141238029642,
+          -8.517078901507645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16017,
+        "source_id": 1290000,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.63153215101774,
+          -8.517143029021952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16017,
+        "source_id": 1443374,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.631501621149,
+          -8.517052194405458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16017,
+        "source_id": 521422,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.63140176126076,
+          -8.517048401768525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16064,
+        "source_id": 1250894,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.54459231466576,
+          -4.810893326096284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16064,
+        "source_id": 1355718,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.5446584,
+          -4.810760133333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16119,
+        "source_id": 1290001,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.80456669489332,
+          -9.008400067217853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16119,
+        "source_id": 1443375,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.80459312019048,
+          -9.008350923217083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16119,
+        "source_id": 1092243,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8046699396626,
+          -9.00838261043341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16119,
+        "source_id": 1484079,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.80353762046887,
+          -9.00648832431463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16119,
+        "source_id": 1396401,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.80462550156466,
+          -9.008367577153455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16119,
+        "source_id": 521416,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.80467133459204,
+          -9.008343469602371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16119,
+        "source_id": 1259827,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.80460436394866,
+          -9.00837460755734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18617,
+        "source_id": 1245631,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.75780916635458,
+          -6.950443351540386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18617,
+        "source_id": 1416576,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7577361698053,
+          -6.9504185703921495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20919,
+        "source_id": 1345988,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.42995753967008,
+          -7.194577836057599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20919,
+        "source_id": 488457,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.43003599123156,
+          -7.195180565120421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22815,
+        "source_id": 1044054,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.37087483538656,
+          -6.384649904411512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23514,
+        "source_id": 1289871,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.88254124124448,
+          -6.512026128627782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24839,
+        "source_id": 1443336,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.33438335457932,
+          -6.703769509013314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24839,
+        "source_id": 1238551,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.33443423829048,
+          -6.703692471881217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24839,
+        "source_id": 1289870,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.33446862388624,
+          -6.703908091630891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24839,
+        "source_id": 1355705,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.33435940044744,
+          -6.703717693922131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24839,
+        "source_id": 477959,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.33461445161537,
+          -6.697628328037861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24839,
+        "source_id": 1044035,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.334494852697,
+          -6.703435013811887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25841,
+        "source_id": 1223799,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.53878695576972,
+          -2.7920834872432683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2893,
+        "source_id": 526411,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.47529834370668,
+          0.1094181200120971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2893,
+        "source_id": 1094210,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.47521228671512,
+          0.1093940882519724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2893,
+        "source_id": 1259789,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.47684856919616,
+          0.1078000079496186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2893,
+        "source_id": 1094209,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.47679651399235,
+          0.1077127665790727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2893,
+        "source_id": 526410,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.47696976439484,
+          0.1076553241777493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31381,
+        "source_id": 1443378,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.69172793310372,
+          -7.6992383512492415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31381,
+        "source_id": 1220607,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.69182729456878,
+          -7.699049803826575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31381,
+        "source_id": 1289943,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.69169218658986,
+          -7.69934787530654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31381,
+        "source_id": 1064507,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.69185222343609,
+          -7.69906129711426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33287,
+        "source_id": 1443344,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.46649811018064,
+          -6.450530593079185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33287,
+        "source_id": 1289985,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.47124425822584,
+          -6.446007639785716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33287,
+        "source_id": 1484072,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4715146986444,
+          -6.444618034310764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33287,
+        "source_id": 1289984,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.46656388804884,
+          -6.45068034324264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33287,
+        "source_id": 1443345,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.47153692535902,
+          -6.444546380597082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34126,
+        "source_id": 1090092,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.575555867651,
+          -8.65873642051919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34126,
+        "source_id": 1090091,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.5788324460058,
+          -8.659112695994866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34126,
+        "source_id": 521421,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.57895525770556,
+          -8.659128366507938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34126,
+        "source_id": 1376167,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.57578251836672,
+          -8.658728198916979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34126,
+        "source_id": 1443373,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.57587474337753,
+          -8.658730992243358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34126,
+        "source_id": 521420,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.57732935254624,
+          -8.659359208598222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34126,
+        "source_id": 1272536,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.57727206503232,
+          -8.659205180886977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34126,
+        "source_id": 521419,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.57471846717924,
+          -8.658500999997822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34126,
+        "source_id": 1266935,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.57486149992894,
+          -8.658466831717123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34126,
+        "source_id": 1289999,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.575854639674,
+          -8.658797317639307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34552,
+        "source_id": 1289983,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.42881744337215,
+          -6.435761317741481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35100,
+        "source_id": 1246839,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.2843115172559,
+          -6.353733927741961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35100,
+        "source_id": 1289979,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.28412508383904,
+          -6.353724748547172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35100,
+        "source_id": 475678,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.28395177691404,
+          -6.3537667528873705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35100,
+        "source_id": 1044065,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.28418628468113,
+          -6.353688239058479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3650,
+        "source_id": 1053371,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3256452630325,
+          -7.319141802430718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3650,
+        "source_id": 488453,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.32572253031437,
+          -7.3192085634497905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3650,
+        "source_id": 1355706,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.32565104122337,
+          -7.319057591376171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38209,
+        "source_id": 1314127,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.43929419177972,
+          0.5726154143040116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38209,
+        "source_id": 1250746,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.43925952047694,
+          0.576277823761697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38209,
+        "source_id": 456958,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.43938855823431,
+          0.5726892267092376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38209,
+        "source_id": 1485912,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.43926499898852,
+          0.5764545455663175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42259,
+        "source_id": 1396402,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.22249004886484,
+          -9.538992560254789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42259,
+        "source_id": 1257442,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.22248383276734,
+          -9.538980020006685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42259,
+        "source_id": 1109341,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.22234836650247,
+          -9.53901859351724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42259,
+        "source_id": 1289951,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2224410609919,
+          -9.539027153027844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42259,
+        "source_id": 541631,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.22251738512668,
+          -9.53897575792814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44161,
+        "source_id": 475671,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.21553083569006,
+          -6.385103931615776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46543,
+        "source_id": 1485918,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.53664577051283,
+          0.0284433581939048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49904,
+        "source_id": 1484074,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.50744425143884,
+          -1.262786702168642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50144,
+        "source_id": 1345991,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.09020101381851,
+          -6.29526946718448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50106,
+        "source_id": 1226197,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.88023460546523,
+          -6.8140040188807465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51353,
+        "source_id": 484051,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.04641655103414,
+          -7.701911555287196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51353,
+        "source_id": 1048419,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.04600928609749,
+          -7.7020346347970206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51655,
+        "source_id": 1044055,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.32413108278998,
+          -6.383297371475858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51655,
+        "source_id": 477972,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.32474036540752,
+          -6.382997546458343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52732,
+        "source_id": 1348751,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.15565269029908,
+          3.646101417642981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52732,
+        "source_id": 1230375,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.15560188135387,
+          3.646031195680074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53106,
+        "source_id": 1316535,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.46646843186144,
+          3.6179543216810313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53106,
+        "source_id": 1227942,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.46631052942487,
+          3.618062906162181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53106,
+        "source_id": 558594,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4663335600731,
+          3.618206554772368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5327,
+        "source_id": 62940,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.32826017378102,
+          -8.62947060481787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5327,
+        "source_id": 550991,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.32830387942344,
+          -8.62963876699355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5327,
+        "source_id": 1289954,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.3283638067565,
+          -8.629586553632722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5327,
+        "source_id": 1396404,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.32836268336524,
+          -8.629575967559823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5327,
+        "source_id": 1264627,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.3282927059884,
+          -8.629580893122158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57248,
+        "source_id": 1289867,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77649108743806,
+          -6.793689636765319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57248,
+        "source_id": 475656,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77760163710742,
+          -6.793668616689407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57248,
+        "source_id": 1355703,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77636249341278,
+          -6.7936595503942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57527,
+        "source_id": 1135100,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.28282252962055,
+          2.004790981054553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58281,
+        "source_id": 1289875,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.18989343483064,
+          -6.385865678188185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58281,
+        "source_id": 1289876,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.19072213521568,
+          -6.382451657439681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59077,
+        "source_id": 1118658,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.55797041129289,
+          0.9540969887387932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59077,
+        "source_id": 553348,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.55799535631998,
+          0.9540140581983032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59077,
+        "source_id": 1222584,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.55796984624406,
+          0.9541291873938418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59077,
+        "source_id": 1363703,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.55812032964192,
+          0.9540802118140416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6048,
+        "source_id": 1272491,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.09488554790342,
+          1.655394866274298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6048,
+        "source_id": 1404387,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.09477203447256,
+          1.6553361509392948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6048,
+        "source_id": 1461478,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.09473230753126,
+          1.655461630242651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6048,
+        "source_id": 558591,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.09496882759169,
+          1.6555327948476497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6048,
+        "source_id": 1205283,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.09487401924152,
+          1.6554914147551207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6048,
+        "source_id": 1316534,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.09480979348211,
+          1.6553765296536496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6048,
+        "source_id": 1122854,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0947985440095,
+          1.6553408703393264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62045,
+        "source_id": 1064513,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.60435483399812,
+          -7.565645335689867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62045,
+        "source_id": 1290002,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.60412270088442,
+          -7.565853553497906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62045,
+        "source_id": 498120,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.60417607737342,
+          -7.565696899053343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64618,
+        "source_id": 1042039,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.09686126588308,
+          -6.275819398858277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64618,
+        "source_id": 1443347,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.09744696454572,
+          -6.276315087098466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64618,
+        "source_id": 475685,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.09744196055917,
+          -6.276133212694225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64618,
+        "source_id": 1042038,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.09830990567332,
+          -6.276884451798134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65214,
+        "source_id": 1289986,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.12046213909645,
+          -6.279742318042345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65214,
+        "source_id": 1224318,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.12119833395778,
+          -6.280771453673563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65214,
+        "source_id": 1044070,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.1200425799896,
+          -6.277593976014988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65214,
+        "source_id": 1044068,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.12071896458929,
+          -6.2807716178366455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65329,
+        "source_id": 558588,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.86749410937058,
+          -9.084722501677334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65329,
+        "source_id": 1240531,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8674496958662,
+          -9.084752027360016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65329,
+        "source_id": 1416588,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.86743703138576,
+          -9.084686048651497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65329,
+        "source_id": 1122834,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8674505610206,
+          -9.084660180829948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65329,
+        "source_id": 1290034,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8674752769355,
+          -9.08473771547708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65478,
+        "source_id": 1236986,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.28489555941547,
+          0.7417050824072625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65819,
+        "source_id": 1443349,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.87124894663368,
+          -6.9318707018381325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66612,
+        "source_id": 1443354,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.79112607366262,
+          -3.010501533771484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66612,
+        "source_id": 466043,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.79143501548798,
+          -3.0112438891869755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66612,
+        "source_id": 1289829,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.79112969269173,
+          -3.010789819282433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66798,
+        "source_id": 1289946,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.56470439656344,
+          -8.254999802497736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66798,
+        "source_id": 1253598,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.56468405510546,
+          -8.254986617314643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66798,
+        "source_id": 1084196,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5646619462516,
+          -8.255062850204583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66798,
+        "source_id": 1355716,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.56461724887352,
+          -8.255050535832096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66798,
+        "source_id": 514435,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5646999230368,
+          -8.25499911105196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68335,
+        "source_id": 1345992,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.22378739542692,
+          -6.26215380907336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68335,
+        "source_id": 1044073,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.2237836339558,
+          -6.262119855503453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68358,
+        "source_id": 1443337,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.87631540983185,
+          -6.502310255547433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68358,
+        "source_id": 475661,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.87703070242968,
+          -6.502470614318015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68666,
+        "source_id": 1484084,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.1792189774718,
+          -2.84031456579544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70911,
+        "source_id": 1314128,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8829985932102,
+          0.4468065608422548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70911,
+        "source_id": 1257423,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.88078780749534,
+          0.4472931132402216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70911,
+        "source_id": 456955,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.88057951975162,
+          0.4473752850116118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72512,
+        "source_id": 1443353,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.4825261766982,
+          -7.433999933300848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72512,
+        "source_id": 495781,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.48273020648536,
+          -7.435644778150592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72373,
+        "source_id": 1249838,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.74865869385562,
+          -10.146545532743344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72373,
+        "source_id": 1289952,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.74871542030093,
+          -10.146613731150678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72373,
+        "source_id": 1376168,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.74867687351046,
+          -10.14659835957634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72373,
+        "source_id": 555935,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.74874015656016,
+          -10.14662351293533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72799,
+        "source_id": 543612,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.45856212711637,
+          -6.0462345218998825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72799,
+        "source_id": 1289955,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.45853532923624,
+          -6.046348531134388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72799,
+        "source_id": 1110852,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.45852732698164,
+          -6.0463520866795495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72799,
+        "source_id": 1396405,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.45862824843245,
+          -6.046266312634037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73067,
+        "source_id": 1484073,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0130118603248,
+          -1.7066572899615486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73472,
+        "source_id": 1443382,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.68238580504988,
+          -8.529983516255644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73472,
+        "source_id": 1116614,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.68202010375435,
+          -8.530121357760569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73472,
+        "source_id": 550992,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6824529351907,
+          -8.529947964133932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73472,
+        "source_id": 1116615,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.68292123623402,
+          -8.529814885489778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73472,
+        "source_id": 1396403,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6823414673967,
+          -8.530025895543295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74342,
+        "source_id": 1289874,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.07622619593756,
+          -6.337754840793047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73839,
+        "source_id": 514432,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.58264280389024,
+          -8.714119685554072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73839,
+        "source_id": 1225987,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5840733025554,
+          -8.713190235219416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73839,
+        "source_id": 1289996,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.58357913619396,
+          -8.713422320025623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73839,
+        "source_id": 514433,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.58374554534991,
+          -8.712743179219999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 76853,
+        "source_id": 1396396,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.83710609840132,
+          -6.547038075180297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77143,
+        "source_id": 1443343,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.41247014180944,
+          -6.41633255496512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77143,
+        "source_id": 1044048,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.41249131240058,
+          -6.416241716636514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77924,
+        "source_id": 1485913,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.43411338277694,
+          1.6267261762945482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78025,
+        "source_id": 1443355,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.85361293061776,
+          -2.9926961575150512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78025,
+        "source_id": 1289879,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.85364161954884,
+          -2.992734343831836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78025,
+        "source_id": 1376161,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.85360664601924,
+          -2.9927517837796325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78025,
+        "source_id": 1033179,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.85359558251864,
+          -2.992761848760239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78025,
+        "source_id": 466044,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.85377159718551,
+          -2.9924970711204097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78025,
+        "source_id": 1240956,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.85362451033812,
+          -2.992765284028689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78316,
+        "source_id": 1230623,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.68996487161724,
+          -6.81422982738124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78734,
+        "source_id": 1355704,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.04003613312008,
+          -6.866637756659058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79040,
+        "source_id": 553344,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.84015704498256,
+          0.6225612354543092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79040,
+        "source_id": 1238682,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.84104842512052,
+          0.6206672684063879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79040,
+        "source_id": 1118651,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.8404243311702,
+          0.6223893010978093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8005,
+        "source_id": 1289947,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.69218635631572,
+          -8.432800280168518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8005,
+        "source_id": 1355717,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.69209966286448,
+          -8.432780478070837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8005,
+        "source_id": 1260170,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.6921106444468,
+          -8.432701079307126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8005,
+        "source_id": 1204692,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.6921045586018,
+          -8.432699782006923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8005,
+        "source_id": 1090098,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.6921667013554,
+          -8.432733818959242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8005,
+        "source_id": 521424,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.69208678528004,
+          -8.432720542965319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80669,
+        "source_id": 526409,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.4782440650198,
+          0.0198190448570558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80669,
+        "source_id": 1094207,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.4780746922661,
+          0.0197551067156818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81484,
+        "source_id": 1062861,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.54246198614642,
+          -7.40042242640963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81484,
+        "source_id": 495785,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5424629748556,
+          -7.400398988202497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81583,
+        "source_id": 1314166,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.36129612083072,
+          3.141230982821708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82578,
+        "source_id": 1289878,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.35485371537222,
+          -6.674156684606841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82578,
+        "source_id": 1229679,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.35488589445318,
+          -6.674164081795961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82677,
+        "source_id": 1345990,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.00262463727488,
+          -5.975061834286725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84931,
+        "source_id": 1289869,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.33606934685815,
+          -6.161083954525944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84931,
+        "source_id": 1040000,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.33641978661198,
+          -6.161228051747578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85336,
+        "source_id": 1485916,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.38418924216576,
+          1.1582180368982298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85232,
+        "source_id": 1416586,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.21969045925913,
+          -8.54622149629519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85415,
+        "source_id": 1289995,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.185088241793,
+          -8.723104358159453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85415,
+        "source_id": 1396400,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.18504192071698,
+          -8.723018400684207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85721,
+        "source_id": 1484080,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.65764810201472,
+          -7.341228204659078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85742,
+        "source_id": 1484121,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.685002610335,
+          -8.234833098501506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86871,
+        "source_id": 1289982,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4545591791427,
+          -6.463359910675795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86871,
+        "source_id": 1443342,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.45451950496027,
+          -6.463901477023246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86871,
+        "source_id": 1210718,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.45450181683997,
+          -6.463407939001553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87440,
+        "source_id": 1484076,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.20531756535163,
+          -0.8217179752161503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88181,
+        "source_id": 1443384,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.37024802376432,
+          -2.352782516763876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88867,
+        "source_id": 475677,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.1496052285502,
+          -6.358916247432322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89700,
+        "source_id": 1289872,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.27434373685487,
+          -6.372466968861292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89700,
+        "source_id": 475673,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.27819798926932,
+          -6.371873685053596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89700,
+        "source_id": 1289977,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.27766407610709,
+          -6.370472831426885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89700,
+        "source_id": 1443341,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.27766293852228,
+          -6.370208723444256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91605,
+        "source_id": 1443332,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34043539102667,
+          -6.16730538140556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92195,
+        "source_id": 1289928,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3120515503321,
+          -5.360425595932782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92344,
+        "source_id": 1459806,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.99997015728556,
+          1.1447800068258909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92833,
+        "source_id": 477973,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.29897756063836,
+          -6.35702328667229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92833,
+        "source_id": 1289980,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.29891082823517,
+          -6.357208538264023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92833,
+        "source_id": 1044063,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.29898740141734,
+          -6.356809690434759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93034,
+        "source_id": 1443340,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.41258795868642,
+          -6.532708361583162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9345,
+        "source_id": 1355719,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.47418691772012,
+          -1.792696345352497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9345,
+        "source_id": 1215865,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.47432259227928,
+          -1.791885427764904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9345,
+        "source_id": 1443386,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.47433188892865,
+          -1.793188424652851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9345,
+        "source_id": 1290003,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.47391712531044,
+          -1.7923794262446016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93768,
+        "source_id": 1443385,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.75136413760448,
+          -0.0585253399012233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93768,
+        "source_id": 517084,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.74931545793316,
+          -0.0613461493992267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95333,
+        "source_id": 1443350,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.4079460233949,
+          -6.392470706755619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95333,
+        "source_id": 1376160,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.40783777493516,
+          -6.392468224730728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98182,
+        "source_id": 1443352,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.447597937389,
+          -7.546288798223129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98391,
+        "source_id": 1346020,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.39457319033704,
+          -5.159419202346999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98502,
+        "source_id": 1484075,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37273115855528,
+          -1.6231820144476738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9855,
+        "source_id": 1485904,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.21879803789092,
+          1.2449532305473303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9855,
+        "source_id": 454575,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.21878978863556,
+          1.2448090120617443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9855,
+        "source_id": 1459738,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.21742561266495,
+          1.2557394477398425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9855,
+        "source_id": 1022302,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2171487681049,
+          1.2567204783542494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9855,
+        "source_id": 1459737,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.219503801067,
+          1.25156773521084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9855,
+        "source_id": 1383393,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.21879897008952,
+          1.244939942776888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9855,
+        "source_id": 1314164,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.21878135886963,
+          1.244971757725766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9855,
+        "source_id": 1363026,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.21793396047325,
+          1.2546130592657114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9855,
+        "source_id": 1459736,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.21881414827092,
+          1.2449454987432618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98892,
+        "source_id": 1220047,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.63792950694362,
+          -0.9948540750947124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98892,
+        "source_id": 1090118,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.63763789289804,
+          -0.9946220995993944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 99002,
+        "source_id": 1289868,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79552292226926,
+          -6.761361781264706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 99976,
+        "source_id": 1484082,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.60022018591832,
+          -0.0647567987314997
+        ]
+      }
+    }
+  ]
+}

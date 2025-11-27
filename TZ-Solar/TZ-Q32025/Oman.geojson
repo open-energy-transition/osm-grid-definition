@@ -1,0 +1,1654 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 101923,
+        "source_id": 1236241,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.78548699191181,
+          18.65045640370032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107268,
+        "source_id": 1358456,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.07843683287612,
+          17.89530012815794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107268,
+        "source_id": 1300057,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.07844837485425,
+          17.895328284663442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 108085,
+        "source_id": 1302645,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.29894404598026,
+          23.589247077740144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 110907,
+        "source_id": 1302647,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.30169534433528,
+          23.599853679553224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13373,
+        "source_id": 1212029,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.21058029568193,
+          22.012609307786832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13373,
+        "source_id": 1378788,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.2105070424895,
+          22.01257749841548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13373,
+        "source_id": 1300060,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.21051796228098,
+          22.012541634639224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1908,
+        "source_id": 1302648,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4672075033766,
+          23.596281531701525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1908,
+        "source_id": 1399761,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.46718586608392,
+          23.5963428819982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1908,
+        "source_id": 1241292,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.467244717686455,
+          23.596179683834624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22058,
+        "source_id": 1265512,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.51973675098729,
+          23.624231043919103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22058,
+        "source_id": 1379497,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.51978473125752,
+          23.6241866186214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22058,
+        "source_id": 378122,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.51589093782301,
+          23.62940058295974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22058,
+        "source_id": 1200494,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.51630190894588,
+          23.62934509474229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22058,
+        "source_id": 1216212,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.51788989503632,
+          23.625863947041367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22058,
+        "source_id": 1302650,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.51326900434368,
+          23.631378256672715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22058,
+        "source_id": 1262772,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.51631739710447,
+          23.629306533551503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22058,
+        "source_id": 1359201,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.5198144579168,
+          23.62713340018084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22058,
+        "source_id": 974606,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.519755648827605,
+          23.62432780310716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22058,
+        "source_id": 1267592,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.51958979687201,
+          23.627348848347232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22058,
+        "source_id": 1302651,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.515909665322056,
+          23.62960496873368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22058,
+        "source_id": 974607,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.51971887243433,
+          23.62717195463557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22058,
+        "source_id": 1302649,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.51974043459843,
+          23.624232510202543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22058,
+        "source_id": 378120,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.51988657583944,
+          23.624204825852573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22058,
+        "source_id": 974608,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.51597521358203,
+          23.62932923435729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22999,
+        "source_id": 1450399,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.11051436608516,
+          17.887781024269866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22999,
+        "source_id": 1300058,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.11044384492665,
+          17.887817874655767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22999,
+        "source_id": 1358457,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.11043326477805,
+          17.887818706828348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29939,
+        "source_id": 972385,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.23962833383829,
+          23.359362616730863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29939,
+        "source_id": 373511,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.22224622966443,
+          23.37340734841324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29939,
+        "source_id": 972382,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.24639755336128,
+          23.367516911327755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29939,
+        "source_id": 373507,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.237705874675335,
+          23.37500340599127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29939,
+        "source_id": 373503,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.24242595658646,
+          23.35568928611273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29939,
+        "source_id": 1379465,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.23384949371313,
+          23.36913665394154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29939,
+        "source_id": 972397,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.23682655200806,
+          23.38393063138101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29939,
+        "source_id": 373501,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.22461849113142,
+          23.36227845927816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29939,
+        "source_id": 972384,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.23627901903261,
+          23.358944416641464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29939,
+        "source_id": 972393,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.23918018107486,
+          23.379829687484253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29939,
+        "source_id": 972391,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.23927871962105,
+          23.37727504003505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29939,
+        "source_id": 972390,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2203705218419,
+          23.377039852627785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29939,
+        "source_id": 972387,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.23298861836756,
+          23.36024412061256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29939,
+        "source_id": 972386,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.21949244699095,
+          23.358536030219778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29939,
+        "source_id": 972396,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.238026009076286,
+          23.383889426158827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29939,
+        "source_id": 972394,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.22101430431232,
+          23.383596256608893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29939,
+        "source_id": 972388,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2175301952674,
+          23.373083815796456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29939,
+        "source_id": 972381,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.23245566991253,
+          23.35516552949562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29939,
+        "source_id": 972392,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.21755137597617,
+          23.37781436426973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29939,
+        "source_id": 373506,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.24421857222098,
+          23.36228821456861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29939,
+        "source_id": 972395,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.23479283029106,
+          23.383806459460093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29939,
+        "source_id": 373509,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.238761441493885,
+          23.36595607109817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3358,
+        "source_id": 378098,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.450264948601024,
+          22.625226478992246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3358,
+        "source_id": 1263403,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.44885420622016,
+          22.62328105428058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3358,
+        "source_id": 378095,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.44924731321911,
+          22.622442928299407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3358,
+        "source_id": 1302654,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.44930283790101,
+          22.623689911647407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3358,
+        "source_id": 1200497,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.44923005546248,
+          22.6237494804516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3358,
+        "source_id": 974593,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.4492558829968,
+          22.62369057752264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3358,
+        "source_id": 1399763,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.44928182239217,
+          22.623750645564662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34571,
+        "source_id": 1232814,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.760140792161685,
+          18.66176881237119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34571,
+        "source_id": 1300059,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.76088661602507,
+          18.66063350877173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 363,
+        "source_id": 376001,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.13305002510611,
+          23.556964294389804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 363,
+        "source_id": 1302643,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.13250594080449,
+          23.55707008294147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 363,
+        "source_id": 1265261,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.13250350795622,
+          23.55708328697649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 363,
+        "source_id": 22378,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.1327765110242,
+          23.55718057130001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 363,
+        "source_id": 972399,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.13266964302902,
+          23.55704283881548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 363,
+        "source_id": 1419820,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.13246860813641,
+          23.557124756516554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39037,
+        "source_id": 1346926,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.529584080361225,
+          24.55878877240088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40186,
+        "source_id": 1200481,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.53020405699992,
+          24.446224711175315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40186,
+        "source_id": 1240302,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.53079844407445,
+          24.446476618934952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40186,
+        "source_id": 972438,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.53016447170658,
+          24.446170989122795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40186,
+        "source_id": 1359202,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.530108081306025,
+          24.44616160412445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40186,
+        "source_id": 373710,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.53026829517242,
+          24.446262038046743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40186,
+        "source_id": 1452595,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.53000854042346,
+          24.4460977816116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40186,
+        "source_id": 1302652,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.52999886273248,
+          24.44611713254148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47630,
+        "source_id": 1452593,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.406739602513,
+          23.57201025760208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52624,
+        "source_id": 1302712,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.87824982130276,
+          23.492147258333016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52624,
+        "source_id": 972398,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.87829725878172,
+          23.49210211831704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52624,
+        "source_id": 1379495,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.87829732397078,
+          23.49215070372697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52624,
+        "source_id": 375996,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.87832263485573,
+          23.492159282043698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52624,
+        "source_id": 1239792,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.87833311088969,
+          23.492103793901023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 60287,
+        "source_id": 974574,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.63245324417113,
+          21.93107125990865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 60287,
+        "source_id": 1378789,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.63203374900357,
+          21.931251961560232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 60287,
+        "source_id": 1300061,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.631970803570766,
+          21.931164322293085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 60287,
+        "source_id": 1233207,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.63197079042449,
+          21.931154123662985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6056,
+        "source_id": 1302714,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.29803930338735,
+          23.550883458199625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68748,
+        "source_id": 970346,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.68385199792986,
+          18.349277306595976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68748,
+        "source_id": 370702,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.68454326107055,
+          18.34928829891393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85048,
+        "source_id": 1452592,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.67241049532526,
+          22.60866169256806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85048,
+        "source_id": 1359200,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.67200133221359,
+          22.608717181363414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85057,
+        "source_id": 970348,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.81600868888066,
+          18.48708286674989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85057,
+        "source_id": 373106,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.80075144132845,
+          18.48895931299521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85057,
+        "source_id": 373105,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.79914066878445,
+          18.489031411886977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85057,
+        "source_id": 970349,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.79917883107029,
+          18.50419407748093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85057,
+        "source_id": 373107,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.8092529228231,
+          18.497151638734472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85864,
+        "source_id": 1302646,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.325723962972006,
+          23.566598431323445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85864,
+        "source_id": 1379496,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.32569216583192,
+          23.56655878101237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91150,
+        "source_id": 1452594,
+        "source": "sam-2025-Q2",
+        "source_date": "2025-06-26",
+        "country": "Oman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.49283617205351,
+          23.60887162765792
+        ]
+      }
+    }
+  ]
+}

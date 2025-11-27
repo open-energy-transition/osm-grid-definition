@@ -1,0 +1,362 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 104240,
+        "source_id": 1482998,
+        "source": "sam-2025-Q3",
+        "source_date": "2025-09-29",
+        "country": "French Guiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.91131640863636,
+          5.477138695878323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107402,
+        "source_id": 817584,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "French Guiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.2767897929494,
+          4.8650802055279785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 110615,
+        "source_id": 1279901,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "French Guiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.49579237472704,
+          4.949219998705857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16986,
+        "source_id": 1233749,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "French Guiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.36520868331318,
+          4.801556942022772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25046,
+        "source_id": 11871,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "French Guiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.52787786434694,
+          4.866648591670336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25046,
+        "source_id": 817586,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "French Guiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5279777395283,
+          4.866635157555879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25046,
+        "source_id": 817585,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "French Guiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.52956103985661,
+          4.865269125252265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25046,
+        "source_id": 182126,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "French Guiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.52944560716583,
+          4.865387041349592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25046,
+        "source_id": 1234310,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "French Guiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.52812381974701,
+          4.866377097549816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28727,
+        "source_id": 1279902,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "French Guiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.70175770047437,
+          5.119455816763673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28727,
+        "source_id": 182131,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "French Guiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.702140911567504,
+          5.118979237621539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28727,
+        "source_id": 1221865,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "French Guiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7022463535729,
+          5.119062947786365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28727,
+        "source_id": 12006,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "French Guiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.70226358400915,
+          5.119110920251783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28727,
+        "source_id": 817589,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "French Guiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.70221972744227,
+          5.119003679986999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48466,
+        "source_id": 817590,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "French Guiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.99496454667497,
+          5.384170051796239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48466,
+        "source_id": 1373703,
+        "source": "sam-2025-Q1",
+        "source_date": "2025-03-28",
+        "country": "French Guiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.99489989606018,
+          5.384058352714286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48466,
+        "source_id": 1279900,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "French Guiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.99485929011409,
+          5.384140351807604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48466,
+        "source_id": 182133,
+        "source": "sam-2023",
+        "source_date": "2023-10-01",
+        "country": "French Guiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.99487508638884,
+          5.3844607464800855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48466,
+        "source_id": 1247273,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "French Guiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.99491210306636,
+          5.384183651637525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 60735,
+        "source_id": 1219378,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "French Guiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.50790473846696,
+          4.901338577494192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 60735,
+        "source_id": 1219223,
+        "source": "sam-2024-Q3",
+        "source_date": "2024-10-17",
+        "country": "French Guiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.50392437884237,
+          4.897518876564283
+        ]
+      }
+    }
+  ]
+}

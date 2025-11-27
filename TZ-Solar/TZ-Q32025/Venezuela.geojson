@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 104896,
+        "source_id": 1279591,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Venezuela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6094540234163,
+          9.876529064615609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 108588,
+        "source_id": 1345129,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Venezuela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15498009540984,
+          7.487662233251001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4465,
+        "source_id": 1279589,
+        "source": "sam-2024-Q4",
+        "source_date": "2025-01-13",
+        "country": "Venezuela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.16354377738965,
+          9.552699400680444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85074,
+        "source_id": 799337,
+        "source": "sam-2024-Q1",
+        "source_date": "2024-03-06",
+        "country": "Venezuela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.68311306126509,
+          11.953077614761478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92718,
+        "source_id": 1189394,
+        "source": "sam-2024-Q2",
+        "source_date": "2024-08-13",
+        "country": "Venezuela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.06940816049713,
+          9.370906828288394
+        ]
+      }
+    }
+  ]
+}

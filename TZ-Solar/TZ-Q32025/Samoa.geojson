@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 104465,
+        "source_id": 26557,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Samoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.9922734439583,
+          -13.832550305912038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 104465,
+        "source_id": 26558,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Samoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.9883938431083,
+          -13.83169371544657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47493,
+        "source_id": 26567,
+        "source": "gpv-model",
+        "source_date": "2019-01-01",
+        "country": "Samoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.80823972293734,
+          -13.840220574653982
+        ]
+      }
+    }
+  ]
+}

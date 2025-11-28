@@ -1,0 +1,4583 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7745,
+          61.1668
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Finland",
+        "Plant / Project name": "Imatra hydroelectric plant",
+        "Capacity (MW)": 192.0,
+        "Status": "operating",
+        "Start year": 1929,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5448,
+          65.7928
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Finland",
+        "Plant / Project name": "Isohaara hydroelectric plant",
+        "Capacity (MW)": 128.0,
+        "Status": "operating",
+        "Start year": 1949,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.713,
+          64.5774
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Finland",
+        "Plant / Project name": "Nuojua hydroelectric plant",
+        "Capacity (MW)": 81.0,
+        "Status": "operating",
+        "Start year": 1954,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1255,
+          66.1558
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Finland",
+        "Plant / Project name": "Ossauskoski hydroelectric plant",
+        "Capacity (MW)": 124.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "unknown",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4283,
+          62.801
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Finland",
+        "Plant / Project name": "Pamilo hydroelectric plant",
+        "Capacity (MW)": 94.0,
+        "Status": "operating",
+        "Start year": 1955,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3374,
+          66.2722
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Finland",
+        "Plant / Project name": "Petäjäskoski hydroelectric plant",
+        "Capacity (MW)": 182.0,
+        "Status": "operating",
+        "Start year": 1957,
+        "Technology": "unknown",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1514,
+          66.3402
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Finland",
+        "Plant / Project name": "Pirttikoski hydroelectric plant",
+        "Capacity (MW)": 152.0,
+        "Status": "operating",
+        "Start year": 1959,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0404,
+          64.8463
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Finland",
+        "Plant / Project name": "Pyhajoski hydroelectric plant",
+        "Capacity (MW)": 149.0,
+        "Status": "operating",
+        "Start year": 1949,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3301,
+          66.4052
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Finland",
+        "Plant / Project name": "Seitakorva hydroelectric plant",
+        "Capacity (MW)": 144.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7143,
+          65.9308
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Finland",
+        "Plant / Project name": "Taivalkoski hydroelectric plant",
+        "Capacity (MW)": 134.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5393,
+          66.4241
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Finland",
+        "Plant / Project name": "Valajaskosken hydroelectric plant",
+        "Capacity (MW)": 101.0,
+        "Status": "operating",
+        "Start year": 1960,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6871,
+          66.3696
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Finland",
+        "Plant / Project name": "Vanttauskoski hydroelectric plant",
+        "Capacity (MW)": 95.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3468,
+          60.3708
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Finland",
+        "Plant / Project name": "Loviisa nuclear power plant",
+        "Capacity (MW)": 531.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3468,
+          60.3708
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Finland",
+        "Plant / Project name": "Loviisa nuclear power plant",
+        "Capacity (MW)": 531.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4433,
+          61.2371
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Finland",
+        "Plant / Project name": "Olkiluoto nuclear power plant",
+        "Capacity (MW)": 920.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "boiling water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4433,
+          61.2371
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Finland",
+        "Plant / Project name": "Olkiluoto nuclear power plant",
+        "Capacity (MW)": 920.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "boiling water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4372,
+          61.2356
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Finland",
+        "Plant / Project name": "Olkiluoto nuclear power plant",
+        "Capacity (MW)": 1720.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7522,
+          62.5908
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Äänekoski Bioproduct Mill power station",
+        "Capacity (MW)": 260.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids), bioenergy: wood & other biomass (syngas)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6343,
+          60.92924
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Hämeenlinna power station",
+        "Capacity (MW)": 65.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": null,
+        "Fuel": "bioenergy: unknown, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1633,
+          61.9148
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Jämsänkosk Mill power station",
+        "Capacity (MW)": 43.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids), other: other",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8372,
+          62.5934
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Joensuu power station",
+        "Capacity (MW)": 47.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4521,
+          61.1303
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Joutseno Pulp power station",
+        "Capacity (MW)": 85.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": null,
+        "Fuel": "bioenergy: paper mill wastes, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.522,
+          65.7613
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kemi Bioproduct Mill power station",
+        "Capacity (MW)": 270.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids), bioenergy: paper mill wastes",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5293,
+          65.7602
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kemi Pulp Mill power station",
+        "Capacity (MW)": 83.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.94365,
+          60.19092
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kirkniemi Mill power station",
+        "Capacity (MW)": 128.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": null,
+        "Fuel": "bioenergy: unknown, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.93587,
+          60.4716
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kotkan Hovinsaari power station",
+        "Capacity (MW)": 46.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": null,
+        "Fuel": "bioenergy: unknown, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6603,
+          60.9101
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kymi Mill power station",
+        "Capacity (MW)": 76.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids), bioenergy: paper mill wastes, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7193,
+          60.9932
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kymijarvi power station",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7193,
+          60.9932
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kymijarvi power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": null,
+        "Fuel": "bioenergy: refuse (syngas)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7193,
+          60.9932
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kymijarvi power station",
+        "Capacity (MW)": 76.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": null,
+        "Fuel": "bioenergy: unknown, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5164,
+          65.0354
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Laanila power station",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids), bioenergy: refuse (municipal and industrial wastes), other: other",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.247,
+          61.0659
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Lappeenranta power station",
+        "Capacity (MW)": 67.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": null,
+        "Fuel": "bioenergy: paper mill wastes, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4648,
+          61.1113
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Metsä Rauma power station",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": null,
+        "Fuel": "bioenergy: paper mill wastes",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0517,
+          60.451
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Naantali CHP power station",
+        "Capacity (MW)": 142.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids), coal: anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4304,
+          64.9969
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Oulu Mill power station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": null,
+        "Fuel": "bioenergy: paper mill wastes, bioenergy: wood & other biomass (solids), other: other",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7096,
+          63.7011
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Pietersaari power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids), other: other, coal: anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.554,
+          61.5769
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Porin Prosessivoiman power station",
+        "Capacity (MW)": 81.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids), bioenergy: refuse (municipal and industrial wastes), fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2891,
+          61.6759
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Pursiala power station",
+        "Capacity (MW)": 53.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids), other: other",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.478,
+          61.118
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Rauma power station",
+        "Capacity (MW)": 76.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids), bioenergy: wastewater and sewage sludge (solids or biogas)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2292,
+          62.9212
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Uimaharju Enocell power station",
+        "Capacity (MW)": 107.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": null,
+        "Fuel": "bioenergy: paper mill wastes, bioenergy: wood & other biomass (solids), bioenergy: agricultural waste (unknown)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8985,
+          62.3185
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Varkaus power station",
+        "Capacity (MW)": 47.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": null,
+        "Fuel": "bioenergy: paper mill wastes, bioenergy: wood & other biomass (solids), other: other",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7133,
+          63.6985
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Finland",
+        "Plant / Project name": "Wisapower power station",
+        "Capacity (MW)": 95.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": null,
+        "Fuel": "bioenergy: paper mill wastes, bioenergy: unknown, other: other",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5642,
+          60.8034
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Forssa power station",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5642,
+          60.8034
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Forssa power station",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.70136,
+          60.87189
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Hinkismäki power station",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6756,
+          62.2116
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Huutokoski power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6756,
+          62.2116
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Huutokoski power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6756,
+          62.2116
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Huutokoski power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6756,
+          62.2116
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Huutokoski power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6756,
+          62.2116
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Huutokoski power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6756,
+          62.2116
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Huutokoski power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.90872,
+          60.16188
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kellosaari power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: light fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.90872,
+          60.16188
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kellosaari power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: light fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3262,
+          62.257
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kristiina Reserve power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3262,
+          62.257
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kristiina Reserve power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.67523,
+          61.51042
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Lielahti power station",
+        "Capacity (MW)": 147.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.17171,
+          61.08085
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Mertaniemi power station",
+        "Capacity (MW)": 102.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: light fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0455,
+          60.4594
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Naantali Reserve power station",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0455,
+          60.4594
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Naantali Reserve power station",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4966,
+          61.47432
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Nokia kombi power station",
+        "Capacity (MW)": 72.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.44796,
+          61.23957
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Olkiluoto Reserve power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.44796,
+          61.23957
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Olkiluoto Reserve power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5248,
+          60.3125
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Porvoo power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.49704,
+          60.30734
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Porvoo Refinery power station",
+        "Capacity (MW)": 31.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.49704,
+          60.30734
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Porvoo Refinery power station",
+        "Capacity (MW)": 121.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "combined cycle",
+        "Fuel": "fossil liquids: fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4252,
+          64.6522
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Raahen Voima power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "combined cycle",
+        "Fuel": "industrial by-product: blast furnace gas, fossil gas: LNG, fossil gas: natural gas, fossil liquids: light fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.71837,
+          60.14913
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Suomenoja power station",
+        "Capacity (MW)": 234.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.71837,
+          60.14913
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Suomenoja power station",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 1989,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4069,
+          61.6319
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Tahkoluoto power station",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4069,
+          61.6319
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Tahkoluoto power station",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5052,
+          60.9746
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Vanaja power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.552825,
+          63.090259
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Vaskiluotos power station",
+        "Capacity (MW)": 162.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.16966,
+          60.22032
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Vuosaari power station",
+        "Capacity (MW)": 163.0,
+        "Status": "operating",
+        "Start year": 1991,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.16966,
+          60.22032
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Finland",
+        "Plant / Project name": "Vuosaari power station",
+        "Capacity (MW)": 485.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8364,
+          60.2833
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Finland",
+        "Plant / Project name": "Martinlaakso power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.40473,
+          61.63215
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Finland",
+        "Plant / Project name": "Meri-Pori power station",
+        "Capacity (MW)": 614.0,
+        "Status": "operating",
+        "Start year": 1994,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.904517,
+          60.165375
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Finland",
+        "Plant / Project name": "Salmisaari power station",
+        "Capacity (MW)": 177.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.552176,
+          63.09151
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Finland",
+        "Plant / Project name": "Vaskiluoto power station",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0702,
+          62.3409
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Leppävirta wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3748,
+          65.4791
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Olhava wind farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3748,
+          65.4791
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Olhava wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0919,
+          65.6132
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Onkalo wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2807,
+          65.5779
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Isokangas wind farm",
+        "Capacity (MW)": 29.5,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1324,
+          60.5339
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Summa wind farm (Finland)",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3099,
+          60.8754
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Tyrinselkä wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3126,
+          60.8807
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Tyrinselkä wind farm",
+        "Capacity (MW)": 17.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4768,
+          64.3543
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Pyhänkoski wind farm",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3899,
+          64.3419
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Ristiveto wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0734,
+          63.8686
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Ykspihlaja wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0482,
+          60.4609
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Salo Märynummi wind farm",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3914,
+          62.3475
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Svalskulla wind farm",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5019,
+          65.6612
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Ajos Retrofit wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.549,
+          65.668
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Ajos Retrofit wind farm",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3346,
+          65.5075
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Olhava Nyby wind farm",
+        "Capacity (MW)": 17.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7506,
+          65.7506
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Puuska wind farm",
+        "Capacity (MW)": 29.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7506,
+          65.7506
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Puuska wind farm",
+        "Capacity (MW)": 17.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7837,
+          61.7335
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Latamäki wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0137,
+          65.6721
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Simo Leipiö wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0142,
+          65.6745
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Simo Leipiö wind farm",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0189,
+          65.7072
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Simo Leipiö wind farm",
+        "Capacity (MW)": 151.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3956,
+          61.6374
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Tahkoluoto Offshore wind farm",
+        "Capacity (MW)": 42.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Offshore hard mount",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2307,
+          64.7309
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Hirvineva wind farm",
+        "Capacity (MW)": 19.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0517,
+          64.2726
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kalajoki wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2274,
+          64.2534
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kytölä wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9542,
+          62.4034
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Mustaisneva wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5254,
+          60.6493
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Palmanharju wind farm",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4925,
+          63.8732
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Tuppuraneva wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0679,
+          62.9216
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Jouttikallio wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7469,
+          64.5414
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kopsa wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7028,
+          64.5341
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kopsa wind farm",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4077,
+          61.0975
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Muukko wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7182,
+          64.5517
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Pirttiselkä wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.281,
+          65.6589
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Viinamäki wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2962,
+          61.9638
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kirkkokallio wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9043,
+          64.7841
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Vartinoja wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3779,
+          63.7886
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Haapajärvi wind farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3283,
+          65.5519
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Myllykangas wind farm",
+        "Capacity (MW)": 31.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3257,
+          65.5417
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Myllykangas wind farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.571,
+          62.8242
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Ribäcken wind farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7656,
+          66.0098
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Saukkovaara wind farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5728,
+          62.0962
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kantti Karvia wind farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.704,
+          64.7095
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kivivaara-Peuravaara (Taaleri) wind farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7362,
+          67.6372
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kuolavaara-Keulakkopää wind farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7362,
+          67.6372
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kuolavaara-Keulakkopää wind farm",
+        "Capacity (MW)": 27.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6914,
+          64.2816
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Maaselänkangas wind farm",
+        "Capacity (MW)": 41.3,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7889,
+          62.2626
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Jäkäläkangas wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5938,
+          62.7651
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Takanebacken wind farm",
+        "Capacity (MW)": 28.5,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.355,
+          60.9392
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Voimamylly wind farm",
+        "Capacity (MW)": 12.9,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5268,
+          61.0496
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Voimamylly wind farm",
+        "Capacity (MW)": 12.9,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7042,
+          61.858
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Jäneskeidas wind farm",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9152,
+          62.8529
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Mustalamminmäki wind farm",
+        "Capacity (MW)": 29.5,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2262,
+          67.3546
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Joukhaisselkä-Tuore Kulvakkoselkä wind farm",
+        "Capacity (MW)": 27.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3132,
+          61.9332
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kankaanpää Kooninkallio wind farm",
+        "Capacity (MW)": 27.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4739,
+          63.2127
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Perho wind farm",
+        "Capacity (MW)": 27.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7531,
+          61.8765
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Ratiperä wind farm",
+        "Capacity (MW)": 27.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9894,
+          60.6887
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Verhonkulma wind farm",
+        "Capacity (MW)": 27.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0694,
+          63.9537
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kaukasenneva wind farm",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7506,
+          63.8926
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Jakoistenkallio wind farm",
+        "Capacity (MW)": 29.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6046,
+          63.2916
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Pihtipudas wind farm",
+        "Capacity (MW)": 29.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4296,
+          62.7292
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Konttisuo wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3355,
+          64.2163
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Alavieska wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5498,
+          64.5872
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Illevaara wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5216,
+          63.998
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Pajukoski wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8957,
+          66.1418
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Varevaara wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3002,
+          63.4402
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kröpuln wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5762,
+          62.8592
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Långmossan wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4888,
+          62.5109
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Ponsivuori wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4629,
+          63.2983
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Storbacken wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3214,
+          62.6135
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Björkliden wind farm",
+        "Capacity (MW)": 40.4,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1002,
+          62.5739
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Saunamaa wind farm",
+        "Capacity (MW)": 34.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8572,
+          64.5029
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Annankangas wind farm",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7251,
+          64.1382
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Torvenkylä wind farm",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9776,
+          64.3097
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Jokela wind farm",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0477,
+          66.1322
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kitkiäisvaara wind farm",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3389,
+          62.4045
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Suolakangas wind farm",
+        "Capacity (MW)": 38.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1511,
+          65.6461
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Halmekangas wind farm",
+        "Capacity (MW)": 38.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9193,
+          62.6646
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Soidinmäki wind farm",
+        "Capacity (MW)": 38.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7047,
+          64.4166
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Polusjärvi wind farm",
+        "Capacity (MW)": 43.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5433,
+          62.9136
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Karstula Korkeakangas wind farm",
+        "Capacity (MW)": 43.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3029,
+          63.8784
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Puutikankangas wind farm",
+        "Capacity (MW)": 44.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6323,
+          62.4465
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Rustari wind farm",
+        "Capacity (MW)": 44.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8503,
+          63.0741
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Hallakangas wind farm",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0142,
+          65.6745
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Leipiö wind farm",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2387,
+          64.6497
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Lumivaara wind farm",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.097,
+          63.3908
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Hautakangas wind farm",
+        "Capacity (MW)": 46.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.428,
+          64.5166
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Raahe Sarvankangas wind farm",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0888,
+          62.6759
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Rasakangas wind farm",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6496,
+          61.6349
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Peittoonkorpi wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6991,
+          62.1927
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Lakiakangas wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7231,
+          62.1594
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Lakiakangas wind farm",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9884,
+          63.0394
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Torkkola wind farm",
+        "Capacity (MW)": 53.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7515,
+          64.1452
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Piiparinmäki wind farm",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7515,
+          64.1452
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Piiparinmäki wind farm",
+        "Capacity (MW)": 157.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4942,
+          62.644
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Ilmajoki Santavuori wind farm",
+        "Capacity (MW)": 56.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9176,
+          63.865
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kuuronkallio wind farm",
+        "Capacity (MW)": 58.8,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.371,
+          65.5128
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Palokangas wind farm",
+        "Capacity (MW)": 70.8,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4523,
+          62.0729
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Västervik wind farm",
+        "Capacity (MW)": 55.8,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.704,
+          64.7095
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Suomussalmi wind farm",
+        "Capacity (MW)": 66.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8048,
+          64.5735
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Mastokangas wind farm",
+        "Capacity (MW)": 68.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.921,
+          64.182
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Läntinen wind farm",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6292,
+          65.2669
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Tolpanvaara wind farm",
+        "Capacity (MW)": 76.5,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0517,
+          64.2726
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Mustilankangas wind farm",
+        "Capacity (MW)": 73.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9825,
+          64.3122
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Tohkoja wind farm",
+        "Capacity (MW)": 73.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4398,
+          63.3453
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Sandbacka wind farm",
+        "Capacity (MW)": 74.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3798,
+          62.6307
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Hedet wind farm",
+        "Capacity (MW)": 81.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3665,
+          63.0982
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Alajoki-Peuralinna wind farm",
+        "Capacity (MW)": 84.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2213,
+          64.3988
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Puskakorpi wind farm",
+        "Capacity (MW)": 88.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2269,
+          64.3978
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Puskakorvenkallio wind farm",
+        "Capacity (MW)": 88.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7522,
+          63.7019
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Murtomäki wind farm",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2519,
+          63.6499
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Pajuperänkangas wind farm",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9301,
+          62.8106
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Rajavuori wind farm",
+        "Capacity (MW)": 90.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2809,
+          62.5252
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kalax wind farm",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6053,
+          62.0701
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Mikonkeidas wind farm",
+        "Capacity (MW)": 100.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2984,
+          62.5823
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Norrskogen wind farm",
+        "Capacity (MW)": 102.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6577,
+          68.0388
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Pohjoinen wind farm",
+        "Capacity (MW)": 99.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6167,
+          63.7797
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Välikangas wind farm",
+        "Capacity (MW)": 101.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5638,
+          62.0992
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Metsäla Kristiinankaupunki wind farm",
+        "Capacity (MW)": 117.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6815,
+          62.5168
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Paskoonharju wind farm",
+        "Capacity (MW)": 118.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0329,
+          62.3996
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Niinimäki wind farm",
+        "Capacity (MW)": 131.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7276,
+          64.2926
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Metsälamminkangas wind farm",
+        "Capacity (MW)": 132.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8026,
+          64.3337
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Karahka wind farm",
+        "Capacity (MW)": 150.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0911,
+          62.6351
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Matkussaari wind farm",
+        "Capacity (MW)": 148.5,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0697,
+          65.3207
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Pahkakoski wind farm",
+        "Capacity (MW)": 150.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1308,
+          63.0112
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Louhukangas wind farm",
+        "Capacity (MW)": 142.6,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5978,
+          61.4086
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Oosinselkä wind farm",
+        "Capacity (MW)": 93.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2552,
+          64.3537
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Karhunnevankangas wind farm",
+        "Capacity (MW)": 188.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1308,
+          63.0112
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Möksy wind farm",
+        "Capacity (MW)": 78.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6884,
+          63.4701
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Lestijärvi wind farm",
+        "Capacity (MW)": 455.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.492,
+          62.3514
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kristinestad Norr wind farm",
+        "Capacity (MW)": 129.2,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3728,
+          64.0778
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Hankilannevan wind farm",
+        "Capacity (MW)": 44.8,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6473,
+          62.0755
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Isokeidas wind farm",
+        "Capacity (MW)": 31.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3853,
+          64.6335
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kuljunniemi wind farm",
+        "Capacity (MW)": 11.5,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0586,
+          64.363
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Mäkikankaan wind farm",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1961,
+          65.0086
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Riutunkari wind farm",
+        "Capacity (MW)": 12.6,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4842,
+          62.4052
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Pjelax wind farm",
+        "Capacity (MW)": 251.6,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8354,
+          64.4243
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Nikkarikaarto wind farm",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2967,
+          61.9634
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Finland",
+        "Plant / Project name": "Kirkonkallio wind farm",
+        "Capacity (MW)": 21.5,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3357,
+          64.7042
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Finland",
+        "Plant / Project name": "Utajärvi solar farm",
+        "Capacity (MW)": 80.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

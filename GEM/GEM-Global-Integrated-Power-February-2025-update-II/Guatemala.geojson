@@ -1,0 +1,824 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5057,
+          14.2914
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Aguacapa hydroelectric plant",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.886,
+          15.5047
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Palo Viejo hydroelectric plant",
+        "Capacity (MW)": 87.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4911,
+          15.2811
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Pueblo Viejo hydroelectric plant",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1742,
+          15.497
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Renace 2 Phase 1 hydroelectric plant",
+        "Capacity (MW)": 117.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0965,
+          15.5858
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Xacbal hydroelectric plant",
+        "Capacity (MW)": 97.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0973,
+          14.2672
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Ingenio La Unión power station",
+        "Capacity (MW)": 85.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids), coal: unknown, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0646,
+          14.346
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Madre Tierra power station",
+        "Capacity (MW)": 37.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids), coal: unknown, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9272,
+          14.1216
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Magdalena Sugar Mill power station",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids), fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9272,
+          14.1216
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Magdalena Sugar Mill power station",
+        "Capacity (MW)": 62.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids), coal: unknown, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9272,
+          14.1216
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Magdalena Sugar Mill power station",
+        "Capacity (MW)": 62.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids), coal: unknown, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9272,
+          14.1216
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Magdalena Sugar Mill power station",
+        "Capacity (MW)": 72.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3986,
+          14.488
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Palo Gordo power station",
+        "Capacity (MW)": 46.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids), coal: unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9943,
+          14.3328
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Pantaleón power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids), fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9943,
+          14.3328
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Pantaleón power station",
+        "Capacity (MW)": 61.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids), coal: unknown, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7727,
+          14.3796
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "San Isidro power station",
+        "Capacity (MW)": 62.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8457,
+          14.2434
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Santa Ana power station",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids), coal: unknown, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8457,
+          14.2434
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Santa Ana power station",
+        "Capacity (MW)": 64.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids), coal: unknown, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.841,
+          14.151
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Trinidad power station",
+        "Capacity (MW)": 46.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids), coal: unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.841,
+          14.151
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Trinidad power station",
+        "Capacity (MW)": 46.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids), coal: unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.798959,
+          13.960274
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Arizona power station",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.799063,
+          14.262131
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Las Palmas power station",
+        "Capacity (MW)": 67.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.785599,
+          13.921042
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Puerto Quetzal Power (PQP) power station",
+        "Capacity (MW)": 59.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.72265,
+          14.110715
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Jaguar Energy power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.72265,
+          14.110715
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Jaguar Energy power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7879,
+          14.1632
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "San José power station",
+        "Capacity (MW)": 139.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5647,
+          14.3629
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "San Antonio wind farm",
+        "Capacity (MW)": 53.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6638,
+          14.3912
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Viento Blanco wind farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5643,
+          14.437
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Las Cumbres De Agua Blanca wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3544,
+          14.0533
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Horus Energy PV Solar Plant",
+        "Capacity (MW)": 58.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3544,
+          14.0533
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Horus Energy PV Solar Plant",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7132,
+          14.3122
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Asunción Mita solar project",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9545,
+          14.0734
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Comapa solar project",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4774,
+          14.5205
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Guatemala Department solar project",
+        "Capacity (MW)": 3.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8383,
+          14.0746
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Masagua solar project",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9509,
+          14.2603
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Municipio De Jutiapa solar project",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4824,
+          15.0879
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Río Hondo solar project I",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6573,
+          15.0176
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Río Hondo solar project II",
+        "Capacity (MW)": 4.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.651,
+          14.975
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "SIBO solar farm",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1025,
+          14.3965
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guatemala",
+        "Plant / Project name": "Santa Lucía Cotzumalguapa solar project",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

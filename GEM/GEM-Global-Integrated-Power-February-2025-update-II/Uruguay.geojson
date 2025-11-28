@@ -1,0 +1,1181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4519,
+          -33.0558
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Constitución hydroelectric plant",
+        "Capacity (MW)": 333.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.8059,
+          -32.8735
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Rincón De Baygorria hydroelectric plant",
+        "Capacity (MW)": 108.0,
+        "Status": "operating",
+        "Start year": 1960,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.4217,
+          -32.8312
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Rincón Del Bonete hydroelectric plant",
+        "Capacity (MW)": 152.0,
+        "Status": "operating",
+        "Start year": 1945,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0497,
+          -34.2248
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Montes del Plata power station",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": null,
+        "Fuel": "bioenergy: paper mill wastes",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0497,
+          -34.2248
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Montes del Plata power station",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": null,
+        "Fuel": "bioenergy: paper mill wastes",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5354,
+          -32.866
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "UPM Paso de los Toros power station",
+        "Capacity (MW)": 155.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": null,
+        "Fuel": "bioenergy: paper mill wastes",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5354,
+          -32.866
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "UPM Paso de los Toros power station",
+        "Capacity (MW)": 155.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": null,
+        "Fuel": "bioenergy: paper mill wastes",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.2551,
+          -33.121
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "UPM power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": null,
+        "Fuel": "bioenergy: paper mill wastes",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.2551,
+          -33.121
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "UPM power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": null,
+        "Fuel": "bioenergy: paper mill wastes",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.197189,
+          -34.885275
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "José Battle y Ordoñez power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5411,
+          -34.7498
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Punta del Tigre A power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5411,
+          -34.7498
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Punta del Tigre A power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5411,
+          -34.7498
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Punta del Tigre A power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5411,
+          -34.7498
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Punta del Tigre A power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5411,
+          -34.7498
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Punta del Tigre A power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5411,
+          -34.7498
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Punta del Tigre A power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.542386,
+          -34.752191
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Punta del Tigre B power station",
+        "Capacity (MW)": 540.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.235589,
+          -34.82643
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "UTE Central Termica La Tablada power station",
+        "Capacity (MW)": 106.0,
+        "Status": "operating",
+        "Start year": 1992,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.235589,
+          -34.82643
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "UTE Central Termica La Tablada power station",
+        "Capacity (MW)": 106.0,
+        "Status": "operating",
+        "Start year": 1992,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.6719,
+          -33.5977
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Talas De Maciel wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1036,
+          -34.0957
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Florida wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1036,
+          -34.0957
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Florida wind farm",
+        "Capacity (MW)": 49.5,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.3167,
+          -34.4613
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Minas wind farm",
+        "Capacity (MW)": 42.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.8797,
+          -34.409
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Maldonado wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1006,
+          -33.2899
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Valentines wind farm",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.2364,
+          -32.6053
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Melowind wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.9223,
+          -32.2828
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Cerro Grande wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.4118,
+          -32.6048
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Peralta wind farm",
+        "Capacity (MW)": 58.8,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.4118,
+          -32.6048
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Peralta wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.7881,
+          -34.653
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Kiyú wind farm",
+        "Capacity (MW)": 49.2,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.3947,
+          -33.8831
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Luz De Loma wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.3947,
+          -33.8831
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Luz De Mar wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5542,
+          -31.1207
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Campo Palomas wind farm",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.3947,
+          -33.8831
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Luz De Rio wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.0536,
+          -34.2855
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Nuevo Manantial wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.2159,
+          -32.2045
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Pampa (Nordex) wind farm",
+        "Capacity (MW)": 141.6,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5757,
+          -34.7404
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Kentilux wind farm",
+        "Capacity (MW)": 17.2,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5686,
+          -33.835
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Arias wind farm",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.967,
+          -34.6501
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Los Caracoles wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.9701,
+          -34.6528
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Los Caracoles wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5812,
+          -34.3482
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Artilleros wind farm",
+        "Capacity (MW)": 65.1,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5648,
+          -33.6585
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "18 De Julio wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.3433,
+          -34.2743
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Rosario Ventus I wind farm",
+        "Capacity (MW)": 9.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4574,
+          -30.4214
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Alto Cielo PV Solar Plant",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.8739,
+          -31.2603
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "El Naranjal Solar Plant",
+        "Capacity (MW)": 58.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6034,
+          -32.6848
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Giacote PV Solar Project",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9088,
+          -31.4315
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "La Jacinta Solar Plant",
+        "Capacity (MW)": 65.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4385,
+          -32.6083
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Menafra solar farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.454,
+          -30.872
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Arapey (Sky Solar Tecnova) solar farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.027,
+          -32.287
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Casa Blanca Solar Project",
+        "Capacity (MW)": 11.2,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.027,
+          -32.287
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Casa Blanca Solar Project",
+        "Capacity (MW)": 9.5,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.027,
+          -32.287
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Casa Blanca Solar Project",
+        "Capacity (MW)": 9.5,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.133,
+          -32.387
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Casa Blanca Solar Project",
+        "Capacity (MW)": 8.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.8689,
+          -31.4388
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Del Litoral solar farm",
+        "Capacity (MW)": 17.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9925,
+          -33.2614
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Natelu solar farm",
+        "Capacity (MW)": 11.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.8158,
+          -31.4115
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uruguay",
+        "Plant / Project name": "Salto solar project",
+        "Capacity (MW)": 8.2,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

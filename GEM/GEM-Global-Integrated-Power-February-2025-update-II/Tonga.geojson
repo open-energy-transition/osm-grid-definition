@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.0353,
+          -21.1533
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Tonga",
+        "Plant / Project name": "Manumataongo wind farm",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.893686,
+          47.029829
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Moldova",
+        "Plant / Project name": "CHP Source 1 power station",
+        "Capacity (MW)": 98.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.893686,
+          47.029829
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Moldova",
+        "Plant / Project name": "CHP Source 1 power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.893686,
+          47.029829
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Moldova",
+        "Plant / Project name": "CHP Source 1 power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.939714,
+          46.629027
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Moldova",
+        "Plant / Project name": "Kuchurgan power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, coal: unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.939714,
+          46.629027
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Moldova",
+        "Plant / Project name": "Kuchurgan power station",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, coal: subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.939714,
+          46.629027
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Moldova",
+        "Plant / Project name": "Kuchurgan power station",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, coal: unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.939714,
+          46.629027
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Moldova",
+        "Plant / Project name": "Kuchurgan power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, coal: unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6398,
+          47.1476
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Moldova",
+        "Plant / Project name": "Moldova Strășeni solar project",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7289,
+          47.1541
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Moldova",
+        "Plant / Project name": "Moldova solar project I",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9437,
+          46.7995
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Moldova",
+        "Plant / Project name": "Moldova solar project II",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8426,
+          46.0351
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Moldova",
+        "Plant / Project name": "Moldova solar project III",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8214,
+          46.2552
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Moldova",
+        "Plant / Project name": "Moldova solar project IV",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1479,
+          47.2203
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Moldova",
+        "Plant / Project name": "Moldova solar project IX",
+        "Capacity (MW)": 5.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.006,
+          46.9084
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Moldova",
+        "Plant / Project name": "Moldova solar project V",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.012,
+          46.8919
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Moldova",
+        "Plant / Project name": "Moldova solar project VI",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6618,
+          47.1188
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Moldova",
+        "Plant / Project name": "Moldova solar project VII",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6013,
+          48.4043
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Moldova",
+        "Plant / Project name": "Moldova solar project VIII",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

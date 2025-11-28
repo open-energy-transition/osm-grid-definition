@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6218,
+          -5.5162
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "DR Congo",
+        "Plant / Project name": "Inga I hydroelectric plant",
+        "Capacity (MW)": 351.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6208,
+          -5.5274
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "DR Congo",
+        "Plant / Project name": "Inga II hydroelectric plant",
+        "Capacity (MW)": 1424.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2447,
+          -10.7452
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "DR Congo",
+        "Plant / Project name": "Mwadingusha hydroelectric plant",
+        "Capacity (MW)": 78.0,
+        "Status": "operating",
+        "Start year": 1930,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4059,
+          -10.3046
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "DR Congo",
+        "Plant / Project name": "N'Seke hydroelectric plant",
+        "Capacity (MW)": 260.0,
+        "Status": "operating",
+        "Start year": 1956,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4631,
+          -10.4998
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "DR Congo",
+        "Plant / Project name": "N'Zilo 1 hydroelectric plant",
+        "Capacity (MW)": 108.0,
+        "Status": "operating",
+        "Start year": 1952,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9366,
+          -9.3877
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "DR Congo",
+        "Plant / Project name": "Sombwe hydroelectric plant",
+        "Capacity (MW)": 150.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9025,
+          -4.782
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "DR Congo",
+        "Plant / Project name": "Zongo I hydroelectric plant",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9064,
+          -4.7826
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "DR Congo",
+        "Plant / Project name": "Zongo II hydroelectric plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "unknown",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1938,
+          -1.6414
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "DR Congo",
+        "Plant / Project name": "Goma Nyiragongo solar project",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3974,
+          -7.3048
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "DR Congo",
+        "Plant / Project name": "Tanganyika solar project",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

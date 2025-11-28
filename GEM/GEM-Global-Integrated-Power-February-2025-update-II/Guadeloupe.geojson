@@ -1,0 +1,467 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.7691,
+          16.1272
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Guadeloupe",
+        "Plant / Project name": "Bouillante geothermal power plant",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "flash steam - double",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.7691,
+          16.1272
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Guadeloupe",
+        "Plant / Project name": "Bouillante geothermal power plant",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "flash steam - double",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.326223,
+          16.304873
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Guadeloupe",
+        "Plant / Project name": "Le Moule Power Station",
+        "Capacity (MW)": 38.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.55409,
+          16.232339
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Guadeloupe",
+        "Plant / Project name": "Pointe Jarry power station",
+        "Capacity (MW)": 211.2,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.326223,
+          16.304873
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Guadeloupe",
+        "Plant / Project name": "Le Moule Power Station",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "unknown",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.326223,
+          16.304873
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Guadeloupe",
+        "Plant / Project name": "Le Moule Power Station",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "unknown",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4004,
+          16.4267
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Guadeloupe",
+        "Plant / Project name": "Petit Canal wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.732,
+          16.3184
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Guadeloupe",
+        "Plant / Project name": "Fonds Caraïbes wind farm",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4136,
+          16.3583
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guadeloupe",
+        "Plant / Project name": "Guadeloupe solar project I",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4104,
+          16.3641
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guadeloupe",
+        "Plant / Project name": "Guadeloupe solar project II",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4171,
+          16.3526
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guadeloupe",
+        "Plant / Project name": "Guadeloupe solar project III",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4045,
+          16.4258
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guadeloupe",
+        "Plant / Project name": "Guadeloupe solar project IV",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.6606,
+          16.0137
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guadeloupe",
+        "Plant / Project name": "Guadeloupe solar project IX",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.6853,
+          16.2798
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guadeloupe",
+        "Plant / Project name": "Guadeloupe solar project V",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4179,
+          16.3607
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guadeloupe",
+        "Plant / Project name": "Guadeloupe solar project VI",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5714,
+          16.0911
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guadeloupe",
+        "Plant / Project name": "Guadeloupe solar project VII",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.258,
+          16.2839
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guadeloupe",
+        "Plant / Project name": "Guadeloupe solar project VIII",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.6318,
+          15.8421
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guadeloupe",
+        "Plant / Project name": "Guadeloupe solar project X",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2738,
+          16.2678
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guadeloupe",
+        "Plant / Project name": "Guadeloupe solar project XI",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.7057,
+          16.0363
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guadeloupe",
+        "Plant / Project name": "Guadeloupe solar project XII",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2429,
+          15.9284
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guadeloupe",
+        "Plant / Project name": "Guadeloupe solar project XIII",
+        "Capacity (MW)": 3.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2352,
+          16.2644
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guadeloupe",
+        "Plant / Project name": "Guadeloupe solar project XIV",
+        "Capacity (MW)": 3.5,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

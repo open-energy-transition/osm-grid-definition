@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.540168,
+          25.004282
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bahamas",
+        "Plant / Project name": "Clifton Pier power station",
+        "Capacity (MW)": 132.3,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: LNG, fossil liquids: heavy fuel oil, fossil liquids: light fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.750691,
+          26.518249
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bahamas",
+        "Plant / Project name": "West Sunrise power station",
+        "Capacity (MW)": 52.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

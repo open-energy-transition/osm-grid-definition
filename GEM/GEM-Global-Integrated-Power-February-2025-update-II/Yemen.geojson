@@ -1,0 +1,383 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.919038,
+          12.824678
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Yemen",
+        "Plant / Project name": "Aden power station",
+        "Capacity (MW)": 132.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.919038,
+          12.824678
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Yemen",
+        "Plant / Project name": "Aden power station",
+        "Capacity (MW)": 132.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.191947,
+          14.596726
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Yemen",
+        "Plant / Project name": "Al-Harshiyat power station",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9227,
+          12.8271
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Yemen",
+        "Plant / Project name": "Al-Hiswa power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.975476,
+          12.852749
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Yemen",
+        "Plant / Project name": "Al-Mansoura power station",
+        "Capacity (MW)": 64.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "unknown",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.975476,
+          12.852749
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Yemen",
+        "Plant / Project name": "Al-Mansoura power station",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "unknown",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.270336,
+          15.24454
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Yemen",
+        "Plant / Project name": "Hezyaz power station",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.7717,
+          15.552
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Yemen",
+        "Plant / Project name": "Marib power station",
+        "Capacity (MW)": 114.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.7717,
+          15.552
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Yemen",
+        "Plant / Project name": "Marib power station",
+        "Capacity (MW)": 114.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.7717,
+          15.552
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Yemen",
+        "Plant / Project name": "Marib power station",
+        "Capacity (MW)": 114.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.7717,
+          15.552
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Yemen",
+        "Plant / Project name": "Marib power station",
+        "Capacity (MW)": 126.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.7717,
+          15.552
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Yemen",
+        "Plant / Project name": "Marib power station",
+        "Capacity (MW)": 100.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.7717,
+          15.552
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Yemen",
+        "Plant / Project name": "Marib power station",
+        "Capacity (MW)": 100.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.7717,
+          15.552
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Yemen",
+        "Plant / Project name": "Marib power station",
+        "Capacity (MW)": 100.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8764,
+          12.8805
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Yemen",
+        "Plant / Project name": "Aden solar farm",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.3986,
+          14.1533
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Yemen",
+        "Plant / Project name": "Al Hudaydah Governorate solar project I",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.4915,
+          14.13
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Yemen",
+        "Plant / Project name": "Al Hudaydah Governorate solar project II",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2587,
+          13.3629
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Yemen",
+        "Plant / Project name": "Ta'Izz Governorate solar project",
+        "Capacity (MW)": 8.2,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

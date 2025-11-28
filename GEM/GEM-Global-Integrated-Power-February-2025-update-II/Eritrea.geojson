@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.44277,
+          15.579
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Eritrea",
+        "Plant / Project name": "Hirgigo power plant",
+        "Capacity (MW)": 88.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9572,
+          15.3176
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Eritrea",
+        "Plant / Project name": "Asmara solar project",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.514,
+          15.5168
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Eritrea",
+        "Plant / Project name": "Bisha solar project",
+        "Capacity (MW)": 6.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.4772,
+          14.9066
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Eritrea",
+        "Plant / Project name": "Debub Region solar project",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8167,
+          15.1874
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Eritrea",
+        "Plant / Project name": "Maekel Region solar project",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

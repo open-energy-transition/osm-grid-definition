@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.302176,
+          6.15684
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Togo",
+        "Plant / Project name": "Lomé Contour power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "unknown",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0103,
+          8.3078
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Togo",
+        "Plant / Project name": "Sheikh Mohamed Bin Zayed solar farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0103,
+          8.3078
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Togo",
+        "Plant / Project name": "Sheikh Mohamed Bin Zayed solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0103,
+          8.3078
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Togo",
+        "Plant / Project name": "Sheikh Mohamed Bin Zayed solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2271,
+          9.4639
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Togo",
+        "Plant / Project name": "Kara Kozah solar project",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

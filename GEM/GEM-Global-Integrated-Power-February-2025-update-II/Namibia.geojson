@@ -1,0 +1,572 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2161,
+          -17.3859
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Ruacana hydroelectric plant",
+        "Capacity (MW)": 332.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.078692,
+          -22.511626
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Van Eck power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.078692,
+          -22.511626
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Van Eck power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.078692,
+          -22.511626
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Van Eck power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.078692,
+          -22.511626
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Van Eck power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1013,
+          -26.4872
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Lüderitz Wind Power Plant",
+        "Capacity (MW)": 50.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0272,
+          -23.6528
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Mariental solar farm",
+        "Capacity (MW)": 46.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0207,
+          -21.489
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Omburu solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.839,
+          -21.9486
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Erongo Region solar project I",
+        "Capacity (MW)": 6.5,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0302,
+          -21.4866
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Erongo Region solar project III",
+        "Capacity (MW)": 9.6,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8064,
+          -22.1561
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Erongo Region solar project IV",
+        "Capacity (MW)": 9.1,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0128,
+          -22.5906
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Erongo Region solar project V",
+        "Capacity (MW)": 8.5,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.284,
+          -26.4169
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Karas solar project I",
+        "Capacity (MW)": 13.7,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4106,
+          -28.401
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Karas solar project III",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1386,
+          -26.5845
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Keetmanshoop solar project",
+        "Capacity (MW)": 6.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4493,
+          -19.5209
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Ohorongo solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9705,
+          -22.4365
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Omaheke solar project",
+        "Capacity (MW)": 16.2,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0037,
+          -17.5173
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Omusati solar project",
+        "Capacity (MW)": 3.5,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2814,
+          -18.0934
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Oshikoto solar project I",
+        "Capacity (MW)": 7.6,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2949,
+          -18.109
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Oshikoto solar project II",
+        "Capacity (MW)": 12.6,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0904,
+          -20.0005
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Otjikoto solar project",
+        "Capacity (MW)": 5.8,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6252,
+          -20.4463
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Otjiwarongo solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7914,
+          -22.1023
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Otjozondjupa solar project I",
+        "Capacity (MW)": 7.9,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1167,
+          -19.5563
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Otjozondjupa solar project II",
+        "Capacity (MW)": 5.7,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1187,
+          -19.9939
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Otjozondjupa solar project III",
+        "Capacity (MW)": 9.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7836,
+          -27.9626
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Rosh Pinah solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8075,
+          -22.1569
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Namibia",
+        "Plant / Project name": "Trekkopje solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

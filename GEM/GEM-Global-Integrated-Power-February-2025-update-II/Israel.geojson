@@ -1,0 +1,3911 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4935,
+          32.5083
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Israel",
+        "Plant / Project name": "Kokhav Hayarden hydroelectric plant",
+        "Capacity (MW)": 344.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5555,
+          33.1898
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Israel",
+        "Plant / Project name": "Manara hydroelectric plant",
+        "Capacity (MW)": 156.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4384,
+          32.4781
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Israel",
+        "Plant / Project name": "Mount Gilboa hydroelectric plant",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3642,
+          32.63272
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Alon Tavor cogeneration power station",
+        "Capacity (MW)": 73.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3676,
+          32.6339
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Alon Tavor power station",
+        "Capacity (MW)": 373.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3676,
+          32.6339
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Alon Tavor power station",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1992,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3676,
+          32.6339
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Alon Tavor power station",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1992,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7876,
+          31.1472
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Ashdod Energy power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.685617,
+          31.841737
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Ashdod Refinery power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.524457,
+          31.635071
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Ashkelon Delek power station",
+        "Capacity (MW)": 87.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "unknown",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.752921,
+          31.721631
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Be'er Tuvia power station",
+        "Capacity (MW)": 450.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3644,
+          31.0303
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Dead Sea Works power station",
+        "Capacity (MW)": 230.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.531124,
+          31.635964
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Dorad power station",
+        "Capacity (MW)": 430.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.531124,
+          31.635964
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Dorad power station",
+        "Capacity (MW)": 430.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.531124,
+          31.635964
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Dorad power station",
+        "Capacity (MW)": 650.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6551,
+          31.8388
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Eshkol power station",
+        "Capacity (MW)": 228.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6551,
+          31.8388
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Eshkol power station",
+        "Capacity (MW)": 228.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6551,
+          31.8388
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Eshkol power station",
+        "Capacity (MW)": 228.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6551,
+          31.8388
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Eshkol power station",
+        "Capacity (MW)": 377.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6551,
+          31.8388
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Eshkol power station",
+        "Capacity (MW)": 394.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6551,
+          31.8388
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Eshkol power station",
+        "Capacity (MW)": 228.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9188,
+          31.9153
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Gezer power station",
+        "Capacity (MW)": 370.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9188,
+          31.9153
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Gezer power station",
+        "Capacity (MW)": 370.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9188,
+          31.9153
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Gezer power station",
+        "Capacity (MW)": 140.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9188,
+          31.9153
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Gezer power station",
+        "Capacity (MW)": 140.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9188,
+          31.9153
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Gezer power station",
+        "Capacity (MW)": 140.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9188,
+          31.9153
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Gezer power station",
+        "Capacity (MW)": 140.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.913859,
+          32.453057
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Hadera OPC power station",
+        "Capacity (MW)": 148.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0431,
+          32.6172
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Hagit power station",
+        "Capacity (MW)": 330.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0431,
+          32.6172
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Hagit power station",
+        "Capacity (MW)": 330.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0431,
+          32.6172
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Hagit power station",
+        "Capacity (MW)": 370.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0431,
+          32.6172
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Hagit power station",
+        "Capacity (MW)": 372.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.019611,
+          32.811807
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Haifa power station",
+        "Capacity (MW)": 370.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.019611,
+          32.811807
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Haifa power station",
+        "Capacity (MW)": 370.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.019611,
+          32.811807
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Haifa power station",
+        "Capacity (MW)": 141.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.019611,
+          32.811807
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Haifa power station",
+        "Capacity (MW)": 141.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.943218,
+          32.11749
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Kesem Energy power station",
+        "Capacity (MW)": 780.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "unknown",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.779548,
+          31.598338
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Kiryat Gat power plant",
+        "Capacity (MW)": 73.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8912,
+          31.9138
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Nesher Ramla power station",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.886297,
+          32.469902
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Orot Rabin power station",
+        "Capacity (MW)": 630.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.886297,
+          32.469902
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Orot Rabin power station",
+        "Capacity (MW)": 630.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.251222,
+          32.687279
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Ramat Gabriel power station",
+        "Capacity (MW)": 73.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8146,
+          31.1536
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Ramat Hovav power station",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1989,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8146,
+          31.1536
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Ramat Hovav power station",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1989,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8146,
+          31.1536
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Ramat Hovav power station",
+        "Capacity (MW)": 118.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8146,
+          31.1536
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Ramat Hovav power station",
+        "Capacity (MW)": 118.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8146,
+          31.1536
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Ramat Hovav power station",
+        "Capacity (MW)": 366.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8146,
+          31.1536
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Ramat Hovav power station",
+        "Capacity (MW)": 335.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7895,
+          31.1498
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Ramat Negev Energy power station",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.175162,
+          31.055076
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Rotem OPC power station",
+        "Capacity (MW)": 466.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.520237,
+          31.630697
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Rutenberg power station",
+        "Capacity (MW)": 575.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7118,
+          31.9367
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Sorek power station",
+        "Capacity (MW)": 140.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.732901,
+          31.943541
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Sorek-2 cogeneration power station",
+        "Capacity (MW)": 87.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "unknown",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8422,
+          31.7148
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Tzafit (Dalia) power station",
+        "Capacity (MW)": 450.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8422,
+          31.7148
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Tzafit (Dalia) power station",
+        "Capacity (MW)": 450.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8423,
+          31.7123
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Tzafit power station",
+        "Capacity (MW)": 370.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8423,
+          31.7123
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Tzafit power station",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8423,
+          31.7123
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Israel",
+        "Plant / Project name": "Tzafit power station",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.886297,
+          32.469902
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Israel",
+        "Plant / Project name": "Orot Rabin power station",
+        "Capacity (MW)": 375.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.886297,
+          32.469902
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Israel",
+        "Plant / Project name": "Orot Rabin power station",
+        "Capacity (MW)": 375.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.886297,
+          32.469902
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Israel",
+        "Plant / Project name": "Orot Rabin power station",
+        "Capacity (MW)": 375.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.886297,
+          32.469902
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Israel",
+        "Plant / Project name": "Orot Rabin power station",
+        "Capacity (MW)": 375.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.886297,
+          32.469902
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Israel",
+        "Plant / Project name": "Orot Rabin power station",
+        "Capacity (MW)": 575.0,
+        "Status": "operating",
+        "Start year": 1995,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.886297,
+          32.469902
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Israel",
+        "Plant / Project name": "Orot Rabin power station",
+        "Capacity (MW)": 575.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.520237,
+          31.630697
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Israel",
+        "Plant / Project name": "Rutenberg power station",
+        "Capacity (MW)": 575.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.520237,
+          31.630697
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Israel",
+        "Plant / Project name": "Rutenberg power station",
+        "Capacity (MW)": 550.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.520237,
+          31.630697
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Israel",
+        "Plant / Project name": "Rutenberg power station",
+        "Capacity (MW)": 550.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4268,
+          32.4687
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Israel",
+        "Plant / Project name": "Afcon wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.523,
+          32.6463
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Israel",
+        "Plant / Project name": "Afcon wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1384,
+          31.2643
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Arad Valley solar farm",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1384,
+          31.2643
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Arad Valley solar farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7213,
+          30.9631
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Ashalim Megalim solar farm",
+        "Capacity (MW)": 121.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Solar Thermal",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6823,
+          30.963
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Ashalim Negev solar farm",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Solar Thermal",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7475,
+          30.9782
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Ashalim PV solar farm",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6645,
+          30.9611
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Ashalim PV solar farm",
+        "Capacity (MW)": 42.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7747,
+          33.1432
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Bar-on solar farm",
+        "Capacity (MW)": 21.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6003,
+          31.505
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Gevim solar farm",
+        "Capacity (MW)": 27.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9424,
+          32.6405
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Habonim floating solar farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4556,
+          31.2404
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Halutziot solar farm",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4556,
+          31.2404
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Halutziot solar farm",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0595,
+          29.9647
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Ketura Solar",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9315,
+          32.6007
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Ma'ayan Tzvi solar farm",
+        "Capacity (MW)": 31.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7594,
+          31.0119
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Mashabai Sadeh solar farm",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7548,
+          31.1469
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Neot Hovav solar farm",
+        "Capacity (MW)": 38.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.761,
+          31.0111
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Revivim solar farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4982,
+          31.1922
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Sde Nitzan solar farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.007,
+          29.755
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Timna solar farm",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7099,
+          31.2468
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Zmorot solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1384,
+          31.2643
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Arad Valley solar farm",
+        "Capacity (MW)": 17.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2977,
+          30.8028
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Arava Tichona Regional Council solar project I",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2751,
+          30.7559
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Arava Tichona Regional Council solar project II",
+        "Capacity (MW)": 11.4,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1635,
+          30.568
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Arava Tichona Regional Council solar project III",
+        "Capacity (MW)": 4.2,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6066,
+          31.6755
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Ashkelon solar project",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8099,
+          31.2425
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Be'Er Sheva solar project",
+        "Capacity (MW)": 8.3,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7144,
+          31.7143
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Beer Tuvia Regional Council solar project",
+        "Capacity (MW)": 6.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8221,
+          31.4062
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Bnei Shimon Regional Council solar project I",
+        "Capacity (MW)": 8.3,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6164,
+          31.3707
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Bnei Shimon Regional Council solar project II",
+        "Capacity (MW)": 7.9,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8846,
+          31.4244
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Bnei Shimon Regional Council solar project III",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6295,
+          31.3563
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Bnei Shimon Regional Council solar project IV",
+        "Capacity (MW)": 8.9,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7528,
+          31.4403
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Bnei Shimon Regional Council solar project V",
+        "Capacity (MW)": 7.3,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7256,
+          31.362
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Bnei Shimon Regional Council solar project VI",
+        "Capacity (MW)": 10.8,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8744,
+          31.3445
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Bnei Shimon Regional Council solar project VII",
+        "Capacity (MW)": 10.1,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6827,
+          31.3459
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Bnei Shimon Regional Council solar project VIII",
+        "Capacity (MW)": 5.1,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8793,
+          32.2413
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Center District solar project",
+        "Capacity (MW)": 13.1,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0888,
+          31.0232
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Dimona solar project I",
+        "Capacity (MW)": 4.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0214,
+          31.0581
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Dimona solar project II",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9821,
+          29.6243
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Eilat solar project I",
+        "Capacity (MW)": 6.7,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0127,
+          29.7411
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Eilat solar project II",
+        "Capacity (MW)": 7.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4833,
+          32.5231
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Emek Hamaayanot Regional Council solar project I",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5216,
+          32.4694
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Emek Hamaayanot Regional Council solar project II",
+        "Capacity (MW)": 7.2,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4534,
+          32.4911
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Emek Hamaayanot Regional Council solar project III",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0085,
+          32.3621
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Emek Hefer Regional Council solar project I",
+        "Capacity (MW)": 9.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9635,
+          32.3403
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Emek Hefer Regional Council solar project II",
+        "Capacity (MW)": 8.2,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9447,
+          32.3685
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Emek Hefer Regional Council solar project III",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1686,
+          32.6435
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Emek Izrael Regional Council solar project I",
+        "Capacity (MW)": 4.4,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1932,
+          32.7202
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Emek Izrael Regional Council solar project II",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.414,
+          32.6522
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Emek Izrael Regional Council solar project III",
+        "Capacity (MW)": 4.2,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2159,
+          32.6526
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Emek Izrael Regional Council solar project IV",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1566,
+          32.6614
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Emek Izrael Regional Council solar project V",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1961,
+          32.6546
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Emek Izrael Regional Council solar project VI",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.155,
+          32.6483
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Emek Izrael Regional Council solar project VII",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4199,
+          31.2054
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Eshkol Regional Council solar project I",
+        "Capacity (MW)": 17.8,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4611,
+          31.1976
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Eshkol Regional Council solar project II",
+        "Capacity (MW)": 9.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4724,
+          31.2137
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Eshkol Regional Council solar project III",
+        "Capacity (MW)": 6.9,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4437,
+          31.3472
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Eshkol Regional Council solar project IV",
+        "Capacity (MW)": 6.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4149,
+          31.3491
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Eshkol Regional Council solar project V",
+        "Capacity (MW)": 9.9,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.534,
+          31.2949
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Eshkol Regional Council solar project VI",
+        "Capacity (MW)": 4.5,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3296,
+          31.2284
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Eshkol Regional Council solar project VII",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6203,
+          33.025
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Galil Elyon Regional Council solar project I",
+        "Capacity (MW)": 11.7,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4757,
+          32.8952
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Galil Elyon Regional Council solar project II",
+        "Capacity (MW)": 6.7,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.583,
+          33.1668
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Galil Elyon Regional Council solar project III",
+        "Capacity (MW)": 5.3,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5775,
+          32.9862
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Galil Elyon Regional Council solar project IV",
+        "Capacity (MW)": 4.9,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6154,
+          33.0532
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Galil Elyon Regional Council solar project V",
+        "Capacity (MW)": 8.1,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7473,
+          31.8084
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Gderot Regional Council solar project",
+        "Capacity (MW)": 8.4,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3208,
+          32.556
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Gilboa Regional Council solar project I",
+        "Capacity (MW)": 6.4,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4485,
+          32.5225
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Gilboa Regional Council solar project II",
+        "Capacity (MW)": 3.4,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4036,
+          32.5505
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Gilboa Regional Council solar project III",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9667,
+          29.5798
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Hevel Eilot Regional Council solar project",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6238,
+          31.7027
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Hof Ashkelon Regional Council solar project I",
+        "Capacity (MW)": 5.4,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5522,
+          31.6026
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Hof Ashkelon Regional Council solar project II",
+        "Capacity (MW)": 9.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5553,
+          31.5843
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Hof Ashkelon Regional Council solar project III",
+        "Capacity (MW)": 6.4,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6553,
+          31.6427
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Hof Ashkelon Regional Council solar project IV",
+        "Capacity (MW)": 8.3,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6323,
+          31.6599
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Hof Ashkelon Regional Council solar project V",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9179,
+          32.5616
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Hof Hacarmel Regional Council solar project I",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9261,
+          32.5732
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Hof Hacarmel Regional Council solar project II",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.682,
+          31.6148
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Lachish Regional Council solar project I",
+        "Capacity (MW)": 7.9,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6687,
+          31.5707
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Lachish Regional Council solar project II",
+        "Capacity (MW)": 7.4,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7143,
+          31.6017
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Lachish Regional Council solar project III",
+        "Capacity (MW)": 13.6,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7051,
+          31.5884
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Lachish Regional Council solar project IV",
+        "Capacity (MW)": 7.7,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8,
+          31.6167
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Lachish Regional Council solar project V",
+        "Capacity (MW)": 4.2,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.681,
+          31.5805
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Lachish Regional Council solar project VI",
+        "Capacity (MW)": 6.4,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1089,
+          33.0457
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Mate Asher Regional Council solar project I",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1088,
+          32.8702
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Mate Asher Regional Council solar project II",
+        "Capacity (MW)": 16.5,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1144,
+          32.9848
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Mate Asher Regional Council solar project III",
+        "Capacity (MW)": 6.6,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8504,
+          31.7596
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Mate Yehuda Regional Council solar project",
+        "Capacity (MW)": 10.6,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0593,
+          32.5775
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Megido Regional Council solar project I",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1322,
+          32.6434
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Megido Regional Council solar project II",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9874,
+          32.4405
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Menashe Regional Council solar project I",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9678,
+          32.4349
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Menashe Regional Council solar project II",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0026,
+          32.4083
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Menashe Regional Council solar project III",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9924,
+          32.5023
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Menashe Regional Council solar project IV",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9574,
+          32.4411
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Menashe Regional Council solar project V",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9684,
+          32.4426
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Menashe Regional Council solar project VI",
+        "Capacity (MW)": 4.1,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5861,
+          31.3394
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Merhavim Regional Council solar project I",
+        "Capacity (MW)": 10.2,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6796,
+          31.4261
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Merhavim Regional Council solar project II",
+        "Capacity (MW)": 8.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1207,
+          32.8923
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Misgav Regional Council solar project I",
+        "Capacity (MW)": 4.2,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1385,
+          32.8965
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Misgav Regional Council solar project II",
+        "Capacity (MW)": 9.1,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8519,
+          31.82
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Nahal Sorek Regional Council solar project",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9591,
+          31.1548
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Neve Midbar Regional Council solar project",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9452,
+          32.4724
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Pardes Hana - Karkur solar project",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6776,
+          30.7503
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Ramat Negev Regional Council solar project I",
+        "Capacity (MW)": 6.6,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7965,
+          31.0125
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Ramat Negev Regional Council solar project II",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.437,
+          30.9042
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Ramat Negev Regional Council solar project III",
+        "Capacity (MW)": 3.5,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.431,
+          30.9137
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Ramat Negev Regional Council solar project IV",
+        "Capacity (MW)": 6.9,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6146,
+          31.4251
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Sdot Negev Regional Council solar project",
+        "Capacity (MW)": 8.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.534,
+          31.4887
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Shaar Hanegev Regional Council solar project I",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5394,
+          31.4871
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Shaar Hanegev Regional Council solar project II",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5684,
+          31.562
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Shaar Hanegev Regional Council solar project III",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7557,
+          31.5541
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Shafir Regional Council solar project",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8465,
+          31.2557
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "South District solar project I",
+        "Capacity (MW)": 7.6,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8243,
+          31.1446
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "South District solar project II",
+        "Capacity (MW)": 7.5,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8552,
+          31.6332
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Yoav Regional Council solar project I",
+        "Capacity (MW)": 9.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8303,
+          31.71
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Yoav Regional Council solar project II",
+        "Capacity (MW)": 4.4,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7962,
+          31.646
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Yoav Regional Council solar project III",
+        "Capacity (MW)": 15.4,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7741,
+          31.6644
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Yoav Regional Council solar project IV",
+        "Capacity (MW)": 9.2,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1252,
+          32.7922
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Israel",
+        "Plant / Project name": "Zvulun Regional Council solar project",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

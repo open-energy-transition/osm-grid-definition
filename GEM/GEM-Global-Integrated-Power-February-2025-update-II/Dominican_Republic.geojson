@@ -1,0 +1,1433 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3321,
+          18.5112
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Jigüey hydroelectric plant",
+        "Capacity (MW)": 98.0,
+        "Status": "operating",
+        "Start year": 1992,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9872,
+          18.8078
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Palomino hydroelectric plant",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7238,
+          19.2879
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Tavera hydroelectric plant",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.3307,
+          18.4663
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "San Pedro power station (Dominican Republic)",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids), bioenergy: wood & other biomass (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6343,
+          18.4074
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Andrés power station",
+        "Capacity (MW)": 319.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.433317,
+          18.663841
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Bavaro power station",
+        "Capacity (MW)": 51.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.883154,
+          18.483971
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Estrella del Mar II power station",
+        "Capacity (MW)": 111.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.88298,
+          18.48307
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Estrella del Mar III power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.35488,
+          18.927174
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Falcondo mine power station",
+        "Capacity (MW)": 66.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.35488,
+          18.927174
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Falcondo mine power station",
+        "Capacity (MW)": 66.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.35488,
+          18.927174
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Falcondo mine power station",
+        "Capacity (MW)": 66.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.55008,
+          19.24821
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "La Vega power station",
+        "Capacity (MW)": 94.5,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.868562,
+          18.499396
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Los Mina power station",
+        "Capacity (MW)": 359.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.318922,
+          18.467603
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Los Orígenes power station",
+        "Capacity (MW)": 60.7,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil, fossil liquids: light fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7003302,
+          19.6764776
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Manzanillo Energy power station",
+        "Capacity (MW)": 420.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7341945,
+          19.6956157
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Manzanillo Gas & Power power station",
+        "Capacity (MW)": 420.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG, other: hydrogen (unknown) [30%]",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.69965,
+          19.68089
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Manzanillo Power Land power station",
+        "Capacity (MW)": 432.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8325,
+          18.35137
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Monte Rio power station",
+        "Capacity (MW)": 101.4,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.012859,
+          18.555709
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Palamara power station",
+        "Capacity (MW)": 107.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.09403,
+          19.20378
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Pimentel 3 power station",
+        "Capacity (MW)": 51.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.83867,
+          18.346437
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Powership Azua power station",
+        "Capacity (MW)": 102.8,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.83867,
+          18.346437
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Powership Azua power station",
+        "Capacity (MW)": 73.8,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.35089,
+          18.49377
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Quisqueya 1 power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.350228,
+          18.492199
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Quisqueya 2 power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.020622,
+          18.424206
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Río Haina power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.341686,
+          18.494942
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "San Pedro de Macorís power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: light fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.341686,
+          18.494942
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "San Pedro de Macorís power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: light fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.341686,
+          18.494942
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "San Pedro de Macorís power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: light fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.62015,
+          18.45692
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Siba power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel, other: hydrogen (unknown)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.62015,
+          18.45692
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Siba power station",
+        "Capacity (MW)": 70.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: waste heat from natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.313378,
+          18.44793
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Sultana del Este power station",
+        "Capacity (MW)": 153.9,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.086721,
+          18.221103
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Barahona power station",
+        "Capacity (MW)": 52.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.027169,
+          18.405797
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Itabo power station",
+        "Capacity (MW)": 128.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.027169,
+          18.405797
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Itabo power station",
+        "Capacity (MW)": 132.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.237669,
+          18.232641
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Punta Catalina power station",
+        "Capacity (MW)": 376.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.237669,
+          18.232641
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Punta Catalina power station",
+        "Capacity (MW)": 376.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3396,
+          19.7845
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Pecasa wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2451,
+          17.8983
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Larimar wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2317,
+          17.9128
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Larimar wind farm",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2705,
+          17.8842
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Los Cocos wind farm",
+        "Capacity (MW)": 25.2,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2705,
+          17.8842
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Los Cocos wind farm",
+        "Capacity (MW)": 52.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2705,
+          17.8842
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Los Cocos wind farm",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2705,
+          17.8842
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Los Cocos wind farm",
+        "Capacity (MW)": 8.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2212,
+          19.6932
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Agua Clara wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4909,
+          18.2643
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Matafongo wind farm",
+        "Capacity (MW)": 34.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4999,
+          19.8753
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Granadillos wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8223,
+          19.8802
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Los Guzmancito wind farm",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8579,
+          19.8862
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Los Guzmancito wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4118,
+          19.8028
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Guanillo wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4414,
+          18.3272
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Bayasol Photovoltaic solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3978,
+          18.3227
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Calabaza solar farm",
+        "Capacity (MW)": 50.6,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1249,
+          18.3442
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Canoa Solar Park",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0586,
+          18.4637
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Cumayasa solar farm",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9628,
+          19.5834
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Esperanza solar farm",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1964,
+          18.3354
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Girasol Solar Park",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8465,
+          18.6145
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "La Victoria Solar Facility",
+        "Capacity (MW)": 58.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.588,
+          18.643
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Mata De Palma Washington Solar Park",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5895,
+          18.6478
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Mata De Palma Washington Solar Park",
+        "Capacity (MW)": 67.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5895,
+          18.6478
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Mata De Palma Washington Solar Park",
+        "Capacity (MW)": 73.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0004,
+          19.5357
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Matrisol solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.711,
+          18.563
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Mirasol solar farm",
+        "Capacity (MW)": 100.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7901,
+          18.8201
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Monte Plata Solar Plant",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3809,
+          19.7094
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Montecristi Solar Park",
+        "Capacity (MW)": 58.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6069,
+          19.4047
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Aeropuerto Internacional del Cibao solar farm",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4905,
+          16.6875
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "CEPM solar farm",
+        "Capacity (MW)": 7.2,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8619,
+          18.3533
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Los Negros solar farm",
+        "Capacity (MW)": 17.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7553,
+          18.4915
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Maranatha Santo Domingo Este solar farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0389,
+          18.3878
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Dominican Republic",
+        "Plant / Project name": "Parque Industrial ITABO solar farm",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

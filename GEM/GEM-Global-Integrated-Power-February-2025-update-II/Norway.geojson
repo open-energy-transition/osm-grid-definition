@@ -1,0 +1,3407 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3795,
+          60.9171
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Åbjøra hydroelectric plant",
+        "Capacity (MW)": 95.0,
+        "Status": "operating",
+        "Start year": 1951,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8185,
+          69.7049
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Alta hydroelectric plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4532,
+          58.2951
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Åna-Sira hydroelectric plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1542,
+          61.2766
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Årøy hydroelectric plant",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6617,
+          61.8118
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Åskåra hydroelectric plant",
+        "Capacity (MW)": 133.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5211,
+          62.6648
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Aura hydroelectric plant",
+        "Capacity (MW)": 283.0,
+        "Status": "operating",
+        "Start year": 1953,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3019,
+          60.8627
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Aurland 1 hydroelectric plant",
+        "Capacity (MW)": 840.0,
+        "Status": "operating",
+        "Start year": 1989,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3673,
+          60.8038
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Aurland 2 hydroelectric plant",
+        "Capacity (MW)": 143.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5666,
+          60.8009
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Aurland 3 hydroelectric plant",
+        "Capacity (MW)": 290.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5509,
+          60.8262
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Bagn hydroelectric plant",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4201,
+          60.4324
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Bjølvo hydroelectric plant",
+        "Capacity (MW)": 103.0,
+        "Status": "operating",
+        "Start year": 1918,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0727,
+          59.8753
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Blåfalli III hydroelectric plant",
+        "Capacity (MW)": 113.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9957,
+          59.844
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Blåfalli Vik hydroelectric plant",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0604,
+          59.2984
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Borgund hydroelectric plant",
+        "Capacity (MW)": 212.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4378,
+          63.3525
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Bratsberg hydroelectric plant",
+        "Capacity (MW)": 132.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0129,
+          62.8025
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Brattset hydroelectric plant",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5157,
+          59.1316
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Brokke hydroelectric plant",
+        "Capacity (MW)": 379.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8139,
+          60.5817
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Dale II hydroelectric plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8939,
+          62.6272
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Driva hydroelectric plant",
+        "Capacity (MW)": 144.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8922,
+          59.1289
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Duge hydroelectric plant",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1504,
+          61.2424
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Eiriksdal hydroelectric plant",
+        "Capacity (MW)": 81.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1188,
+          60.6622
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Evanger hydroelectric plant",
+        "Capacity (MW)": 330.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0398,
+          59.1869
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Finndøla hydroelectric plant",
+        "Capacity (MW)": 108.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4294,
+          59.0146
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Flørli hydroelectric plant",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1918,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7004,
+          61.5048
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Fortun hydroelectric plant",
+        "Capacity (MW)": 270.0,
+        "Status": "operating",
+        "Start year": 1959,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8813,
+          61.941
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Framruste hydroelectric plant",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7099,
+          62.9228
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Grana hydroelectric plant",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7761,
+          62.5007
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Grytten hydroelectric plant",
+        "Capacity (MW)": 144.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9184,
+          69.4605
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Guoláš hydroelectric plant",
+        "Capacity (MW)": 82.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8423,
+          61.5816
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Harpefossen hydroelectric plant",
+        "Capacity (MW)": 108.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "unknown",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9694,
+          60.7049
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Hemsil 2 hydroelectric plant",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1960,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7132,
+          59.6081
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Hjartdøla hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 1958,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1821,
+          60.6267
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Hol 1 hydroelectric plant",
+        "Capacity (MW)": 230.0,
+        "Status": "operating",
+        "Start year": 1949,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2483,
+          59.3465
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Holen I-II hydroelectric plant",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2483,
+          59.3465
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Holen III hydroelectric plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0636,
+          61.2186
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Høyanger K5A hydroelectric plant",
+        "Capacity (MW)": 93.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4391,
+          61.2198
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Hunderfossen hydroelectric plant",
+        "Capacity (MW)": 112.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.602,
+          59.5601
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Hylen hydroelectric plant",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8199,
+          68.6576
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Innset hydroelectric plant",
+        "Capacity (MW)": 91.0,
+        "Status": "operating",
+        "Start year": 1960,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3089,
+          61.5207
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Jostedal hydroelectric plant",
+        "Capacity (MW)": 290.0,
+        "Status": "operating",
+        "Start year": 1989,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.934,
+          59.947
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Kaggefoss hydroelectric plant",
+        "Capacity (MW)": 88.0,
+        "Status": "operating",
+        "Start year": 1951,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6153,
+          61.5176
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Kjosnesfjorden hydroelectric plant",
+        "Capacity (MW)": 84.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0071,
+          67.6215
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Kobbelv hydroelectric plant",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7969,
+          65.2091
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Kolsvik hydroelectric plant",
+        "Capacity (MW)": 128.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6544,
+          59.5283
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Kvilldal hydroelectric plant",
+        "Capacity (MW)": 1240.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0838,
+          58.9281
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Kvinen hydroelectric plant",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1013,
+          59.5797
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Kykkelsrud-Fossumfoss hydroelectric plant",
+        "Capacity (MW)": 230.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.142,
+          60.4997
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Lang Sima hydroelectric plant",
+        "Capacity (MW)": 580.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1667,
+          66.3369
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Langvatn hydroelectric plant",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2348,
+          61.437
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Leirdøla hydroelectric plant",
+        "Capacity (MW)": 115.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1208,
+          67.1208
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Lomi hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6181,
+          59.052
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Lysebotn I hydroelectric plant",
+        "Capacity (MW)": 228.0,
+        "Status": "operating",
+        "Start year": 1953,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6323,
+          59.0652
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Lysebotn II hydroelectric plant",
+        "Capacity (MW)": 370.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6765,
+          59.8843
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Mår hydroelectric plant",
+        "Capacity (MW)": 185.0,
+        "Status": "operating",
+        "Start year": 1948,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5969,
+          60.8701
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Matre Haugsdal hydroelectric plant",
+        "Capacity (MW)": 180.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5917,
+          60.8736
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Matre hydroelectric plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3376,
+          60.1275
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Mauranger hydroelectric plant",
+        "Capacity (MW)": 256.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7651,
+          63.4041
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Meråker hydroelectric plant",
+        "Capacity (MW)": 87.0,
+        "Status": "operating",
+        "Start year": 1994,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8069,
+          60.7385
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Myster hydroelectric plant",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6272,
+          61.1767
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Naddvik hydroelectric plant",
+        "Capacity (MW)": 112.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7032,
+          63.032
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Nea hydroelectric plant",
+        "Capacity (MW)": 222.0,
+        "Status": "operating",
+        "Start year": 1960,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3906,
+          61.7987
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Nedre Otta hydroelectric plant",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7738,
+          66.0522
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Nedre Røssåga hydroelectric plant",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 1955,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7928,
+          61.5645
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Nedre Vinstra hydroelectric plant",
+        "Capacity (MW)": 344.0,
+        "Status": "operating",
+        "Start year": 1953,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0698,
+          60.606
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Nes hydroelectric plant",
+        "Capacity (MW)": 260.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4939,
+          59.8694
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "New Vemork hydroelectric plant",
+        "Capacity (MW)": 204.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9593,
+          60.2671
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Nore 1 hydroelectric plant",
+        "Capacity (MW)": 206.0,
+        "Status": "operating",
+        "Start year": 1928,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.569,
+          60.1259
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Oksla hydroelectric plant",
+        "Capacity (MW)": 220.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5175,
+          61.2374
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Osa hydroelectric plant",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8006,
+          65.887
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Øvre Røssåga hydroelectric plant",
+        "Capacity (MW)": 159.0,
+        "Status": "operating",
+        "Start year": 1961,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3082,
+          61.4796
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Øvre Vinstra hydroelectric plant",
+        "Capacity (MW)": 140.0,
+        "Status": "operating",
+        "Start year": 1959,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0905,
+          61.9216
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Øyberget hydroelectric plant",
+        "Capacity (MW)": 104.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2705,
+          66.2949
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Rana hydroelectric plant",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3233,
+          60.0275
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Rånåsfoss III hydroelectric plant",
+        "Capacity (MW)": 81.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5683,
+          61.0208
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Refsdal hydroelectric plant",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1149,
+          61.8112
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Rendal 2 hydroelectric plant",
+        "Capacity (MW)": 114.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1219,
+          61.8124
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Rendalen 1 hydroelectric plant",
+        "Capacity (MW)": 92.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8187,
+          59.8185
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Røldal hydroelectric plant",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4094,
+          61.858
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Rosten hydroelectric plant",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5937,
+          59.8766
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Såheim hydroelectric plant",
+        "Capacity (MW)": 187.0,
+        "Status": "operating",
+        "Start year": 1915,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1299,
+          59.2764
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Sarp hydroelectric plant",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6924,
+          59.4791
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Saurdal hydroelectric plant",
+        "Capacity (MW)": 640.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7224,
+          67.323
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Siso hydroelectric plant",
+        "Capacity (MW)": 180.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3671,
+          58.5579
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Skjerka hydroelectric plant",
+        "Capacity (MW)": 104.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3658,
+          68.201
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Skjomen hydroelectric plant",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6682,
+          59.6185
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Skollenborg hydroelectric plant",
+        "Capacity (MW)": 97.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1546,
+          59.6369
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Solbergfoss 1 hydroelectric plant",
+        "Capacity (MW)": 111.0,
+        "Status": "operating",
+        "Start year": 1924,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1546,
+          59.6369
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Solbergfoss 2 hydroelectric plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0106,
+          58.7746
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Solhom hydroelectric plant",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.726,
+          59.7776
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Songa hydroelectric plant",
+        "Capacity (MW)": 136.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3797,
+          59.6398
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Sønnå Hoy hydroelectric plant",
+        "Capacity (MW)": 212.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9676,
+          58.3001
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Steinsfoss hydroelectric plant",
+        "Capacity (MW)": 115.0,
+        "Status": "operating",
+        "Start year": 1957,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9852,
+          60.9232
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Steinsland hydroelectric plant",
+        "Capacity (MW)": 170.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6433,
+          68.7408
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Straumsmo hydroelectric plant",
+        "Capacity (MW)": 130.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8188,
+          59.6492
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Suldal 1 hydroelectric plant",
+        "Capacity (MW)": 170.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8188,
+          59.6492
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Suldal 2 hydroelectric plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6345,
+          59.4976
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Sundsbarm hydroelectric plant",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.151,
+          66.9714
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Sundsfjord hydroelectric plant",
+        "Capacity (MW)": 102.0,
+        "Status": "operating",
+        "Start year": 1961,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9144,
+          66.7295
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Svartisen hydroelectric plant",
+        "Capacity (MW)": 720.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2979,
+          61.771
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Svelgen hydroelectric plant",
+        "Capacity (MW)": 140.0,
+        "Status": "operating",
+        "Start year": 1921,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2578,
+          59.5817
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Svelgfoss hydroelectric plant",
+        "Capacity (MW)": 92.0,
+        "Status": "operating",
+        "Start year": 1958,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1411,
+          60.5068
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Sy Sima hydroelectric plant",
+        "Capacity (MW)": 720.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4231,
+          62.2319
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Tafjord 4 hydroelectric plant",
+        "Capacity (MW)": 113.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5023,
+          62.1986
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Tafjord 5 hydroelectric plant",
+        "Capacity (MW)": 83.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6477,
+          59.0478
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Tjodan hydroelectric plant",
+        "Capacity (MW)": 113.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8178,
+          58.8813
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Tjørhom hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0387,
+          59.448
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Tokke hydroelectric plant",
+        "Capacity (MW)": 440.0,
+        "Status": "operating",
+        "Start year": 1961,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.717,
+          58.6593
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Tonstad hydroelectric plant",
+        "Capacity (MW)": 960.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0318,
+          61.0065
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Torpa hydroelectric plant",
+        "Capacity (MW)": 164.0,
+        "Status": "operating",
+        "Start year": 1989,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.019,
+          63.0024
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Trollheim hydroelectric plant",
+        "Capacity (MW)": 130.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8356,
+          64.7044
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Tunnsjødal hydroelectric plant",
+        "Capacity (MW)": 171.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8501,
+          61.297
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Tyin hydroelectric plant",
+        "Capacity (MW)": 390.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6421,
+          60.1298
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Tysso 2 hydroelectric plant",
+        "Capacity (MW)": 220.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4096,
+          60.5747
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Usta hydroelectric plant",
+        "Capacity (MW)": 186.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7032,
+          60.2546
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Uvdal 1 hydroelectric plant",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1706,
+          59.5418
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Vamma hydroelectric plant",
+        "Capacity (MW)": 344.0,
+        "Status": "operating",
+        "Start year": 1915,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8533,
+          59.6253
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Norway",
+        "Plant / Project name": "Vinje hydroelectric plant",
+        "Capacity (MW)": 309.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.59,
+          70.6854
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Norway",
+        "Plant / Project name": "Hammerfest Snohvit Terminal power station",
+        "Capacity (MW)": 229.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.037212,
+          60.808615
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Norway",
+        "Plant / Project name": "Mongstad power station",
+        "Capacity (MW)": 294.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6314,
+          63.8197
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Valsneset wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4134,
+          64.2172
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Skomakerfjellet wind farm",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7441,
+          58.6415
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Hog Jaeren wind farm",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7441,
+          58.6415
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Hog Jaeren wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0195,
+          62.0133
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Mehuken wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2332,
+          62.1528
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Okla wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8691,
+          68.5145
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Nygardsfjellet wind farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0974,
+          58.3828
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Svaheia wind farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1968,
+          62.6629
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Haram wind farm",
+        "Capacity (MW)": 34.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5942,
+          71.0123
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Havøygavlen wind farm",
+        "Capacity (MW)": 38.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2899,
+          70.9185
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Kjollefjord wind farm",
+        "Capacity (MW)": 39.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9117,
+          64.8983
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Ytre Vikna wind farm",
+        "Capacity (MW)": 39.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3698,
+          59.9242
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Midtfjellet wind farm",
+        "Capacity (MW)": 53.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3698,
+          59.9242
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Midtfjellet wind farm",
+        "Capacity (MW)": 58.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3698,
+          59.9242
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Midtfjellet wind farm",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9137,
+          63.4054
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Smola wind farm",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9137,
+          63.4054
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Smola wind farm",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0833,
+          70.7657
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Raggovidda wind farm",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0833,
+          70.7657
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Raggovidda wind farm",
+        "Capacity (MW)": 52.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5644,
+          59.3034
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Tysvaer wind farm",
+        "Capacity (MW)": 47.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2524,
+          68.7151
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Ånstadblåheia wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9607,
+          61.2504
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Lutelandet wind farm",
+        "Capacity (MW)": 51.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.719,
+          70.6679
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Hamnefjell wind farm",
+        "Capacity (MW)": 52.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1058,
+          70.1006
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Fakken wind farm",
+        "Capacity (MW)": 54.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7497,
+          59.4592
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Marker wind farm",
+        "Capacity (MW)": 54.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8039,
+          63.5252
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Hitra wind farm",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8039,
+          63.5252
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Hitra wind farm",
+        "Capacity (MW)": 94.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3767,
+          64.7584
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Hundhammerfjellet (Tronderenergi; Stw Munchen) wind farm",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3723,
+          64.2224
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Bessakerfjellet wind farm",
+        "Capacity (MW)": 58.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6524,
+          63.6907
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Froya wind farm",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6558,
+          58.1562
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Lista wind farm",
+        "Capacity (MW)": 71.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8659,
+          58.6493
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Buheii wind farm",
+        "Capacity (MW)": 79.8,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1959,
+          63.1298
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Stokkfjellet wind farm",
+        "Capacity (MW)": 88.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6576,
+          68.0394
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Sorfjord wind farm",
+        "Capacity (MW)": 99.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0856,
+          58.4351
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Egersund wind farm",
+        "Capacity (MW)": 112.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.134,
+          64.0112
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Kvenndalsfjellet wind farm",
+        "Capacity (MW)": 113.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0899,
+          64.0706
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Harbaksfjellet wind farm",
+        "Capacity (MW)": 126.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.502,
+          63.3611
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Geitfjellet wind farm",
+        "Capacity (MW)": 181.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0993,
+          61.6948
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Guleslettene wind farm",
+        "Capacity (MW)": 197.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3294,
+          64.1839
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Roan wind farm",
+        "Capacity (MW)": 256.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2019,
+          63.8902
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Storheia wind farm",
+        "Capacity (MW)": 288.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0094,
+          65.8503
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Norway",
+        "Plant / Project name": "Oyfjellet wind farm",
+        "Capacity (MW)": 400.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3744,
+          63.3441
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Norway",
+        "Plant / Project name": "Trondheim Trøndelag solar project",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

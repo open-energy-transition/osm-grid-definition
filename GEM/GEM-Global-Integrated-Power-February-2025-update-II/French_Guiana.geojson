@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0476,
+          5.063
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "French Guiana",
+        "Plant / Project name": "Petit Saut hydroelectric plant",
+        "Capacity (MW)": 116.0,
+        "Status": "operating",
+        "Start year": 1994,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3547903,
+          4.8951518
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "French Guiana",
+        "Plant / Project name": "Larivot Bioenergy power station",
+        "Capacity (MW)": 120.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": null,
+        "Fuel": "bioenergy: biodiesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.2763,
+          4.8652
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "French Guiana",
+        "Plant / Project name": "French Guiana solar project I",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3987,
+          4.9296
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "French Guiana",
+        "Plant / Project name": "French Guiana solar project II",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.995,
+          5.3842
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "French Guiana",
+        "Plant / Project name": "French Guiana solar project III",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6832,
+          5.1675
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "French Guiana",
+        "Plant / Project name": "Kourou Space Base solar farm",
+        "Capacity (MW)": 4.2,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3651,
+          4.8016
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "French Guiana",
+        "Plant / Project name": "Matoury solar farm",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5462,
+          5.5057
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "French Guiana",
+        "Plant / Project name": "Sable Blanc solar farm",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

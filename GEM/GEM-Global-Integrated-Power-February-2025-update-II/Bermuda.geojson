@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.79189,
+          32.30041
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bermuda",
+        "Plant / Project name": "North power station",
+        "Capacity (MW)": 56.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.6854,
+          32.3581
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bermuda",
+        "Plant / Project name": "Airport Finger solar farm",
+        "Capacity (MW)": 6.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

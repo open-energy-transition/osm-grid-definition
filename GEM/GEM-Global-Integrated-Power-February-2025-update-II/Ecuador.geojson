@@ -1,0 +1,1055 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3822,
+          -1.3981
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Agoyàn hydroelectric plant",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6839,
+          -0.1993
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Coca Codo Sinclair hydroelectric plant",
+        "Capacity (MW)": 1500.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9847,
+          -4.0456
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Delsitanisagua hydroelectric plant",
+        "Capacity (MW)": 180.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7551,
+          -0.9273
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Marcel Laniado hydroelectric plant",
+        "Capacity (MW)": 213.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6207,
+          -2.5964
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Mazàr hydroelectric plant",
+        "Capacity (MW)": 170.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5834,
+          -3.3166
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Minas San Francisco hydroelectric plant",
+        "Capacity (MW)": 276.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5102,
+          -2.5756
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Paute Molino hydroelectric plant",
+        "Capacity (MW)": 1075.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2705,
+          -1.4129
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "San Francisco hydroelectric plant (Ecuador)",
+        "Capacity (MW)": 230.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4484,
+          -2.5942
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Sopladora hydroelectric plant",
+        "Capacity (MW)": 487.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9698,
+          -0.3135
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Toachi-Alluriquin hydroelectric plant",
+        "Capacity (MW)": 204.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3437,
+          -2.4204
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Ingenio La Troncal power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4359,
+          -2.2085
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Ingenio San Carlos power station",
+        "Capacity (MW)": 43.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.641787,
+          -0.981065
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Central Jaramijó power station",
+        "Capacity (MW)": 149.3,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.725751,
+          -2.211055
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Durán power station",
+        "Capacity (MW)": 120.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.126258,
+          -0.528791
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Eden Yuturi power station",
+        "Capacity (MW)": 119.6,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: crude oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94804,
+          -2.052191
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Enrique Garcia thermal power station",
+        "Capacity (MW)": 102.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.860955,
+          -2.263989
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Esclusas II power station",
+        "Capacity (MW)": 250.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.687717,
+          0.926702
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Esmeraldas I Thermoelectric Power Plant",
+        "Capacity (MW)": 132.5,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.687717,
+          0.926702
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Esmeraldas II Thermoelectric Power Plant",
+        "Capacity (MW)": 100.2,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.682684,
+          0.929505
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Esmeraldas IV power station",
+        "Capacity (MW)": 150.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.954066,
+          -2.195811
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Gonzalo Zevallos power station",
+        "Capacity (MW)": 73.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.954066,
+          -2.195811
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Gonzalo Zevallos power station",
+        "Capacity (MW)": 73.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.451134,
+          -0.270816
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Guangopolo II power station",
+        "Capacity (MW)": 52.4,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.882865,
+          -2.23998
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Karpowership (Ecuador) Emre Bey",
+        "Capacity (MW)": 101.4,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.949389,
+          -2.052696
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Pascuales power station",
+        "Capacity (MW)": 135.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.759344,
+          -1.013365
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "San Juan de Manta power station",
+        "Capacity (MW)": 100.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.846375,
+          -2.242021
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Santa Elena II power station",
+        "Capacity (MW)": 90.1,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.879169,
+          -3.116985
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Termogas Machala 1 power station",
+        "Capacity (MW)": 65.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.879169,
+          -3.116985
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Termogas Machala 1 power station",
+        "Capacity (MW)": 65.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.909954,
+          -2.251483
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Trinitaria power station",
+        "Capacity (MW)": 133.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2592,
+          -4.001
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Villonaco wind farm",
+        "Capacity (MW)": 16.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3723,
+          -3.367
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Minas De Huascachaca wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3206,
+          -0.7444
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Cantón Santa Cruz solar project",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3029,
+          -4.1172
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Catamayo solar project I",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4174,
+          -3.92
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Catamayo solar project II",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7074,
+          0.9448
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Esmeraldas solar project",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4695,
+          -4.25
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Gonzanama solar farm",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4696,
+          -4.2502
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Gonzanama solar project",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.712,
+          -1.9082
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Guayas solar project",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9416,
+          0.4164
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Imbabura solar project",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2494,
+          -2.3432
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Juan Gómez Rendón (Progeso) Guayaquil solar project",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4179,
+          -3.9204
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Loja Energy solar farm",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8144,
+          -4.3869
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Macará solar project",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9416,
+          0.4165
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Paragachi solar farm",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1736,
+          0.4838
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Salinas y Tren de Salinas solar farm",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0201,
+          -3.5321
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "San Antonio (Ecuador) solar farm",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1735,
+          0.4838
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "San Miguel De Urcuquí solar project",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4256,
+          -0.5102
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "San Vicente solar project",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7121,
+          -1.9082
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Sansau-Wildtecsa solar farm",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0197,
+          -3.5338
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ecuador",
+        "Plant / Project name": "Santa Rosa solar project",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

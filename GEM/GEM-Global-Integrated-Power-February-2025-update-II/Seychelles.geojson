@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.466194,
+          -4.632329
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Seychelles",
+        "Plant / Project name": "Victoria C (Roche Caiman) power station",
+        "Capacity (MW)": 58.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "unknown",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4707,
+          -4.6253
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Seychelles",
+        "Plant / Project name": "Romainville solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,824 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2301,
+          42.6046
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Dubrovnik hydroelectric plant",
+        "Capacity (MW)": 252.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1614,
+          44.5083
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Bočac hydroelectric plant",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8028,
+          43.0134
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Čapljina hydroelectric plant",
+        "Capacity (MW)": 440.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7193,
+          43.5868
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Grabovica hydroelectric plant",
+        "Capacity (MW)": 114.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7323,
+          43.6924
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Jablanica hydroelectric plant",
+        "Capacity (MW)": 180.0,
+        "Status": "operating",
+        "Start year": 1955,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6759,
+          43.7467
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Rama hydroelectric plant",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8371,
+          43.4482
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Salakovac hydroelectric plant",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.497,
+          42.7337
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Trebinje I hydroelectric plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.289,
+          43.7614
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Višegrad hydroelectric plant",
+        "Capacity (MW)": 315.0,
+        "Status": "operating",
+        "Start year": 1989,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.511555,
+          43.172137
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Gacko Thermal Power Plant",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "supercritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.113865,
+          44.089633
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Kakanj Thermal Power Plant",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.113865,
+          44.089633
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Kakanj Thermal Power Plant",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.113865,
+          44.089633
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Kakanj Thermal Power Plant",
+        "Capacity (MW)": 230.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "unknown",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.606443,
+          44.52104
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Tuzla Thermal Power Plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.606443,
+          44.52104
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Tuzla Thermal Power Plant",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.606443,
+          44.52104
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Tuzla Thermal Power Plant",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.606443,
+          44.52104
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Tuzla Thermal Power Plant",
+        "Capacity (MW)": 230.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.967371,
+          44.682187
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Ugljevik power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "supercritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8626,
+          43.3436
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Podvelezje wind farm",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1452,
+          43.7509
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Jelovaca wind farm",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2328,
+          43.6142
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Mesihovina wind farm",
+        "Capacity (MW)": 51.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1302,
+          43.7825
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Ivovik wind farm",
+        "Capacity (MW)": 84.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3509,
+          43.3389
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Petjnik solar farm",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.397,
+          42.6385
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "City Of Trebinje solar project",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6806,
+          43.0768
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "City Of Čapljina solar project I",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6447,
+          43.1765
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "City Of Čapljina solar project II",
+        "Capacity (MW)": 5.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2789,
+          44.5694
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Federation Of Bosnia And Herzegovina solar project I",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7,
+          44.767
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Federation Of Bosnia And Herzegovina solar project II",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3249,
+          43.3811
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Federation Of Bosnia And Herzegovina solar project III",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5826,
+          43.1413
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Grad Ljubuški solar project I",
+        "Capacity (MW)": 6.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4439,
+          43.3282
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Grad Ljubuški solar project II",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6022,
+          43.196
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Grad Ljubuški solar project III",
+        "Capacity (MW)": 8.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7702,
+          43.2053
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Local Community Kruševo City Of Mostar solar project",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8241,
+          43.295
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Local Community Rodoč I City Of Mostar solar project",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2237,
+          43.2583
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Republika Srpska solar project I",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1574,
+          43.0918
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Republika Srpska solar project II",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2021,
+          43.2202
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Republika Srpska solar project III",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4978,
+          45.0598
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Republika Srpska solar project IV",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8808,
+          43.1461
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bosnia and Herzegovina",
+        "Plant / Project name": "Town Of Stolac solar project",
+        "Capacity (MW)": 4.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

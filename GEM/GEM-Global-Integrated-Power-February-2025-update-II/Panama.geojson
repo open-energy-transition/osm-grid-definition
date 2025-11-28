@@ -1,0 +1,971 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8844,
+          9.1771
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Panama",
+        "Plant / Project name": "Bayano hydroelectric plant",
+        "Capacity (MW)": 260.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5154,
+          9.2703
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Panama",
+        "Plant / Project name": "Changuinola 1 hydroelectric plant",
+        "Capacity (MW)": 221.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.298,
+          8.543
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Panama",
+        "Plant / Project name": "Estí hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2626,
+          8.679
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Panama",
+        "Plant / Project name": "Fortuna hydroelectric plant",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.909361,
+          9.337361
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Panama",
+        "Plant / Project name": "AES Colón power station",
+        "Capacity (MW)": 381.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.821886,
+          9.379612
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Panama",
+        "Plant / Project name": "Cativá power station",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.904951,
+          9.33313
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Panama",
+        "Plant / Project name": "Gatún power station",
+        "Capacity (MW)": 670.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.780809,
+          8.908849
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Panama",
+        "Plant / Project name": "Pan Am power station",
+        "Capacity (MW)": 149.4,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.822758,
+          9.374819
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Panama",
+        "Plant / Project name": "Termocolón power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "combined cycle",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3584,
+          8.4606
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Panama",
+        "Plant / Project name": "Penonomé wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3584,
+          8.4606
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Panama",
+        "Plant / Project name": "Penonomé wind farm",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3584,
+          8.4606
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Panama",
+        "Plant / Project name": "Penonomé wind farm",
+        "Capacity (MW)": 62.5,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3584,
+          8.4606
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Panama",
+        "Plant / Project name": "Penonomé wind farm",
+        "Capacity (MW)": 32.5,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3584,
+          8.4606
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Panama",
+        "Plant / Project name": "Penonomé wind farm",
+        "Capacity (MW)": 102.5,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3501,
+          8.6286
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Panama",
+        "Plant / Project name": "Toabré wind farm",
+        "Capacity (MW)": 66.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3501,
+          8.6286
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Panama",
+        "Plant / Project name": "Toabré wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3501,
+          8.6286
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Panama",
+        "Plant / Project name": "Toabré wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "construction",
+        "Start year": 2032,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8077,
+          8.4201
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Esperanza solar farm (Panama)",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8395,
+          8.4435
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Caoba (Panama) solar farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.581,
+          8.5306
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Cedro solar farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0476,
+          8.1659
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Daconan solar farm",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0476,
+          8.1659
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Daconan solar farm",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7108,
+          8.1849
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Divisa solar farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7123,
+          8.1822
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Don Félix solar farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.324,
+          7.876
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "El Espinal solar farm",
+        "Capacity (MW)": 8.5,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.988,
+          8.2511
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Estrella solar farm",
+        "Capacity (MW)": 8.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1194,
+          8.3813
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Farallón solar farm",
+        "Capacity (MW)": 9.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3508,
+          8.3633
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Ikako solar farm",
+        "Capacity (MW)": 10.2,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3476,
+          8.3691
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Ikako solar farm",
+        "Capacity (MW)": 10.2,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3459,
+          8.3765
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Ikako solar farm",
+        "Capacity (MW)": 10.2,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3459,
+          8.3765
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Ikako solar farm",
+        "Capacity (MW)": 10.2,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6708,
+          8.172
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Jagüito solar farm",
+        "Capacity (MW)": 13.1,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3403,
+          7.8865
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Los Ángeles solar farm",
+        "Capacity (MW)": 9.5,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1646,
+          7.6865
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Mayorca solar farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8749,
+          9.0163
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Mendoza solar farm",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7301,
+          8.1887
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Milton solar farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2458,
+          9.0718
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Pacora (Solpac Investment) solar farm",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5532,
+          8.2693
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Panasolar solar farm",
+        "Capacity (MW)": 5.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5532,
+          8.2693
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Panasolar solar farm",
+        "Capacity (MW)": 5.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.561,
+          8.042
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Paris solar farm (Panama)",
+        "Capacity (MW)": 8.5,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.553,
+          8.2689
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Pocrí solar farm",
+        "Capacity (MW)": 16.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3423,
+          8.4227
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Prudencia Hydro-Solar Plant",
+        "Capacity (MW)": 10.5,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5897,
+          7.9254
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Santiago solar farm",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5086,
+          8.067
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Sarigua solar farm",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8026,
+          8.4199
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Sol de David solar farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7228,
+          8.1904
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Panama",
+        "Plant / Project name": "Vista Alegre solar farm (Panama)",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

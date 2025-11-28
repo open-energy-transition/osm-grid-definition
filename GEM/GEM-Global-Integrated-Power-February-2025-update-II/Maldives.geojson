@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.538049,
+          4.20408
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Maldives",
+        "Plant / Project name": "Hulhumale power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

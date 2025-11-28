@@ -1,0 +1,236 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.085922,
+          42.676454
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kosovo",
+        "Plant / Project name": "Kosovo A power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.085922,
+          42.676454
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kosovo",
+        "Plant / Project name": "Kosovo A power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.085922,
+          42.676454
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kosovo",
+        "Plant / Project name": "Kosovo A power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.056002,
+          42.69312
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kosovo",
+        "Plant / Project name": "Kosovo B power station",
+        "Capacity (MW)": 340.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.056002,
+          42.69312
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kosovo",
+        "Plant / Project name": "Kosovo B power station",
+        "Capacity (MW)": 340.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6787,
+          42.6664
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Kosovo",
+        "Plant / Project name": "Kitka wind farm",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0189,
+          42.9751
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Kosovo",
+        "Plant / Project name": "Bajgora wind farm",
+        "Capacity (MW)": 103.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.381,
+          42.405
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kosovo",
+        "Plant / Project name": "Gjakova A solar project",
+        "Capacity (MW)": 4.4,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7026,
+          42.5535
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kosovo",
+        "Plant / Project name": "Kosovo solar project I",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3811,
+          42.4049
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kosovo",
+        "Plant / Project name": "Kosovo solar project II",
+        "Capacity (MW)": 5.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0764,
+          42.4935
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kosovo",
+        "Plant / Project name": "Kosovo solar project III",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

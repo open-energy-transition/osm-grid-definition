@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.735452,
+          -9.153596
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Timor-Leste",
+        "Plant / Project name": "Betano power station",
+        "Capacity (MW)": 136.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.690741,
+          -8.540388
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Timor-Leste",
+        "Plant / Project name": "Hera power station",
+        "Capacity (MW)": 119.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

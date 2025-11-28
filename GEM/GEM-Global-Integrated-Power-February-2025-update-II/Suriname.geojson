@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.9922,
+          4.9828
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Suriname",
+        "Plant / Project name": "Brokopondo hydroelectric plant",
+        "Capacity (MW)": 180.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.162192,
+          5.820761
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Suriname",
+        "Plant / Project name": "DPP2 Bemland power station",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.012,
+          5.8847
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Suriname",
+        "Plant / Project name": "Nickerie solar farm",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

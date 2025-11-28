@@ -1,0 +1,1391 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6729,
+          46.7668
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Amsteg hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 1923,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4214,
+          46.5902
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Barenburg hydroelectric plant",
+        "Capacity (MW)": 220.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5376,
+          46.4104
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Bavona hydroelectric plant",
+        "Capacity (MW)": 140.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9826,
+          46.335
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Biasca hydroelectric plant",
+        "Capacity (MW)": 324.0,
+        "Status": "operating",
+        "Start year": 1959,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2515,
+          46.183
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Bieudron hydroelectric plant",
+        "Capacity (MW)": 1260.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6264,
+          47.5599
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Birsfelden hydroelectric plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1955,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0076,
+          46.3336
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Bitsch hydroelectric plant",
+        "Capacity (MW)": 340.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5154,
+          46.3361
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Castasegna hydroelectric plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1959,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5953,
+          46.3536
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Cavergno hydroelectric plant",
+        "Capacity (MW)": 114.0,
+        "Status": "operating",
+        "Start year": 1955,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8129,
+          47.1941
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Etzelwerk Altendorf hydroelectric plant",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 1937,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4342,
+          46.5329
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Ferrera 1 hydroelectric plant",
+        "Capacity (MW)": 180.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3034,
+          46.0357
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Fionnay-Dixence hydroelectric plant",
+        "Capacity (MW)": 306.0,
+        "Status": "operating",
+        "Start year": 1957,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.308,
+          46.0304
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Fionnay-Mauvoisin hydroelectric plant",
+        "Capacity (MW)": 140.0,
+        "Status": "operating",
+        "Start year": 1958,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8491,
+          46.1942
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Gordola hydroelectric plant",
+        "Capacity (MW)": 133.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5853,
+          46.6674
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Göscheneralp hydroelectric plant",
+        "Capacity (MW)": 165.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3193,
+          46.5681
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Grimsel 2 hydroelectric plant",
+        "Capacity (MW)": 388.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3074,
+          46.6167
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Handeck I hydroelectric plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1928,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3066,
+          46.6165
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Handeck II E hydroelectric plant",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3036,
+          46.6147
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Handeck II hydroelectric plant",
+        "Capacity (MW)": 126.0,
+        "Status": "operating",
+        "Start year": 1950,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2775,
+          46.7151
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Hopflauenen Trift hydroelectric plant",
+        "Capacity (MW)": 85.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2389,
+          46.7011
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Innertkirchen-I E hydroelectric plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2389,
+          46.7011
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Innertkirchen-I hydroelectric plant",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": 1943,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0618,
+          46.1098
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "La Batiaz hydroelectric plant",
+        "Capacity (MW)": 170.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0122,
+          46.2148
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Lavey hydroelectric plant",
+        "Capacity (MW)": 93.0,
+        "Status": "operating",
+        "Start year": 1950,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9586,
+          46.062
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Le Chatelard hydroelectric plant",
+        "Capacity (MW)": 112.0,
+        "Status": "operating",
+        "Start year": 1923,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0125,
+          46.849
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Limmern hydroelectric plant",
+        "Capacity (MW)": 1000.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6591,
+          46.3758
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Löbbia Albigna hydroelectric plant",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 1959,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0492,
+          47.0564
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Löntsch hydroelectric plant",
+        "Capacity (MW)": 81.0,
+        "Status": "operating",
+        "Start year": 1908,
+        "Technology": "conventional and run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7443,
+          46.3197
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Lötschen hydroelectric plant",
+        "Capacity (MW)": 122.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4813,
+          46.9484
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Mapragg hydroelectric plant",
+        "Capacity (MW)": 280.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5627,
+          46.6644
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Mittelbünden hydroelectric plant",
+        "Capacity (MW)": 198.0,
+        "Status": "operating",
+        "Start year": 1910,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6201,
+          46.1529
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Mottec hydroelectric plant",
+        "Capacity (MW)": 89.0,
+        "Status": "operating",
+        "Start year": 1958,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8982,
+          46.0625
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Nant De Drance hydroelectric plant",
+        "Capacity (MW)": 900.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2515,
+          46.183
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Nendaz hydroelectric plant",
+        "Capacity (MW)": 392.0,
+        "Status": "operating",
+        "Start year": 1960,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9851,
+          46.8787
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Nestil-Tierfehd hydroelectric plant",
+        "Capacity (MW)": 131.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9288,
+          46.365
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Nuova Biaschina hydroelectric plant",
+        "Capacity (MW)": 141.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9491,
+          46.5397
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Olivone hydroelectric plant",
+        "Capacity (MW)": 102.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3337,
+          46.8046
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Pradella hydroelectric plant",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2093,
+          46.1574
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Riddes hydroelectric plant",
+        "Capacity (MW)": 258.0,
+        "Status": "operating",
+        "Start year": 1956,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.677,
+          46.5175
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Ritom Nuova hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5089,
+          46.445
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Robiei hydroelectric plant",
+        "Capacity (MW)": 192.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4182,
+          46.7659
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Rothenbrunnen hydroelectric plant",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 1958,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3157,
+          46.6778
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Safien hydroelectric plant",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 1957,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5383,
+          46.9776
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Sarelli hydroelectric plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7686,
+          46.6701
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Sedrun hydroelectric plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4666,
+          46.7031
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Sils hydroelectric plant",
+        "Capacity (MW)": 247.0,
+        "Status": "operating",
+        "Start year": 1961,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2126,
+          46.3404
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Soazza hydroelectric plant",
+        "Capacity (MW)": 83.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8572,
+          46.2302
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Stalden hydroelectric plant",
+        "Capacity (MW)": 185.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0469,
+          46.751
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Tavanasa hydroelectric plant",
+        "Capacity (MW)": 180.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.987,
+          46.8761
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Tierfehd Limmern hydroelectric plant",
+        "Capacity (MW)": 352.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7168,
+          46.1318
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Verbano 1 hydroelectric plant",
+        "Capacity (MW)": 119.0,
+        "Status": "operating",
+        "Start year": 1953,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0274,
+          46.1914
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Verbois hydroelectric plant",
+        "Capacity (MW)": 103.0,
+        "Status": "operating",
+        "Start year": 1943,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.036,
+          46.1332
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Vernayaz hydroelectric plant",
+        "Capacity (MW)": 107.0,
+        "Status": "operating",
+        "Start year": 1928,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9317,
+          46.4102
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Veytaux hydroelectric plant",
+        "Capacity (MW)": 420.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9317,
+          46.4102
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Veytaux II hydroelectric plant",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8976,
+          47.1384
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Wägital hydroelectric plant",
+        "Capacity (MW)": 108.0,
+        "Status": "operating",
+        "Start year": 1926,
+        "Technology": "conventional and pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2281,
+          47.552
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Beznau nuclear power plant",
+        "Capacity (MW)": 380.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2281,
+          47.552
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Beznau nuclear power plant",
+        "Capacity (MW)": 380.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.96801,
+          47.3656
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Goesgen nuclear power plant",
+        "Capacity (MW)": 1060.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1845,
+          47.6012
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Leibstadt nuclear power plant",
+        "Capacity (MW)": 1275.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "boiling water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.042353,
+          47.038673
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Cornaux power station",
+        "Capacity (MW)": 43.8,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: light fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.962048,
+          46.254209
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Monthey power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.017,
+          47.1785
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Mt Crosin wind farm",
+        "Capacity (MW)": 16.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.017,
+          47.1785
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Mt Crosin wind farm",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4691,
+          46.7969
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Sainte-Croix wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1291,
+          47.4103
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Switzerland",
+        "Plant / Project name": "Courgenay solar project",
+        "Capacity (MW)": 4.9,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5906,
+          1.6332
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Equatorial Guinea",
+        "Plant / Project name": "Djibloho hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.71928,
+          3.77327
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Equatorial Guinea",
+        "Plant / Project name": "Malabo Turbogas power plant",
+        "Capacity (MW)": 154.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "unknown",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

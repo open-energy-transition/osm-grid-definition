@@ -1,0 +1,7586 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5282,
+          44.6705
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Romania",
+        "Plant / Project name": "Iron Gate I hydroelectric plant",
+        "Capacity (MW)": 2306.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5648,
+          44.3042
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Romania",
+        "Plant / Project name": "Iron Gate II hydroelectric plant",
+        "Capacity (MW)": 591.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.118,
+          45.3522
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bradisor hydroelectric plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6279,
+          45.5879
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Romania",
+        "Plant / Project name": "Gilceag hydroelectric plant",
+        "Capacity (MW)": 149.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7682,
+          45.447
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Romania",
+        "Plant / Project name": "Lotru hydroelectric plant",
+        "Capacity (MW)": 509.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.059,
+          46.6679
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Romania",
+        "Plant / Project name": "Mariselu hydroelectric plant",
+        "Capacity (MW)": 215.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7213,
+          45.3391
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Romania",
+        "Plant / Project name": "Raul Mare hydroelectric plant",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2963,
+          45.4028
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Romania",
+        "Plant / Project name": "Ruieni hydroelectric plant",
+        "Capacity (MW)": 138.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1029,
+          46.9386
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Romania",
+        "Plant / Project name": "Stejaru hydroelectric plant",
+        "Capacity (MW)": 151.0,
+        "Status": "operating",
+        "Start year": 1960,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6094,
+          45.6892
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Romania",
+        "Plant / Project name": "Susag hydroelectric plant",
+        "Capacity (MW)": 149.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6306,
+          45.3666
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Romania",
+        "Plant / Project name": "Vidraru hydroelectric plant",
+        "Capacity (MW)": 219.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0598,
+          44.3205
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Romania",
+        "Plant / Project name": "Cernavodă nuclear power plant",
+        "Capacity (MW)": 706.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "pressurized heavy water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0586,
+          44.3218
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Romania",
+        "Plant / Project name": "Cernavodă nuclear power plant",
+        "Capacity (MW)": 705.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "pressurized heavy water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.328771,
+          46.222424
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Arad power station",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.00915,
+          44.88306
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brazi power station",
+        "Capacity (MW)": 105.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.00915,
+          44.88306
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brazi power station",
+        "Capacity (MW)": 105.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.00915,
+          44.88306
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brazi power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.00915,
+          44.88306
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brazi power station",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.06257,
+          44.44028
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bucharest Grozavesti power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.06257,
+          44.44028
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bucharest Grozavesti power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.10628,
+          44.3717
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bucharest Progresu power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.10628,
+          44.3717
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bucharest Progresu power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.10628,
+          44.3717
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bucharest Progresu power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.10628,
+          44.3717
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bucharest Progresu power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.979,
+          44.4233
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bucharest-Sud power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.979,
+          44.4233
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bucharest-Sud power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.18081,
+          44.43642
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bucharest-Titan power station",
+        "Capacity (MW)": 50.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.15565,
+          44.40582
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bucharest-Vest power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.15565,
+          44.40582
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bucharest-Vest power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.15565,
+          44.40582
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bucharest-Vest power station",
+        "Capacity (MW)": 186.3,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.297764,
+          45.039955
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Chimcomplex power station",
+        "Capacity (MW)": 108.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.85121,
+          44.37858
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "ClusterPower Craiova power station",
+        "Capacity (MW)": 200.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9814,
+          45.436
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Galati power station",
+        "Capacity (MW)": 105.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9814,
+          45.436
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Galati power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9814,
+          45.436
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Galati power station",
+        "Capacity (MW)": 105.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9814,
+          45.436
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Galati power station",
+        "Capacity (MW)": 105.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.287572,
+          45.039047
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Govora power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.287572,
+          45.039047
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Govora power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6073,
+          47.14977
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Iasi-1 power station",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1833,
+          46.4677
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Iernut power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1833,
+          46.4677
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Iernut power station",
+        "Capacity (MW)": 430.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.892868,
+          47.084677
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Oradea power station",
+        "Capacity (MW)": 45.5,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.60767,
+          44.1585
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Palas power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.60767,
+          44.1585
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Palas power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.99896,
+          44.880334
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Petrom Brazi power station",
+        "Capacity (MW)": 860.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.99896,
+          44.880334
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Petrom Brazi power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "combined cycle",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.651,
+          44.3431
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Petromidia Refinery power station",
+        "Capacity (MW)": 40.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.651,
+          44.3431
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Petromidia Refinery power station",
+        "Capacity (MW)": 40.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0862,
+          44.9474
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Romania",
+        "Plant / Project name": "Ploesti power station",
+        "Capacity (MW)": 61.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "steam turbine",
+        "Fuel": "industrial by-product: coke oven gas, fossil gas: natural gas, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.81076,
+          44.34294
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Romania",
+        "Plant / Project name": "Craiova II power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.81076,
+          44.34294
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Romania",
+        "Plant / Project name": "Craiova II power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.287572,
+          45.039047
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Romania",
+        "Plant / Project name": "Govora power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.287572,
+          45.039047
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Romania",
+        "Plant / Project name": "Govora power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.717157,
+          47.147296
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Romania",
+        "Plant / Project name": "Iasi-2 power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.261351,
+          45.366101
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Romania",
+        "Plant / Project name": "Paroseni power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.134754,
+          44.910633
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Romania",
+        "Plant / Project name": "Rovinari power station",
+        "Capacity (MW)": 330.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.134754,
+          44.910633
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Romania",
+        "Plant / Project name": "Rovinari power station",
+        "Capacity (MW)": 330.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.134754,
+          44.910633
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Romania",
+        "Plant / Project name": "Rovinari power station",
+        "Capacity (MW)": 330.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.407778,
+          44.669722
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Romania",
+        "Plant / Project name": "Turceni power station",
+        "Capacity (MW)": 330.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.407778,
+          44.669722
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Romania",
+        "Plant / Project name": "Turceni power station",
+        "Capacity (MW)": 330.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9323,
+          45.4111
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Romania",
+        "Plant / Project name": "Grebanu wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3246,
+          44.4909
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Romania",
+        "Plant / Project name": "Mireasa wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9549,
+          45.4215
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Romania",
+        "Plant / Project name": "Topliceni wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6202,
+          44.6202
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Romania",
+        "Plant / Project name": "Mihai Viteazu wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3294,
+          45.0757
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Romania",
+        "Plant / Project name": "Cerna wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9136,
+          46.4996
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Romania",
+        "Plant / Project name": "Vutcani wind farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.171,
+          44.3818
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Romania",
+        "Plant / Project name": "Silistea wind farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.222,
+          44.1118
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Romania",
+        "Plant / Project name": "Cobadin wind farm",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6831,
+          44.9147
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Romania",
+        "Plant / Project name": "Babadag wind farm",
+        "Capacity (MW)": 34.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8445,
+          45.0073
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Romania",
+        "Plant / Project name": "Sarichioi wind farm",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2823,
+          44.4072
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dorobantu wind farm",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6709,
+          45.2676
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Romania",
+        "Plant / Project name": "Gemenele wind farm",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7854,
+          45.8011
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Romania",
+        "Plant / Project name": "Baleni wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7601,
+          44.5454
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Romania",
+        "Plant / Project name": "Facaeni wind farm",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7601,
+          44.5454
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Romania",
+        "Plant / Project name": "Facaeni wind farm",
+        "Capacity (MW)": 72.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8558,
+          45.0251
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Romania",
+        "Plant / Project name": "Salbatica wind farm",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9607,
+          45.0451
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Romania",
+        "Plant / Project name": "Valea Nucarilor wind farm",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1681,
+          43.8904
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Romania",
+        "Plant / Project name": "Chirnogeni wind farm",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3318,
+          44.914
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Romania",
+        "Plant / Project name": "Topolog-Dorobanţu wind farm",
+        "Capacity (MW)": 84.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.567,
+          44.6091
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Romania",
+        "Plant / Project name": "Fântânele wind farm",
+        "Capacity (MW)": 85.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.567,
+          44.6091
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Romania",
+        "Plant / Project name": "Fântânele wind farm",
+        "Capacity (MW)": 262.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.316,
+          44.5221
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Romania",
+        "Plant / Project name": "Pantelimon wind farm",
+        "Capacity (MW)": 123.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.567,
+          44.6091
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Romania",
+        "Plant / Project name": "Fântânele – Cogealac wind farm",
+        "Capacity (MW)": 252.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4376,
+          46.2025
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Horia solar farm",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7689,
+          43.9866
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Izvoarele solar farm",
+        "Capacity (MW)": 43.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.054,
+          47.868
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Livada solar farm",
+        "Capacity (MW)": 56.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.743,
+          45.895
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Miercurea Sibiului solar farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.888,
+          43.876
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Slobozia solar farm",
+        "Capacity (MW)": 38.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.693,
+          45.706
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Ucea De Sus solar farm",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3931,
+          44.0101
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Alexandria Teleorman solar project",
+        "Capacity (MW)": 11.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.284,
+          46.0712
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Arad solar project I",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6782,
+          46.0718
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Arad solar project II",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4405,
+          46.1012
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Arad solar project III",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.431,
+          46.1509
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Arad solar project IV",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3179,
+          46.2444
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Arad solar project V",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6536,
+          46.0825
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Arad solar project VI",
+        "Capacity (MW)": 5.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6125,
+          46.4242
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Arad solar project VII",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9429,
+          44.8295
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Argeș solar project I",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8862,
+          44.9466
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Argeș solar project II",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8288,
+          44.6212
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Argeș solar project III",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9079,
+          44.856
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Argeș solar project IV",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2094,
+          44.7665
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Argeș solar project V",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8645,
+          46.2434
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bacău solar project",
+        "Capacity (MW)": 5.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.137,
+          44.362
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Balcesti solar project",
+        "Capacity (MW)": 4.8,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.148,
+          44.913
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Berceni I solar project",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.091,
+          44.936
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Berceni II solar project",
+        "Capacity (MW)": 9.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0666,
+          47.0497
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bihor solar project I",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8348,
+          46.9742
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bihor solar project II",
+        "Capacity (MW)": 5.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3874,
+          47.2255
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bihor solar project III",
+        "Capacity (MW)": 5.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8866,
+          46.9477
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bihor solar project IV",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8189,
+          46.9346
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bihor solar project IX",
+        "Capacity (MW)": 4.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8316,
+          47.0226
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bihor solar project V",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0493,
+          47.2192
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bihor solar project VI",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4844,
+          46.548
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bihor solar project VII",
+        "Capacity (MW)": 4.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4304,
+          47.3933
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bihor solar project VIII",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9091,
+          46.8335
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bihor solar project X",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8222,
+          47.1034
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bihor solar project XI",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8248,
+          46.9302
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bihor solar project XII",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2008,
+          47.1937
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bihor solar project XIII",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.601,
+          47.179
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bistrița-Năsăud solar project I",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3261,
+          47.2383
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bistrița-Năsăud solar project II",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3305,
+          46.7718
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bistrița-Năsăud solar project III",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7042,
+          47.7437
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Botoșani solar project",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.91,
+          44.819
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bradu solar project",
+        "Capacity (MW)": 6.1,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7174,
+          45.6958
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brașov solar project I",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7005,
+          45.6878
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brașov solar project II",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7049,
+          45.7601
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brașov solar project III",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3152,
+          45.9746
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brașov solar project IV",
+        "Capacity (MW)": 7.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5783,
+          45.7583
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brașov solar project IX",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5815,
+          45.7978
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brașov solar project V",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3086,
+          45.9802
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brașov solar project VI",
+        "Capacity (MW)": 4.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4364,
+          45.6048
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brașov solar project VII",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5715,
+          45.7576
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brașov solar project VIII",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4782,
+          45.7798
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brașov solar project X",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4984,
+          44.8044
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brăila solar project I",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9368,
+          45.1703
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brăila solar project II",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7967,
+          44.9056
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brăila solar project III",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1473,
+          45.216
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brăila solar project IV",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5936,
+          44.9082
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brăila solar project IX",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7898,
+          45.106
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brăila solar project V",
+        "Capacity (MW)": 3.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.478,
+          44.8151
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brăila solar project VI",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6449,
+          45.1217
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brăila solar project VII",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5069,
+          44.795
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brăila solar project VIII",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7845,
+          45.0841
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brăila solar project X",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8328,
+          45.3053
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Brăila solar project XI",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.153,
+          44.3352
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bucharest Ilfov solar project",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.62,
+          44.3616
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Bucşani solar project",
+        "Capacity (MW)": 18.5,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.88,
+          44.677
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Butimanu solar project",
+        "Capacity (MW)": 6.1,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7256,
+          45.083
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Buzău solar project I",
+        "Capacity (MW)": 4.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8854,
+          45.1172
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Buzău solar project II",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7258,
+          45.0755
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Buzău solar project III",
+        "Capacity (MW)": 4.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.771,
+          45.0622
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Buzău solar project IV",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3601,
+          44.0308
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Băilești Dolj solar project I",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3741,
+          44.0312
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Băilești Dolj solar project II",
+        "Capacity (MW)": 4.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3777,
+          44.107
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Caracal Olt solar project",
+        "Capacity (MW)": 7.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.378,
+          44.101
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Caracal solar project",
+        "Capacity (MW)": 7.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.783,
+          46.9358
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Cluj N solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.783,
+          46.881
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Cluj S solar project",
+        "Capacity (MW)": 6.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9639,
+          46.8325
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Cluj solar project I",
+        "Capacity (MW)": 5.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7936,
+          46.9682
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Cluj solar project II",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8152,
+          46.8455
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Cluj solar project III",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8025,
+          47.1284
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Cluj solar project IV",
+        "Capacity (MW)": 6.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0364,
+          46.8864
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Cluj solar project V",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.945,
+          46.6473
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Cluj solar project VI",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4437,
+          45.6812
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Codlea Brașov solar project",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.238,
+          44.255
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Colibași II solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.238,
+          44.255
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Colibași solar project",
+        "Capacity (MW)": 6.5,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6501,
+          44.3495
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Constanța solar project I",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5552,
+          44.2348
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Constanța solar project II",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2541,
+          44.4916
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Constanța solar project III",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.487,
+          44.623
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Costestii din Vale solar project",
+        "Capacity (MW)": 9.4,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8887,
+          45.8454
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Covasna solar project",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.536,
+          44.663
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Coșereni A solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.002,
+          46.271
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Cristuru Secuiesc solar project",
+        "Capacity (MW)": 9.3,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8459,
+          46.5472
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Câmpia Turzii Cluj solar project",
+        "Capacity (MW)": 5.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6444,
+          44.4501
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Călărași solar project I",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4589,
+          44.3201
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Călărași solar project II",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8838,
+          44.3184
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Călărași solar project III",
+        "Capacity (MW)": 9.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5444,
+          44.397
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Călărași solar project IV",
+        "Capacity (MW)": 5.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6174,
+          44.4163
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Călărași solar project V",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8716,
+          44.3362
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Călărași solar project VI",
+        "Capacity (MW)": 13.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3306,
+          44.2158
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Călărași solar project VII",
+        "Capacity (MW)": 6.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8578,
+          44.3357
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Călărași solar project VIII",
+        "Capacity (MW)": 6.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.144,
+          44.927
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Darvari solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8298,
+          47.144
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dej Cluj solar project I",
+        "Capacity (MW)": 4.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8003,
+          47.1416
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dej Cluj solar project II",
+        "Capacity (MW)": 5.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1997,
+          45.3954
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Deta A solar project",
+        "Capacity (MW)": 6.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.729,
+          47.749
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Doba solar project",
+        "Capacity (MW)": 5.9,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5243,
+          44.0437
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dolj solar project I",
+        "Capacity (MW)": 6.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6751,
+          44.2134
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dolj solar project II",
+        "Capacity (MW)": 5.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8744,
+          44.2096
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dolj solar project III",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.078,
+          43.8851
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dolj solar project IV",
+        "Capacity (MW)": 9.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0692,
+          44.1744
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dolj solar project IX",
+        "Capacity (MW)": 9.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0276,
+          44.1101
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dolj solar project V",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7948,
+          44.5226
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dolj solar project VI",
+        "Capacity (MW)": 5.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5216,
+          44.01
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dolj solar project VII",
+        "Capacity (MW)": 4.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6917,
+          44.5888
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dolj solar project VIII",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0544,
+          44.113
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dolj solar project X",
+        "Capacity (MW)": 4.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9845,
+          43.8525
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dolj solar project XI",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.175,
+          44.888
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dumbrava solar project",
+        "Capacity (MW)": 6.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7295,
+          44.6627
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dâmbovița solar project I",
+        "Capacity (MW)": 3.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3952,
+          44.9866
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dâmbovița solar project II",
+        "Capacity (MW)": 4.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7958,
+          44.5386
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dâmbovița solar project III",
+        "Capacity (MW)": 4.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.598,
+          44.6251
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dâmbovița solar project IV",
+        "Capacity (MW)": 4.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.847,
+          44.5882
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dâmbovița solar project IX",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2465,
+          44.5985
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dâmbovița solar project V",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9084,
+          44.5993
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dâmbovița solar project VI",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8488,
+          44.6737
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dâmbovița solar project VII",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8787,
+          44.5608
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dâmbovița solar project VIII",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2283,
+          44.7329
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dâmbovița solar project X",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8618,
+          44.5626
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dâmbovița solar project XI",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5558,
+          44.7904
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dâmbovița solar project XII",
+        "Capacity (MW)": 3.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8568,
+          44.563
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dâmbovița solar project XIII",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5119,
+          44.6978
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dâmbovița solar project XIV",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3037,
+          44.5917
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dâmbovița solar project XV",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8574,
+          44.6109
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dâmbovița solar project XVI",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.887,
+          44.5761
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Dâmbovița solar project XVII",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.82,
+          44.897
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Fierbinti solar project",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6325,
+          44.445
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Fundulea solar project",
+        "Capacity (MW)": 7.4,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6406,
+          43.9043
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Giurgiu solar project I",
+        "Capacity (MW)": 10.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8316,
+          43.9592
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Giurgiu solar project II",
+        "Capacity (MW)": 6.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9735,
+          43.9348
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Giurgiu solar project III",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8264,
+          43.8268
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Giurgiu solar project IV",
+        "Capacity (MW)": 4.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8059,
+          44.0581
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Giurgiu solar project IX",
+        "Capacity (MW)": 6.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8662,
+          44.2443
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Giurgiu solar project V",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8453,
+          43.8445
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Giurgiu solar project VI",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0026,
+          44.1268
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Giurgiu solar project VII",
+        "Capacity (MW)": 3.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2465,
+          44.2585
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Giurgiu solar project VIII",
+        "Capacity (MW)": 8.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7965,
+          44.472
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Giurgiu solar project X",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6147,
+          44.3426
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Giurgiu solar project XI",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8272,
+          44.4733
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Giurgiu solar project XII",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5125,
+          44.6475
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Gorj solar project I",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1544,
+          45.0799
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Gorj solar project II",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5386,
+          45.0004
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Gorj solar project III",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3086,
+          44.9913
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Gorj solar project IV",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4478,
+          46.3471
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Harghita solar project",
+        "Capacity (MW)": 3.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.493,
+          44.7294
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Ialomița solar project",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2577,
+          44.5264
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Ilfov solar project I",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9486,
+          44.4472
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Ilfov solar project II",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1542,
+          44.286
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Ilfov solar project III",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4828,
+          45.2494
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Isaccea solar project",
+        "Capacity (MW)": 8.8,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.35,
+          47.031
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Lechința solar project",
+        "Capacity (MW)": 5.1,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.819,
+          44.479
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Lehliu 3 solar project",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2084,
+          47.486
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Maramureș solar project I",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5101,
+          47.5903
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Maramureș solar project II",
+        "Capacity (MW)": 4.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.183,
+          44.056
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Mavrodin solar project",
+        "Capacity (MW)": 5.5,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.672,
+          45.395
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Maxineni solar project",
+        "Capacity (MW)": 4.8,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8961,
+          44.2252
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Mehedinți solar project I",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.839,
+          44.4074
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Mehedinți solar project II",
+        "Capacity (MW)": 7.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8441,
+          44.4038
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Mehedinți solar project III",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9211,
+          44.2414
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Mehedinți solar project IV",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5825,
+          44.4104
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Mehedinți solar project V",
+        "Capacity (MW)": 7.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.427,
+          44.158
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Modelu solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4094,
+          46.4726
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Mureș solar project I",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6698,
+          46.3887
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Mureș solar project II",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8752,
+          46.4491
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Mureș solar project III",
+        "Capacity (MW)": 3.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7677,
+          46.8318
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Mureș solar project IV",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7099,
+          46.6081
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Mureș solar project IX",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3742,
+          46.7024
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Mureș solar project V",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5153,
+          46.5408
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Mureș solar project VI",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3834,
+          46.4688
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Mureș solar project VII",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8052,
+          46.5921
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Mureș solar project VIII",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9273,
+          46.4962
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Mureș solar project X",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4823,
+          43.8212
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Olt solar project I",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2445,
+          43.7668
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Olt solar project II",
+        "Capacity (MW)": 12.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2955,
+          44.0758
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Olt solar project III",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2505,
+          44.0515
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Olt solar project IV",
+        "Capacity (MW)": 4.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3202,
+          44.4665
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Olt solar project IX",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3427,
+          44.2714
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Olt solar project V",
+        "Capacity (MW)": 8.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1817,
+          44.3601
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Olt solar project VI",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5636,
+          44.5616
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Olt solar project VII",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3198,
+          44.471
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Olt solar project VIII",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6992,
+          44.4461
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Olt solar project X",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.432,
+          44.5495
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Olt solar project XI",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.323,
+          44.3518
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Olt solar project XII",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8463,
+          46.2489
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Onești Bacău solar project",
+        "Capacity (MW)": 14.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0693,
+          44.9469
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Ploiesti solar project",
+        "Capacity (MW)": 7.8,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6843,
+          44.2197
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Podari solar project",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9178,
+          44.9602
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Prahova solar project I",
+        "Capacity (MW)": 7.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8872,
+          44.9641
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Prahova solar project II",
+        "Capacity (MW)": 7.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.916,
+          44.9545
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Prahova solar project III",
+        "Capacity (MW)": 3.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2443,
+          44.9857
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Prahova solar project IV",
+        "Capacity (MW)": 4.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0604,
+          45.1068
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Prahova solar project IX",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4805,
+          44.9837
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Prahova solar project V",
+        "Capacity (MW)": 6.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0693,
+          44.9044
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Prahova solar project VI",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.925,
+          44.968
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Prahova solar project VII",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2466,
+          44.983
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Prahova solar project VIII",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4113,
+          44.9838
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Prahova solar project X",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4349,
+          45.0084
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Prahova solar project XI",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1478,
+          44.9175
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Prahova solar project XII",
+        "Capacity (MW)": 4.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7535,
+          45.0163
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Prahova solar project XIII",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0745,
+          45.0773
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Prahova solar project XIV",
+        "Capacity (MW)": 7.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8999,
+          44.9613
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Prahova solar project XV",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3985,
+          44.7948
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Prahova solar project XVI",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4481,
+          44.9566
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Prahova solar project XVII",
+        "Capacity (MW)": 5.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0831,
+          45.078
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Prahova solar project XVIII",
+        "Capacity (MW)": 5.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.955,
+          44.963
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Păuleşti solar project",
+        "Capacity (MW)": 8.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7142,
+          46.7731
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Reghin Mureș solar project",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9495,
+          44.0026
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Roșiorii De Vede Teleorman solar project I",
+        "Capacity (MW)": 4.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9546,
+          44.0016
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Roșiorii De Vede Teleorman solar project II",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9788,
+          44.0877
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Roșiorii De Vede Teleorman solar project III",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9693,
+          44.0423
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Roșiorii De Vede Teleorman solar project IV",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6306,
+          46.784
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Salonta Bihor solar project I",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6533,
+          46.8253
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Salonta Bihor solar project II",
+        "Capacity (MW)": 4.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1324,
+          47.7134
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Satu Mare solar project I",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1893,
+          47.6861
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Satu Mare solar project II",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5331,
+          45.9521
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Sebeș Alba solar project I",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5452,
+          46.0126
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Sebeș Alba solar project II",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.108,
+          46.428
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Sebis solar project",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7193,
+          45.8561
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Sfântu Gheorghe Covasna solar project",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9228,
+          45.7898
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Sibiu solar project I",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2633,
+          45.6822
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Sibiu solar project II",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4026,
+          45.8337
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Sibiu solar project III",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0602,
+          45.8348
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Sibiu solar project IV",
+        "Capacity (MW)": 3.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2247,
+          46.1129
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Sibiu solar project V",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5503,
+          46.2242
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Sibiu solar project VI",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0645,
+          45.8577
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Sibiu solar project VII",
+        "Capacity (MW)": 3.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3987,
+          44.4316
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Slatina Olt solar project",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3498,
+          44.5806
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Slobozia Ialomița solar project",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.87,
+          43.903
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Stanesti solar project",
+        "Capacity (MW)": 6.8,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9735,
+          47.1859
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Sălaj solar project",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5525,
+          44.2956
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Teleorman solar project I",
+        "Capacity (MW)": 4.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2221,
+          44.2694
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Teleorman solar project II",
+        "Capacity (MW)": 4.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5697,
+          44.0887
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Teleorman solar project III",
+        "Capacity (MW)": 7.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6634,
+          46.0621
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Timiș solar project I",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5137,
+          45.6655
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Timiș solar project II",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6624,
+          45.8175
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Timiș solar project III",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2057,
+          45.3974
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Timiș solar project IV",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7182,
+          45.7696
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Timiș solar project IX",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4517,
+          45.8147
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Timiș solar project V",
+        "Capacity (MW)": 5.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1259,
+          45.8498
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Timiș solar project VI",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9367,
+          45.5732
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Timiș solar project VII",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7172,
+          45.6862
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Timiș solar project VIII",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6134,
+          45.6724
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Timiș solar project X",
+        "Capacity (MW)": 3.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.716,
+          45.7666
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Timiș solar project XI",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7487,
+          45.6222
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Timiș solar project XII",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4875,
+          45.8766
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Timiș solar project XIII",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0596,
+          45.7416
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Timiș solar project XIV",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0382,
+          45.9026
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Timiș solar project XIX",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7545,
+          45.6192
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Timiș solar project XV",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1786,
+          45.8246
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Timiș solar project XVI",
+        "Capacity (MW)": 4.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8068,
+          45.6761
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Timiș solar project XVII",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0476,
+          45.709
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Timiș solar project XVIII",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4511,
+          45.6844
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Timiș solar project XX",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7099,
+          44.9001
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Tulcea solar project I",
+        "Capacity (MW)": 4.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1546,
+          45.2399
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Tulcea solar project II",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8428,
+          46.5526
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Turda Cluj solar project",
+        "Capacity (MW)": 8.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9212,
+          43.7803
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Turnu Măgurele Teleorman solar project",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.539,
+          44.933
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Târgu Cărbuneşti solar project",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.716,
+          45.752
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Ucea de Sus E solar project",
+        "Capacity (MW)": 6.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.596,
+          44.714
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Urziceni solar project",
+        "Capacity (MW)": 19.6,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.794,
+          43.878
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Vieru solar project",
+        "Capacity (MW)": 7.2,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2034,
+          45.5058
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Vrancea solar project I",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1629,
+          45.9779
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Vrancea solar project II",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1978,
+          45.9192
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Vrancea solar project III",
+        "Capacity (MW)": 5.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9873,
+          45.1393
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Vâlcea solar project I",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1701,
+          44.9372
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Vâlcea solar project II",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2566,
+          44.7541
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Vâlcea solar project III",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2562,
+          44.7224
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Vâlcea solar project IV",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0132,
+          44.7782
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Vâlcea solar project V",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.859,
+          44.357
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Romania",
+        "Plant / Project name": "Şimnicu de Sus solar project",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

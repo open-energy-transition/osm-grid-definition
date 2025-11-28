@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9079,
+          -26.1766
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Eswatini",
+        "Plant / Project name": "Simunye Sugar Cogeneration power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9386,
+          -26.7756
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Eswatini",
+        "Plant / Project name": "Ubombo Sugar Mill power station",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7662,
+          -26.7353
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Eswatini",
+        "Plant / Project name": "Inkhundla Siphofaneni solar project",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7246,
+          -27.1138
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Eswatini",
+        "Plant / Project name": "Lavumisa solar farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3617,
+          -26.5012
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Eswatini",
+        "Plant / Project name": "Manzini Inkhundla Manzini solar project",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

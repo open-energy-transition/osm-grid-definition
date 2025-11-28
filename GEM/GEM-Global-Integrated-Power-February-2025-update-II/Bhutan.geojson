@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.563,
+          27.0585
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bhutan",
+        "Plant / Project name": "Chhukha hydroelectric plant",
+        "Capacity (MW)": 336.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9526,
+          26.9656
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bhutan",
+        "Plant / Project name": "Dagachhu hydroelectric plant",
+        "Capacity (MW)": 126.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4947,
+          27.4801
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bhutan",
+        "Plant / Project name": "Mangdechhu hydroelectric plant",
+        "Capacity (MW)": 720.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5346,
+          27.7059
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bhutan",
+        "Plant / Project name": "Nikachhu hydroelectric plant",
+        "Capacity (MW)": 118.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9303,
+          27.3394
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bhutan",
+        "Plant / Project name": "Punatsangchhu I hydroelectric plant",
+        "Capacity (MW)": 1200.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9531,
+          27.3138
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bhutan",
+        "Plant / Project name": "Punatsangchhu II hydroelectric plant",
+        "Capacity (MW)": 1020.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5822,
+          26.8709
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bhutan",
+        "Plant / Project name": "Tala hydroelectric plant",
+        "Capacity (MW)": 1020.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

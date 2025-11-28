@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4021,
+          -7.2997
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "British Indian Ocean Territory",
+        "Plant / Project name": "British Indian Ocean Territory solar project",
+        "Capacity (MW)": 3.4,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

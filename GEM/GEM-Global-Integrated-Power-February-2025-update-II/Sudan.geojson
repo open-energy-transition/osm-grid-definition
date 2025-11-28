@@ -1,0 +1,593 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.0503,
+          18.6689
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Merowe Dam hydroelectric plant",
+        "Capacity (MW)": 1250.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3875,
+          11.7981
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Roseires Dam hydroelectric plant",
+        "Capacity (MW)": 280.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8969,
+          14.2767
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Rumela hydroelectric plant",
+        "Capacity (MW)": 320.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.9279,
+          13.0743
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Kenana power station",
+        "Capacity (MW)": 76.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4686,
+          14.0721
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Sudan",
+        "Plant / Project name": "White Nile Sugar Factory power station",
+        "Capacity (MW)": 31.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4686,
+          14.0721
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Sudan",
+        "Plant / Project name": "White Nile Sugar Factory power station",
+        "Capacity (MW)": 31.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.691961,
+          16.120165
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Garri 1 Power Plant",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil, fossil liquids: liquefied petroleum gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.691961,
+          16.120165
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Garri 1 Power Plant",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil, fossil liquids: liquefied petroleum gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.696871,
+          16.119496
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Garri 2 Power Plant",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil, fossil liquids: liquefied petroleum gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.696871,
+          16.119496
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Garri 2 Power Plant",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil, fossil liquids: liquefied petroleum gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.697406,
+          16.117383
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Garri 3 Power Plant",
+        "Capacity (MW)": 187.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: crude oil, fossil liquids: gasoline, fossil liquids: waste/other oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.697406,
+          16.117383
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Garri 3 Power Plant",
+        "Capacity (MW)": 187.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: crude oil, fossil liquids: gasoline, fossil liquids: waste/other oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.697406,
+          16.117383
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Garri 3 Power Plant",
+        "Capacity (MW)": 187.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: crude oil, fossil liquids: gasoline, fossil liquids: waste/other oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.701705,
+          16.117416
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Garri 4 Power Plant",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: petroleum coke",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.701705,
+          16.117416
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Garri 4 Power Plant",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: petroleum coke",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.823243,
+          13.208986
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Kosti power plant",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.823243,
+          13.208986
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Kosti power plant",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.823243,
+          13.208986
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Kosti power plant",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.823243,
+          13.208986
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Kosti power plant",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.56277,
+          15.651704
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Mahmoud Sharif power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1994,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.56277,
+          15.651704
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Mahmoud Sharif power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1994,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.56277,
+          15.651704
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Mahmoud Sharif power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.56277,
+          15.651704
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Mahmoud Sharif power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.217713,
+          19.626296
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Port Sudan power station",
+        "Capacity (MW)": 187.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.217713,
+          19.626296
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Port Sudan power station",
+        "Capacity (MW)": 187.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.217713,
+          19.626296
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Port Sudan power station",
+        "Capacity (MW)": 170.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: waste heat from natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2188,
+          11.4548
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Ad Da'Ein solar project",
+        "Capacity (MW)": 5.4,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.463,
+          13.6703
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Sudan",
+        "Plant / Project name": "Al Fasher solar project",
+        "Capacity (MW)": 5.6,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

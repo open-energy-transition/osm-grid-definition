@@ -1,0 +1,1013 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7472,
+          35.8852
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Syria",
+        "Plant / Project name": "Baath hydroelectric plant",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5667,
+          35.8722
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Syria",
+        "Plant / Project name": "Tabqa Dam hydroelectric plant",
+        "Capacity (MW)": 880.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1833,
+          36.3814
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Syria",
+        "Plant / Project name": "Tishrin Dam hydroelectric plant",
+        "Capacity (MW)": 630.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.661889,
+          34.959189
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Al-Zara power plant",
+        "Capacity (MW)": 220.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: crude oil, fossil liquids: liquefied petroleum gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.661889,
+          34.959189
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Al-Zara power plant",
+        "Capacity (MW)": 220.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.661889,
+          34.959189
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Al-Zara power plant",
+        "Capacity (MW)": 220.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.437828,
+          36.175527
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Aleppo power plant",
+        "Capacity (MW)": 213.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.437828,
+          36.175527
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Aleppo power plant",
+        "Capacity (MW)": 213.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.927567,
+          35.171559
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Banias power plant",
+        "Capacity (MW)": 138.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.927567,
+          35.171559
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Banias power plant",
+        "Capacity (MW)": 138.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.928151,
+          35.171223
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Banias Thermal power plant",
+        "Capacity (MW)": 170.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.928151,
+          35.171223
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Banias Thermal power plant",
+        "Capacity (MW)": 170.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.928151,
+          35.171223
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Banias Thermal power plant",
+        "Capacity (MW)": 170.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.928151,
+          35.171223
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Banias Thermal power plant",
+        "Capacity (MW)": 170.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.328777,
+          33.268416
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Deir Ali power station",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.328777,
+          33.268416
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Deir Ali power station",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.328777,
+          33.268416
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Deir Ali power station",
+        "Capacity (MW)": 750.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.783316,
+          34.465977
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Jandar Gas power plant",
+        "Capacity (MW)": 703.0,
+        "Status": "operating",
+        "Start year": 1995,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.783316,
+          34.465977
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Jandar Gas power plant",
+        "Capacity (MW)": 480.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.783316,
+          34.465977
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Jandar Gas power plant",
+        "Capacity (MW)": 450.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.584817,
+          35.263249
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Mehardeh power plant",
+        "Capacity (MW)": 165.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.584817,
+          35.263249
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Mehardeh power plant",
+        "Capacity (MW)": 165.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.584817,
+          35.263249
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Mehardeh power plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.584817,
+          35.263249
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Mehardeh power plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.682851,
+          33.801408
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Nasrieh Gas power plant",
+        "Capacity (MW)": 487.5,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.682851,
+          33.801408
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Nasrieh Gas power plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.682851,
+          33.801408
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Nasrieh Gas power plant",
+        "Capacity (MW)": 100.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.688722,
+          33.41945
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Teshreen power station",
+        "Capacity (MW)": 450.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.688722,
+          33.41945
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Teshreen power station",
+        "Capacity (MW)": 113.0,
+        "Status": "operating",
+        "Start year": 1995,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.688722,
+          33.41945
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Teshreen power station",
+        "Capacity (MW)": 113.0,
+        "Status": "operating",
+        "Start year": 1995,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.688722,
+          33.41945
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Teshreen power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1994,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.688722,
+          33.41945
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Teshreen power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1994,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.688722,
+          33.41945
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Teshreen power station",
+        "Capacity (MW)": 200.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.688722,
+          33.41945
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Syria",
+        "Plant / Project name": "Teshreen power station",
+        "Capacity (MW)": 200.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7891,
+          32.8498
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Syria",
+        "Plant / Project name": "Golan Regional Council solar project I",
+        "Capacity (MW)": 5.7,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.699,
+          33.0204
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Syria",
+        "Plant / Project name": "Golan Regional Council solar project II",
+        "Capacity (MW)": 4.9,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7643,
+          32.8187
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Syria",
+        "Plant / Project name": "Golan Regional Council solar project III",
+        "Capacity (MW)": 3.7,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7892,
+          33.1448
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Syria",
+        "Plant / Project name": "Golan Regional Council solar project IV",
+        "Capacity (MW)": 6.6,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7328,
+          33.1419
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Syria",
+        "Plant / Project name": "Golan Regional Council solar project V",
+        "Capacity (MW)": 8.6,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8041,
+          34.3756
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Syria",
+        "Plant / Project name": "Homs Governorate solar project",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.666,
+          36.0005
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Syria",
+        "Plant / Project name": "Idleb Governorate solar project I",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7419,
+          36.2015
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Syria",
+        "Plant / Project name": "Idleb Governorate solar project II",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2565,
+          33.3349
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Syria",
+        "Plant / Project name": "Rif Dimashq Governorate solar project",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.007,
+          34.7321
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Syria",
+        "Plant / Project name": "Tartus Governorate solar project I",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.117,
+          34.7841
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Syria",
+        "Plant / Project name": "Tartus Governorate solar project II",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0086,
+          34.7381
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Syria",
+        "Plant / Project name": "Tartus Governorate solar project III",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9,
+          34.92
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Syria",
+        "Plant / Project name": "Tartus solar project I",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9073,
+          34.886
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Syria",
+        "Plant / Project name": "Tartus solar project II",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

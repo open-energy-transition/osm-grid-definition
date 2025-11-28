@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.9327,
+          -0.5439
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Nauru",
+        "Plant / Project name": "Nauru solar farm",
+        "Capacity (MW)": 6.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7047,
+          -15.5859
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Mozambique",
+        "Plant / Project name": "Cahora Bassa hydroelectric plant",
+        "Capacity (MW)": 2075.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.003788,
+          -25.462061
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Mozambique",
+        "Plant / Project name": "Gigawatt Mozambique power station",
+        "Capacity (MW)": 117.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.135414,
+          -24.651334
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Mozambique",
+        "Plant / Project name": "Gigawatt Park power station",
+        "Capacity (MW)": 119.6,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.666173,
+          -14.554565
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Mozambique",
+        "Plant / Project name": "Karpowership (Mozambique) Mehmet Bey power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: LNG, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.530062,
+          -25.9393
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Mozambique",
+        "Plant / Project name": "Maputo power station",
+        "Capacity (MW)": 121.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.004496,
+          -25.462245
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Mozambique",
+        "Plant / Project name": "Ressano Garcia power plant",
+        "Capacity (MW)": 175.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.881,
+          -13.1299
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mozambique",
+        "Plant / Project name": "Metoro Substation solar farm",
+        "Capacity (MW)": 41.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0318,
+          -16.8231
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mozambique",
+        "Plant / Project name": "Mocuba solar farm",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6614,
+          -13.3069
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mozambique",
+        "Plant / Project name": "Balama Graphite Mine solar farm",
+        "Capacity (MW)": 11.3,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5062,
+          -14.662
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mozambique",
+        "Plant / Project name": "Cuamba solar farm",
+        "Capacity (MW)": 19.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

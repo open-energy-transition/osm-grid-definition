@@ -1,0 +1,3995 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4894,
+          -37.3646
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Chile",
+        "Plant / Project name": "Abanico hydroelectric plant (Chile)",
+        "Capacity (MW)": 136.0,
+        "Status": "operating",
+        "Start year": 1948,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1927,
+          -33.5012
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Chile",
+        "Plant / Project name": "Alfalfal hydroelectric plant",
+        "Capacity (MW)": 187.0,
+        "Status": "operating",
+        "Start year": 1991,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8169,
+          -37.7103
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Chile",
+        "Plant / Project name": "Angostura hydroelectric plant (Chile)",
+        "Capacity (MW)": 328.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6264,
+          -37.3103
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Chile",
+        "Plant / Project name": "Antuco hydroelectric plant",
+        "Capacity (MW)": 320.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3417,
+          -41.5281
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Chile",
+        "Plant / Project name": "Canutillar hydroelectric plant",
+        "Capacity (MW)": 172.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4523,
+          -34.2756
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Chile",
+        "Plant / Project name": "Chacayes hydroelectric plant",
+        "Capacity (MW)": 112.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8084,
+          -35.7872
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Chile",
+        "Plant / Project name": "Cipreses hydroelectric plant",
+        "Capacity (MW)": 106.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3699,
+          -35.6853
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Chile",
+        "Plant / Project name": "Colbún hydroelectric plant",
+        "Capacity (MW)": 474.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9428,
+          -35.8053
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Chile",
+        "Plant / Project name": "Curillinque hydroelectric plant",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4924,
+          -37.2934
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Chile",
+        "Plant / Project name": "El Toro hydroelectric plant",
+        "Capacity (MW)": 450.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5537,
+          -34.8335
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Chile",
+        "Plant / Project name": "La Confluencia hydroelectric plant",
+        "Capacity (MW)": 163.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7143,
+          -34.7515
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Chile",
+        "Plant / Project name": "La Higuera hydroelectric plant",
+        "Capacity (MW)": 155.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6293,
+          -35.9169
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Chile",
+        "Plant / Project name": "Los Cóndores hydroelectric plant",
+        "Capacity (MW)": 153.0,
+        "Status": "construction",
+        "Start year": 2023,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3976,
+          -35.7323
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Chile",
+        "Plant / Project name": "Machicura hydroelectric plant",
+        "Capacity (MW)": 95.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6087,
+          -37.9099
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Chile",
+        "Plant / Project name": "Pangue hydroelectric plant",
+        "Capacity (MW)": 467.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1555,
+          -35.7338
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Chile",
+        "Plant / Project name": "Pehuenche hydroelectric plant",
+        "Capacity (MW)": 570.0,
+        "Status": "operating",
+        "Start year": 1991,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5965,
+          -37.5404
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Chile",
+        "Plant / Project name": "Peuchén hydroelectric plant",
+        "Capacity (MW)": 85.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5199,
+          -37.9969
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Chile",
+        "Plant / Project name": "Ralco hydroelectric plant",
+        "Capacity (MW)": 690.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5902,
+          -34.0409
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Chile",
+        "Plant / Project name": "Rapel hydroelectric plant",
+        "Capacity (MW)": 377.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8657,
+          -37.3603
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Chile",
+        "Plant / Project name": "Rucúe hydroelectric plant",
+        "Capacity (MW)": 178.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6313,
+          -34.2526
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Chile",
+        "Plant / Project name": "Sauzal hydroelectric plant",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1948,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1515,
+          -21.8576
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Chile",
+        "Plant / Project name": "Cerro Pabellón geothermal power plant",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "binary cycle",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1515,
+          -21.8576
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Chile",
+        "Plant / Project name": "Cerro Pabellón geothermal power plant",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "binary cycle",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1515,
+          -21.8576
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Chile",
+        "Plant / Project name": "Cerro Pabellón geothermal power plant",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "binary cycle",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2275,
+          -37.2074
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Chile",
+        "Plant / Project name": "Arauco power station",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2275,
+          -37.2074
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Chile",
+        "Plant / Project name": "Arauco power station",
+        "Capacity (MW)": 64.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4183,
+          -35.3253
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Chile",
+        "Plant / Project name": "Celco Constitución power station",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0699,
+          -37.164
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Chile",
+        "Plant / Project name": "Cholguán-Trupán power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7122,
+          -37.2889
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Chile",
+        "Plant / Project name": "CMPC Laja power station",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": null,
+        "Fuel": "bioenergy: paper mill wastes",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7122,
+          -37.2889
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Chile",
+        "Plant / Project name": "CMPC Laja power station",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6544,
+          -37.513
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Chile",
+        "Plant / Project name": "CMPC Santa Fe power station",
+        "Capacity (MW)": 92.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": null,
+        "Fuel": "bioenergy: paper mill wastes",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2264,
+          -37.2117
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Chile",
+        "Plant / Project name": "MAPA power station",
+        "Capacity (MW)": 166.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": null,
+        "Fuel": "bioenergy: paper mill wastes, bioenergy: wood & other biomass (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4702,
+          -36.6604
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Chile",
+        "Plant / Project name": "Nueva Aldea power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4702,
+          -36.6604
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Chile",
+        "Plant / Project name": "Nueva Aldea power station",
+        "Capacity (MW)": 136.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": null,
+        "Fuel": "bioenergy: paper mill wastes",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9,
+          -39.5655
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Chile",
+        "Plant / Project name": "Valdivia power station",
+        "Capacity (MW)": 140.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids), bioenergy: paper mill wastes, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4148,
+          -35.3738
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Chile",
+        "Plant / Project name": "Viñales power station",
+        "Capacity (MW)": 41.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.185199,
+          -39.800668
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Antilhue power station",
+        "Capacity (MW)": 51.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.185199,
+          -39.800668
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Antilhue power station",
+        "Capacity (MW)": 51.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4168,
+          -23.0898
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Atacama power station",
+        "Capacity (MW)": 358.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4168,
+          -23.0898
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Atacama power station",
+        "Capacity (MW)": 358.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6138,
+          -34.0339
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Candelaria power station",
+        "Capacity (MW)": 127.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6138,
+          -34.0339
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Candelaria power station",
+        "Capacity (MW)": 127.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3854,
+          -27.487975
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Cardones power station",
+        "Capacity (MW)": 154.2,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.476667,
+          -31.935705
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Chagual power station",
+        "Capacity (MW)": 100.8,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.494412,
+          -32.927668
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Cogeneradora Aconcagua power station",
+        "Capacity (MW)": 77.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.473549,
+          -32.929976
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Colmito power station",
+        "Capacity (MW)": 58.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.22993,
+          -30.142199
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "El Peñón power station",
+        "Capacity (MW)": 81.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.339933,
+          -23.035092
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Kelar power station",
+        "Capacity (MW)": 517.4,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.450353,
+          -31.883341
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Los Espinos power station",
+        "Capacity (MW)": 128.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.291646,
+          -37.1019
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Los Guindos power station",
+        "Capacity (MW)": 139.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.291646,
+          -37.1019
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Los Guindos power station",
+        "Capacity (MW)": 132.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.324186,
+          -37.086073
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Los Pinos power station",
+        "Capacity (MW)": 108.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.01233,
+          -32.843488
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Los Vientos power station",
+        "Capacity (MW)": 132.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.91894,
+          -28.507668
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Maitencillo power station",
+        "Capacity (MW)": 68.4,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4103,
+          -23.0892
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Mejillones power station",
+        "Capacity (MW)": 245.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3231,
+          -32.9366
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Nehuenco power station",
+        "Capacity (MW)": 336.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3231,
+          -32.9366
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Nehuenco power station",
+        "Capacity (MW)": 411.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3231,
+          -32.9366
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Nehuenco power station",
+        "Capacity (MW)": 108.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.687,
+          -33.4184
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Nueva Renca power station",
+        "Capacity (MW)": 379.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.477466,
+          -31.941689
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Olivos power station",
+        "Capacity (MW)": 115.2,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.914304,
+          -29.113888
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Pajonales power station",
+        "Capacity (MW)": 100.8,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4858,
+          -32.7875
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Quintero power station",
+        "Capacity (MW)": 124.2,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4858,
+          -32.7875
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Quintero power station",
+        "Capacity (MW)": 124.2,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.68764,
+          -33.417935
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Renca power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.68764,
+          -33.417935
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Renca power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.315,
+          -32.936
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "San Isidro power station (Chile)",
+        "Capacity (MW)": 371.6,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.315,
+          -32.936
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "San Isidro power station (Chile)",
+        "Capacity (MW)": 380.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.316231,
+          -37.09249
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Santa Lidia power station",
+        "Capacity (MW)": 140.9,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.466,
+          -24.9888
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Taltal power station",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.466,
+          -24.9888
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Taltal power station",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.211759,
+          -22.096386
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Tocopilla power station",
+        "Capacity (MW)": 394.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.07745,
+          -41.517859
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Trapén power station",
+        "Capacity (MW)": 81.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.292882,
+          -37.106303
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Yungay power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.292882,
+          -37.106303
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Yungay power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.292882,
+          -37.106303
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chile",
+        "Plant / Project name": "Yungay power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.407472,
+          -23.087707
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Chile",
+        "Plant / Project name": "Andina-Hornitos power station",
+        "Capacity (MW)": 177.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "CFB",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.407472,
+          -23.087707
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Chile",
+        "Plant / Project name": "Andina-Hornitos power station",
+        "Capacity (MW)": 178.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "CFB",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.370119,
+          -23.066268
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Chile",
+        "Plant / Project name": "Angamos power station",
+        "Capacity (MW)": 277.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.370119,
+          -23.066268
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Chile",
+        "Plant / Project name": "Angamos power station",
+        "Capacity (MW)": 281.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.256541,
+          -28.465013
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Chile",
+        "Plant / Project name": "Guacolda power station",
+        "Capacity (MW)": 152.0,
+        "Status": "operating",
+        "Start year": 1995,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.256541,
+          -28.465013
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Chile",
+        "Plant / Project name": "Guacolda power station",
+        "Capacity (MW)": 152.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.256541,
+          -28.465013
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Chile",
+        "Plant / Project name": "Guacolda power station",
+        "Capacity (MW)": 152.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.256541,
+          -28.465013
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Chile",
+        "Plant / Project name": "Guacolda power station",
+        "Capacity (MW)": 152.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.256541,
+          -28.465013
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Chile",
+        "Plant / Project name": "Guacolda power station",
+        "Capacity (MW)": 152.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4103,
+          -23.0892
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Chile",
+        "Plant / Project name": "Mejillones power station",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4103,
+          -23.0892
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Chile",
+        "Plant / Project name": "Mejillones power station",
+        "Capacity (MW)": 174.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4103,
+          -23.0892
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Chile",
+        "Plant / Project name": "Mejillones power station",
+        "Capacity (MW)": 375.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1308,
+          -37.0421
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Chile",
+        "Plant / Project name": "Santa María power station",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4825,
+          -32.7512
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Chile",
+        "Plant / Project name": "Ventanas power station",
+        "Capacity (MW)": 272.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4825,
+          -32.7512
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Chile",
+        "Plant / Project name": "Ventanas power station",
+        "Capacity (MW)": 272.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4445,
+          -28.9274
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Cabo Leones wind farm",
+        "Capacity (MW)": 116.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4452,
+          -28.9768
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Cabo Leones wind farm",
+        "Capacity (MW)": 205.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6271,
+          -31.2362
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Punta Palmeras wind farm",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5283,
+          -37.6727
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "San Gabriel wind farm",
+        "Capacity (MW)": 183.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.627,
+          -37.6846
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Tolpan Sur wind farm",
+        "Capacity (MW)": 84.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4324,
+          -28.8471
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Sarco wind farm",
+        "Capacity (MW)": 170.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1589,
+          -41.2345
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Aurora wind farm (Chile)",
+        "Capacity (MW)": 129.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2239,
+          -38.0242
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Campo Lindo wind farm",
+        "Capacity (MW)": 73.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4714,
+          -37.5122
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Mesamavida wind farm",
+        "Capacity (MW)": 68.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9215,
+          -42.2748
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "San Pedro De Dalcahue wind farm",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9195,
+          -42.2817
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "San Pedro De Dalcahue wind farm",
+        "Capacity (MW)": 65.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5553,
+          -37.2704
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "El Maiten wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4205,
+          -37.5896
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "El Nogal wind farm (Chile)",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6181,
+          -34.043
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Ucuquer wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9009,
+          -24.9672
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Horizonte wind farm",
+        "Capacity (MW)": 816.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6153,
+          -31.2868
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Canela wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6153,
+          -31.2866
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Canela wind farm",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4975,
+          -37.526
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Los Buenos Aires wind farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5759,
+          -37.7245
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Renaico wind farm",
+        "Capacity (MW)": 88.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5734,
+          -30.8431
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Talinay Oriente wind farm",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8145,
+          -22.5265
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Valle De Los Vientos wind farm",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6538,
+          -31.0776
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Monte Redondo wind farm (Chile)",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6293,
+          -31.0708
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Monte Redondo wind farm (Chile)",
+        "Capacity (MW)": 38.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5411,
+          -37.6077
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "La Esperanza wind farm (Chile)",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4698,
+          -28.9002
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "San Juan wind farm",
+        "Capacity (MW)": 193.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6033,
+          -31.3484
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Totoral wind farm",
+        "Capacity (MW)": 46.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5936,
+          -22.1657
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Ckani wind farm",
+        "Capacity (MW)": 109.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4766,
+          -37.5129
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Cuel wind farm",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9741,
+          -23.7733
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Llanos Del Viento wind farm",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6062,
+          -34.1529
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "La Estrella wind farm (Chile)",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6299,
+          -31.1395
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Punta Sierra wind farm",
+        "Capacity (MW)": 82.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6995,
+          -30.5888
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "El Arrayan wind farm",
+        "Capacity (MW)": 115.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6069,
+          -37.6592
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "La Flor wind farm",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3735,
+          -37.5194
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Lomas De Duqueco wind farm",
+        "Capacity (MW)": 59.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2395,
+          -38.0325
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Malleco wind farm",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2395,
+          -38.0325
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Malleco wind farm",
+        "Capacity (MW)": 138.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5558,
+          -37.5975
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Negrete wind farm (Chile)",
+        "Capacity (MW)": 39.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0495,
+          -29.3677
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Punta Colorada wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5923,
+          -37.5404
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "El Arrebol wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.644,
+          -37.6793
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Lebu-Toro wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8537,
+          -22.4979
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Calama wind farm",
+        "Capacity (MW)": 151.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5773,
+          -37.7092
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Chile",
+        "Plant / Project name": "Vientos de Renaico wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.098,
+          -26.191
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Almeyda Solar Plant",
+        "Capacity (MW)": 62.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1715,
+          -27.119
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Amanecer Solar Cap Power Plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.585,
+          -24.0091
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Andes Solar Park",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.577,
+          -24.003
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Andes Solar Park",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.457,
+          -20.508
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Atacama Solar Project",
+        "Capacity (MW)": 170.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.822,
+          -22.487
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Azabache Photovoltaic Solar Park",
+        "Capacity (MW)": 77.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.4187,
+          -23.4939
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Bolero solar farm",
+        "Capacity (MW)": 146.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5963,
+          -22.3587
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "CEME solar farm",
+        "Capacity (MW)": 480.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.177,
+          -23.416
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Capricornio PV Solar Park",
+        "Capacity (MW)": 97.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.871,
+          -27.0045
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Carrera Pinto solar farm",
+        "Capacity (MW)": 97.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.4707,
+          -22.7917
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Cerro Dominador Solar Complex",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0801,
+          -26.375
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Chañares Solar Plant",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1683,
+          -25.5121
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Conejo solar farm",
+        "Capacity (MW)": 122.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5764,
+          -22.2225
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Coya PV Solar Project",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0779,
+          -26.3711
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Diego De Almagro Photovoltaic Solar Plant",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9596,
+          -26.5874
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Diego De Almagro Sur Solar Project",
+        "Capacity (MW)": 115.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9596,
+          -26.5874
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Diego De Almagro Sur Solar Project",
+        "Capacity (MW)": 115.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7813,
+          -33.128
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Don Humberto Solar Park",
+        "Capacity (MW)": 79.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.255,
+          -32.4787
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Doña Carmen PV solar farm",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7881,
+          -33.1074
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "El Manzano solar farm",
+        "Capacity (MW)": 99.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9113,
+          -29.1126
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "El Romero PV solar farm",
+        "Capacity (MW)": 246.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.522,
+          -22.342
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Finis Terrae Photovoltaic Solar Plant",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.898,
+          -29.142
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Huella solar farm",
+        "Capacity (MW)": 87.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.693,
+          -22.576
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Jama Solar Plant",
+        "Capacity (MW)": 57.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.216,
+          -26.303
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Javiera Solar Plant",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3131,
+          -25.1072
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Lalackama Solar Complex",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.9444,
+          -22.8484
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Las Salinas (Chile) solar farm",
+        "Capacity (MW)": 68.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.9444,
+          -22.8484
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Las Salinas (Chile) solar farm",
+        "Capacity (MW)": 68.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.9444,
+          -22.8484
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Las Salinas (Chile) solar farm",
+        "Capacity (MW)": 68.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1778,
+          -27.8527
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Los Loros PV Solar Park",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.894,
+          -27.025
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Luz Del Norte Solar Project",
+        "Capacity (MW)": 141.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.961,
+          -26.278
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Malgarida PV Solar Project",
+        "Capacity (MW)": 119.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.961,
+          -26.278
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Malgarida PV Solar Project",
+        "Capacity (MW)": 119.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1033,
+          -18.6029
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Maria José solar farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2022,
+          -29.4715
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "María Elena solar farm",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8158,
+          -23.4486
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Pampa Elvira Thermal solar farm",
+        "Capacity (MW)": 34.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Solar Thermal",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.166,
+          -25.511
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Pampa Norte PV Solar Plant",
+        "Capacity (MW)": 85.3,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.178,
+          -25.536
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Pampa Sur PV Solar Plant",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.637,
+          -33.1039
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Quilapilun Solar Plant",
+        "Capacity (MW)": 127.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.483,
+          -21.657
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Quillagua solar farm",
+        "Capacity (MW)": 95.1,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.483,
+          -21.657
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Quillagua solar farm",
+        "Capacity (MW)": 118.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.195,
+          -27.879
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Rio Escondido Solar Park",
+        "Capacity (MW)": 145.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.466,
+          -21.135
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "S4 Solar Power Plant",
+        "Capacity (MW)": 98.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8674,
+          -26.3106
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Salvador PV Solar Project",
+        "Capacity (MW)": 68.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7601,
+          -22.555
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "San Pedro Solar Photovoltaic Farm",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7701,
+          -22.5301
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "San Pedro Solar Photovoltaic Farm",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.597,
+          -22.053
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Santa Isabel solar farm (Chile)",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.862,
+          -33.094
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Santiago Solar Plant",
+        "Capacity (MW)": 115.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.9543,
+          -22.8601
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Sierra Gorda solar farm",
+        "Capacity (MW)": 205.4,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5485,
+          -22.2624
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Tocopilla solar farm",
+        "Capacity (MW)": 227.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.214,
+          -23.559
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Uribe Solar Power Plant",
+        "Capacity (MW)": 57.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8346,
+          -22.494
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Usya Photovoltaic Solar Plant",
+        "Capacity (MW)": 64.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.271,
+          -27.808
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Valle Escondido Solar PV Farm",
+        "Capacity (MW)": 105.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8214,
+          -22.4843
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Azabache Photovoltaic Solar Park",
+        "Capacity (MW)": 4.6,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4044,
+          -24.6273
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Observatorio Paranal solar farm",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4044,
+          -24.6273
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Observatorio Paranal solar farm",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1131,
+          -18.8869
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Pampa Camarones 1 solar farm",
+        "Capacity (MW)": 6.2,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2444,
+          -27.3764
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Chile",
+        "Plant / Project name": "Pucobre Mine solar farm",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

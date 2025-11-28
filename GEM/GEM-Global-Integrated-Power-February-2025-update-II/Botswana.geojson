@@ -1,0 +1,257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.037,
+          -22.5195
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Botswana",
+        "Plant / Project name": "Morupule A Power Station",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.037,
+          -22.5195
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Botswana",
+        "Plant / Project name": "Morupule A Power Station",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.037,
+          -22.5195
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Botswana",
+        "Plant / Project name": "Morupule A Power Station",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.037,
+          -22.5195
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Botswana",
+        "Plant / Project name": "Morupule A Power Station",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 1989,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.048833,
+          -22.522329
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Botswana",
+        "Plant / Project name": "Morupule B power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.048833,
+          -22.522329
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Botswana",
+        "Plant / Project name": "Morupule B power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.048833,
+          -22.522329
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Botswana",
+        "Plant / Project name": "Morupule B power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.048833,
+          -22.522329
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Botswana",
+        "Plant / Project name": "Morupule B power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8373,
+          -21.6786
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Botswana",
+        "Plant / Project name": "Central District solar project",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9688,
+          -24.5737
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Botswana",
+        "Plant / Project name": "Gaborone solar project",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9228,
+          -24.3052
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Botswana",
+        "Plant / Project name": "Kweneng District solar project",
+        "Capacity (MW)": 11.3,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8389,
+          -18.4013
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Botswana",
+        "Plant / Project name": "North-West District solar project",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

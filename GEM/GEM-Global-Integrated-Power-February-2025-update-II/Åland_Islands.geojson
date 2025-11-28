@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9543,
+          59.9589
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Åland Islands",
+        "Plant / Project name": "Båtskär wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5655,
+          60.1368
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Åland Islands",
+        "Plant / Project name": "Långnabba wind farm",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Offshore mount unknown",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

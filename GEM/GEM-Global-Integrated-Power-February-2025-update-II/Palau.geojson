@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5358,
+          7.4467
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Palau",
+        "Plant / Project name": "Ngatpang solar farm",
+        "Capacity (MW)": 15.3,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

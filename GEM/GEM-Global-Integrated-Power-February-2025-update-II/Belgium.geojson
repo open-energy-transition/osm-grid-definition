@@ -1,0 +1,5192 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8616,
+          50.3846
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Coo I hydroelectric plant",
+        "Capacity (MW)": 474.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8616,
+          50.3846
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Coo II hydroelectric plant",
+        "Capacity (MW)": 690.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3862,
+          50.1884
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Belgium",
+        "Plant / Project name": "La Plate Taille hydroelectric plant",
+        "Capacity (MW)": 144.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2597,
+          51.3254
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Doel nuclear power plant",
+        "Capacity (MW)": 454.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2597,
+          51.3254
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Doel nuclear power plant",
+        "Capacity (MW)": 454.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2597,
+          51.3254
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Doel nuclear power plant",
+        "Capacity (MW)": 1090.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2714,
+          50.5334
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Tihange nuclear power plant",
+        "Capacity (MW)": 1009.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2714,
+          50.5334
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Tihange nuclear power plant",
+        "Capacity (MW)": 1089.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5041,
+          49.5505
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Burgo Ardennes power station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": null,
+        "Fuel": "bioenergy: paper mill wastes, bioenergy: wood & other biomass (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.274,
+          51.2857
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Belgium",
+        "Plant / Project name": "SLECO Waste-to-Energy power station",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": null,
+        "Fuel": "bioenergy: wastewater and sewage sludge (solids or biogas), bioenergy: refuse (municipal and industrial wastes)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.734,
+          51.109
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Stora Langerbrugge power station",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": null,
+        "Fuel": "bioenergy: refuse (municipal and industrial wastes)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6446,
+          50.6816
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Uvelia power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": null,
+        "Fuel": "bioenergy: refuse (municipal and industrial wastes)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.04516,
+          50.93547
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Aalst Syral power station",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3955,
+          50.4304
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Amercoeur power station",
+        "Capacity (MW)": 451.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5837,
+          50.6177
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Angleur power station",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5837,
+          50.6177
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Angleur power station",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5837,
+          50.6177
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Angleur power station",
+        "Capacity (MW)": 64.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5837,
+          50.6177
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Angleur power station",
+        "Capacity (MW)": 64.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.418,
+          50.5851
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Awirs power station",
+        "Capacity (MW)": 875.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.853,
+          51.32613
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Beerse power station",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "ICCC",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.27025,
+          51.29091
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Beveren Ineos Phenolchemie power station",
+        "Capacity (MW)": 23.8,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas [90%], other: hydrogen (unknown) [10%]",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.299,
+          50.8023
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Drogenbos power station",
+        "Capacity (MW)": 460.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7364,
+          51.0596
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Ham (Gent) power station",
+        "Capacity (MW)": 43.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7364,
+          51.0596
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Ham (Gent) power station",
+        "Capacity (MW)": 58.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7364,
+          51.0596
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Ham (Gent) power station",
+        "Capacity (MW)": 58.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2112,
+          51.2629
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Herdersbrug power station",
+        "Capacity (MW)": 465.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.32567,
+          51.24125
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Inesco power station",
+        "Capacity (MW)": 138.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.212979,
+          50.923778
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Izegem power station",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 1995,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.66122,
+          50.44772
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Jemeppe-sur-Sambre power station",
+        "Capacity (MW)": 106.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.30402,
+          51.30953
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Lillo Degussa power station",
+        "Capacity (MW)": 42.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.30402,
+          51.30953
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Lillo Degussa power station",
+        "Capacity (MW)": 43.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4067,
+          50.4138
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Marcinelle Energie (Carsid) power station",
+        "Capacity (MW)": 413.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7257,
+          51.1049
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Ringvaart power station",
+        "Capacity (MW)": 385.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8248,
+          50.4719
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Saint-Ghislain power station",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.64195,
+          50.8827
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Sappi Lanaken power station",
+        "Capacity (MW)": 43.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "unknown",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.334,
+          51.254
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Scheldelaan Exxonmobil power station",
+        "Capacity (MW)": 140.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "unknown",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4917,
+          50.603
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Seraing power station",
+        "Capacity (MW)": 870.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4917,
+          50.603
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Seraing power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1994,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4917,
+          50.603
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Seraing power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1994,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4917,
+          50.603
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Seraing power station",
+        "Capacity (MW)": 170.0,
+        "Status": "operating",
+        "Start year": 1994,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1056,
+          51.0586
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "T-power Beringen power station",
+        "Capacity (MW)": 422.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.326202,
+          51.271661
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Wilmarsdonk Total power station",
+        "Capacity (MW)": 43.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.326202,
+          51.271661
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Wilmarsdonk Total power station",
+        "Capacity (MW)": 43.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.326202,
+          51.271661
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Wilmarsdonk Total power station",
+        "Capacity (MW)": 43.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.26419,
+          51.36895
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Zandvliet power station",
+        "Capacity (MW)": 386.2,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8068,
+          51.1587
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Zelzate 2 Knippegroen power station",
+        "Capacity (MW)": 315.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "steam turbine",
+        "Fuel": "industrial by-product: blast furnace gas, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3408,
+          51.2382
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Zwijndrecht Lanxess power station",
+        "Capacity (MW)": 58.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2227,
+          50.347
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Amel wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3795,
+          50.044
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Chimay wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3618,
+          50.0418
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Chimay wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7314,
+          50.4092
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Dour wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.241,
+          50.9834
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Lummen wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0138,
+          50.2964
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Salazine wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0861,
+          50.2913
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Sankt-Vith wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1702,
+          50.2096
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Sivry Rance wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8778,
+          50.536
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Warisoulx wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0906,
+          51.1045
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Meerhout wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7532,
+          50.6624
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Rebaix wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6845,
+          51.0961
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Rieme-Noord wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.37,
+          50.4684
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Tinlot wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5195,
+          50.8106
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Bilzen-Riemst wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9271,
+          50.5256
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Fernelmont 2 wind farm",
+        "Capacity (MW)": 11.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6488,
+          50.3701
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Mettet wind farm",
+        "Capacity (MW)": 11.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9535,
+          51.1228
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Geel West wind farm",
+        "Capacity (MW)": 11.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2131,
+          51.2631
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Bruges Pathoekeweg wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0522,
+          50.9502
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Diest-Bekkevoort wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9352,
+          50.1995
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Gouvy wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0471,
+          50.9468
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Halen-Diest wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2435,
+          51.2714
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Antwerpen Haven Linkeroever wind farm",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2435,
+          51.2714
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Antwerpen Haven Linkeroever wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2435,
+          51.2714
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Antwerpen Haven Linkeroever wind farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2375,
+          50.2376
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Beaumont wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3199,
+          50.394
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Bullingen wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9813,
+          50.2912
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Dinant Yvoir wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7311,
+          51.4732
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Hoogstraten wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.297,
+          51.3632
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Zandvliet Basf wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7979,
+          50.6122
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Perwez wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2056,
+          51.2552
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Brugge 3 wind farm",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2656,
+          50.4953
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Modave wind farm",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3651,
+          51.2718
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Antwerpen Haven Rechteroever wind farm",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4104,
+          51.2569
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Antwerpen Haven Rechteroever wind farm",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3998,
+          51.25
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Antwerpen Haven Rechteroever wind farm",
+        "Capacity (MW)": 27.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.685,
+          51.4016
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Hoogstraten - Wuustwezel wind farm",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8881,
+          51.1794
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Olen Umicore wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9134,
+          51.1484
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Olen-Geel wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0207,
+          49.9532
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Bièvre wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3866,
+          50.0469
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Feluy wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1262,
+          50.7048
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Gingelom (Engie) wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1656,
+          51.0723
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Tessenderlo wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1825,
+          50.297
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Ciney (ENECO) wind farm",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5926,
+          50.0273
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Saint Ode wind farm",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2014,
+          50.6869
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Berloz wind farm",
+        "Capacity (MW)": 16.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2227,
+          51.2401
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Beveren wind farm",
+        "Capacity (MW)": 16.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2706,
+          51.2141
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Lommel (Aspiravi) wind farm",
+        "Capacity (MW)": 16.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3459,
+          50.5445
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Pont-À-Celles (Eneco) wind farm",
+        "Capacity (MW)": 16.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.062,
+          51.2978
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Arendonk Oud-Turnhout wind farm",
+        "Capacity (MW)": 16.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7085,
+          50.4078
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Floreffe wind farm",
+        "Capacity (MW)": 16.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4889,
+          51.2168
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Maldegem wind farm",
+        "Capacity (MW)": 16.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8074,
+          51.1836
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Gent Haven – Arcelor Mittal wind farm",
+        "Capacity (MW)": 17.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8268,
+          51.1757
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Zelzate 3 wind farm",
+        "Capacity (MW)": 17.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.781,
+          50.0536
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Plateau De Bourcy wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4051,
+          50.5687
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Tournai wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3379,
+          50.6171
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Tournai wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9324,
+          50.6259
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Boneffe wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0459,
+          50.7186
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Greensky Lincent wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9553,
+          50.3805
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Quevy wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2383,
+          51.3075
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Zeebruges Cobelfret wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1205,
+          50.4172
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Gesves Ohey wind farm",
+        "Capacity (MW)": 19.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2857,
+          51.273
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Kallo KN wind farm",
+        "Capacity (MW)": 19.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8267,
+          50.3272
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Lierneux wind farm",
+        "Capacity (MW)": 19.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0551,
+          50.2829
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Ciney (EDF) wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6389,
+          50.5994
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Leuze-En-Hainaut wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.638,
+          50.5551
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Tourpes-Thumaide wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.494,
+          50.175
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Cerfontaine wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1056,
+          50.642
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Hannut wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5149,
+          50.5374
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Marbais wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6166,
+          51.3452
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Noorderkempen wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3294,
+          50.2158
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Froidchapelle wind farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7647,
+          51.1555
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Gent Kluizendok wind farm",
+        "Capacity (MW)": 28.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2134,
+          51.2611
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "ICO Terminal wind farm",
+        "Capacity (MW)": 44.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2871,
+          50.5983
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Villers 4 wind farm",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0744,
+          50.4138
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Estinnes wind farm",
+        "Capacity (MW)": 81.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8349,
+          51.6484
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Belwind Offshore Wind Project",
+        "Capacity (MW)": 165.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Offshore hard mount",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8349,
+          51.6484
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Nobelwind Offshore Wind Project",
+        "Capacity (MW)": 165.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Offshore hard mount",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.901,
+          51.619
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Northwind wind farm",
+        "Capacity (MW)": 216.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Offshore hard mount",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.757,
+          51.686
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "The Northwester 2 Offshore Wind Project",
+        "Capacity (MW)": 219.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Offshore hard mount",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0158,
+          51.5281
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Norther Offshore Wind Project",
+        "Capacity (MW)": 370.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Offshore hard mount",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.002,
+          50.3768
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Courrière wind farm",
+        "Capacity (MW)": 11.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8689,
+          50.5433
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Dhuy wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2638,
+          51.2061
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Lommel Kristalpark wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2638,
+          51.2061
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Lommel Kristalpark wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0661,
+          51.2948
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Retie wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7836,
+          51.1318
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Rodenhuize-Ghent wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5781,
+          50.0461
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Saint Ode (Aspiravi) wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9226,
+          51.1291
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Westerlo wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6988,
+          51.0977
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Wondelgem wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2691,
+          50.7697
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Estaimpuis wind farm",
+        "Capacity (MW)": 11.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3971,
+          51.2381
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Pelt wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4062,
+          50.5636
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Tournai-Antoing-Brunehaut wind farm",
+        "Capacity (MW)": 11.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4062,
+          50.5636
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Tournai-Antoing-Brunehaut wind farm",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2985,
+          51.2711
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Kateon Natie Rooftop solar farm",
+        "Capacity (MW)": 38.4,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.891,
+          51.1961
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Kristal solar farm",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8899,
+          50.5904
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Pairi Daiza Zoo solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8899,
+          50.5904
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Pairi Daiza Zoo solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0589,
+          50.9143
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Aalst solar project",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4144,
+          51.2394
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Antwerp solar project I",
+        "Capacity (MW)": 4.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3576,
+          51.0983
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Antwerp solar project II",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3554,
+          51.2451
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Antwerp solar project III",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5106,
+          51.2344
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Antwerp solar project IV",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3728,
+          51.1513
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Antwerp solar project V",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3547,
+          51.2869
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Antwerp solar project VI",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3427,
+          51.3201
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Antwerp solar project VII",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8185,
+          51.1805
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Arcelormittal solar farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7457,
+          49.6905
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Arlon solar project",
+        "Capacity (MW)": 3.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.857,
+          50.6992
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Ath solar project I",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7654,
+          50.6292
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Ath solar project II",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.224,
+          51.2951
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Bruges Brugge solar project",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3679,
+          50.8751
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Brussels Brussels-Capital solar project",
+        "Capacity (MW)": 5.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3952,
+          50.8932
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Brussels-Capital solar project I",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3427,
+          50.8976
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Brussels-Capital solar project II",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4102,
+          50.9054
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Brussels-Capital solar project III",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3077,
+          50.8047
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Brussels-Capital solar project IV",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3962,
+          50.4333
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Charleroi solar project I",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3951,
+          50.3907
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Charleroi solar project II",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0454,
+          51.0268
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Dendermonde solar project",
+        "Capacity (MW)": 4.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.147,
+          51.229
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Dessel solar project",
+        "Capacity (MW)": 7.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5499,
+          51.1816
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Eeklo solar project",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6976,
+          51.1529
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Gent solar project I",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.782,
+          51.1839
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Gent solar project II",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7698,
+          51.1859
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Gent solar project III",
+        "Capacity (MW)": 3.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7905,
+          51.1851
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Gent solar project IV",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7712,
+          51.1833
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Gent solar project V",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7548,
+          51.1536
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Gent solar project VI",
+        "Capacity (MW)": 9.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7732,
+          51.1123
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Ghent Gent solar project I",
+        "Capacity (MW)": 9.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7951,
+          51.1275
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Ghent Gent solar project II",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4451,
+          50.9027
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Halle-Vilvoorde solar project I",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4301,
+          50.9493
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Halle-Vilvoorde solar project II",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3284,
+          51.0442
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Hasselt solar project I",
+        "Capacity (MW)": 7.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4633,
+          50.9903
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Hasselt solar project II",
+        "Capacity (MW)": 3.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4733,
+          50.9797
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Hasselt solar project III",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2054,
+          50.8134
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Hasselt solar project IV",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2028,
+          50.8153
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Hasselt solar project V",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1972,
+          51.0679
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Hasselt solar project VI",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5056,
+          50.9371
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Hasselt solar project VII",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9311,
+          50.8937
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Ieper solar project",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.788,
+          51.189
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Klein Rusland A solar project",
+        "Capacity (MW)": 16.6,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3935,
+          50.9036
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Kortrijk solar project I",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4027,
+          50.8958
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Kortrijk solar project II",
+        "Capacity (MW)": 3.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.219,
+          50.8099
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Kortrijk solar project III",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4503,
+          50.8701
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Kortrijk solar project IV",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1718,
+          50.4889
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "La Louvière solar project",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0941,
+          51.0148
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Leuven solar project I",
+        "Capacity (MW)": 3.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7965,
+          50.9954
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Leuven solar project II",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6788,
+          50.7294
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Liège solar project I",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6785,
+          50.7264
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Liège solar project II",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.247,
+          51.2394
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Maaseik solar project I",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3671,
+          51.0146
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Maaseik solar project II",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6908,
+          51.0051
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Maaseik solar project III",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6944,
+          51.0431
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Maaseik solar project IV",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2495,
+          51.2039
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Maaseik solar project IX",
+        "Capacity (MW)": 5.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7047,
+          51.0108
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Maaseik solar project V",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3845,
+          51.232
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Maaseik solar project VI",
+        "Capacity (MW)": 6.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.27,
+          51.1976
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Maaseik solar project VII",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2638,
+          51.1947
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Maaseik solar project VIII",
+        "Capacity (MW)": 4.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2659,
+          51.2048
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Maaseik solar project X",
+        "Capacity (MW)": 15.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2472,
+          51.1962
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Maaseik solar project XI",
+        "Capacity (MW)": 14.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2557,
+          51.1959
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Maaseik solar project XII",
+        "Capacity (MW)": 3.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3524,
+          51.0747
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Mechelen solar project I",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.357,
+          51.0238
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Mechelen solar project II",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5354,
+          51.1195
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Mechelen solar project III",
+        "Capacity (MW)": 4.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3233,
+          51.0312
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Mechelen solar project IV",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3715,
+          51.0474
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Mechelen solar project V",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3396,
+          51.0531
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Mechelen solar project VI",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3715,
+          51.0632
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Mechelen solar project VII",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1656,
+          50.5472
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Moha solar project",
+        "Capacity (MW)": 5.9,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8233,
+          50.4621
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Mons solar project I",
+        "Capacity (MW)": 3.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8679,
+          50.4717
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Mons solar project II",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8705,
+          50.4275
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Mons solar project III",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0095,
+          50.4159
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Mons solar project IV",
+        "Capacity (MW)": 3.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7802,
+          50.4157
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Mons solar project V",
+        "Capacity (MW)": 3.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8973,
+          50.5918
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Mons solar project VI",
+        "Capacity (MW)": 3.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6455,
+          50.4073
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Namur solar project",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1035,
+          50.0901
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Neufchâteau solar project I",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0984,
+          50.0893
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Neufchâteau solar project II",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1054,
+          50.6911
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Nivelles solar project I",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1606,
+          50.6686
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Nivelles solar project II",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5981,
+          50.702
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Nivelles solar project III",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3441,
+          50.702
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Nivelles solar project IV",
+        "Capacity (MW)": 5.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7624,
+          51.1404
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Ostend solar project I",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0122,
+          51.1988
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Ostend solar project II",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5902,
+          50.829
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Oudenaarde solar project",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1524,
+          50.8904
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Roeselare solar project",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2962,
+          51.2835
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Sint-Niklaas solar project I",
+        "Capacity (MW)": 12.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.228,
+          51.1679
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Sint-Niklaas solar project II",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1631,
+          51.1422
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Sint-Niklaas solar project III",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2845,
+          51.2684
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Sint-Niklaas solar project IV",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0417,
+          50.5616
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Soignies solar project",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3939,
+          50.9172
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Tielt solar project I",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.353,
+          51.0031
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Tielt solar project II",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4872,
+          50.7702
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Tongeren solar project I",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5209,
+          50.91
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Tongeren solar project II",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7272,
+          51.4783
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Turnhout solar project I",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6998,
+          51.1831
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Turnhout solar project II",
+        "Capacity (MW)": 6.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.944,
+          51.2992
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Turnhout solar project III",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7099,
+          51.0718
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Veurne solar project I",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.687,
+          51.065
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Veurne solar project II",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4786,
+          49.681
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belgium",
+        "Plant / Project name": "Virton solar project",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.9874,
+          -13.8313
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Samoa",
+        "Plant / Project name": "Faeolo International Airport solar farm",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.8072,
+          -13.8402
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Samoa",
+        "Plant / Project name": "Faleata Racecourse solar farm",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.9902,
+          -13.8321
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Samoa",
+        "Plant / Project name": "Satapuala solar farm",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.9902,
+          -13.8321
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Samoa",
+        "Plant / Project name": "Satapuala solar farm",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8172,
+          12.1494
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Curaçao",
+        "Plant / Project name": "NuKoraal Tabak wind farm",
+        "Capacity (MW)": 22.5,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

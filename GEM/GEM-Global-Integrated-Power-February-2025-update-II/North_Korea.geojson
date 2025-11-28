@@ -1,0 +1,1181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.5389,
+          38.9544
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Anbyon Youth hydroelectric plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.5389,
+          38.9544
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Anbyon Youth No 2 hydroelectric plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3499,
+          40.1811
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Huichon 1 hydroelectric plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3499,
+          40.1811
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Huichon 2 hydroelectric plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.5781,
+          40.0549
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Jangjingang hydroelectric plant",
+        "Capacity (MW)": 381.0,
+        "Status": "operating",
+        "Start year": 1932,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3501,
+          40.1802
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Kanggye Youth hydroelectric plant",
+        "Capacity (MW)": 218.0,
+        "Status": "operating",
+        "Start year": 1940,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.3896,
+          41.3478
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Orangchon hydroelectric plant",
+        "Capacity (MW)": 134.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3478,
+          39.7735
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Taedonggang hydroelectric plant",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "unknown",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5141,
+          41.3821
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Unbong hydroelectric plant",
+        "Capacity (MW)": 400.0,
+        "Status": "operating",
+        "Start year": 1942,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7549,
+          39.7974
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Nyongbyon nuclear power plant",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "gas-cooled reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7551,
+          39.7959
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Nyongbyon nuclear power plant",
+        "Capacity (MW)": 30.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "light water graphite reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.66883,
+          39.65655
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Cheongcheon-Gang power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.66883,
+          39.65655
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Cheongcheon-Gang power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.66883,
+          39.65655
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Cheongcheon-Gang power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.66883,
+          39.65655
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Cheongcheon-Gang power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.750091,
+          41.783681
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Chongjin City power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.750091,
+          41.783681
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Chongjin City power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.750091,
+          41.783681
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Chongjin City power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.687584,
+          38.969298
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "East Pyongyang power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.687584,
+          38.969298
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "East Pyongyang power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.687584,
+          38.969298
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "East Pyongyang power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.687584,
+          38.969298
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "East Pyongyang power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.305072,
+          39.586142
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pukchang power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.305072,
+          39.586142
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pukchang power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.305072,
+          39.586142
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pukchang power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.305072,
+          39.586142
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pukchang power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.305072,
+          39.586142
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pukchang power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.305072,
+          39.586142
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pukchang power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.305072,
+          39.586142
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pukchang power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.305072,
+          39.586142
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pukchang power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.305072,
+          39.586142
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pukchang power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.305072,
+          39.586142
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pukchang power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.305072,
+          39.586142
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pukchang power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.305072,
+          39.586142
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pukchang power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.305072,
+          39.586142
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pukchang power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.305072,
+          39.586142
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pukchang power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.305072,
+          39.586142
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pukchang power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.305072,
+          39.586142
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pukchang power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.710939,
+          39.009295
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pyongyang power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.710939,
+          39.009295
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pyongyang power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.710939,
+          39.009295
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pyongyang power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.710939,
+          39.009295
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pyongyang power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.710939,
+          39.009295
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pyongyang power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.710939,
+          39.009295
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pyongyang power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.710939,
+          39.009295
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pyongyang power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.710939,
+          39.009295
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pyongyang power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.710939,
+          39.009295
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pyongyang power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.710939,
+          39.009295
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pyongyang power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.710939,
+          39.009295
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Pyongyang power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.382448,
+          42.32849
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Sonbong power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "unknown",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.382448,
+          42.32849
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Sonbong power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "unknown",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.382448,
+          42.32849
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Sonbong power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "unknown",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.968168,
+          39.401456
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Sunchon power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.968168,
+          39.401456
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Sunchon power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.968168,
+          39.401456
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Sunchon power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.968168,
+          39.401456
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Korea",
+        "Plant / Project name": "Sunchon power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

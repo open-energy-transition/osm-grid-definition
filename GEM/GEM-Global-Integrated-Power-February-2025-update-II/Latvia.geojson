@@ -1,0 +1,488 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7104,
+          56.7401
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Latvia",
+        "Plant / Project name": "Kegums hydroelectric plant",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": 1940,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2401,
+          56.5833
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Latvia",
+        "Plant / Project name": "Plavinas hydroelectric plant",
+        "Capacity (MW)": 894.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.272,
+          56.8514
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Latvia",
+        "Plant / Project name": "Riga hydroelectric plant",
+        "Capacity (MW)": 402.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.03559,
+          56.96269
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Latvia",
+        "Plant / Project name": "Imanta power station",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1788,
+          56.9904
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Latvia",
+        "Plant / Project name": "Riga-1 power station",
+        "Capacity (MW)": 158.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2766,
+          56.918
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Latvia",
+        "Plant / Project name": "Riga-2 power station",
+        "Capacity (MW)": 441.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2766,
+          56.918
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Latvia",
+        "Plant / Project name": "Riga-2 power station",
+        "Capacity (MW)": 440.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2419,
+          56.538
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Latvia",
+        "Plant / Project name": "Grobina wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8514,
+          57.399
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Latvia",
+        "Plant / Project name": "Pope wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6796,
+          57.3382
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Latvia",
+        "Plant / Project name": "Targale wind farm",
+        "Capacity (MW)": 59.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8712,
+          56.6243
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Latvia",
+        "Plant / Project name": "Aizkraukles Novads solar project",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5118,
+          57.5419
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Latvia",
+        "Plant / Project name": "Brenguļu Pagasts Valmieras Novads solar project",
+        "Capacity (MW)": 4.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5448,
+          55.897
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Latvia",
+        "Plant / Project name": "Daugavpils solar project",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9173,
+          56.466
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Latvia",
+        "Plant / Project name": "Dobeles Novads solar project",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1406,
+          56.6162
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Latvia",
+        "Plant / Project name": "Iecavas Pagasts Bauskas Novads solar project",
+        "Capacity (MW)": 4.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8729,
+          56.6354
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Latvia",
+        "Plant / Project name": "Jelgavas Novads solar project",
+        "Capacity (MW)": 3.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8145,
+          57.0399
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Latvia",
+        "Plant / Project name": "Kandavas Pagasts Tukuma Novads solar project",
+        "Capacity (MW)": 5.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4787,
+          57.5079
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Latvia",
+        "Plant / Project name": "Kauguru Pagasts Valmieras Novads solar project",
+        "Capacity (MW)": 4.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8453,
+          56.7292
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Latvia",
+        "Plant / Project name": "Ogres Novads solar project",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0642,
+          57.0177
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Latvia",
+        "Plant / Project name": "Riga solar project",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3759,
+          56.8689
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Latvia",
+        "Plant / Project name": "Salaspils Novads solar project",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.587,
+          57.3662
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Latvia",
+        "Plant / Project name": "Talsu Novads solar project",
+        "Capacity (MW)": 4.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3479,
+          56.5004
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Latvia",
+        "Plant / Project name": "Tērvetes Pagasts Dobeles Novads solar project",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

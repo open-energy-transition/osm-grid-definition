@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.552,
+          -1.7732
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Gabon",
+        "Plant / Project name": "Grand Poubara hydroelectric plant",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.520954,
+          0.314482
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Gabon",
+        "Plant / Project name": "Alenakiri power plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.1901,
+          12.3664
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Sambangalou hydroelectric plant",
+        "Capacity (MW)": 128.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.434005,
+          14.690486
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Bel-Air C6 power station",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: LNG, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.297044,
+          14.718988
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Cap des Biches (engine) power station",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.432331,
+          14.689333
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Karpowership (Senegal) Aysegul Sultan power station",
+        "Capacity (MW)": 235.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: LNG, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.26635,
+          14.743768
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Kounoune power station",
+        "Capacity (MW)": 67.5,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.950748,
+          14.472403
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Malicounda power station",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.861741,
+          15.007438
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Tobène power station",
+        "Capacity (MW)": 115.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.039687,
+          14.796229
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Gallen Cement power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.213926,
+          14.686988
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Sendou power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.8594,
+          15.0101
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Taiba N’Diaye wind farm",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.8594,
+          15.0101
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Taiba N’Diaye wind farm",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.8594,
+          15.0101
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Taiba N’Diaye wind farm",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.4692,
+          16.5172
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Bokhol solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.103,
+          14.652
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Diass solar farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.025,
+          14.169
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Kahone Solaire Sa solar farm",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.027,
+          14.178
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Kahone solar farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.905,
+          14.7118
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Kaél solar farm",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.9354,
+          14.4736
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Malicounda solar farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.131,
+          15.5983
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Sakal solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.6761,
+          15.1326
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Santhiou Mékhé solar farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.676,
+          15.1301
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Ten Merina solar farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.1942,
+          14.7436
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Dakar Region solar project I",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.1971,
+          14.686
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Dakar Region solar project II",
+        "Capacity (MW)": 6.5,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.2422,
+          14.7279
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Rufisque solar project",
+        "Capacity (MW)": 8.9,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.7894,
+          16.1743
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Senegal",
+        "Plant / Project name": "Senegal solar project",
+        "Capacity (MW)": 3.4,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

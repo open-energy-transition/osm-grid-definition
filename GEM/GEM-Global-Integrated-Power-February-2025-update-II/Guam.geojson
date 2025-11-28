@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7504,
+          13.3058
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guam",
+        "Plant / Project name": "Dandan solar farm",
+        "Capacity (MW)": 37.2,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8613,
+          13.4891
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Guam",
+        "Plant / Project name": "Mangilao solar farm",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4819,
+          -9.7503
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Angola",
+        "Plant / Project name": "Cambambe I hydroelectric plant",
+        "Capacity (MW)": 180.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4854,
+          -9.7383
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Angola",
+        "Plant / Project name": "Cambambe II hydroelectric plant",
+        "Capacity (MW)": 700.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4635,
+          -9.7933
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Angola",
+        "Plant / Project name": "Capanda hydroelectric plant",
+        "Capacity (MW)": 520.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1251,
+          -9.7449
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Angola",
+        "Plant / Project name": "Laúca hydroelectric plant",
+        "Capacity (MW)": 2070.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7225,
+          -9.5806
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Angola",
+        "Plant / Project name": "Biocom power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids), bioenergy: wood & other biomass (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27575,
+          -8.82779
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Angola",
+        "Plant / Project name": "Central Caminho de Ferro de Luanda (CFL) power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5921,
+          -12.38199
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Angola",
+        "Plant / Project name": "Central de Quileva power plant",
+        "Capacity (MW)": 84.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.325453,
+          -6.181824
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Angola",
+        "Plant / Project name": "Soyo power station",
+        "Capacity (MW)": 360.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.325453,
+          -6.181824
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Angola",
+        "Plant / Project name": "Soyo power station",
+        "Capacity (MW)": 360.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.325453,
+          -6.181824
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Angola",
+        "Plant / Project name": "Soyo power station",
+        "Capacity (MW)": 375.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.182,
+          -12.66
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Angola",
+        "Plant / Project name": "Baía Farta solar farm",
+        "Capacity (MW)": 96.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7442,
+          -12.4667
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Angola",
+        "Plant / Project name": "Biópio solar farm",
+        "Capacity (MW)": 189.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9015,
+          -11.7806
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Angola",
+        "Plant / Project name": "Luena solar farm",
+        "Capacity (MW)": 25.3,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3952,
+          -9.6768
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Angola",
+        "Plant / Project name": "Saurimo Solar",
+        "Capacity (MW)": 27.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6575,
+          -15.026
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Angola",
+        "Plant / Project name": "Solenova Namibe solar farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6575,
+          -15.026
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Angola",
+        "Plant / Project name": "Solenova Namibe solar farm",
+        "Capacity (MW)": 25.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1338,
+          -12.4858
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Angola",
+        "Plant / Project name": "Benguela Province solar project",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9834,
+          -16.765
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Angola",
+        "Plant / Project name": "Cunene Province solar project",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2669,
+          -12.9164
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Angola",
+        "Plant / Project name": "Huambo Province solar project I",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3228,
+          -12.2382
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Angola",
+        "Plant / Project name": "Huambo Province solar project II",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3956,
+          -14.998
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Angola",
+        "Plant / Project name": "Lubango Solar",
+        "Capacity (MW)": 10.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7357,
+          -8.4182
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Angola",
+        "Plant / Project name": "Lucapa Hybrid solar farm",
+        "Capacity (MW)": 7.2,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9161,
+          -15.7733
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Angola",
+        "Plant / Project name": "Namibe Province solar project",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4233,
+          -9.6149
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Angola",
+        "Plant / Project name": "Saurimo solar project",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0103,
+          -7.3119
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Angola",
+        "Plant / Project name": "Uíge Province solar project",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

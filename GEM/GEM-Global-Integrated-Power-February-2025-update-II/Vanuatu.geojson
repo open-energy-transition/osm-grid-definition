@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.2089,
+          -17.7139
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Vanuatu",
+        "Plant / Project name": "Efate wind farm",
+        "Capacity (MW)": 3.4,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.2039,
+          -17.7191
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Vanuatu",
+        "Plant / Project name": "Efate (UNELCO) solar farm",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

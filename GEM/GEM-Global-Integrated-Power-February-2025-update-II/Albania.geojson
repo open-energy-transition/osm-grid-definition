@@ -1,0 +1,362 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0431,
+          42.2514
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Albania",
+        "Plant / Project name": "Fierza hydroelectric plant",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8224,
+          42.1033
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Albania",
+        "Plant / Project name": "Komani hydroelectric plant",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4406,
+          40.6928
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Albania",
+        "Plant / Project name": "Moglicë hydroelectric plant",
+        "Capacity (MW)": 197.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6358,
+          42.0136
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Albania",
+        "Plant / Project name": "Vau i Dejës hydroelectric plant",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4535,
+          40.8491
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Albania",
+        "Plant / Project name": "Karavasta solar farm",
+        "Capacity (MW)": 140.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3912,
+          40.7617
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Albania",
+        "Plant / Project name": "Project Blue 1 solar farm",
+        "Capacity (MW)": 58.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4722,
+          41.4015
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Albania",
+        "Plant / Project name": "Bashkia Durrës Durrës County solar project",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4225,
+          40.7151
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Albania",
+        "Plant / Project name": "Dërmenas Fier County solar project I",
+        "Capacity (MW)": 4.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.415,
+          40.7125
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Albania",
+        "Plant / Project name": "Dërmenas Fier County solar project II",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.39,
+          40.779
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Albania",
+        "Plant / Project name": "Gryka solar project",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4114,
+          42.0273
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Albania",
+        "Plant / Project name": "Kukës County solar project",
+        "Capacity (MW)": 3.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9746,
+          40.6596
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Albania",
+        "Plant / Project name": "Qendër Bilisht Korçë County solar project",
+        "Capacity (MW)": 13.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7847,
+          40.6407
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Albania",
+        "Plant / Project name": "Qendër Bulgarec Korçë County solar project",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6377,
+          42.0149
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Albania",
+        "Plant / Project name": "Qyrsaq solar project",
+        "Capacity (MW)": 5.1,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3838,
+          40.7714
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Albania",
+        "Plant / Project name": "Topojë Fier County solar project I",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.393,
+          40.7688
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Albania",
+        "Plant / Project name": "Topojë Fier County solar project II",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3825,
+          40.7867
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Albania",
+        "Plant / Project name": "Topojë Fier County solar project III",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

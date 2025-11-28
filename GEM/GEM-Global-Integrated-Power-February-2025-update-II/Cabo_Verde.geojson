@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.8125,
+          16.0909
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Cabo Verde",
+        "Plant / Project name": "Boa Vista (Cabo Verde) wind farm",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.9278,
+          16.7249
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Cabo Verde",
+        "Plant / Project name": "Sal wind farm",
+        "Capacity (MW)": 7.7,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.6245,
+          15.0855
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Cabo Verde",
+        "Plant / Project name": "Santiago wind farm",
+        "Capacity (MW)": 9.4,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.9766,
+          16.8289
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Cabo Verde",
+        "Plant / Project name": "São Vicente wind farm",
+        "Capacity (MW)": 6.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.5443,
+          14.9108
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cabo Verde",
+        "Plant / Project name": "Praia solar project",
+        "Capacity (MW)": 5.2,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.9139,
+          16.6266
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cabo Verde",
+        "Plant / Project name": "Sal solar project",
+        "Capacity (MW)": 6.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.5437,
+          14.9103
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cabo Verde",
+        "Plant / Project name": "Santiago (Cabo Verde) solar farm",
+        "Capacity (MW)": 4.4,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

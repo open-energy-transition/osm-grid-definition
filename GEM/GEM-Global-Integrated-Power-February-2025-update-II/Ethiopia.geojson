@@ -1,0 +1,488 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9204,
+          11.8204
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ethiopia",
+        "Plant / Project name": "Beles hydroelectric plant",
+        "Capacity (MW)": 460.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3625,
+          9.5607
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ethiopia",
+        "Plant / Project name": "Fincha Amerti Neshe hydroelectric plant",
+        "Capacity (MW)": 97.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3663,
+          9.558
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ethiopia",
+        "Plant / Project name": "Fincha hydroelectric plant",
+        "Capacity (MW)": 134.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7182,
+          5.5105
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ethiopia",
+        "Plant / Project name": "Genale Dawa III hydroelectric plant",
+        "Capacity (MW)": 254.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.326,
+          7.8376
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ethiopia",
+        "Plant / Project name": "Gilgel Gibe I hydroelectric plant",
+        "Capacity (MW)": 184.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5626,
+          7.7567
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ethiopia",
+        "Plant / Project name": "Gilgel Gibe II hydroelectric plant",
+        "Capacity (MW)": 420.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3018,
+          6.8482
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ethiopia",
+        "Plant / Project name": "Gilgel Gibe III hydroelectric plant",
+        "Capacity (MW)": 1870.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0936,
+          11.2165
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ethiopia",
+        "Plant / Project name": "Grand Ethiopian Renaissance hydroelectric plant",
+        "Capacity (MW)": 5250.0,
+        "Status": "construction",
+        "Start year": 2022,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0936,
+          11.2165
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ethiopia",
+        "Plant / Project name": "Grand Ethiopian Renaissance hydroelectric plant",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5489,
+          6.5743
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ethiopia",
+        "Plant / Project name": "Koysha hydroelectric plant",
+        "Capacity (MW)": 2160.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4618,
+          7.225
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ethiopia",
+        "Plant / Project name": "Melka Wekana hydroelectric plant",
+        "Capacity (MW)": 153.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7406,
+          13.3493
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ethiopia",
+        "Plant / Project name": "Tekeze I hydroelectric plant",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7952,
+          7.7888
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Ethiopia",
+        "Plant / Project name": "Aluto Langano geothermal power plant",
+        "Capacity (MW)": 35.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7952,
+          7.7888
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Ethiopia",
+        "Plant / Project name": "Aluto Langano geothermal power plant",
+        "Capacity (MW)": 35.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4199,
+          9.7947
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Ethiopia",
+        "Plant / Project name": "Finchaa Sugar Factory power station",
+        "Capacity (MW)": 31.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.461,
+          11.5655
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Ethiopia",
+        "Plant / Project name": "Tana Beles Sugar Factory power station",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3095,
+          8.377
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Ethiopia",
+        "Plant / Project name": "Wonji Shoa Sugar Factory power station",
+        "Capacity (MW)": 31.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2301,
+          8.5449
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ethiopia",
+        "Plant / Project name": "Adama wind farm",
+        "Capacity (MW)": 51.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2301,
+          8.5449
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ethiopia",
+        "Plant / Project name": "Adama wind farm",
+        "Capacity (MW)": 153.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5735,
+          13.4255
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ethiopia",
+        "Plant / Project name": "Ashegoda wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5735,
+          13.4255
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ethiopia",
+        "Plant / Project name": "Ashegoda wind farm",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5735,
+          13.4255
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ethiopia",
+        "Plant / Project name": "Ashegoda wind farm",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.4048,
+          7.1122
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ethiopia",
+        "Plant / Project name": "Hawassa solar project",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

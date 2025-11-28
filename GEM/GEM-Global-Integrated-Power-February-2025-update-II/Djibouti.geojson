@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.15705,
+          11.57537
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Djibouti",
+        "Plant / Project name": "Boulaos power station",
+        "Capacity (MW)": 108.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

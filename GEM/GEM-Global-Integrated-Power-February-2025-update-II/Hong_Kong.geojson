@@ -1,0 +1,845 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9877,
+          22.1892
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "Shek Kwu Chau power station",
+        "Capacity (MW)": 60.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": null,
+        "Fuel": "bioenergy: refuse (municipal and industrial wastes)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9877,
+          22.1892
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "Shek Kwu Chau power station",
+        "Capacity (MW)": 60.0,
+        "Status": "construction",
+        "Start year": 2028,
+        "Technology": null,
+        "Fuel": "bioenergy: refuse (municipal and industrial wastes)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9877,
+          22.1892
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "Shek Kwu Chau power station",
+        "Capacity (MW)": 60.0,
+        "Status": "construction",
+        "Start year": 2030,
+        "Technology": null,
+        "Fuel": "bioenergy: refuse (municipal and industrial wastes)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.91098,
+          22.413823
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "Black Point power station",
+        "Capacity (MW)": 312.5,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.91098,
+          22.413823
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "Black Point power station",
+        "Capacity (MW)": 313.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.91098,
+          22.413823
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "Black Point power station",
+        "Capacity (MW)": 337.5,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.91098,
+          22.413823
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "Black Point power station",
+        "Capacity (MW)": 337.5,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.91098,
+          22.413823
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "Black Point power station",
+        "Capacity (MW)": 337.5,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.91098,
+          22.413823
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "Black Point power station",
+        "Capacity (MW)": 337.5,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.91098,
+          22.413823
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "Black Point power station",
+        "Capacity (MW)": 337.5,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.91098,
+          22.413823
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "Black Point power station",
+        "Capacity (MW)": 337.5,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.91098,
+          22.413823
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "Black Point power station",
+        "Capacity (MW)": 550.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.91098,
+          22.413823
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "Black Point power station",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1082183,
+          22.2188909
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "CKI Lamma power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1991,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1082183,
+          22.2188909
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "CKI Lamma power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 1991,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1082183,
+          22.2188909
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "CKI Lamma power station",
+        "Capacity (MW)": 130.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1082183,
+          22.2188909
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "CKI Lamma power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 1991,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1082183,
+          22.2188909
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "CKI Lamma power station",
+        "Capacity (MW)": 130.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1082183,
+          22.2188909
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "CKI Lamma power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 1991,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1082183,
+          22.2188909
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "CKI Lamma power station",
+        "Capacity (MW)": 130.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1082183,
+          22.2188909
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "CKI Lamma power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 1991,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1082183,
+          22.2188909
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "CKI Lamma power station",
+        "Capacity (MW)": 380.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1082183,
+          22.2188909
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "CKI Lamma power station",
+        "Capacity (MW)": 380.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1082183,
+          22.2188909
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "CKI Lamma power station",
+        "Capacity (MW)": 380.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1082183,
+          22.2188909
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "CKI Lamma power station",
+        "Capacity (MW)": 380.0,
+        "Status": "construction",
+        "Start year": 2029,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1082183,
+          22.2188909
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "CKI Lamma power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.041712,
+          22.320682
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "Penny's Bay power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1992,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.041712,
+          22.320682
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "Penny's Bay power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1992,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.041712,
+          22.320682
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "Penny's Bay power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1992,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9205405,
+          22.3750979
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "Castle Peak power station",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9205405,
+          22.3750979
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "Castle Peak power station",
+        "Capacity (MW)": 677.5,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9205405,
+          22.3750979
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "Castle Peak power station",
+        "Capacity (MW)": 677.5,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9205405,
+          22.3750979
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "Castle Peak power station",
+        "Capacity (MW)": 677.5,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9205405,
+          22.3750979
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "Castle Peak power station",
+        "Capacity (MW)": 677.5,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1082183,
+          22.2188909
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "CKI Lamma power station",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1082183,
+          22.2188909
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "CKI Lamma power station",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1082183,
+          22.2188909
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "CKI Lamma power station",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1082183,
+          22.2188909
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "CKI Lamma power station",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 1992,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1082183,
+          22.2188909
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "CKI Lamma power station",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 1995,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1082183,
+          22.2188909
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Hong Kong",
+        "Plant / Project name": "CKI Lamma power station",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

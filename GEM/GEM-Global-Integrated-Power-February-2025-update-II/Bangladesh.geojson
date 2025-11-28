@@ -1,0 +1,3218 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2254,
+          22.4949
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Karnafuli hydroelectric plant",
+        "Capacity (MW)": 230.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0453,
+          24.0656
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Rooppur nuclear power plant",
+        "Capacity (MW)": 1200.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0453,
+          24.0656
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Rooppur nuclear power plant",
+        "Capacity (MW)": 1200.0,
+        "Status": "construction",
+        "Start year": 2023,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.341507,
+          23.6522
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "AGGREKO Aurahati power station",
+        "Capacity (MW)": 87.3,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.458055,
+          23.640384
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "AGGREKO Bramhangoan power station",
+        "Capacity (MW)": 87.3,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.874191,
+          22.329071
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Anlima Energy power station",
+        "Capacity (MW)": 126.4,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.004521,
+          24.040892
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Ashuganj (United) power station",
+        "Capacity (MW)": 194.6,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.017108,
+          24.04477
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Ashuganj East power station",
+        "Capacity (MW)": 420.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.014254,
+          24.043332
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Ashuganj power station",
+        "Capacity (MW)": 56.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.014254,
+          24.043332
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Ashuganj power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.014254,
+          24.043332
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Ashuganj power station",
+        "Capacity (MW)": 450.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.014254,
+          24.043332
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Ashuganj power station",
+        "Capacity (MW)": 450.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.014254,
+          24.043332
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Ashuganj power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.014254,
+          24.043332
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Ashuganj power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.590839,
+          24.13568
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Baghabari power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.777898,
+          23.546548
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Bangla Trac Power Unit-1 power station",
+        "Capacity (MW)": 138.6,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.777898,
+          23.546548
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Bangla Trac Power Unit-1 power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.413519,
+          23.017703
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Bangla Trac Power Unit-2 power station",
+        "Capacity (MW)": 107.8,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.618295,
+          24.090694
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Bera power station",
+        "Capacity (MW)": 74.6,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.017492,
+          24.049377
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Bheramara power station",
+        "Capacity (MW)": 410.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.710957,
+          22.479292
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Bhola power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.710957,
+          22.479292
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Bhola power station",
+        "Capacity (MW)": 220.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.65947,
+          24.639505
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Bibiana II (Summit) power station",
+        "Capacity (MW)": 341.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.656487,
+          24.636557
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Bibiana III power station",
+        "Capacity (MW)": 400.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.660499,
+          24.634998
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Bibiyana South power station",
+        "Capacity (MW)": 383.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.669029,
+          23.222418
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Chandpur power station",
+        "Capacity (MW)": 163.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.404188,
+          24.655853
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Chapainawabganj power station",
+        "Capacity (MW)": 107.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.097491,
+          22.973712
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Chowmuhani power station",
+        "Capacity (MW)": 117.4,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.342789,
+          23.742906
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "CLC Bosila power station",
+        "Capacity (MW)": 105.3,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.346059,
+          24.768642
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Confidence Bagura power station",
+        "Capacity (MW)": 111.3,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.346059,
+          24.768642
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Confidence Bagura power station",
+        "Capacity (MW)": 111.3,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.272738,
+          25.659125
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Confidence Rangpur power station",
+        "Capacity (MW)": 113.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.874943,
+          22.33221
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Confidence Zodiac power station",
+        "Capacity (MW)": 55.7,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.673872,
+          23.224022
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Desh Chandpur power station",
+        "Capacity (MW)": 221.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.071345,
+          22.152248
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Dohazari power station",
+        "Capacity (MW)": 102.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.488997,
+          23.598773
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Doreen Chandpur power station",
+        "Capacity (MW)": 74.1,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.488997,
+          23.598773
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Doreen Chandpur power station",
+        "Capacity (MW)": 50.9,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.525227,
+          23.671144
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Dutch Bangla Siddhirganj power station",
+        "Capacity (MW)": 106.8,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.371012,
+          24.327199
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Energyprima Shahjibazar power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.87643,
+          22.334642
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "EPV Chittagong power station",
+        "Capacity (MW)": 112.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.87643,
+          22.334642
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "EPV Thakurgaon power station",
+        "Capacity (MW)": 112.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.773302,
+          23.619185
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Faridpur peaking power station",
+        "Capacity (MW)": 55.8,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.918923,
+          24.683104
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Fenchuganj (BEDL) power station",
+        "Capacity (MW)": 55.1,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.91923,
+          24.685359
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Fenchuganj power station",
+        "Capacity (MW)": 97.0,
+        "Status": "operating",
+        "Start year": 1995,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.91923,
+          24.685359
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Fenchuganj power station",
+        "Capacity (MW)": 104.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.346185,
+          23.017307
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Feni Lanka power station",
+        "Capacity (MW)": 128.9,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.637084,
+          23.980072
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Ghorasal power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.637084,
+          23.980072
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Ghorasal power station",
+        "Capacity (MW)": 365.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.637084,
+          23.980072
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Ghorasal power station",
+        "Capacity (MW)": 260.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.637084,
+          23.980072
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Ghorasal power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.641427,
+          23.970687
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Ghorashal (Regent) power station",
+        "Capacity (MW)": 113.9,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.821256,
+          23.030107
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Gopalganj power station",
+        "Capacity (MW)": 111.7,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.52135,
+          23.680401
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Haripur power station",
+        "Capacity (MW)": 412.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.170174,
+          23.431147
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Jangalia power station",
+        "Capacity (MW)": 53.5,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.805393,
+          22.297091
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Jhulda power plant",
+        "Capacity (MW)": 105.6,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.805393,
+          22.297091
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Jhulda power plant",
+        "Capacity (MW)": 105.6,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.805393,
+          22.297091
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Jhulda power plant",
+        "Capacity (MW)": 105.6,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4903,
+          23.5735
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Kamalaghat power station",
+        "Capacity (MW)": 56.1,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.547899,
+          23.819761
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Kanchan Purbachal power station",
+        "Capacity (MW)": 58.2,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.888944,
+          22.338476
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Karnaphuli power station",
+        "Capacity (MW)": 110.5,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.676526,
+          24.367281
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Katakhali (Northern) power station",
+        "Capacity (MW)": 53.4,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.675651,
+          24.367428
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Katakhali power station",
+        "Capacity (MW)": 52.2,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.536417,
+          22.866248
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Khulna power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.536417,
+          22.866248
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Khulna power station",
+        "Capacity (MW)": 330.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.343501,
+          23.991123
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Kodda power station",
+        "Capacity (MW)": 153.5,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.917388,
+          24.684884
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Kushiara power station",
+        "Capacity (MW)": 163.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.810976,
+          22.934644
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Madhumati power plant",
+        "Capacity (MW)": 110.5,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.237605,
+          23.793729
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Manikganj power station",
+        "Capacity (MW)": 162.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.599703,
+          23.609062
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Meghnaghat (MPL) power station",
+        "Capacity (MW)": 450.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.595154,
+          23.608172
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Meghnaghat-I power station",
+        "Capacity (MW)": 335.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.595154,
+          23.608172
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Meghnaghat-II power station",
+        "Capacity (MW)": 590.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil gas: LNG, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.988441,
+          24.028821
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Midland Ashuganj Power station",
+        "Capacity (MW)": 56.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.989066,
+          24.027482
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Midland East Power station",
+        "Capacity (MW)": 161.3,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil liquids: light fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.416515,
+          24.761578
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Mymensingh power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.416515,
+          24.761578
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Mymensingh power station",
+        "Capacity (MW)": 400.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.524271,
+          23.682574
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Narayanganj power station",
+        "Capacity (MW)": 99.8,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.986553,
+          24.39495
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Natore power station",
+        "Capacity (MW)": 53.5,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.485242,
+          23.598282
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Orion Gagnagar power station",
+        "Capacity (MW)": 107.1,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.593226,
+          23.611555
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Orion Power Meghnaghat power station",
+        "Capacity (MW)": 107.1,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.584801,
+          22.767114
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Orion Power Rupsha power station",
+        "Capacity (MW)": 110.5,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.573162,
+          23.607029
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Orion Power Sonargaon power station",
+        "Capacity (MW)": 109.8,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.594794,
+          24.132738
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Paramount Baghabari power station",
+        "Capacity (MW)": 216.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.961385,
+          24.910505
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "PowerPac Jamalpur power station",
+        "Capacity (MW)": 107.1,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.347748,
+          23.647921
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "PowerPac Keraniganj power station",
+        "Capacity (MW)": 108.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.018509,
+          24.045952
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Precision energy power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.939432,
+          22.402074
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Rauzan power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.939432,
+          22.402074
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Rauzan power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.596336,
+          23.607983
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Reliance Meghnaghat power station",
+        "Capacity (MW)": 750.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.344339,
+          23.990993
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "RPCL Gazipur power station",
+        "Capacity (MW)": 110.5,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.344339,
+          23.990993
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "RPCL Gazipur power station",
+        "Capacity (MW)": 53.4,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.551191,
+          22.853987
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Rupsha power station",
+        "Capacity (MW)": 400.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.551191,
+          22.853987
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Rupsha power station",
+        "Capacity (MW)": 400.0,
+        "Status": "construction",
+        "Start year": 2027,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.984258,
+          24.79772
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Santahar Peaking power station",
+        "Capacity (MW)": 52.2,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.378674,
+          24.252242
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Shajibazar power station",
+        "Capacity (MW)": 330.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.378674,
+          24.252242
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Shajibazar power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.526097,
+          23.683172
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Shiddhirgonj Peaking power station",
+        "Capacity (MW)": 105.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.526097,
+          23.683172
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Shiddhirgonj Peaking power station",
+        "Capacity (MW)": 105.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.525111,
+          23.682719
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Shiddhirgonj Thermal power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.516272,
+          23.684283
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Shiddirgonj power station",
+        "Capacity (MW)": 335.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.877772,
+          22.335919
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Shikalbaha power station",
+        "Capacity (MW)": 110.5,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.863078,
+          22.323513
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Sikalbaha Peaking power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.863078,
+          22.323513
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Sikalbaha power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.743267,
+          24.386142
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Sirajgonj power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.743267,
+          24.386142
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Sirajgonj power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.743267,
+          24.386142
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Sirajgonj power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.743267,
+          24.386142
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Sirajgonj power station",
+        "Capacity (MW)": 414.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.335928,
+          22.659245
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Summit Barisal power plant",
+        "Capacity (MW)": 119.5,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.337796,
+          23.99458
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Summit Gazipur I power station",
+        "Capacity (MW)": 147.3,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.337828,
+          23.994702
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Summit Gazipur II power station",
+        "Capacity (MW)": 307.4,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.538835,
+          22.866567
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Summit Khulna (KPCL) power station",
+        "Capacity (MW)": 119.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.515034,
+          23.596184
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Summit Madanganj power plant",
+        "Capacity (MW)": 102.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.515034,
+          23.596184
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Summit Madanganj power plant",
+        "Capacity (MW)": 85.4,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.828812,
+          24.910271
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Sylhet power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.409989,
+          23.896606
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Tongi power station",
+        "Capacity (MW)": 105.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.827789,
+          22.231956
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "UANPL Anwara power station",
+        "Capacity (MW)": 290.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.988298,
+          24.901461
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "UJPL Jamalpur power station",
+        "Capacity (MW)": 123.8,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "ICCC",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.988247,
+          24.900503
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "UMPL Mymensingh power station",
+        "Capacity (MW)": 205.4,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.322186,
+          22.370304
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "United Payra power plant",
+        "Capacity (MW)": 147.3,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.888932,
+          21.970844
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Banshkhali power station (S Alam)",
+        "Capacity (MW)": 660.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "supercritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.888938,
+          21.979067
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Banshkhali power station (S Alam)",
+        "Capacity (MW)": 660.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "supercritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9486312,
+          25.5537569
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Barapukuria power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9486312,
+          25.5537569
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Barapukuria power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.95048,
+          25.553438
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Barapukuria power station",
+        "Capacity (MW)": 275.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.062712,
+          21.961035
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Barisal power station",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "supercritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8834,
+          21.70184
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Matarbari power station",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "ultra-supercritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8834,
+          21.70184
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Matarbari power station",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "ultra-supercritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.312349,
+          22.025149
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Patuakhali power station (RPCL/NORINCO)",
+        "Capacity (MW)": 660.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "ultra-supercritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.312349,
+          22.025149
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Patuakhali power station (RPCL/NORINCO)",
+        "Capacity (MW)": 660.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "ultra-supercritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3056554,
+          21.9999671
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Payra power station (BCPCL)",
+        "Capacity (MW)": 660.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "ultra-supercritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3056554,
+          21.9999671
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Payra power station (BCPCL)",
+        "Capacity (MW)": 660.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "ultra-supercritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.556427,
+          22.592458
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Rampal power station",
+        "Capacity (MW)": 660.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "supercritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.556427,
+          22.592458
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Rampal power station",
+        "Capacity (MW)": 660.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "supercritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0053,
+          21.4347
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Khurushkul wind farm",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0122,
+          24.9012
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Dharmapasa solar farm",
+        "Capacity (MW)": 32.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5417,
+          25.3288
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Gaibandha Beximco solar farm",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6906,
+          24.8378
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Madargonj (RPCL) solar farm",
+        "Capacity (MW)": 140.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.825,
+          23.781
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Manikganj solar farm",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5726,
+          22.5708
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Moidhara solar farm",
+        "Capacity (MW)": 134.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7611,
+          22.6501
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Mongla solar farm",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2505,
+          24.0139
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Pabna (Dynamic Sun Energy) solar farm",
+        "Capacity (MW)": 100.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4305,
+          26.5156
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Panchagarh (Beximco) solar farm",
+        "Capacity (MW)": 30.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2225,
+          25.8553
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Rangpur (Intraco) solar farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.737,
+          24.399
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Sirajganji solar farm",
+        "Capacity (MW)": 68.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3669,
+          22.7911
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Sonagazi (EGCB) solar farm",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5174,
+          25.5662
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Sundarganj solar farm",
+        "Capacity (MW)": 275.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4567,
+          24.7069
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Sutiakhali solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2525,
+          20.9805
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Teknaf (Tsel) solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.378,
+          24.2632
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Habiganj Sadar Upazila solar project",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2266,
+          22.4912
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Kaptai Upazila solar project",
+        "Capacity (MW)": 7.2,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8426,
+          24.7723
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Mymensingh Division solar project",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1637,
+          23.9573
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Pabna Sadar Upazila solar project",
+        "Capacity (MW)": 6.7,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3201,
+          24.692
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Sulla Upazila solar project",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4101,
+          26.483
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bangladesh",
+        "Plant / Project name": "Tetulia solar project",
+        "Capacity (MW)": 12.3,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

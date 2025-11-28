@@ -1,0 +1,656 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.8199,
+          65.4161
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Blanda hydroelectric plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1991,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.3686,
+          64.2353
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Búðarháls hydroelectric plant",
+        "Capacity (MW)": 95.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.8363,
+          64.1029
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Búrfell I hydroelectric plant",
+        "Capacity (MW)": 270.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.811,
+          64.1006
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Búrfell II hydroelectric plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.7929,
+          64.9473
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Fljótsdals hydroelectric plant",
+        "Capacity (MW)": 690.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.2406,
+          64.2008
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Hrauneyjafoss hydroelectric plant",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.1269,
+          64.1732
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Sigalda hydroelectric plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.6206,
+          64.1673
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Sultartangi hydroelectric plant",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.0325,
+          64.1965
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Vatnsfell hydroelectric plant",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.4007,
+          64.0373
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Hellisheiðarvirkjun geothermal power plant",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.4007,
+          64.0373
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Hellisheiðarvirkjun geothermal power plant",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.4007,
+          64.0373
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Hellisheiðarvirkjun geothermal power plant",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.4007,
+          64.0373
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Hellisheiðarvirkjun geothermal power plant",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.4007,
+          64.0373
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Hellisheiðarvirkjun geothermal power plant",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.4007,
+          64.0373
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Hellisheiðarvirkjun geothermal power plant",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.4007,
+          64.0373
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Hellisheiðarvirkjun geothermal power plant",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.7735,
+          65.7035
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Krafla geothermal power plant",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "flash steam - double",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.7735,
+          65.7035
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Krafla geothermal power plant",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "flash steam - double",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.2567,
+          64.1081
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Nesjavellir geothermal power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.2567,
+          64.1081
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Nesjavellir geothermal power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.2567,
+          64.1081
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Nesjavellir geothermal power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.2567,
+          64.1081
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Nesjavellir geothermal power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6848,
+          63.8251
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Reykjanes geothermal power plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6848,
+          63.8251
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Reykjanes geothermal power plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6848,
+          63.8251
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Reykjanes geothermal power plant",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.4332,
+          63.8788
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Svartsengi geothermal power plant",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.4332,
+          63.8788
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Svartsengi geothermal power plant",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.96278108,
+          65.89057418
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Þeistareykir geothermal station",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.96238671,
+          65.8905641072235
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Þeistareykir geothermal station",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.96238671,
+          65.890513765193
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Þeistareykir geothermal station",
+        "Capacity (MW)": 45.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.4332,
+          63.8788
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Iceland",
+        "Plant / Project name": "Svartsengi geothermal power plant",
+        "Capacity (MW)": 22.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "flash steam - unknown",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

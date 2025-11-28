@@ -1,0 +1,404 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1359,
+          0.5015
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Uganda",
+        "Plant / Project name": "Bujagali hydroelectric plant",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0416,
+          0.7714
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Uganda",
+        "Plant / Project name": "Isimba hydroelectric plant",
+        "Capacity (MW)": 183.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.2682,
+          2.2484
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Uganda",
+        "Plant / Project name": "Karuma hydroelectric plant",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1856,
+          0.4503
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Uganda",
+        "Plant / Project name": "Kiira hydroelectric plant",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1847,
+          0.4435
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Uganda",
+        "Plant / Project name": "Nalubaale hydroelectric plant",
+        "Capacity (MW)": 180.0,
+        "Status": "operating",
+        "Start year": 1954,
+        "Technology": "unknown",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.29,
+          0.5089
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Uganda",
+        "Plant / Project name": "Kakira Sugar power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.533888,
+          0.293636
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uganda",
+        "Plant / Project name": "Mutundwe power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "unknown",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.67862,
+          0.38207
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uganda",
+        "Plant / Project name": "Namanve Thermal power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.116657,
+          0.637328
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uganda",
+        "Plant / Project name": "Tororo power station",
+        "Capacity (MW)": 89.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "unknown",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7951,
+          0.1501
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uganda",
+        "Plant / Project name": "Kabulasoke solar farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8287,
+          0.6209
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uganda",
+        "Plant / Project name": "Nkonge solar farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.427,
+          0.4892
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uganda",
+        "Plant / Project name": "Bufulubi solar project",
+        "Capacity (MW)": 8.7,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.0187,
+          0.5505
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uganda",
+        "Plant / Project name": "Busia solar project",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8204,
+          0.1489
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uganda",
+        "Plant / Project name": "Gomba solar project",
+        "Capacity (MW)": 10.9,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8204,
+          0.1564
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uganda",
+        "Plant / Project name": "Kanoni solar project",
+        "Capacity (MW)": 6.3,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2076,
+          -0.4612
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uganda",
+        "Plant / Project name": "Rakai solar project",
+        "Capacity (MW)": 10.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6577,
+          1.6861
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uganda",
+        "Plant / Project name": "Soroti solar project",
+        "Capacity (MW)": 8.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.111,
+          0.6314
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uganda",
+        "Plant / Project name": "Tororo solar project I",
+        "Capacity (MW)": 8.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.139,
+          0.5906
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uganda",
+        "Plant / Project name": "Tororo solar project II",
+        "Capacity (MW)": 10.8,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

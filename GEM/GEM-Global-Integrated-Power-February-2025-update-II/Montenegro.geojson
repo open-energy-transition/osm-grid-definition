@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8424,
+          43.2728
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Montenegro",
+        "Plant / Project name": "Mratinje hydroelectric plant",
+        "Capacity (MW)": 342.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9951,
+          42.6719
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Montenegro",
+        "Plant / Project name": "Perucica hydroelectric plant",
+        "Capacity (MW)": 307.0,
+        "Status": "operating",
+        "Start year": 1960,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.32714,
+          43.334574
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Montenegro",
+        "Plant / Project name": "Pljevlja power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1801,
+          41.985
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Montenegro",
+        "Plant / Project name": "Možura wind farm",
+        "Capacity (MW)": 46.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1106,
+          42.8756
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Montenegro",
+        "Plant / Project name": "Krnovo wind farm",
+        "Capacity (MW)": 72.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.908,
+          42.5337
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Montenegro",
+        "Plant / Project name": "Old Royal Capital Cetinje solar project",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

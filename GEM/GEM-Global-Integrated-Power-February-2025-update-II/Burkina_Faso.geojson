@@ -1,0 +1,194 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.575717,
+          12.251145
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Burkina Faso",
+        "Plant / Project name": "Komsilga power plant",
+        "Capacity (MW)": 54.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "unknown",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.486981,
+          12.433618
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Burkina Faso",
+        "Plant / Project name": "Kossodo power plant",
+        "Capacity (MW)": 54.9,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.194,
+          10.701
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Burkina Faso",
+        "Plant / Project name": "Kodeni solar farm",
+        "Capacity (MW)": 38.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2448,
+          12.4853
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Burkina Faso",
+        "Plant / Project name": "Nagréongo solar farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6367,
+          12.3079
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Burkina Faso",
+        "Plant / Project name": "Zagtouli solar farm",
+        "Capacity (MW)": 37.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3702,
+          11.7022
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Burkina Faso",
+        "Plant / Project name": "Zano solar farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6333,
+          12.0644
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Burkina Faso",
+        "Plant / Project name": "Zina solar farm",
+        "Capacity (MW)": 26.6,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0763,
+          14.37
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Burkina Faso",
+        "Plant / Project name": "Essakane solar project",
+        "Capacity (MW)": 14.9,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6367,
+          12.3079
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Burkina Faso",
+        "Plant / Project name": "Zagtouli solar farm",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

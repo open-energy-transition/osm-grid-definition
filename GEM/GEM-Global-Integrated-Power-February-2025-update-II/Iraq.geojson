@@ -1,0 +1,5507 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.7064,
+          35.1129
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Darbandikhan Dam hydroelectric plant",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9528,
+          35.9544
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Dokan Dam hydroelectric plant",
+        "Capacity (MW)": 400.0,
+        "Status": "operating",
+        "Start year": 1959,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.355,
+          34.2072
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Haditha Dam hydroelectric plant",
+        "Capacity (MW)": 660.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.8231,
+          36.6303
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Mosul Dam hydroelectric plant",
+        "Capacity (MW)": 1052.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8542,
+          34.1943
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Samarra hydroelectric plant",
+        "Capacity (MW)": 84.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.254028,
+          31.696394
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Amarh power plant",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.378034,
+          33.257213
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Dora power plant",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.378034,
+          33.257213
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Dora power plant",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.378034,
+          33.257213
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Dora power plant",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.378034,
+          33.257213
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Dora power plant",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.378034,
+          33.257213
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Dora power plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.378034,
+          33.257213
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Dora power plant",
+        "Capacity (MW)": 126.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2521,
+          35.78818
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Qayyarah power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2521,
+          35.78818
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Qayyarah power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2521,
+          35.78818
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Qayyarah power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2521,
+          35.78818
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Qayyarah power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2521,
+          35.78818
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Qayyarah power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2521,
+          35.78818
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Qayyarah power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2521,
+          35.78818
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Qayyarah power station",
+        "Capacity (MW)": 375.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: waste heat from natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.36159,
+          33.49091
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Quds power station",
+        "Capacity (MW)": 123.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.36159,
+          33.49091
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Quds power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.36159,
+          33.49091
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Quds power station",
+        "Capacity (MW)": 123.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.36159,
+          33.49091
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Quds power station",
+        "Capacity (MW)": 123.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.36159,
+          33.49091
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Quds power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.36159,
+          33.49091
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Quds power station",
+        "Capacity (MW)": 172.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.36159,
+          33.49091
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Quds power station",
+        "Capacity (MW)": 172.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.36159,
+          33.49091
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Quds power station",
+        "Capacity (MW)": 172.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.36159,
+          33.49091
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Quds power station",
+        "Capacity (MW)": 172.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.36159,
+          33.49091
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Quds power station",
+        "Capacity (MW)": 123.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.36159,
+          33.49091
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Quds power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.36159,
+          33.49091
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Quds power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.36159,
+          33.49091
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Quds power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.36159,
+          33.49091
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Quds power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.36159,
+          33.49091
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Quds power station",
+        "Capacity (MW)": 250.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: waste heat from natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.36159,
+          33.49091
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al Quds power station",
+        "Capacity (MW)": 250.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: waste heat from natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.116158,
+          33.091434
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al- Yusufiyah power plant",
+        "Capacity (MW)": 210.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.116158,
+          33.091434
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al- Yusufiyah power plant",
+        "Capacity (MW)": 210.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.116158,
+          33.091434
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al- Yusufiyah power plant",
+        "Capacity (MW)": 210.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.116158,
+          33.091434
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al- Yusufiyah power plant",
+        "Capacity (MW)": 210.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.116158,
+          33.091434
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al- Yusufiyah power plant",
+        "Capacity (MW)": 210.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.116158,
+          33.091434
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al- Yusufiyah power plant",
+        "Capacity (MW)": 210.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.116158,
+          33.091434
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al- Yusufiyah power plant",
+        "Capacity (MW)": 210.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.116158,
+          33.091434
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al- Yusufiyah power plant",
+        "Capacity (MW)": 210.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.023417,
+          33.534044
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Anbar power station",
+        "Capacity (MW)": 273.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.023417,
+          33.534044
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Anbar power station",
+        "Capacity (MW)": 273.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.023417,
+          33.534044
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Anbar power station",
+        "Capacity (MW)": 275.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.023417,
+          33.534044
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Anbar power station",
+        "Capacity (MW)": 273.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.023417,
+          33.534044
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Anbar power station",
+        "Capacity (MW)": 273.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.023417,
+          33.534044
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Anbar power station",
+        "Capacity (MW)": 275.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.061954,
+          31.774761
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Gharraf power plant",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.278623,
+          32.428716
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Khairat power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.278623,
+          32.428716
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Khairat power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.278623,
+          32.428716
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Khairat power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.278623,
+          32.428716
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Khairat power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.278623,
+          32.428716
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Khairat power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.278623,
+          32.428716
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Khairat power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.278623,
+          32.428716
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Khairat power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.278623,
+          32.428716
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Khairat power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.278623,
+          32.428716
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Khairat power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.278623,
+          32.428716
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Khairat power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.278623,
+          32.428716
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Khairat power station",
+        "Capacity (MW)": 625.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: waste heat from natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.290058,
+          32.840997
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Mussaib Gas power plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.290058,
+          32.840997
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Mussaib Gas power plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.290058,
+          32.840997
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Mussaib Gas power plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.290058,
+          32.840997
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Mussaib Gas power plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.290058,
+          32.840997
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Mussaib Gas power plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.290058,
+          32.840997
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Mussaib Gas power plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.290058,
+          32.840997
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Mussaib Gas power plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.290058,
+          32.840997
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Mussaib Gas power plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.290058,
+          32.840997
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Mussaib Gas power plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.290058,
+          32.840997
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Mussaib Gas power plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.276027,
+          32.842483
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Mussaib Thermal power plant",
+        "Capacity (MW)": 320.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.276027,
+          32.842483
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Mussaib Thermal power plant",
+        "Capacity (MW)": 320.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.276027,
+          32.842483
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Mussaib Thermal power plant",
+        "Capacity (MW)": 320.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.276027,
+          32.842483
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Mussaib Thermal power plant",
+        "Capacity (MW)": 320.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.298607,
+          33.354427
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "AL-Shahid Abd Al-Abbas Hashim",
+        "Capacity (MW)": 62.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.298237,
+          36.055452
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Shemal Thermal power station",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.298237,
+          36.055452
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Shemal Thermal power station",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.298237,
+          36.055452
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Shemal Thermal power station",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.298237,
+          36.055452
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Shemal Thermal power station",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.298237,
+          36.055452
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Shemal Thermal power station",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.298237,
+          36.055452
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Shemal Thermal power station",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.312325,
+          33.418296
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Ali Saba Diesal power station",
+        "Capacity (MW)": 59.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.45267,
+          33.289243
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Baghdad South 1",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.45267,
+          33.289243
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Baghdad South 1",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.45267,
+          33.289243
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Baghdad South 1",
+        "Capacity (MW)": 125.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: waste heat from natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.559171,
+          35.029766
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Baiji Gas power station",
+        "Capacity (MW)": 159.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.559171,
+          35.029766
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Baiji Gas power station",
+        "Capacity (MW)": 159.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.559171,
+          35.029766
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Baiji Gas power station",
+        "Capacity (MW)": 159.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.559171,
+          35.029766
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Baiji Gas power station",
+        "Capacity (MW)": 159.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.559171,
+          35.029766
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Baiji Gas power station",
+        "Capacity (MW)": 169.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.559171,
+          35.029766
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Baiji Gas power station",
+        "Capacity (MW)": 169.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.559171,
+          35.029766
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Baiji Gas power station",
+        "Capacity (MW)": 169.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.559171,
+          35.029766
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Baiji Gas power station",
+        "Capacity (MW)": 169.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.559171,
+          35.029766
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Baiji Gas power station",
+        "Capacity (MW)": 169.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.559171,
+          35.029766
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Baiji Gas power station",
+        "Capacity (MW)": 169.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.558741,
+          35.037142
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Baiji Thermal power station",
+        "Capacity (MW)": 220.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.558741,
+          35.037142
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Baiji Thermal power station",
+        "Capacity (MW)": 220.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.558741,
+          35.037142
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Baiji Thermal power station",
+        "Capacity (MW)": 220.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.558741,
+          35.037142
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Baiji Thermal power station",
+        "Capacity (MW)": 220.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.558741,
+          35.037142
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Baiji Thermal power station",
+        "Capacity (MW)": 220.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.558741,
+          35.037142
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Baiji Thermal power station",
+        "Capacity (MW)": 220.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.7687,
+          30.2331
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Bazian Combine Cycle power plant",
+        "Capacity (MW)": 257.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0025632,
+          35.6687298
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Bazian power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0025632,
+          35.6687298
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Bazian power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0025632,
+          35.6687298
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Bazian power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0025632,
+          35.6687298
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Bazian power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0025632,
+          35.6687298
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Bazian power station",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: waste heat from natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.662947,
+          33.166744
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Besmaya power station",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.662947,
+          33.166744
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Besmaya power station",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.662947,
+          33.166744
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Besmaya power station",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.662947,
+          33.166744
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Besmaya power station",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.662947,
+          33.166744
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Besmaya power station",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.662947,
+          33.166744
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Besmaya power station",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.40004,
+          32.12513
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Buzurgan 2 power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.40004,
+          32.12513
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Buzurgan 2 power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.69328,
+          31.97951
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Diwaniyah power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.69328,
+          31.97951
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Diwaniyah power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.69328,
+          31.97951
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Diwaniyah power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.69328,
+          31.97951
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Diwaniyah power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.69328,
+          31.97951
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Diwaniyah power station",
+        "Capacity (MW)": 250.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: waste heat from natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.781603,
+          36.946566
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Duhok power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.781603,
+          36.946566
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Duhok power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.781603,
+          36.946566
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Duhok power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.781603,
+          36.946566
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Duhok power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.781603,
+          36.946566
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Duhok power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.781603,
+          36.946566
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Duhok power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.781603,
+          36.946566
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Duhok power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.781603,
+          36.946566
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Duhok power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.917326,
+          36.00787
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Erbil power station",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.917326,
+          36.00787
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Erbil power station",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.754375,
+          30.67749
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Haritha power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.754375,
+          30.67749
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Haritha power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.754375,
+          30.67749
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Haritha power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.754375,
+          30.67749
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Haritha power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.26806,
+          32.23273
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Haydariya power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.26806,
+          32.23273
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Haydariya power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.26806,
+          32.23273
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Haydariya power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.26806,
+          32.23273
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Haydariya power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.26806,
+          32.23273
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Haydariya power station",
+        "Capacity (MW)": 250.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: waste heat from natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.26806,
+          32.23273
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Haydariya power station",
+        "Capacity (MW)": 162.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.322177,
+          32.543116
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Hillah 2 power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.322177,
+          32.543116
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Hillah 2 power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.322177,
+          32.543116
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Hillah 2 power station",
+        "Capacity (MW)": 125.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: waste heat from natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.379506,
+          33.267004
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Hyundai Diesel power plant",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.126918,
+          32.437631
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Karbala Gas power plant",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.126918,
+          32.437631
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Karbala Gas power plant",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.126918,
+          32.437631
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Karbala Gas power plant",
+        "Capacity (MW)": 132.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: waste heat from natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.095158,
+          32.343665
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Karbala Oil Refinery power plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "unknown",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.095158,
+          32.343665
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Karbala Oil Refinery power plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "unknown",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.095158,
+          32.343665
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Karbala Oil Refinery power plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "unknown",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.095158,
+          32.343665
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Karbala Oil Refinery power plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "unknown",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.817411,
+          30.212929
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Khor Al Zubayr power station",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.817411,
+          30.212929
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Khor Al Zubayr power station",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.817411,
+          30.212929
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Khor Al Zubayr power station",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.817411,
+          30.212929
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Khor Al Zubayr power station",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.817411,
+          30.212929
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Khor Al Zubayr power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.817411,
+          30.212929
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Khor Al Zubayr power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.817411,
+          30.212929
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Khor Al Zubayr power station",
+        "Capacity (MW)": 125.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: waste heat from natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.774447,
+          35.970182
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Khormala power station",
+        "Capacity (MW)": 155.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.774447,
+          35.970182
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Khormala power station",
+        "Capacity (MW)": 155.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.774447,
+          35.970182
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Khormala power station",
+        "Capacity (MW)": 155.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.774447,
+          35.970182
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Khormala power station",
+        "Capacity (MW)": 155.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.774447,
+          35.970182
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Khormala power station",
+        "Capacity (MW)": 155.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.774447,
+          35.970182
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Khormala power station",
+        "Capacity (MW)": 155.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.321853,
+          35.328009
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Kirkuk Taza power station",
+        "Capacity (MW)": 67.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.321853,
+          35.328009
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Kirkuk Taza power station",
+        "Capacity (MW)": 260.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.321853,
+          35.328009
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Kirkuk Taza power station",
+        "Capacity (MW)": 292.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.321853,
+          35.328009
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Kirkuk Taza power station",
+        "Capacity (MW)": 278.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: waste heat from natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.941243,
+          34.144823
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Mansurya power station",
+        "Capacity (MW)": 182.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.941243,
+          34.144823
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Mansurya power station",
+        "Capacity (MW)": 182.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.941243,
+          34.144823
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Mansurya power station",
+        "Capacity (MW)": 182.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.941243,
+          34.144823
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Mansurya power station",
+        "Capacity (MW)": 182.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.941243,
+          34.144823
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Mansurya power station",
+        "Capacity (MW)": 181.0,
+        "Status": "construction",
+        "Start year": 2027,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: waste heat from natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.941243,
+          34.144823
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Mansurya power station",
+        "Capacity (MW)": 181.0,
+        "Status": "construction",
+        "Start year": 2027,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: waste heat from natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.381865,
+          31.976629
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Najaf power station",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.381865,
+          31.976629
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Najaf power station",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.381865,
+          31.976629
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Najaf power station",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.381865,
+          31.976629
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Najaf power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.381865,
+          31.976629
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Najaf power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.381865,
+          31.976629
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Najaf power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.381865,
+          31.976629
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Najaf power station",
+        "Capacity (MW)": 132.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: waste heat from natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.766559,
+          30.574758
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Najibiya Gas power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.766559,
+          30.574758
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Najibiya Gas power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.766559,
+          30.574758
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Najibiya Gas power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.766559,
+          30.574758
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Najibiya Gas power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.766559,
+          30.574758
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Najibiya Thermal power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.766559,
+          30.574758
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Najibiya Thermal power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.195038,
+          31.037046
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Nasiriyah power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.195038,
+          31.037046
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Nasiriyah power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.195038,
+          31.037046
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Nasiriyah power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.195038,
+          31.037046
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Nasiriyah power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.066305,
+          35.681507
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "New Dibis power station",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: light fuel oil, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.066305,
+          35.681507
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "New Dibis power station",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: light fuel oil, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.066305,
+          35.681507
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "New Dibis power station",
+        "Capacity (MW)": 169.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: light fuel oil, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.066305,
+          35.681507
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "New Dibis power station",
+        "Capacity (MW)": 169.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil, fossil liquids: light fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.066305,
+          35.681507
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "New Dibis power station",
+        "Capacity (MW)": 160.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil, fossil liquids: light fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.406037,
+          30.54569
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "New Rumaila power station",
+        "Capacity (MW)": 520.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.406037,
+          30.54569
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "New Rumaila power station",
+        "Capacity (MW)": 520.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.406037,
+          30.54569
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "New Rumaila power station",
+        "Capacity (MW)": 520.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.406037,
+          30.54569
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "New Rumaila power station",
+        "Capacity (MW)": 185.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.406037,
+          30.54569
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "New Rumaila power station",
+        "Capacity (MW)": 185.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.406037,
+          30.54569
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "New Rumaila power station",
+        "Capacity (MW)": 160.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.406037,
+          30.54569
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "New Rumaila power station",
+        "Capacity (MW)": 185.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.406037,
+          30.54569
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "New Rumaila power station",
+        "Capacity (MW)": 185.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.406037,
+          30.54569
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "New Rumaila power station",
+        "Capacity (MW)": 160.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.406037,
+          30.54569
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "New Rumaila power station",
+        "Capacity (MW)": 185.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.406037,
+          30.54569
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "New Rumaila power station",
+        "Capacity (MW)": 185.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.406037,
+          30.54569
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "New Rumaila power station",
+        "Capacity (MW)": 160.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.141753,
+          31.89989
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "North Al Amarah Diesel power station",
+        "Capacity (MW)": 201.6,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.900994,
+          32.028886
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "North Al Diwaniyah Diesel power station",
+        "Capacity (MW)": 201.6,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.425154,
+          30.983989
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Qurna Diesel power station",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.252075,
+          30.576566
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "RPPG Power Plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.252075,
+          30.576566
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "RPPG Power Plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.252075,
+          30.576566
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "RPPG Power Plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.252075,
+          30.576566
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "RPPG Power Plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.252075,
+          30.576566
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "RPPG Power Plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.387955,
+          30.554475
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Rumaila Combined power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.387955,
+          30.554475
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Rumaila Combined power station",
+        "Capacity (MW)": 430.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.387955,
+          30.554475
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Rumaila power station",
+        "Capacity (MW)": 321.2,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.387955,
+          30.554475
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Rumaila power station",
+        "Capacity (MW)": 321.2,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.387955,
+          30.554475
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Rumaila power station",
+        "Capacity (MW)": 321.2,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.387955,
+          30.554475
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Rumaila power station",
+        "Capacity (MW)": 321.2,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.387955,
+          30.554475
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Rumaila power station",
+        "Capacity (MW)": 321.2,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.4653,
+          33.4178
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Sadr Gas power plant",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.4653,
+          33.4178
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Sadr Gas power plant",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.4653,
+          33.4178
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Sadr Gas power plant",
+        "Capacity (MW)": 160.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: waste heat from natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.4653,
+          33.4178
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Sadr Gas power plant",
+        "Capacity (MW)": 169.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.4653,
+          33.4178
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Sadr Gas power plant",
+        "Capacity (MW)": 169.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.4653,
+          33.4178
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Sadr Gas power plant",
+        "Capacity (MW)": 169.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: waste heat from natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.972092,
+          34.088318
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Salahuddin power station",
+        "Capacity (MW)": 630.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.972092,
+          34.088318
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Salahuddin power station",
+        "Capacity (MW)": 630.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.002827,
+          31.22555
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Saman Cement power plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.985088,
+          34.090186
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Samarra Diesel power plant",
+        "Capacity (MW)": 340.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.271197,
+          31.222926
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Samawah power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.271197,
+          31.222926
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Samawah power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.271197,
+          31.222926
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Samawah power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.271197,
+          31.222926
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Samawah power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.271197,
+          31.222926
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Samawah power station",
+        "Capacity (MW)": 250.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: waste heat from natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.734033,
+          30.477545
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Shatt Al-Basra power station",
+        "Capacity (MW)": 380.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.734033,
+          30.477545
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Shatt Al-Basra power station",
+        "Capacity (MW)": 380.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.734033,
+          30.477545
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Shatt Al-Basra power station",
+        "Capacity (MW)": 380.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.734033,
+          30.477545
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Shatt Al-Basra power station",
+        "Capacity (MW)": 380.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.734033,
+          30.477545
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Shatt Al-Basra power station",
+        "Capacity (MW)": 380.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.884351,
+          35.586688
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Sulaymaniyah power station",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.884351,
+          35.586688
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Sulaymaniyah power station",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.08464,
+          32.77497
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Wasset power station",
+        "Capacity (MW)": 330.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.08464,
+          32.77497
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Wasset power station",
+        "Capacity (MW)": 330.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.08464,
+          32.77497
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Wasset power station",
+        "Capacity (MW)": 330.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.08464,
+          32.77497
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Wasset power station",
+        "Capacity (MW)": 330.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.08464,
+          32.77497
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Wasset power station",
+        "Capacity (MW)": 610.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.08464,
+          32.77497
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Wasset power station",
+        "Capacity (MW)": 610.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.589106,
+          30.405654
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Zubair Field power station",
+        "Capacity (MW)": 185.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.589106,
+          30.405654
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Zubair Field power station",
+        "Capacity (MW)": 185.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.589106,
+          30.405654
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Zubair Field power station",
+        "Capacity (MW)": 185.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.589106,
+          30.405654
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Zubair Field power station",
+        "Capacity (MW)": 185.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0889,
+          31.4464
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Al-Muthanna Governorate solar project",
+        "Capacity (MW)": 10.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0344,
+          35.9829
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Erbil Governorate solar project",
+        "Capacity (MW)": 6.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.0256,
+          30.5504
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Iraq solar project",
+        "Capacity (MW)": 6.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.3368,
+          36.1484
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Nineveh Governorate solar project I",
+        "Capacity (MW)": 17.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.5394,
+          36.3241
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Nineveh Governorate solar project II",
+        "Capacity (MW)": 18.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8094,
+          35.8841
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Iraq",
+        "Plant / Project name": "Nineveh Governorate solar project III",
+        "Capacity (MW)": 19.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

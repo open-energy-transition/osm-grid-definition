@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.809,
+          17.1296
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Antigua and Barbuda",
+        "Plant / Project name": "Antigua solar project I",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.7407,
+          17.0557
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Antigua and Barbuda",
+        "Plant / Project name": "Antigua solar project II",
+        "Capacity (MW)": 4.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

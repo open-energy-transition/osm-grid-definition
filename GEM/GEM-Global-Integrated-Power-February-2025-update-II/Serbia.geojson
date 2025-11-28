@@ -1,0 +1,866 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4101,
+          43.9647
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Bajina Bašta hydroelectric plant",
+        "Capacity (MW)": 420.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4101,
+          43.9647
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Bajina Bašta Pumped Storage hydroelectric plant",
+        "Capacity (MW)": 614.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6546,
+          43.4705
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Bistrica Eps hydroelectric plant",
+        "Capacity (MW)": 102.0,
+        "Status": "operating",
+        "Start year": 1959,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6154,
+          43.1579
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Pirot hydroelectric plant",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1068,
+          44.368
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Zvornik hydroelectric plant",
+        "Capacity (MW)": 126.0,
+        "Status": "operating",
+        "Start year": 1955,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.885331,
+          45.267969
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Novi Sad power station",
+        "Capacity (MW)": 140.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.885331,
+          45.267969
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Novi Sad power station",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.679887,
+          44.831206
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Pančevo power station",
+        "Capacity (MW)": 189.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.415949,
+          45.35717
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Zrenjanin power station",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1989,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.293538,
+          44.480312
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Kolubara A power station",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 1956,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.293538,
+          44.480312
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Kolubara A power station",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 1957,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.293538,
+          44.480312
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Kolubara A power station",
+        "Capacity (MW)": 65.0,
+        "Status": "operating",
+        "Start year": 1961,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.293538,
+          44.480312
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Kolubara A power station",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.171605,
+          44.723674
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Kostolac power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.171605,
+          44.723674
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Kostolac power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.211403,
+          44.730686
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Kostolac power station",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.211403,
+          44.730686
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Kostolac power station",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 1991,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.212146,
+          44.72954
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Kostolac power station",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "supercritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.163148,
+          44.223826
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Morava power station",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.158418,
+          44.671341
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Nikola Tesla power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.158418,
+          44.671341
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Nikola Tesla power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.158418,
+          44.671341
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Nikola Tesla power station",
+        "Capacity (MW)": 329.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.158418,
+          44.671341
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Nikola Tesla power station",
+        "Capacity (MW)": 329.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.158418,
+          44.671341
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Nikola Tesla power station",
+        "Capacity (MW)": 340.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.158418,
+          44.671341
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Nikola Tesla power station",
+        "Capacity (MW)": 348.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.004848,
+          44.653833
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Nikola Tesla power station",
+        "Capacity (MW)": 650.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.004848,
+          44.653833
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Nikola Tesla power station",
+        "Capacity (MW)": 650.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3558,
+          45.2186
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Belo Blato wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1742,
+          44.9842
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Kosava wind farm",
+        "Capacity (MW)": 69.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.657,
+          45.06
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Kovacica wind farm",
+        "Capacity (MW)": 105.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6699,
+          44.5958
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Krivača wind farm",
+        "Capacity (MW)": 105.6,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9334,
+          44.9427
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Cibuk wind farm",
+        "Capacity (MW)": 158.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5837,
+          45.6426
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Kula wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7007,
+          45.2018
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Beocin Municipality South Backa Administrative District solar project",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2836,
+          45.8334
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Serbia",
+        "Plant / Project name": "City Of Kikinda North Banat Administrative District solar project",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0781,
+          45.0847
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Indjija Municipality Srem Administrative District solar project",
+        "Capacity (MW)": 5.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5426,
+          44.5534
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Kladovo Municipality Bor Administrative District solar project",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2566,
+          42.9545
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Kursumlija Municipality Toplica Administrative District solar project",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.052,
+          44.194
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Lapovo solar project",
+        "Capacity (MW)": 11.8,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7267,
+          42.956
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Lebane Municipality Jablanica Administrative District solar project",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8701,
+          45.387
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Serbia",
+        "Plant / Project name": "Temerin Municipality South Backa Administrative District solar project",
+        "Capacity (MW)": 6.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

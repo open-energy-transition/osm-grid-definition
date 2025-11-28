@@ -1,0 +1,2882 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.1142,
+          24.7836
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Hattawi Dam hydroelectric plant",
+        "Capacity (MW)": 250.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.2361,
+          23.9695
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Barakah nuclear power plant",
+        "Capacity (MW)": 1417.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.2361,
+          23.9695
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Barakah nuclear power plant",
+        "Capacity (MW)": 1417.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.2361,
+          23.9695
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Barakah nuclear power plant",
+        "Capacity (MW)": 1417.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.2361,
+          23.9695
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Barakah nuclear power plant",
+        "Capacity (MW)": 1417.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4434,
+          25.1588
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Dubai Waste Management Centre power station",
+        "Capacity (MW)": 190.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": null,
+        "Fuel": "bioenergy: refuse (municipal and industrial wastes)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6539,
+          25.3086
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Sharjah Waste-to-Energy Plant",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": null,
+        "Fuel": "bioenergy: refuse (municipal and industrial wastes)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4268,
+          25.1493
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Aweer H Power and Desalination Station",
+        "Capacity (MW)": 101.2,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4268,
+          25.1493
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Aweer H Power and Desalination Station",
+        "Capacity (MW)": 101.2,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4268,
+          25.1493
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Aweer H Power and Desalination Station",
+        "Capacity (MW)": 101.2,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4268,
+          25.1493
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Aweer H Power and Desalination Station",
+        "Capacity (MW)": 101.2,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4268,
+          25.1493
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Aweer H Power and Desalination Station",
+        "Capacity (MW)": 101.2,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4268,
+          25.1493
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Aweer H Power and Desalination Station",
+        "Capacity (MW)": 101.2,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4268,
+          25.1493
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Aweer H Power and Desalination Station",
+        "Capacity (MW)": 140.3,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4268,
+          25.1493
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Aweer H Power and Desalination Station",
+        "Capacity (MW)": 140.3,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4268,
+          25.1493
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Aweer H Power and Desalination Station",
+        "Capacity (MW)": 140.3,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4268,
+          25.1493
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Aweer H Power and Desalination Station",
+        "Capacity (MW)": 242.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4268,
+          25.1493
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Aweer H Power and Desalination Station",
+        "Capacity (MW)": 242.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4268,
+          25.1493
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Aweer H Power and Desalination Station",
+        "Capacity (MW)": 242.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4268,
+          25.1493
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Aweer H Power and Desalination Station",
+        "Capacity (MW)": 242.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4268,
+          25.1493
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Aweer H Power and Desalination Station",
+        "Capacity (MW)": 271.7,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4268,
+          25.1493
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Aweer H Power and Desalination Station",
+        "Capacity (MW)": 271.7,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4268,
+          25.1493
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Aweer H Power and Desalination Station",
+        "Capacity (MW)": 271.7,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.956615,
+          25.796913
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Nakheel power station",
+        "Capacity (MW)": 187.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.956615,
+          25.796913
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Nakheel power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.956615,
+          25.796913
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Nakheel power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.474722,
+          25.447778
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al-Zawra power plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.474722,
+          25.447778
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al-Zawra power plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.155846,
+          25.044801
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Emirates Global Aluminum Smelter power station",
+        "Capacity (MW)": 2350.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.155846,
+          25.044801
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Emirates Global Aluminum Smelter power station",
+        "Capacity (MW)": 640.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.3728,
+          25.31416
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Fujairah F1 Integrated Water and power plant",
+        "Capacity (MW)": 882.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.370353,
+          25.301931
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Fujairah F2 Integrated Water and power plant",
+        "Capacity (MW)": 867.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.370353,
+          25.301931
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Fujairah F2 Integrated Water and power plant",
+        "Capacity (MW)": 432.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.370353,
+          25.301931
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Fujairah F2 Integrated Water and power plant",
+        "Capacity (MW)": 867.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.478473,
+          25.459488
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Hamriyah IPP power station",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.478473,
+          25.459488
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Hamriyah IPP power station",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.478473,
+          25.459488
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Hamriyah IPP power station",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.478473,
+          25.459488
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Hamriyah power station",
+        "Capacity (MW)": 126.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.478473,
+          25.459488
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Hamriyah power station",
+        "Capacity (MW)": 126.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.478473,
+          25.459488
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Hamriyah power station",
+        "Capacity (MW)": 126.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.478473,
+          25.459488
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Hamriyah power station",
+        "Capacity (MW)": 126.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.915494,
+          24.911516
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Hassyan Clean-Coal Power Project",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.915494,
+          24.911516
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Hassyan Clean-Coal Power Project",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.915494,
+          24.911516
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Hassyan Clean-Coal Power Project",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.915494,
+          24.911516
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Hassyan Clean-Coal Power Project",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1235,
+          25.0659
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Jebel Ali D Power and Desalination Station",
+        "Capacity (MW)": 1027.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.12033,
+          25.06411
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Jebel Ali E Power and Desalination Station",
+        "Capacity (MW)": 616.0,
+        "Status": "operating",
+        "Start year": 1989,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1151,
+          25.0553
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Jebel Ali G Power and Desalination Station",
+        "Capacity (MW)": 818.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1116,
+          25.0493
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Jebel Ali L Power and Desalination Station",
+        "Capacity (MW)": 969.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1116,
+          25.0493
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Jebel Ali L Power and Desalination Station",
+        "Capacity (MW)": 1432.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.105557,
+          25.046427
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Jebel Ali M Power and Desalination Station",
+        "Capacity (MW)": 728.3,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.105557,
+          25.046427
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Jebel Ali M Power and Desalination Station",
+        "Capacity (MW)": 728.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.105557,
+          25.046427
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Jebel Ali M Power and Desalination Station",
+        "Capacity (MW)": 728.3,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.105557,
+          25.046427
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Jebel Ali M Power and Desalination Station",
+        "Capacity (MW)": 700.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3705,
+          25.3527
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Layyah power station",
+        "Capacity (MW)": 345.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3705,
+          25.3527
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Layyah power station",
+        "Capacity (MW)": 345.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3705,
+          25.3527
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Layyah power station",
+        "Capacity (MW)": 336.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: waste heat from natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3705,
+          25.3527
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Layyah power station",
+        "Capacity (MW)": 123.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3705,
+          25.3527
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Layyah power station",
+        "Capacity (MW)": 123.0,
+        "Status": "operating",
+        "Start year": 1994,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3705,
+          25.3527
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Layyah power station",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3705,
+          25.3527
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Layyah power station",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3705,
+          25.3527
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Layyah power station",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3705,
+          25.3527
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Layyah power station",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.447,
+          24.121
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Mirfa Independent Water and Power Project",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.447,
+          24.121
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Mirfa Independent Water and Power Project",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.447,
+          24.121
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Mirfa Independent Water and Power Project",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.447,
+          24.121
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Mirfa Independent Water and Power Project",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.447,
+          24.121
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Mirfa Independent Water and Power Project",
+        "Capacity (MW)": 1337.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.73181,
+          24.13497
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Ruwais General Utilities Plant",
+        "Capacity (MW)": 162.5,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.73181,
+          24.13497
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Ruwais General Utilities Plant",
+        "Capacity (MW)": 162.5,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.73181,
+          24.13497
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Ruwais General Utilities Plant",
+        "Capacity (MW)": 162.5,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.73181,
+          24.13497
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Ruwais General Utilities Plant",
+        "Capacity (MW)": 162.5,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.73181,
+          24.13497
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Ruwais General Utilities Plant",
+        "Capacity (MW)": 230.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: waste heat from natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.569724,
+          24.165085
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Shuweihat S1 power plant",
+        "Capacity (MW)": 1615.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.569199,
+          24.156936
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Shuweihat S2 power plant",
+        "Capacity (MW)": 820.5,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.569199,
+          24.156936
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Shuweihat S2 power plant",
+        "Capacity (MW)": 820.5,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.679744,
+          24.760381
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Taweelah A1 power plant",
+        "Capacity (MW)": 1672.5,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.686594,
+          24.76581
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Taweelah B Power and Desalination Station",
+        "Capacity (MW)": 337.9,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.686594,
+          24.76581
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Taweelah B Power and Desalination Station",
+        "Capacity (MW)": 1041.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.686594,
+          24.76581
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Taweelah B Power and Desalination Station",
+        "Capacity (MW)": 146.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.686594,
+          24.76581
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Taweelah B Power and Desalination Station",
+        "Capacity (MW)": 146.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.686594,
+          24.76581
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Taweelah B Power and Desalination Station",
+        "Capacity (MW)": 146.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.686594,
+          24.76581
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Taweelah B Power and Desalination Station",
+        "Capacity (MW)": 146.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.686594,
+          24.76581
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Taweelah B Power and Desalination Station",
+        "Capacity (MW)": 146.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.686594,
+          24.76581
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Taweelah B Power and Desalination Station",
+        "Capacity (MW)": 146.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.487617,
+          24.434804
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Umm Al Nar West and East Integrated Water and power plant",
+        "Capacity (MW)": 1706.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4611,
+          25.3732
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Wasit power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4611,
+          25.3732
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Wasit power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4611,
+          25.3732
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Wasit power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4611,
+          25.3732
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Wasit power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4611,
+          25.3732
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Wasit power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4611,
+          25.3732
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Wasit power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4611,
+          25.3732
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Wasit power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4611,
+          25.3732
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Wasit power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4611,
+          25.3732
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Wasit power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4611,
+          25.3732
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Wasit power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4611,
+          25.3732
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Wasit power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4611,
+          25.3732
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Wasit power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5611,
+          24.3422
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Sir Bani Yas Island wind farm",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.2919,
+          24.5255
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Delma Island wind farm",
+        "Capacity (MW)": 27.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.8993,
+          23.9335
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Sila wind farm",
+        "Capacity (MW)": 27.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.8501,
+          24.7167
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Taweelah solar farm",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6536,
+          25.3246
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Emerge-SNOC solar farm",
+        "Capacity (MW)": 60.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.383,
+          24.759
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Mohammed Bin Rashid Al Maktoum Solar Park",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.385,
+          24.747
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Mohammed Bin Rashid Al Maktoum Solar Park",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.421,
+          24.755
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Mohammed Bin Rashid Al Maktoum Solar Park",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.421,
+          24.737
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Mohammed Bin Rashid Al Maktoum Solar Park",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4427,
+          24.7493
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Mohammed Bin Rashid Al Maktoum Solar Park",
+        "Capacity (MW)": 417.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Solar Thermal",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.443,
+          24.7497
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Mohammed Bin Rashid Al Maktoum Solar Park",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Solar Thermal",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.443,
+          24.7497
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Mohammed Bin Rashid Al Maktoum Solar Park",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.443,
+          24.7497
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Mohammed Bin Rashid Al Maktoum Solar Park",
+        "Capacity (MW)": 183.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Solar Thermal",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4111,
+          24.7268
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Mohammed Bin Rashid Al Maktoum Solar Park",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4111,
+          24.7268
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Mohammed Bin Rashid Al Maktoum Solar Park",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4111,
+          24.7268
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Mohammed Bin Rashid Al Maktoum Solar Park",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4321,
+          24.5361
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Noor Abu Dhabi solar farm",
+        "Capacity (MW)": 1177.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.7146,
+          23.5719
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Shams 1 solar farm",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Solar Thermal",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.257,
+          25.0722
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Shams Dubai solar farm",
+        "Capacity (MW)": 299.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.6905,
+          24.4011
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Abu Dhabi solar project I",
+        "Capacity (MW)": 17.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.6186,
+          24.4886
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Abu Dhabi solar project II",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.7957,
+          24.3227
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Ain solar project",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.6388,
+          24.4529
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Matar Abu Dhabi solar project",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2867,
+          24.8574
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Selal/Madinat Latifa solar project",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.6859,
+          24.7498
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Taweelah Abu Dhabi solar project I",
+        "Capacity (MW)": 15.1,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.6745,
+          24.7584
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Al Taweelah Abu Dhabi solar project II",
+        "Capacity (MW)": 16.9,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2022,
+          25.1173
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Dubai solar project I",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0961,
+          25.0316
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Dubai solar project II",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4499,
+          25.1305
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Dubai solar project III",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4475,
+          25.1765
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Dubai solar project IV",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0575,
+          24.9192
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Dubai solar project V",
+        "Capacity (MW)": 7.6,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4187,
+          25.033
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Dubai solar project VI",
+        "Capacity (MW)": 4.9,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1284,
+          24.8821
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Dubai solar project VII",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.6108,
+          24.435
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Masdar City solar farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.373,
+          24.7655
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Mohammed Bin Rashid Al Maktoum Solar Park",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.739,
+          24.1442
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Mshayrif Abu Dhabi solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5694,
+          24.4681
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Nahil Al Ain solar project",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5624,
+          24.336
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Sir Bani Yas Al Dhafrah Region solar project",
+        "Capacity (MW)": 19.1,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4404,
+          24.3928
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "United Arab Emirates",
+        "Plant / Project name": "Sweihan Al Ain solar project",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

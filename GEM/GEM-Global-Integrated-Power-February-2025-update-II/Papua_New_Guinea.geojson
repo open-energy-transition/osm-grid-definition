@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9804,
+          -6.2511
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Papua New Guinea",
+        "Plant / Project name": "Ramu 1 hydroelectric plant",
+        "Capacity (MW)": 77.0,
+        "Status": "operating",
+        "Start year": 1991,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.6464,
+          -3.1245
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Papua New Guinea",
+        "Plant / Project name": "Lihir Island geothermal power plant",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.14278,
+          -9.43244
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Papua New Guinea",
+        "Plant / Project name": "Kanudi power station",
+        "Capacity (MW)": 58.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.2117,
+          -9.088
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Papua New Guinea",
+        "Plant / Project name": "Daru solar farm",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

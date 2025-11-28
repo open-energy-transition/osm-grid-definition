@@ -1,0 +1,614 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7052,
+          22.0091
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Cuba",
+        "Plant / Project name": "Ciro Redondo power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids), bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.871003,
+          19.995485
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Cuba",
+        "Plant / Project name": "Antonio Maceo Thermoelectric Power Plant",
+        "Capacity (MW)": 95.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: crude oil, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.871003,
+          19.995485
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Cuba",
+        "Plant / Project name": "Antonio Maceo Thermoelectric Power Plant",
+        "Capacity (MW)": 95.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: crude oil, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.871003,
+          19.995485
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Cuba",
+        "Plant / Project name": "Antonio Maceo Thermoelectric Power Plant",
+        "Capacity (MW)": 95.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: crude oil, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0171,
+          23.1822
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Cuba",
+        "Plant / Project name": "Boca de Jaruco power station",
+        "Capacity (MW)": 313.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.53088,
+          22.1999
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Cuba",
+        "Plant / Project name": "Camilo Cienfuegos power station",
+        "Capacity (MW)": 84.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.972022,
+          20.681826
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Cuba",
+        "Plant / Project name": "Central Eléctrica Diésel Moa power station",
+        "Capacity (MW)": 184.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.271583,
+          21.567037
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Cuba",
+        "Plant / Project name": "CT 10 de Octubre power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: crude oil, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.271583,
+          21.567037
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Cuba",
+        "Plant / Project name": "CT 10 de Octubre power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: crude oil, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.455671,
+          22.160736
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Cuba",
+        "Plant / Project name": "CTE Carlos Manuel de Céspedes power station",
+        "Capacity (MW)": 158.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: crude oil, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.596748,
+          20.727357
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Cuba",
+        "Plant / Project name": "CTE Lidio Ramón Pérez power station",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: crude oil, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.74887,
+          23.019234
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Cuba",
+        "Plant / Project name": "CTE Máximo Gómez power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: crude oil, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.74887,
+          23.019234
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Cuba",
+        "Plant / Project name": "CTE Máximo Gómez power station",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: crude oil, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35898,
+          23.125426
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Cuba",
+        "Plant / Project name": "Otto Parellada power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.752115,
+          23.01663
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Cuba",
+        "Plant / Project name": "Powership Ela Sultan power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "ICCC",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.352993,
+          23.122239
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Cuba",
+        "Plant / Project name": "Powership Suheyla Sultan power station",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "ICCC",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.268878,
+          23.087568
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Cuba",
+        "Plant / Project name": "Varadero power station",
+        "Capacity (MW)": 173.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3998,
+          21.2681
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Cuba",
+        "Plant / Project name": "La Herradura wind farm",
+        "Capacity (MW)": 51.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3222,
+          21.2359
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Cuba",
+        "Plant / Project name": "La Herradura wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1325,
+          21.1498
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Cuba",
+        "Plant / Project name": "Gibara wind farm",
+        "Capacity (MW)": 5.1,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1482,
+          21.1661
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Cuba",
+        "Plant / Project name": "Gibara wind farm",
+        "Capacity (MW)": 4.5,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.724,
+          22.946
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cuba",
+        "Plant / Project name": "Mariel solar farm",
+        "Capacity (MW)": 38.7,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8952,
+          21.4107
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cuba",
+        "Plant / Project name": "Camaguey solar farm",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2379,
+          23.0498
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cuba",
+        "Plant / Project name": "Cardenas solar farm",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.238,
+          23.05
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cuba",
+        "Plant / Project name": "Cuba-UAE solar project",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.462,
+          21.7439
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cuba",
+        "Plant / Project name": "Guasimal solar farm",
+        "Capacity (MW)": 4.4,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6327,
+          22.4024
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cuba",
+        "Plant / Project name": "Pinar del Rio 1 solar project",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6344,
+          22.4058
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cuba",
+        "Plant / Project name": "Pinar del Río 2 solar project",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.713,
+          22.254
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cuba",
+        "Plant / Project name": "Yaguaramas solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

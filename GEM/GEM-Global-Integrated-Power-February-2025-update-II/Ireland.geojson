@@ -1,0 +1,3911 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6131,
+          52.7056
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Ardnacrusha hydroelectric plant",
+        "Capacity (MW)": 85.0,
+        "Status": "operating",
+        "Start year": 1929,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.397,
+          53.031
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Turlough Hill hydroelectric plant",
+        "Capacity (MW)": 292.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2004,
+          53.3387
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Dublin Waste-to-Energy power station",
+        "Capacity (MW)": 68.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": null,
+        "Fuel": "bioenergy: refuse (municipal and industrial wastes)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2362,
+          51.8347
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Aghada power station",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2362,
+          51.8347
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Aghada power station",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2362,
+          51.8347
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Aghada power station",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2362,
+          51.8347
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Aghada power station",
+        "Capacity (MW)": 431.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.08705,
+          53.29034
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Cushaling power station",
+        "Capacity (MW)": 56.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.08705,
+          53.29034
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Cushaling power station",
+        "Capacity (MW)": 56.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2049,
+          53.34
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Dublin Bay power station",
+        "Capacity (MW)": 405.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.44026,
+          53.32254
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Grange Castle Business Park power station",
+        "Capacity (MW)": 47.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "ICCC",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.44026,
+          53.32254
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Grange Castle Business Park power station",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.44026,
+          53.32254
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Grange Castle Business Park power station",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.44026,
+          53.32254
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Grange Castle Business Park power station",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.44026,
+          53.32254
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Grange Castle Business Park power station",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.44026,
+          53.32254
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Grange Castle Business Park power station",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.44026,
+          53.32254
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Grange Castle Business Park power station",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.44026,
+          53.32254
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Grange Castle Business Park power station",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.44026,
+          53.32254
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Grange Castle Business Park power station",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.991,
+          52.281
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Great Island power station",
+        "Capacity (MW)": 460.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3261,
+          53.4119
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Huntstown power station",
+        "Capacity (MW)": 342.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3261,
+          53.4119
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Huntstown power station",
+        "Capacity (MW)": 400.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3261,
+          53.4119
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Huntstown power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2111,
+          53.3502
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "North Wall power station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2111,
+          53.3502
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "North Wall power station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2111,
+          53.3502
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "North Wall power station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2111,
+          53.3502
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "North Wall power station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2111,
+          53.3502
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "North Wall power station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2111,
+          53.3502
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "North Wall power station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1867,
+          53.3396
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Poolbeg power station",
+        "Capacity (MW)": 245.0,
+        "Status": "operating",
+        "Start year": 1994,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1867,
+          53.3396
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Poolbeg power station",
+        "Capacity (MW)": 245.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1867,
+          53.3396
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Poolbeg power station",
+        "Capacity (MW)": 65.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.213056,
+          53.359139
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Rhode power station",
+        "Capacity (MW)": 52.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.213056,
+          53.359139
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Rhode power station",
+        "Capacity (MW)": 52.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2048617,
+          53.338684
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Ringsend Flexgen power station",
+        "Capacity (MW)": 65.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0596,
+          52.6324
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Sealrock power station",
+        "Capacity (MW)": 85.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0596,
+          52.6324
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Sealrock power station",
+        "Capacity (MW)": 85.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0393,
+          53.2723
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Shannonbridge power station",
+        "Capacity (MW)": 33.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0393,
+          53.2723
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Shannonbridge power station",
+        "Capacity (MW)": 33.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0393,
+          53.2723
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Shannonbridge power station",
+        "Capacity (MW)": 33.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0393,
+          53.2723
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Shannonbridge power station",
+        "Capacity (MW)": 33.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0393,
+          53.2723
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Shannonbridge power station",
+        "Capacity (MW)": 33.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0393,
+          53.2723
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Shannonbridge power station",
+        "Capacity (MW)": 33.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0393,
+          53.2723
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Shannonbridge power station",
+        "Capacity (MW)": 33.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0393,
+          53.2723
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Shannonbridge power station",
+        "Capacity (MW)": 33.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.220422,
+          54.193458
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Tawnaghmore power station",
+        "Capacity (MW)": 52.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.220422,
+          54.193458
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Tawnaghmore power station",
+        "Capacity (MW)": 52.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.381,
+          53.1658
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Tynagh power station",
+        "Capacity (MW)": 404.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2511,
+          51.8161
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Whitegate power station",
+        "Capacity (MW)": 445.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.424255,
+          52.60795
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Moneypoint power station",
+        "Capacity (MW)": 305.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.424255,
+          52.60795
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Moneypoint power station",
+        "Capacity (MW)": 305.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.424255,
+          52.60795
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Moneypoint power station",
+        "Capacity (MW)": 305.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2388,
+          52.5357
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Ballywater wind farm",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2388,
+          52.5357
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Ballywater wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3589,
+          54.7146
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Corkermore wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4438,
+          55.2012
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Drumlough Hill wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9242,
+          53.1681
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Meenwaun wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9174,
+          53.8852
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Teevurcher wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2748,
+          54.7058
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Clogheravaddy wind farm",
+        "Capacity (MW)": 11.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8562,
+          54.2145
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Dunneill wind farm",
+        "Capacity (MW)": 11.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4896,
+          54.693
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Airoshin wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5303,
+          52.6475
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "An Cnoc wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2439,
+          52.7836
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Booltiagh wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2439,
+          52.7836
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Booltiagh wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3601,
+          52.1801
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Carnsore wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8939,
+          54.8679
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Culliagh wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1255,
+          54.228
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Tullynamoyle wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7318,
+          54.1341
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Tullynamoyle wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5892,
+          52.3096
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Lee Strand wind farm",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4931,
+          52.6762
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Moanmore wind farm",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.507,
+          52.6579
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Ballybay wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4406,
+          55.199
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Beam Hill wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5397,
+          52.3641
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Clahane wind farm",
+        "Capacity (MW)": 41.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5397,
+          52.3641
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Clahane wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1985,
+          52.7807
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Letteragh wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6141,
+          54.1401
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Snugborough wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4863,
+          52.6853
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Tullabrack wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9378,
+          54.6976
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Barnesmore wind farm",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9352,
+          54.6869
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Barnesmore wind farm",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8793,
+          54.8852
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Cark wind farm",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9381,
+          53.9449
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Gartnaneane wind farm",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5652,
+          52.6806
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Gibbet Hill wind farm",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1044,
+          52.5216
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Grouse Lodge wind farm",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5383,
+          52.2904
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Muingnaminnane wind farm",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5996,
+          52.3145
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Tursillagh wind farm",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1876,
+          54.5257
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Acres wind farm",
+        "Capacity (MW)": 17.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4291,
+          52.6094
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Moneypoint wind farm",
+        "Capacity (MW)": 17.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8607,
+          54.0833
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Old Mill wind farm",
+        "Capacity (MW)": 17.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2725,
+          52.2575
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Coollegrean wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1362,
+          52.0116
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Currragh wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.216,
+          55.0603
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Gweedore wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4208,
+          52.5559
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Leanamore wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3575,
+          53.9002
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Raheen Barr wind farm",
+        "Capacity (MW)": 19.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0675,
+          52.8159
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Gortahile wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1488,
+          52.3844
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Tournafulla wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7764,
+          52.0813
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Woodhouse wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1336,
+          54.1167
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Tullynahaw wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.901,
+          52.0701
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Carrigcannon wind farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.213,
+          52.3433
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Knockawarriga wind farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.885,
+          53.9471
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Taghart wind farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5233,
+          52.6549
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Ballycadden wind farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2569,
+          52.7625
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Glenmore wind farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7048,
+          52.7624
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Lisheen wind farm",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6855,
+          52.7539
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Lisheen wind farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1803,
+          51.6663
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Killaveenoge wind farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7988,
+          54.1991
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Kingsmountain wind farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1331,
+          52.2552
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Taurbeg wind farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1983,
+          54.1486
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Garvagh Glebe wind farm",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5918,
+          52.2151
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Richfield wind farm",
+        "Capacity (MW)": 27.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0563,
+          52.3297
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Dromdeveen wind farm",
+        "Capacity (MW)": 28.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2845,
+          52.8372
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Slievecallan East wind farm",
+        "Capacity (MW)": 28.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3209,
+          51.9285
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Glanlee wind farm",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1239,
+          54.0018
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Mountain Lodge wind farm",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3636,
+          55.1295
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Sorne wind farm",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5612,
+          52.2905
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Castlepook wind farm",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3495,
+          51.9339
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Inchincoosh wind farm",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2927,
+          52.4434
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Athea wind farm",
+        "Capacity (MW)": 34.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.102,
+          52.1772
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Barranafaddock wind farm",
+        "Capacity (MW)": 34.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0607,
+          52.6418
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Glenough wind farm",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2591,
+          53.3061
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Knockalough wind farm",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3008,
+          52.7938
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Raheenleagh wind farm",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3152,
+          52.1623
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Scartaglen wind farm",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4567,
+          52.3094
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Glanaruddery wind farm",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0905,
+          52.6244
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Glencarbry wind farm",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7311,
+          52.9346
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Monaincha wind farm",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1493,
+          52.7786
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Boolynagleragh wind farm",
+        "Capacity (MW)": 37.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9573,
+          54.1392
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Carrowleagh wind farm",
+        "Capacity (MW)": 37.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6396,
+          52.5896
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Castledockrell wind farm",
+        "Capacity (MW)": 41.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1362,
+          52.0116
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Coomacheo wind farm",
+        "Capacity (MW)": 41.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6761,
+          52.7837
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Bruckana wind farm",
+        "Capacity (MW)": 42.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1405,
+          52.6572
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Garracummer wind farm",
+        "Capacity (MW)": 43.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9029,
+          53.7666
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Magheramore wind farm",
+        "Capacity (MW)": 43.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5469,
+          52.3281
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Knocknagoum wind farm",
+        "Capacity (MW)": 44.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2091,
+          53.2865
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Leitir Guingaid wind farm",
+        "Capacity (MW)": 44.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3254,
+          51.9326
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Kilgarvan wind farm",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2845,
+          52.8372
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Slievecallan West wind farm",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4416,
+          52.3364
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Cloghboola wind farm",
+        "Capacity (MW)": 46.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3758,
+          51.6319
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Ballybane wind farm",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1667,
+          52.6043
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Cappawhite A wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9063,
+          52.0457
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Boggeragh wind farm",
+        "Capacity (MW)": 57.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0647,
+          53.7277
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Sliabh Bawn wind farm",
+        "Capacity (MW)": 58.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.915,
+          52.0379
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Knockduff wind farm",
+        "Capacity (MW)": 65.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3693,
+          53.358
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Galway wind farm",
+        "Capacity (MW)": 108.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8792,
+          54.8869
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Meentycat wind farm",
+        "Capacity (MW)": 72.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2464,
+          53.2744
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Mount Lucas wind farm",
+        "Capacity (MW)": 84.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5736,
+          52.4836
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Mount Callan wind farm",
+        "Capacity (MW)": 87.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1004,
+          52.2681
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Knockacummer wind farm",
+        "Capacity (MW)": 88.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2864,
+          52.2416
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Cordal wind farm",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9456,
+          54.6621
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Meenadreen wind farm",
+        "Capacity (MW)": 95.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3136,
+          51.8721
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Grousemount wind farm",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3152,
+          53.3466
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Gusta Gaoithe wind farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3215,
+          52.1717
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Cahercullenagh wind farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3234,
+          52.2038
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Cloghaneleskirt wind farm",
+        "Capacity (MW)": 11.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8809,
+          53.1853
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Derrinlough wind farm",
+        "Capacity (MW)": 105.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1237,
+          52.0149
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Gneeves wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.121,
+          52.0017
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Caherdowney wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2779,
+          52.6867
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Crossmore wind farm",
+        "Capacity (MW)": 15.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2779,
+          52.6867
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Crossmore wind farm",
+        "Capacity (MW)": 10.2,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4556,
+          53.6547
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Garballagh Lower solar farm",
+        "Capacity (MW)": 95.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4173,
+          53.4933
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Harlockstown solar farm",
+        "Capacity (MW)": 34.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2384,
+          51.9375
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Lysaghtstown solar farm",
+        "Capacity (MW)": 131.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3867,
+          53.4731
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Muckerstown solar farm",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3869,
+          52.612
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Tullabeg solar farm",
+        "Capacity (MW)": 81.6,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.516,
+          52.363
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Ballydine solar project",
+        "Capacity (MW)": 7.3,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6928,
+          52.2083
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "County Cork solar project I",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.16,
+          51.8431
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "County Cork solar project II",
+        "Capacity (MW)": 4.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8961,
+          51.9517
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "County Cork solar project III",
+        "Capacity (MW)": 5.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3055,
+          52.36
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "County Kilkenny solar project",
+        "Capacity (MW)": 3.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4295,
+          53.8317
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "County Louth solar project I",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3897,
+          53.9321
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "County Louth solar project II",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2816,
+          53.826
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "County Louth solar project III",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4328,
+          53.8332
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "County Louth solar project IV",
+        "Capacity (MW)": 6.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7289,
+          53.726
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "County Meath solar project",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9017,
+          54.2656
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "County Monaghan solar project",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.628,
+          52.4709
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "County Wexford solar project I",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7319,
+          52.3002
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "County Wexford solar project II",
+        "Capacity (MW)": 12.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7306,
+          52.2947
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "County Wexford solar project III",
+        "Capacity (MW)": 9.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.269,
+          52.6492
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "County Wexford solar project IV",
+        "Capacity (MW)": 5.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.748,
+          52.306
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "County Wexford solar project V",
+        "Capacity (MW)": 12.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.567,
+          51.728
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Dunderrow solar project",
+        "Capacity (MW)": 5.6,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4241,
+          53.5757
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Hilltown (Bord Gáis) solar farm",
+        "Capacity (MW)": 19.3,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1084,
+          52.9958
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Millvale (Bord Gáis) solar farm",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8374,
+          52.2605
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "New Ross Municipal District County Wexford solar project I",
+        "Capacity (MW)": 6.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7449,
+          52.3261
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "New Ross Municipal District County Wexford solar project II",
+        "Capacity (MW)": 6.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7382,
+          52.3135
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "New Ross Municipal District County Wexford solar project III",
+        "Capacity (MW)": 15.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.151,
+          52.825
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ireland",
+        "Plant / Project name": "Templerainy solar project",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

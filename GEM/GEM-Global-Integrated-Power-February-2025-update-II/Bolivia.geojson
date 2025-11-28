@@ -1,0 +1,656 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.2625,
+          -17.3138
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Misicuni hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.8232,
+          -17.1916
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Santa Isabel hydroelectric plant",
+        "Capacity (MW)": 91.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.5409,
+          -17.2424
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Bulo Bulo power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.5275,
+          -17.2125
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Carrasco power station",
+        "Capacity (MW)": 62.5,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.5275,
+          -17.2125
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Carrasco power station",
+        "Capacity (MW)": 62.5,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.561432,
+          -21.694171
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Del Sur power station",
+        "Capacity (MW)": 127.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.561432,
+          -21.694171
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Del Sur power station",
+        "Capacity (MW)": 127.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.561432,
+          -21.694171
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Del Sur power station",
+        "Capacity (MW)": 127.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.561432,
+          -21.694171
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Del Sur power station",
+        "Capacity (MW)": 127.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1811,
+          -16.5653
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "El Alto power station",
+        "Capacity (MW)": 52.8,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.514506,
+          -17.196321
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Entre Ríos power station",
+        "Capacity (MW)": 136.8,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.514506,
+          -17.196321
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Entre Ríos power station",
+        "Capacity (MW)": 136.8,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.514506,
+          -17.196321
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Entre Ríos power station",
+        "Capacity (MW)": 136.8,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1521,
+          -17.7875
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Guaracachi power station",
+        "Capacity (MW)": 207.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1521,
+          -17.7875
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Guaracachi power station",
+        "Capacity (MW)": 62.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.889874,
+          -19.143606
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Mutún power station",
+        "Capacity (MW)": 108.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.146784,
+          -17.53523
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Warnes power station",
+        "Capacity (MW)": 132.5,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.146784,
+          -17.53523
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Warnes power station",
+        "Capacity (MW)": 132.5,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.146784,
+          -17.53523
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Warnes power station",
+        "Capacity (MW)": 132.5,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.146784,
+          -17.53523
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Warnes power station",
+        "Capacity (MW)": 132.5,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1006,
+          -18.369
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "El Dorado wind farm",
+        "Capacity (MW)": 54.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.3659,
+          -17.6501
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Qollpana wind farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.3659,
+          -17.6501
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Qollpana wind farm",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.832,
+          -17.8124
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "San Julián wind farm",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1289,
+          -17.5256
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Warnes wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.4383,
+          -17.7717
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Oruru Photovoltaic Solar Plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.4383,
+          -17.7717
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Oruru Photovoltaic Solar Plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.7696,
+          -20.5766
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Uyuni PV Solar Plant",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.8468,
+          -17.2902
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Municipio Okinawa Uno Provincia Warnes solar project",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.4383,
+          -17.7717
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Oruru Photovoltaic Solar Plant",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.1001,
+          -21.8375
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bolivia",
+        "Plant / Project name": "Yunchará solar farm",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

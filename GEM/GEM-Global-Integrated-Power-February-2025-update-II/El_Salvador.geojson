@@ -1,0 +1,992 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5602,
+          13.6231
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "15 De Septiembre hydroelectric plant",
+        "Capacity (MW)": 180.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7579,
+          13.9908
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "5 De Noviembre hydroelectric plant",
+        "Capacity (MW)": 179.0,
+        "Status": "operating",
+        "Start year": 1953,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9014,
+          13.9386
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Cerrón Grande hydroelectric plant",
+        "Capacity (MW)": 173.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8174,
+          13.9202
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Ahuachapán geothermal power plant",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8174,
+          13.9202
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Ahuachapán geothermal power plant",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8174,
+          13.9202
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Ahuachapán geothermal power plant",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5073,
+          13.5248
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Berlín geothermal power plant",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8173,
+          13.9200001
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Ahuachapán geothermal power plant",
+        "Capacity (MW)": 6.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1517,
+          13.4395
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Chaparrastique power station",
+        "Capacity (MW)": 62.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1991,
+          13.8003
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Ingenio El Ángel power station",
+        "Capacity (MW)": 95.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7822,
+          13.584
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Ingenio Jiboa power station",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7055,
+          13.7276
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Izalco power station",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.200902,
+          13.779224
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Nejapa Power power station",
+        "Capacity (MW)": 143.9,
+        "Status": "operating",
+        "Start year": 1995,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.824761,
+          13.582685
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Orazul Acajutla power station",
+        "Capacity (MW)": 99.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.824761,
+          13.582685
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Orazul Acajutla power station",
+        "Capacity (MW)": 51.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.824761,
+          13.582685
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Orazul Acajutla power station",
+        "Capacity (MW)": 82.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.828073,
+          13.583385
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Pacífico Acajutla power station",
+        "Capacity (MW)": 378.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.418638,
+          13.72448
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Talnique power station",
+        "Capacity (MW)": 51.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.418638,
+          13.72448
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Talnique power station",
+        "Capacity (MW)": 51.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.824371,
+          13.563753
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Termopuerto power station",
+        "Capacity (MW)": 73.6,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4893,
+          14.3713
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Ventus Wind Project",
+        "Capacity (MW)": 54.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5391,
+          13.3111
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Capella Solar Park",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5391,
+          13.3111
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Capella Solar Park",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2675,
+          13.6703
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Holcim Cement Plant solar farm",
+        "Capacity (MW)": 21.4,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.814,
+          13.584
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Los Remedios solar farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.005,
+          13.455
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Providencia Solar Park",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.011,
+          13.451
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Providencia Solar Park",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4238,
+          14.0411
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Anchor solar farm",
+        "Capacity (MW)": 6.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.012,
+          13.366
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Bósforo 1 Solar Project",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9653,
+          13.2035
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Bósforo 1 Solar Project",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8237,
+          13.5482
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Bósforo 1 Solar Project",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5311,
+          13.3402
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Bósforo 2 Solar Project",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5083,
+          14.017
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Bósforo 2 Solar Project",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6501,
+          13.9994
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Bósforo 2 Solar Project",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.761,
+          13.6359
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Bósforo 2 Solar Project",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1817,
+          13.9339
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Bósforo 3 Solar Project",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2082,
+          13.4745
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Cangrejera solar farm",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1593,
+          13.7137
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Ilopango solar farm",
+        "Capacity (MW)": 4.1,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4171,
+          13.7131
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "La Independencia solar farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.799,
+          13.5787
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "La Trinidad solar farm (El Salvador)",
+        "Capacity (MW)": 9.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1681,
+          13.5325
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Las Mesas solar farm",
+        "Capacity (MW)": 16.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2615,
+          13.517
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Moncagua solar farm",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7985,
+          13.579
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Márquez solar farm",
+        "Capacity (MW)": 9.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4767,
+          13.7735
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Opico Power solar farm",
+        "Capacity (MW)": 5.2,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7288,
+          13.8322
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "San Isidro solar farm (El Salvador)",
+        "Capacity (MW)": 6.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.512,
+          13.766
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Sonsonate solar farm",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0751,
+          13.443
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "El Salvador",
+        "Plant / Project name": "Talpa solar farm",
+        "Capacity (MW)": 6.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

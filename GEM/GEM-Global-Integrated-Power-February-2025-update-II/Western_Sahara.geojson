@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.5929,
+          25.7431
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Western Sahara",
+        "Plant / Project name": "Aftissat wind farm",
+        "Capacity (MW)": 202.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.5929,
+          25.7431
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Western Sahara",
+        "Plant / Project name": "Aftissat wind farm",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.3838,
+          27.0182
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Western Sahara",
+        "Plant / Project name": "Foum El Oued wind farm",
+        "Capacity (MW)": 51.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.3636,
+          26.1649
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Western Sahara",
+        "Plant / Project name": "Noor Boujdour I solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.4894,
+          26.1208
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Western Sahara",
+        "Plant / Project name": "Noor Boujdour II solar farm",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.9543,
+          26.9941
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Western Sahara",
+        "Plant / Project name": "Noor Laayoune solar farm",
+        "Capacity (MW)": 85.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

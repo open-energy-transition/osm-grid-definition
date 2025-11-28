@@ -1,0 +1,3344 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0551,
+          2.7634
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Bakun hydroelectric plant",
+        "Capacity (MW)": 2400.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.7724,
+          1.8058
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Baleh hydroelectric plant",
+        "Capacity (MW)": 1285.0,
+        "Status": "construction",
+        "Start year": 2027,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.8742,
+          1.1472
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Batang Ai hydroelectric plant",
+        "Capacity (MW)": 108.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6075,
+          5.1519
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Hulu Terengganu hydroelectric plant",
+        "Capacity (MW)": 265.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.0982,
+          5.2157
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Kenering hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3675,
+          2.6493
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Murum hydroelectric plant",
+        "Capacity (MW)": 944.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7061,
+          5.6235
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Pergau hydroelectric plant",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.3264,
+          4.2375
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Sultan Idris II Woh hydroelectric plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.3229,
+          4.231
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Sultan Idris Woh hydroelectric plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.9102,
+          5.024
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Sultan Mahmud Kenyir hydroelectric plant",
+        "Capacity (MW)": 400.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.3364,
+          4.3736
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Sultan Yussuf Jor hydroelectric plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2983,
+          5.4056
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Temenggor hydroelectric plant",
+        "Capacity (MW)": 348.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9125,
+          5.1156
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Tenom Pangi hydroelectric plant",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5438,
+          4.4351
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Ulu Jelai hydroelectric plant",
+        "Capacity (MW)": 372.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4696,
+          3.0433
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Connaught Bridge power station",
+        "Capacity (MW)": 375.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.432551,
+          4.285062
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Eastern Steel Kemaman plant power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.432551,
+          4.285062
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Eastern Steel Kemaman plant power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.432551,
+          4.285062
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Eastern Steel Kemaman plant power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3147,
+          5.3803
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Gelugor power station",
+        "Capacity (MW)": 310.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8897,
+          5.6483
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Kimanis power station",
+        "Capacity (MW)": 95.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8897,
+          5.6483
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Kimanis power station",
+        "Capacity (MW)": 95.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8897,
+          5.6483
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Kimanis power station",
+        "Capacity (MW)": 95.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.909262,
+          5.657655
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Kimanis SPR power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.649744,
+          2.79773
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Kuala Langat power station",
+        "Capacity (MW)": 720.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6005,
+          5.4312
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Kulim power station",
+        "Capacity (MW)": 220.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5894,
+          4.3908
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Lumut SEV power station",
+        "Capacity (MW)": 652.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5894,
+          4.3908
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Lumut SEV power station",
+        "Capacity (MW)": 652.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1306,
+          2.2704
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Melaka Refinery power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.01836,
+          4.421462
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Miri power station",
+        "Capacity (MW)": 104.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1519,
+          2.2238
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Pahlawan power station",
+        "Capacity (MW)": 322.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.883145,
+          1.447111
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Pasir Gudang SIPP power station",
+        "Capacity (MW)": 720.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.883145,
+          1.447111
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Pasir Gudang SIPP power station",
+        "Capacity (MW)": 720.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.174396,
+          1.376965
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Pengerang Co-generation plant",
+        "Capacity (MW)": 950.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.174396,
+          1.376965
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Pengerang Co-generation plant",
+        "Capacity (MW)": 950.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.1568,
+          6.3404
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Perlis power station",
+        "Capacity (MW)": 650.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3746,
+          5.3744
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Prai (TNB) power station",
+        "Capacity (MW)": 536.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3746,
+          5.3744
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Prai (TNB) power station",
+        "Capacity (MW)": 536.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.374,
+          5.3752
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Prai power station",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6847,
+          2.9659
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Putrajaya power station",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6847,
+          2.9659
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Putrajaya power station",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.163,
+          6.0918
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Ranhill Powertron power station",
+        "Capacity (MW)": 190.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.163,
+          6.0918
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Ranhill Powertron power station",
+        "Capacity (MW)": 190.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1667,
+          6.0909
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Sepangar Bay Power Corporation (IPP) power station",
+        "Capacity (MW)": 113.8,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.320369,
+          3.117221
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Sultan Aziz power station",
+        "Capacity (MW)": 282.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.320369,
+          3.117221
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Sultan Aziz power station",
+        "Capacity (MW)": 282.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.0942,
+          3.2899
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Tanjung Kidurong power station",
+        "Capacity (MW)": 317.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.0942,
+          3.2899
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Tanjung Kidurong power station",
+        "Capacity (MW)": 421.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.0942,
+          3.2899
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Tanjung Kidurong power station",
+        "Capacity (MW)": 421.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.050754,
+          2.346181
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Telok Gong 2 power station",
+        "Capacity (MW)": 720.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7912,
+          2.533
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Tuanku Jaafar power station",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7912,
+          2.533
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Tuanku Jaafar power station",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.47292,
+          2.740897
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Balingian New power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "CFB",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.47292,
+          2.740897
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Balingian New power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "CFB",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.724593,
+          2.590259
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Jimah East power station",
+        "Capacity (MW)": 1000.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "ultra-supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.724593,
+          2.590259
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Jimah East power station",
+        "Capacity (MW)": 1000.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "ultra-supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6423,
+          4.1586
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Manjung power station",
+        "Capacity (MW)": 700.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6423,
+          4.1586
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Manjung power station",
+        "Capacity (MW)": 700.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6423,
+          4.1586
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Manjung power station",
+        "Capacity (MW)": 700.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6423,
+          4.1586
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Manjung power station",
+        "Capacity (MW)": 1000.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "ultra-supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6423,
+          4.1586
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Manjung power station",
+        "Capacity (MW)": 1000.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "ultra-supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.323865,
+          2.968499
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Mukah coal power station",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.323865,
+          2.968499
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Mukah coal power station",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.465402,
+          1.637733
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Sejingkat power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.465402,
+          1.637733
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Sejingkat power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.465402,
+          1.637733
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Sejingkat power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.465402,
+          1.637733
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Sejingkat power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.320369,
+          3.117221
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Sultan Aziz power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.320369,
+          3.117221
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Sultan Aziz power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1989,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.320369,
+          3.117221
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Sultan Aziz power station",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.320369,
+          3.117221
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Sultan Aziz power station",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5422,
+          1.334
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Tanjung Bin power station",
+        "Capacity (MW)": 700.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5422,
+          1.334
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Tanjung Bin power station",
+        "Capacity (MW)": 700.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5422,
+          1.334
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Tanjung Bin power station",
+        "Capacity (MW)": 700.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5422,
+          1.334
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Tanjung Bin power station",
+        "Capacity (MW)": 1000.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "ultra-supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2438,
+          4.081
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Bidor solar farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.624,
+          5.6724
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Bukit Selambau solar farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3195,
+          4.9776
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Coara Marang solar farm",
+        "Capacity (MW)": 116.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.364,
+          4.006
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Gebeng solar farm",
+        "Capacity (MW)": 38.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5352,
+          5.8642
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Gurun solar farm",
+        "Capacity (MW)": 65.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.3499,
+          2.3401
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Jasin solar farm",
+        "Capacity (MW)": 65.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6388,
+          5.074
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Kerian solar farm",
+        "Capacity (MW)": 136.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.652,
+          5.581
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Kuala Ketil solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8309,
+          6.9444
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Kudat solar farm",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.164,
+          5.731
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Machang solar farm",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.336,
+          4.934
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Merchang solar farm",
+        "Capacity (MW)": 66.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.389,
+          4.648
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Mukim Sura solar farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6111,
+          2.7814
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Mukim Tanjung solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4285,
+          5.196
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Pulau Burung solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.647,
+          5.0477
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Redsol solar farm",
+        "Capacity (MW)": 47.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.722,
+          5.888
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Sik solar farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4524,
+          5.6135
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Sungai Petani solar farm",
+        "Capacity (MW)": 29.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.0774,
+          4.8714
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Sungai Siput solar farm",
+        "Capacity (MW)": 49.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6094,
+          5.6503
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Suria Sungai Petani solar farm",
+        "Capacity (MW)": 116.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6257,
+          5.6695
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "TNB Bukit Selambau Dua (TBSS2) solar farm",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.441,
+          4.276
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Teluk Kalong solar farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.082,
+          3.719
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "UiTM I solar farm",
+        "Capacity (MW)": 61.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.876,
+          1.5283
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "UiTM II solar farm",
+        "Capacity (MW)": 31.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5884,
+          5.6819
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Uzma Kuala Muda solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7404,
+          1.6711
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Zec solar farm",
+        "Capacity (MW)": 29.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7317,
+          5.3878
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Beaufort solar project",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3973,
+          4.7154
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Dungun solar project",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3097,
+          5.3826
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "George Town solar project",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.1491,
+          4.5151
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Ipoh solar project I",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.1057,
+          4.4972
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Ipoh solar project II",
+        "Capacity (MW)": 11.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.344,
+          2.2934
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Jasin solar project",
+        "Capacity (MW)": 6.5,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1329,
+          1.3538
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Johor solar project I",
+        "Capacity (MW)": 19.8,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8512,
+          2.3765
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Johor solar project II",
+        "Capacity (MW)": 6.6,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2859,
+          6.4653
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Kangar solar project",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4936,
+          5.911
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Kedah solar project I",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6114,
+          5.999
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Kedah solar project II",
+        "Capacity (MW)": 8.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4722,
+          6.1824
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Kedah solar project III",
+        "Capacity (MW)": 8.7,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1119,
+          5.9922
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Kelantan solar project I",
+        "Capacity (MW)": 6.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.4632,
+          5.9113
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Kelantan solar project II",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2093,
+          5.3862
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Keningau solar project",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7208,
+          3.1349
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Kuala Lumpur solar project",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.289,
+          3.3196
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Kuala Selangor solar project",
+        "Capacity (MW)": 13.6,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2094,
+          5.3178
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Labuan solar project I",
+        "Capacity (MW)": 9.8,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2437,
+          5.3809
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Labuan solar project II",
+        "Capacity (MW)": 4.5,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.934,
+          4.775
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Lahad Datu solar project",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0819,
+          2.3467
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Malacca solar project",
+        "Capacity (MW)": 7.3,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6687,
+          2.8165
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Malaysia solar project I",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4401,
+          3.3359
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Malaysia solar project II",
+        "Capacity (MW)": 8.1,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4775,
+          3.7188
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Miri solar project",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0935,
+          3.0227
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Negeri Sembilan solar project",
+        "Capacity (MW)": 4.5,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3682,
+          3.9928
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Pahang solar project I",
+        "Capacity (MW)": 8.5,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5196,
+          2.5759
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Pahang solar project II",
+        "Capacity (MW)": 6.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.39,
+          3.98
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Pahang solar project III",
+        "Capacity (MW)": 11.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.5849,
+          1.9613
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Pakan solar project",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5252,
+          5.1635
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Penang solar project",
+        "Capacity (MW)": 7.5,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5159,
+          3.7483
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Perak solar project I",
+        "Capacity (MW)": 5.7,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5914,
+          4.3858
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Perak solar project II",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.8802,
+          3.8598
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Perak solar project III",
+        "Capacity (MW)": 4.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.9505,
+          3.8871
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Perak solar project IV",
+        "Capacity (MW)": 6.5,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.0801,
+          4.4632
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Perak solar project IX",
+        "Capacity (MW)": 16.9,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6008,
+          4.714
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Perak solar project V",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.8354,
+          3.8553
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Perak solar project VI",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.1765,
+          4.2206
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Perak solar project VII",
+        "Capacity (MW)": 10.8,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.0062,
+          4.3345
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Perak solar project VIII",
+        "Capacity (MW)": 10.7,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7313,
+          4.9573
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Perak solar project X",
+        "Capacity (MW)": 16.1,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.1553,
+          4.6808
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Perak solar project XI",
+        "Capacity (MW)": 5.1,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.3955,
+          5.2011
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Perak solar project XII",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.1386,
+          6.411
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Perlis solar project I",
+        "Capacity (MW)": 8.7,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3528,
+          6.4749
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Perlis solar project II",
+        "Capacity (MW)": 5.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2611,
+          6.6496
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Perlis solar project III",
+        "Capacity (MW)": 5.5,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2522,
+          6.5016
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Perlis solar project IV",
+        "Capacity (MW)": 3.5,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2514,
+          6.489
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Perlis solar project V",
+        "Capacity (MW)": 7.7,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3928,
+          1.4722
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Pontian solar project",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8313,
+          2.5824
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Port Dickson solar project",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8181,
+          6.907
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Sabah solar project",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.9665,
+          5.9422
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Sandakan District solar project",
+        "Capacity (MW)": 10.9,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5577,
+          3.3465
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Selangor solar project",
+        "Capacity (MW)": 17.7,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7144,
+          2.7793
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Sepang solar project",
+        "Capacity (MW)": 11.5,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9401,
+          2.6357
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Seremban solar project",
+        "Capacity (MW)": 6.6,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5459,
+          3.0191
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Shah Alam solar project",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6502,
+          2.9834
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Subang Jaya City Council solar project",
+        "Capacity (MW)": 5.6,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5297,
+          5.6341
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Sungai Petani solar project",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.9354,
+          4.2944
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Tawau solar project I",
+        "Capacity (MW)": 5.2,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0171,
+          4.2555
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Tawau solar project II",
+        "Capacity (MW)": 4.4,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8598,
+          5.3849
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malaysia",
+        "Plant / Project name": "Terengganu solar project",
+        "Capacity (MW)": 6.6,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

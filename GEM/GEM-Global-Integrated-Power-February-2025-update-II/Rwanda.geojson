@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.376,
+          -2.027
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Rwanda",
+        "Plant / Project name": "Agahozo solar project",
+        "Capacity (MW)": 7.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2619,
+          -2.2757
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Rwanda",
+        "Plant / Project name": "Bugesera District solar project",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7452,
+          -2.0971
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Rwanda",
+        "Plant / Project name": "Nasho solar farm",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.918276,
+          18.452093
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Jamaica",
+        "Plant / Project name": "Bogue power station",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.106103,
+          17.896819
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Jamaica",
+        "Plant / Project name": "Doctor Bird I power station",
+        "Capacity (MW)": 74.2,
+        "Status": "operating",
+        "Start year": 1994,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.106103,
+          17.896819
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Jamaica",
+        "Plant / Project name": "Doctor Bird II power station",
+        "Capacity (MW)": 50.1,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.752821,
+          17.969722
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Jamaica",
+        "Plant / Project name": "Rockfort Private power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.108308,
+          17.89963
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Jamaica",
+        "Plant / Project name": "South Jamaica Power Centre",
+        "Capacity (MW)": 194.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.805867,
+          17.972434
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Jamaica",
+        "Plant / Project name": "West Kingston power station",
+        "Capacity (MW)": 65.5,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5421,
+          17.9163
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Jamaica",
+        "Plant / Project name": "Wigton wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5339,
+          17.9192
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Jamaica",
+        "Plant / Project name": "Wigton wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5339,
+          17.9192
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Jamaica",
+        "Plant / Project name": "Wigton wind farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6923,
+          17.9404
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Jamaica",
+        "Plant / Project name": "Jamaica wind farm",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3091,
+          17.9441
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Jamaica",
+        "Plant / Project name": "Content solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1023,
+          18.2269
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Jamaica",
+        "Plant / Project name": "Paradise Park solar farm",
+        "Capacity (MW)": 52.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

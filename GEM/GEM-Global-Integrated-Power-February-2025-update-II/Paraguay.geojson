@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.6289,
+          -25.4591
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Paraguay",
+        "Plant / Project name": "Acaray hydroelectric plant",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4672,
+          -25.1935
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Paraguay",
+        "Plant / Project name": "Frigorífico Guaraní Self-Consumption solar farm",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6423,
+          9.9221
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Angostura hydroelectric plant (Costa Rica)",
+        "Capacity (MW)": 172.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9989,
+          10.4755
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Arenal hydroelectric plant (Costa Rica)",
+        "Capacity (MW)": 157.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8037,
+          9.8407
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Cachí hydroelectric plant",
+        "Capacity (MW)": 102.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.182,
+          10.3105
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Cariblanco hydroelectric plant",
+        "Capacity (MW)": 82.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3593,
+          9.9342
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "La Garita hydroelectric plant",
+        "Capacity (MW)": 97.0,
+        "Status": "operating",
+        "Start year": 1958,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0763,
+          10.4695
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Miguel Pablo Dengo hydroelectric plant",
+        "Capacity (MW)": 174.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.198,
+          9.6314
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Pirrís hydroelectric plant",
+        "Capacity (MW)": 134.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5759,
+          10.0774
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Reventazón hydroelectric plant",
+        "Capacity (MW)": 305.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8414,
+          9.7757
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Río Macho hydroelectric plant",
+        "Capacity (MW)": 140.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3464,
+          10.758
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Las Pailas geothermal power plant",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "binary cycle",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3596,
+          10.7573
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Las Pailas geothermal power plant",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "binary cycle",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1944,
+          10.7002
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Miravalles geothermal power plant",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1994,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1944,
+          10.7002
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Miravalles geothermal power plant",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1814,
+          10.7181
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Miravalles geothermal power plant",
+        "Capacity (MW)": 29.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.75977,
+          10.04397
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Termolectrica Garabito power station",
+        "Capacity (MW)": 202.4,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9123,
+          10.4374
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Chiripa wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5565,
+          10.2987
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Cacao wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9946,
+          9.7794
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Los Santos wind farm",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9856,
+          10.5259
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Tilaran wind farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2692,
+          10.7261
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Guanacaste wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9631,
+          10.5005
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Vientos Del Este wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9997,
+          10.5371
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Tejona wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1872,
+          9.8817
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Valle Central wind farm",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0356,
+          10.5877
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Molinos Viento Del Arenal wind farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0048,
+          10.4881
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Tilawind wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4407,
+          10.8717
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Orosi wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7854,
+          10.3527
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Cabo Velas Cantón De Santa Cruz solar project",
+        "Capacity (MW)": 3.7,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1796,
+          10.7184
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Cantón De Bagaces solar project",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5882,
+          10.393
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Costa Rica",
+        "Plant / Project name": "Cantón De Carrillo solar project",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

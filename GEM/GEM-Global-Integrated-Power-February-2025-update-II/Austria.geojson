@@ -1,0 +1,5444 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0065,
+          48.2451
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Braunau-Simbach hydroelectric plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1954,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3199,
+          48.3186
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Egglfing-Obernberg hydroelectric plant",
+        "Capacity (MW)": 84.0,
+        "Status": "operating",
+        "Start year": 1950,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7069,
+          48.5173
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Jochenstein hydroelectric plant",
+        "Capacity (MW)": 132.0,
+        "Status": "operating",
+        "Start year": 1956,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4369,
+          48.5536
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Passau-Ingling hydroelectric plant",
+        "Capacity (MW)": 96.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4399,
+          48.4355
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Schärding Neuhaus hydroelectric plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1961,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4302,
+          48.248
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Abwinden-Asten hydroelectric plant",
+        "Capacity (MW)": 168.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7573,
+          47.389
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Achensee Jenbach hydroelectric plant",
+        "Capacity (MW)": 79.0,
+        "Status": "operating",
+        "Start year": 1927,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.857,
+          48.376
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Altenwörth hydroelectric plant",
+        "Capacity (MW)": 328.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4794,
+          46.5613
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Annabrücke hydroelectric plant",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0229,
+          48.3852
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Aschach hydroelectric plant",
+        "Capacity (MW)": 287.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1098,
+          46.9349
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Ausserfragant hydroelectric plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7015,
+          46.6292
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Edling hydroelectric plant",
+        "Capacity (MW)": 87.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6266,
+          47.1697
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Enzingerboden hydroelectric plant",
+        "Capacity (MW)": 81.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "unknown",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1711,
+          46.5343
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Feistritz-Ludmannsdorf hydroelectric plant",
+        "Capacity (MW)": 88.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0562,
+          47.0036
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Feldsee hydroelectric plant",
+        "Capacity (MW)": 140.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2988,
+          46.5465
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Ferlach Maria Rain hydroelectric plant",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4808,
+          48.1753
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Freudenau hydroelectric plant",
+        "Capacity (MW)": 172.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8992,
+          47.233
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Gerlos hydroelectric plant",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1949,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2424,
+          48.3562
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Greifenstein hydroelectric plant",
+        "Capacity (MW)": 293.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9673,
+          47.1462
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Häusling hydroelectric plant",
+        "Capacity (MW)": 360.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4779,
+          47.1029
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Hintermuhr hydroelectric plant",
+        "Capacity (MW)": 107.0,
+        "Status": "operating",
+        "Start year": 1991,
+        "Technology": "conventional and pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7215,
+          47.2122
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Imst hydroelectric plant",
+        "Capacity (MW)": 89.0,
+        "Status": "operating",
+        "Start year": 1956,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0517,
+          46.9773
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Innerfragant Oschenik hydroelectric plant",
+        "Capacity (MW)": 114.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7385,
+          47.2594
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Kaprun Haupstufe hydroelectric plant",
+        "Capacity (MW)": 260.0,
+        "Status": "operating",
+        "Start year": 1953,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7193,
+          47.1971
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Kaprun Limberg II hydroelectric plant",
+        "Capacity (MW)": 480.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7245,
+          47.1992
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Kaprun Limberg III hydroelectric plant",
+        "Capacity (MW)": 480.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7193,
+          47.1971
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Kaprun Oberstufe hydroelectric plant",
+        "Capacity (MW)": 260.0,
+        "Status": "operating",
+        "Start year": 1956,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1394,
+          47.3149
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Kaprun Schwarzach hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 1960,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0571,
+          46.9707
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Kops I hydroelectric plant",
+        "Capacity (MW)": 288.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.043,
+          46.9756
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Kops II hydroelectric plant",
+        "Capacity (MW)": 525.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0055,
+          47.1981
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Kühtai 2 hydroelectric plant",
+        "Capacity (MW)": 190.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0046,
+          47.2061
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Kühtai hydroelectric plant",
+        "Capacity (MW)": 289.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.874,
+          47.0738
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Lunersee hydroelectric plant",
+        "Capacity (MW)": 280.0,
+        "Status": "operating",
+        "Start year": 1958,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.329,
+          46.8701
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Malta Hauptstufe hydroelectric plant",
+        "Capacity (MW)": 730.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3528,
+          47.0659
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Malta Oberstufe hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.851,
+          47.1583
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Mayrhofen hydroelectric plant",
+        "Capacity (MW)": 355.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3041,
+          48.223
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Melk hydroelectric plant",
+        "Capacity (MW)": 187.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0595,
+          46.9349
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Obervermunt II hydroelectric plant",
+        "Capacity (MW)": 380.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1503,
+          48.3178
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Ottensheim-Wilhering hydroelectric plant",
+        "Capacity (MW)": 179.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6652,
+          47.0673
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Prutz hydroelectric plant",
+        "Capacity (MW)": 392.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6626,
+          47.0619
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Prutz Ried hydroelectric plant",
+        "Capacity (MW)": 89.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3432,
+          46.8934
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Reissek II hydroelectric plant",
+        "Capacity (MW)": 430.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8826,
+          47.0854
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Rodund I hydroelectric plant",
+        "Capacity (MW)": 198.0,
+        "Status": "operating",
+        "Start year": 1943,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8749,
+          47.0844
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Rodund II hydroelectric plant",
+        "Capacity (MW)": 295.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0268,
+          46.5696
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Rosegg St Jakob hydroelectric plant",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7738,
+          47.0867
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Rosshag hydroelectric plant",
+        "Capacity (MW)": 231.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8749,
+          46.6583
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Schwabeck hydroelectric plant",
+        "Capacity (MW)": 79.0,
+        "Status": "operating",
+        "Start year": 1943,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9682,
+          47.2689
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Silz hydroelectric plant",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6328,
+          47.1592
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Tauernmoos hydroelectric plant",
+        "Capacity (MW)": 170.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.056,
+          46.9692
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Vermunt hydroelectric plant",
+        "Capacity (MW)": 157.0,
+        "Status": "operating",
+        "Start year": 1930,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6697,
+          47.1989
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Walgauwerk hydroelectric plant",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6952,
+          48.1665
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Wallsee-Mitterkirchen hydroelectric plant",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.068,
+          48.1894
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Austria",
+        "Plant / Project name": "Ybbs-Persenbeug hydroelectric plant",
+        "Capacity (MW)": 237.0,
+        "Status": "operating",
+        "Start year": 1959,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6195,
+          47.97671
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Austria",
+        "Plant / Project name": "Lenzing Energy power station",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": null,
+        "Fuel": "bioenergy: unknown, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4633,
+          48.2
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Austria",
+        "Plant / Project name": "Donaustadt power station",
+        "Capacity (MW)": 395.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.33541,
+          47.13505
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Austria",
+        "Plant / Project name": "Gratkorn Mill power station",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.63577,
+          48.40738
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Austria",
+        "Plant / Project name": "Krems Industriepark power station",
+        "Capacity (MW)": 41.0,
+        "Status": "operating",
+        "Start year": 1992,
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.82166,
+          47.98188
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Austria",
+        "Plant / Project name": "Laakirchen Paper Mill power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4339,
+          48.2767
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Austria",
+        "Plant / Project name": "Leopoldau power station",
+        "Capacity (MW)": 140.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.32294,
+          48.29922
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Austria",
+        "Plant / Project name": "Linz Mitte power station",
+        "Capacity (MW)": 103.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.32294,
+          48.29922
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Austria",
+        "Plant / Project name": "Linz Mitte power station",
+        "Capacity (MW)": 114.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3469,
+          48.26789
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Austria",
+        "Plant / Project name": "Linz Süd power station",
+        "Capacity (MW)": 172.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.49231,
+          46.90819
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Austria",
+        "Plant / Project name": "Mellach power station",
+        "Capacity (MW)": 421.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.49231,
+          46.90819
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Austria",
+        "Plant / Project name": "Mellach power station",
+        "Capacity (MW)": 417.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.49231,
+          46.90819
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Austria",
+        "Plant / Project name": "Mellach power station",
+        "Capacity (MW)": 246.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.03819,
+          47.80929
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Austria",
+        "Plant / Project name": "Salzburg Mitte power station",
+        "Capacity (MW)": 84.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4981,
+          48.1434
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Austria",
+        "Plant / Project name": "Schwechat Refinery power station",
+        "Capacity (MW)": 170.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4334,
+          48.1815
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Austria",
+        "Plant / Project name": "Simmering power station",
+        "Capacity (MW)": 840.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4334,
+          48.1815
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Austria",
+        "Plant / Project name": "Simmering power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4334,
+          48.1815
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Austria",
+        "Plant / Project name": "Simmering power station",
+        "Capacity (MW)": 340.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.81614,
+          47.97963
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Austria",
+        "Plant / Project name": "Steyrermuhl Paper Mill power station",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "unknown",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.71015,
+          48.39486
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Austria",
+        "Plant / Project name": "Theiss power station",
+        "Capacity (MW)": 260.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.71015,
+          48.39486
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Austria",
+        "Plant / Project name": "Theiss power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5895,
+          48.0122
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Austria",
+        "Plant / Project name": "Timelkam power station",
+        "Capacity (MW)": 405.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.324,
+          48.299
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Austria",
+        "Plant / Project name": "Werk Linz power station",
+        "Capacity (MW)": 153.0,
+        "Status": "operating",
+        "Start year": 1995,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7232,
+          48.3566
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Gänserndorf Nord wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9617,
+          47.9008
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Mönchhof wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0104,
+          48.0589
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Pama wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9146,
+          48.0409
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Potzneusiedl wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7973,
+          48.4949
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Dürnkrut wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7973,
+          48.4949
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Dürnkrut wind farm",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7973,
+          48.4949
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Dürnkrut wind farm",
+        "Capacity (MW)": 17.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6631,
+          48.2743
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Hoher Kölbling wind farm",
+        "Capacity (MW)": 11.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5143,
+          48.3475
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Pillichsdorf wind farm",
+        "Capacity (MW)": 16.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5367,
+          48.3305
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Pillichsdorf wind farm",
+        "Capacity (MW)": 11.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7407,
+          47.5657
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Moschkogel wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6199,
+          48.6359
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Poysdorf-Wilfersdorf wind farm",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6199,
+          48.6359
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Poysdorf-Wilfersdorf wind farm",
+        "Capacity (MW)": 16.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6246,
+          48.6185
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Poysdorf-Wilfersdorf wind farm",
+        "Capacity (MW)": 28.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.999,
+          48.0377
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Gattendorf Nord wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9833,
+          48.0143
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Gattendorf Nord wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9413,
+          47.9287
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Gols wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9564,
+          47.9394
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Gols wind farm",
+        "Capacity (MW)": 143.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7808,
+          48.0554
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Höflein wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6852,
+          48.4631
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Hohenruppersdorf wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.677,
+          48.4492
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Hohenruppersdorf wind farm",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7088,
+          48.5505
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Maustrenk wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8967,
+          47.9878
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Parndorf wind farm",
+        "Capacity (MW)": 41.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8937,
+          47.9717
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Parndorf wind farm",
+        "Capacity (MW)": 27.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7226,
+          48.5696
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Prinzendorf wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7402,
+          48.5793
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Prinzendorf wind farm",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6445,
+          48.0388
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Trautmannsdorf Nord wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8935,
+          48.0395
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Neuhof wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8752,
+          48.054
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Neuhof wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5793,
+          48.2906
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Parbasdorf wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7114,
+          48.4401
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Spannberg wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7074,
+          48.4488
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Spannberg wind farm",
+        "Capacity (MW)": 17.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7903,
+          48.5101
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Velm-Götzendorf wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4437,
+          48.1781
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Haindorf-Inning wind farm",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5649,
+          48.334
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Großengersdorf wind farm",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7274,
+          48.2549
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Pottenbrunn wind farm",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9832,
+          48.0678
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Prellenkirchen wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9881,
+          48.061
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Prellenkirchen wind farm",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7534,
+          47.5549
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Pretul wind farm",
+        "Capacity (MW)": 42.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7133,
+          47.529
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Steinriegel wind farm",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.703,
+          47.5313
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Steinriegel wind farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.798,
+          48.4937
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Dürnkrut Götzendorf wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.798,
+          48.4937
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Dürnkrut Götzendorf wind farm",
+        "Capacity (MW)": 17.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6021,
+          48.2494
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Großhofen wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0464,
+          48.071
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Kittsee wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0478,
+          48.0723
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Kittsee wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6214,
+          47.5801
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Deutchkreuz wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5807,
+          48.8022
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Japons wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6402,
+          48.4427
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Matzen/Klein-Harras wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.666,
+          48.4294
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Matzen/Klein-Harras wind farm",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5588,
+          47.9613
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Hof wind farm",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.893,
+          48.0892
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Hollern Wind Park",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8798,
+          48.0907
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Hollern Wind Park",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.229,
+          48.055
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Munderfing wind farm",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5949,
+          48.5263
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Paasdorf-Lanzendorf II wind farm",
+        "Capacity (MW)": 16.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3559,
+          47.9448
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Tattendorf wind farm",
+        "Capacity (MW)": 16.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6851,
+          48.0527
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Trautmannsdorf wind farm",
+        "Capacity (MW)": 16.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6327,
+          48.5419
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Kettlasbrunn wind farm",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6314,
+          48.5423
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Kettlasbrunn wind farm",
+        "Capacity (MW)": 17.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.83,
+          48.0135
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bruckneudorf wind farm",
+        "Capacity (MW)": 17.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5857,
+          47.426
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Furstkogel wind farm",
+        "Capacity (MW)": 17.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9837,
+          48.0478
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Deutsch Haslau wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5345,
+          47.937
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Au Am Leithaberge wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5777,
+          47.4889
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Hochpürschtling wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7795,
+          48.4892
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Zistersdorf Ost wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5838,
+          48.5306
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Paasdorf-Lanzendorf wind farm",
+        "Capacity (MW)": 19.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6864,
+          48.626
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Ghw Rannersdorf II wind farm",
+        "Capacity (MW)": 19.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3872,
+          47.2754
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Tauern wind farm",
+        "Capacity (MW)": 31.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6867,
+          47.5525
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Nikitsch wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8568,
+          47.5031
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Herrenstein wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2245,
+          48.5817
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Sternwald wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6451,
+          48.3477
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Auersthal wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4442,
+          48.5043
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Kreuzstetten wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4442,
+          48.5043
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Kreuzstetten wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6636,
+          48.2674
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Markgrafneusiedl wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6722,
+          48.2541
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Glinzendorf wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3622,
+          47.958
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Oberwaltersdorf wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8951,
+          48.0975
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bad Deutsch-Altenburg Carnuntum wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7238,
+          48.0323
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bruck-Göttlesbrunn wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6986,
+          48.2919
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Obersiebenbrunn wind farm",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.667,
+          48.267
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Obersiebenbrunn wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.845,
+          48.095
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Petronell-Carnuntum wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8374,
+          48.0874
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Petronell-Carnuntum wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4948,
+          47.9546
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Seibersdorf wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9116,
+          48.0272
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Neudorf wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8965,
+          48.0254
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Neudorf wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0164,
+          47.8393
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Halbturn Heide wind farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8455,
+          48.081
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Rohrau wind farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8389,
+          48.085
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Scharndorf wind farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6616,
+          48.2643
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Zagging wind farm",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7865,
+          48.4972
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Loidesthal wind farm",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.97,
+          47.9221
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Söllneräcker wind farm",
+        "Capacity (MW)": 28.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0197,
+          47.8302
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Albrechtsfeld wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.967,
+          47.9
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Mönchhof Dreijoch wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8922,
+          47.9637
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Neusiedl Am See wind farm",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0494,
+          47.8238
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Andau wind farm",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0391,
+          47.7964
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Andau wind farm",
+        "Capacity (MW)": 81.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0157,
+          47.8484
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Halbturn Puszta wind farm",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.691,
+          48.0013
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Sommerein wind farm",
+        "Capacity (MW)": 34.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8101,
+          48.0533
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Haadfeld wind farm",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0456,
+          47.8323
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Halbturn Neuriss wind farm",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8225,
+          48.0743
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Höflein Ost wind farm",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3673,
+          47.9314
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Pottendorf wind farm",
+        "Capacity (MW)": 37.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7593,
+          48.4034
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Prottes-Ollersdorf wind farm",
+        "Capacity (MW)": 37.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6864,
+          48.1838
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Andlersdorf/Orth wind farm",
+        "Capacity (MW)": 39.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.014,
+          46.8512
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Handalm wind farm",
+        "Capacity (MW)": 39.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0032,
+          47.9195
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Heidäcker Mönchhof wind farm",
+        "Capacity (MW)": 39.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0417,
+          47.9174
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Nickelsdorf wind farm",
+        "Capacity (MW)": 42.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7205,
+          48.2308
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Marchfeld Mitte wind farm",
+        "Capacity (MW)": 43.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0293,
+          47.8976
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Halbturn Nord wind farm",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9147,
+          47.9456
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Weiden wind farm",
+        "Capacity (MW)": 47.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7689,
+          48.6392
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Hagn wind farm",
+        "Capacity (MW)": 47.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0234,
+          47.9172
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Mönchhof Ost wind farm",
+        "Capacity (MW)": 51.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9727,
+          47.9102
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Mönchhof Nord wind farm",
+        "Capacity (MW)": 69.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1789,
+          48.5161
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Grafenschlag wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3892,
+          47.9984
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Trumau wind farm",
+        "Capacity (MW)": 28.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4836,
+          48.5165
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Ladendorf wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7919,
+          48.5171
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Austria",
+        "Plant / Project name": "Großinzersdorf wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.371,
+          47.9806
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Baden solar project I",
+        "Capacity (MW)": 5.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3782,
+          47.9904
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Baden solar project II",
+        "Capacity (MW)": 5.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3619,
+          47.9964
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Baden solar project III",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1656,
+          48.0782
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Braunau solar project I",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.166,
+          48.0758
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Braunau solar project II",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8182,
+          48.0363
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Bruck An Der Leitha solar project I",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5502,
+          48.114
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Bruck An Der Leitha solar project II",
+        "Capacity (MW)": 17.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3283,
+          47.3689
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Bruck-Mürzzuschlag solar project I",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4355,
+          47.5004
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Bruck-Mürzzuschlag solar project II",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3614,
+          47.3016
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Graz-Umgebung solar project",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7121,
+          48.2673
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Grieskirchen solar project",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.418,
+          47.0483
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Güssing solar project",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9827,
+          47.1066
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Hartberg-Fürstenfeld solar project I",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0957,
+          47.0506
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Hartberg-Fürstenfeld solar project II",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0852,
+          47.1922
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Hartberg-Fürstenfeld solar project III",
+        "Capacity (MW)": 6.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6543,
+          48.655
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Horn solar project",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2429,
+          48.3792
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Korneuburg solar project",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5994,
+          46.7912
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Leibnitz solar project I",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5819,
+          46.7535
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Leibnitz solar project II",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6042,
+          46.821
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Leibnitz solar project III",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0224,
+          47.4314
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Leoben solar project",
+        "Capacity (MW)": 4.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3872,
+          47.5196
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Liezen solar project I",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6858,
+          47.713
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Liezen solar project II",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5313,
+          47.727
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Mattersburg solar project",
+        "Capacity (MW)": 5.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2292,
+          48.2115
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Melk solar project I",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4129,
+          48.1903
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Melk solar project II",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5136,
+          48.5371
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Mistelbach solar project I",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2797,
+          48.7297
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Mistelbach solar project II",
+        "Capacity (MW)": 12.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3552,
+          48.0286
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Mödling solar project",
+        "Capacity (MW)": 3.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9948,
+          48.0931
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Neusiedl Am See solar project I",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0445,
+          47.9148
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Neusiedl Am See solar project II",
+        "Capacity (MW)": 8.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4369,
+          48.1291
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Ried solar project",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0638,
+          47.9875
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Salzburg-Umgebung solar project",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0134,
+          48.0629
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Scheibbs solar project I",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0169,
+          47.9912
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Scheibbs solar project II",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7415,
+          47.3749
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Schwaz solar project",
+        "Capacity (MW)": 5.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7084,
+          48.1995
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk St. Pölten solar project",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.39,
+          46.7505
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk St. Veit An Der Glan solar project I",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3468,
+          46.7562
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk St. Veit An Der Glan solar project II",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7695,
+          46.7145
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Südoststeiermark solar project I",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.041,
+          46.9352
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Südoststeiermark solar project II",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7956,
+          46.7435
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Südoststeiermark solar project III",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.823,
+          46.8399
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Südoststeiermark solar project IV",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9464,
+          46.9609
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Südoststeiermark solar project V",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8847,
+          48.3246
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Tulln solar project I",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.918,
+          48.322
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Tulln solar project II",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9221,
+          48.322
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Tulln solar project III",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7947,
+          46.6484
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Villach-Land solar project",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9957,
+          47.0715
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Voitsberg solar project I",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1061,
+          47.0586
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Voitsberg solar project II",
+        "Capacity (MW)": 5.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6166,
+          47.9677
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Vöcklabruck solar project",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.728,
+          47.5227
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Weiz solar project",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0099,
+          48.0492
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Wels-Land solar project I",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0646,
+          48.0659
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Wels-Land solar project II",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2773,
+          47.2807
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Bezirk Zell Am See solar project",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9927,
+          48.8363
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Brand-Nagelberg Bezirk Gmünd solar project",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3244,
+          46.6041
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Klagenfurt solar project",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.701,
+          47.6873
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Landl Bezirk Liezen solar project",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6463,
+          48.4084
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Lower Austria solar project",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3926,
+          47.2724
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Pölstal Bezirk Murtal solar project",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4074,
+          47.3455
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Salzburg solar project",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8727,
+          47.2637
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Sankt Marein-Feistritz Bezirk Murtal solar project",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5317,
+          48.24
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Schafflerhofstrasse solar project",
+        "Capacity (MW)": 9.4,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6686,
+          48.3467
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Schönkirchen-Reyersdorf Bezirk Gänserndorf solar project",
+        "Capacity (MW)": 9.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.504,
+          48.179
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Vienna solar project I",
+        "Capacity (MW)": 3.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4105,
+          48.1309
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Austria",
+        "Plant / Project name": "Vienna solar project II",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

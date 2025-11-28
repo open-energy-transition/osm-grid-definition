@@ -1,0 +1,971 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1918,
+          41.8805
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Kozjak hydroelectric plant (North Macedonia)",
+        "Capacity (MW)": 82.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5031,
+          41.4934
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Spilje hydroelectric plant",
+        "Capacity (MW)": 84.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9367,
+          41.4046
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Tikveš hydroelectric plant",
+        "Capacity (MW)": 114.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8383,
+          41.7706
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Vrutok hydroelectric plant",
+        "Capacity (MW)": 166.0,
+        "Status": "operating",
+        "Start year": 1957,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.452828,
+          41.994516
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Skopje CHP power station",
+        "Capacity (MW)": 220.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.484266,
+          41.05832
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Bitola power station",
+        "Capacity (MW)": 233.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.484266,
+          41.05832
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Bitola power station",
+        "Capacity (MW)": 233.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.484266,
+          41.05832
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Bitola power station",
+        "Capacity (MW)": 233.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0,
+          41.582
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Oslomej power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5594,
+          41.2284
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Bogdanci (ESM) wind farm",
+        "Capacity (MW)": 37.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0346,
+          41.7993
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Bogoslovec wind farm",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4859,
+          41.0283
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Novaci solar farm",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3671,
+          41.0591
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Bitola solar project",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2482,
+          41.8358
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Eastern Region solar project I",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1158,
+          41.7916
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Eastern Region solar project II",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3157,
+          41.9049
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Eastern Region solar project III",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.191,
+          41.7996
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Eastern Region solar project IV",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8343,
+          41.726
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Eastern Region solar project V",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3762,
+          41.9068
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Eastern Region solar project VI",
+        "Capacity (MW)": 6.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.383,
+          41.8988
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Kochani solar project",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1264,
+          41.4722
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Negotino solar project",
+        "Capacity (MW)": 5.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1539,
+          42.1777
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Northeastern Region solar project I",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1028,
+          42.1852
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Northeastern Region solar project II",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.233,
+          41.2075
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Pelagonia Region solar project I",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5343,
+          40.9233
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Pelagonia Region solar project II",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5393,
+          41.2956
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Pelagonia Region solar project III",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0388,
+          41.073
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Pelagonia Region solar project IV",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3956,
+          41.3806
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Pelagonia Region solar project V",
+        "Capacity (MW)": 7.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4753,
+          41.0206
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Pelagonia Region solar project VI",
+        "Capacity (MW)": 8.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1895,
+          41.2806
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Pelagonia Region solar project VII",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9764,
+          41.901
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Polog Region solar project",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.186,
+          41.979
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Probistip solar project",
+        "Capacity (MW)": 8.4,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1543,
+          41.7263
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Shtip solar project",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6597,
+          42.0204
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Skopje Region solar project I",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6343,
+          42.0065
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Skopje Region solar project II",
+        "Capacity (MW)": 7.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8968,
+          41.3859
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Southeastern Region solar project I",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4975,
+          41.1913
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Southeastern Region solar project II",
+        "Capacity (MW)": 15.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8411,
+          41.4268
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Southeastern Region solar project III",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.684,
+          41.4355
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Southeastern Region solar project IV",
+        "Capacity (MW)": 6.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8365,
+          41.2925
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Southwestern Region solar project",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2297,
+          41.4076
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Vardar Region solar project I",
+        "Capacity (MW)": 3.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8158,
+          41.7603
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Vardar Region solar project II",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7562,
+          41.6718
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Vardar Region solar project III",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8071,
+          41.7606
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Vardar Region solar project IV",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9777,
+          41.5046
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Vardar Region solar project V",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0857,
+          41.3057
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "North Macedonia",
+        "Plant / Project name": "Vardar Region solar project VI",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

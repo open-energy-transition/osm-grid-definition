@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.6757,
+          13.2979
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "The Gambia",
+        "Plant / Project name": "Jambur solar farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

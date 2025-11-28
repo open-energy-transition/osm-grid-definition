@@ -1,0 +1,2294 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9246,
+          59.4514
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Estonia",
+        "Plant / Project name": "IRU Elektrijaam power station",
+        "Capacity (MW)": 207.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.707427,
+          59.246005
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Kiisa ERPP power station",
+        "Capacity (MW)": 251.1,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: light fuel oil, fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9478,
+          59.3986
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Purtse wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.525,
+          58.631
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Esivere I wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5374,
+          58.6233
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Tooma wind farm",
+        "Capacity (MW)": 16.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.744,
+          58.4527
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Tamba-Mäli wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0501,
+          59.3801
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Pakri wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7601,
+          59.4401
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Viru-Nigula wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0796,
+          59.3729
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Paldiski wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0547,
+          59.3814
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Paldiski wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8169,
+          59.4531
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Aseriaru wind farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5965,
+          59.0883
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Aulepa wind farm",
+        "Capacity (MW)": 39.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0534,
+          59.342
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Narva wind farm",
+        "Capacity (MW)": 39.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1347,
+          58.2059
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Saarde wind farm",
+        "Capacity (MW)": 39.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.946,
+          59.3893
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Purtse solar farm",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6835,
+          59.2932
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Harju Maakond solar project I",
+        "Capacity (MW)": 12.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1224,
+          59.2277
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Harju Maakond solar project II",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6721,
+          59.2848
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Harju Maakond solar project III",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.408,
+          59.3913
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Harju Maakond solar project IV",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3948,
+          59.1881
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Harju Maakond solar project IX",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2065,
+          59.3776
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Harju Maakond solar project V",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3126,
+          59.3378
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Harju Maakond solar project VI",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8786,
+          59.4125
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Harju Maakond solar project VII",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2246,
+          59.2334
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Harju Maakond solar project VIII",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0813,
+          59.3595
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Harju Maakond solar project X",
+        "Capacity (MW)": 10.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7628,
+          58.9962
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Hiiu Maakond solar project",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2451,
+          59.3642
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Ida-Viru Maakond solar project I",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0783,
+          59.3741
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Ida-Viru Maakond solar project II",
+        "Capacity (MW)": 19.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0842,
+          59.3703
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Ida-Viru Maakond solar project III",
+        "Capacity (MW)": 10.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.301,
+          59.3763
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Ida-Viru Maakond solar project IV",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6074,
+          58.908
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Järva Maakond solar project I",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8857,
+          59.0497
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Järva Maakond solar project II",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7674,
+          58.7408
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Järva Maakond solar project III",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5874,
+          58.9053
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Järva Maakond solar project IV",
+        "Capacity (MW)": 3.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4482,
+          58.8257
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Järva Maakond solar project V",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6369,
+          58.7018
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Järva Maakond solar project VI",
+        "Capacity (MW)": 7.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5638,
+          58.8701
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Järva Maakond solar project VII",
+        "Capacity (MW)": 9.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6924,
+          58.6534
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Jõgeva Maakond solar project I",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2359,
+          58.7231
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Jõgeva Maakond solar project II",
+        "Capacity (MW)": 5.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8692,
+          58.8529
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Jõgeva Maakond solar project III",
+        "Capacity (MW)": 5.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.959,
+          58.6407
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Jõgeva Maakond solar project IV",
+        "Capacity (MW)": 4.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2465,
+          58.7286
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Jõgeva Maakond solar project V",
+        "Capacity (MW)": 16.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5507,
+          58.9267
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Lääne Maakond solar project I",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5846,
+          59.0856
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Lääne Maakond solar project II",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5929,
+          59.1747
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Lääne-Viru Maakond solar project I",
+        "Capacity (MW)": 14.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4023,
+          59.3544
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Lääne-Viru Maakond solar project II",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6804,
+          59.3534
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Lääne-Viru Maakond solar project III",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5202,
+          59.4846
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Lääne-Viru Maakond solar project IV",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0869,
+          59.1546
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Lääne-Viru Maakond solar project V",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3862,
+          59.3571
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Lääne-Viru Maakond solar project VI",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2726,
+          59.4334
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Lääne-Viru Maakond solar project VII",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5571,
+          59.3857
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Lääne-Viru Maakond solar project VIII",
+        "Capacity (MW)": 4.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1459,
+          59.3699
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Narva Ida-Viru Maakond solar project I",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1657,
+          59.3601
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Narva Ida-Viru Maakond solar project II",
+        "Capacity (MW)": 3.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1025,
+          59.3575
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Narva Ida-Viru Maakond solar project III",
+        "Capacity (MW)": 6.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5272,
+          58.4068
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Pärnu Linn Pärnu Maakond solar project",
+        "Capacity (MW)": 6.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0163,
+          58.6543
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Pärnu Maakond solar project I",
+        "Capacity (MW)": 5.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3215,
+          58.4109
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Pärnu Maakond solar project II",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5202,
+          58.4388
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Pärnu Maakond solar project III",
+        "Capacity (MW)": 6.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.488,
+          58.5824
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Pärnu Maakond solar project IV",
+        "Capacity (MW)": 7.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.831,
+          58.6921
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Pärnu Maakond solar project IX",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6603,
+          58.4277
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Pärnu Maakond solar project V",
+        "Capacity (MW)": 4.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4915,
+          58.4348
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Pärnu Maakond solar project VI",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9904,
+          58.5533
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Pärnu Maakond solar project VII",
+        "Capacity (MW)": 4.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8241,
+          58.6855
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Pärnu Maakond solar project VIII",
+        "Capacity (MW)": 4.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4296,
+          58.4301
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Pärnu Maakond solar project X",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4592,
+          58.4162
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Pärnu Maakond solar project XI",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6522,
+          58.4176
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Pärnu Maakond solar project XII",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6748,
+          58.3605
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Pärnu Maakond solar project XIII",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2904,
+          58.0424
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Põlva Maakond solar project I",
+        "Capacity (MW)": 7.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0793,
+          58.0435
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Põlva Maakond solar project II",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7056,
+          58.1512
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Põlva Maakond solar project III",
+        "Capacity (MW)": 6.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8398,
+          58.9807
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Rapla Maakond solar project I",
+        "Capacity (MW)": 8.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4173,
+          58.9048
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Rapla Maakond solar project II",
+        "Capacity (MW)": 4.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2915,
+          58.7387
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Rapla Maakond solar project III",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6394,
+          59.2151
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Rapla Maakond solar project IV",
+        "Capacity (MW)": 6.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2308,
+          58.589
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Saare Maakond solar project I",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3907,
+          58.5553
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Saare Maakond solar project II",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2363,
+          58.5831
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Saare Maakond solar project III",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5878,
+          58.5456
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Tartu Maakond solar project I",
+        "Capacity (MW)": 3.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7781,
+          58.4028
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Tartu Maakond solar project II",
+        "Capacity (MW)": 3.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6438,
+          58.3437
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Tartu Maakond solar project III",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6741,
+          58.448
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Tartu Maakond solar project IV",
+        "Capacity (MW)": 7.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.892,
+          58.514
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Tartu Maakond solar project V",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6431,
+          58.4635
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Tartu Maakond solar project VI",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.32,
+          58.3197
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Tartu Maakond solar project VII",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8601,
+          58.0315
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Valga Maakond solar project I",
+        "Capacity (MW)": 6.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0431,
+          57.8077
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Valga Maakond solar project II",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0395,
+          57.7974
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Valga Maakond solar project III",
+        "Capacity (MW)": 11.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1831,
+          57.8421
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Valga Maakond solar project IV",
+        "Capacity (MW)": 13.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1717,
+          58.0961
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Viljandi Maakond solar project I",
+        "Capacity (MW)": 7.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9759,
+          58.4062
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Viljandi Maakond solar project II",
+        "Capacity (MW)": 7.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6465,
+          58.347
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Viljandi Maakond solar project III",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5597,
+          58.3698
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Viljandi Maakond solar project IV",
+        "Capacity (MW)": 4.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5271,
+          58.3435
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Viljandi Maakond solar project IX",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5501,
+          58.3499
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Viljandi Maakond solar project V",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5474,
+          58.0924
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Viljandi Maakond solar project VI",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.526,
+          58.3463
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Viljandi Maakond solar project VII",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4484,
+          58.5555
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Viljandi Maakond solar project VIII",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5244,
+          58.4848
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Viljandi Maakond solar project X",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.465,
+          58.5441
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Viljandi Maakond solar project XI",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6007,
+          58.0915
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Viljandi Maakond solar project XII",
+        "Capacity (MW)": 4.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6563,
+          58.3365
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Viljandi Maakond solar project XIII",
+        "Capacity (MW)": 4.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4564,
+          58.562
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Viljandi Maakond solar project XIV",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3721,
+          58.1182
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Viljandi Maakond solar project XV",
+        "Capacity (MW)": 3.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8436,
+          57.8405
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Võru Maakond solar project I",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4841,
+          57.8353
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Võru Maakond solar project II",
+        "Capacity (MW)": 3.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.607,
+          57.6219
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Võru Maakond solar project III",
+        "Capacity (MW)": 4.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8173,
+          57.8412
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Estonia",
+        "Plant / Project name": "Võru Maakond solar project IV",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.2359,
+          8.7123
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Sierra Leone",
+        "Plant / Project name": "Makeni Bioethanol Plant power station",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.191042,
+          8.475932
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sierra Leone",
+        "Plant / Project name": "Nant Energy power project",
+        "Capacity (MW)": 83.5,
+        "Status": "construction",
+        "Start year": 2027,
+        "Technology": "combined cycle",
+        "Fuel": "fossil liquids: liquefied petroleum gas, fossil gas: LNG, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.5215,
+          7.5238
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Sierra Leone",
+        "Plant / Project name": "Bonthe District solar project",
+        "Capacity (MW)": 8.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.1889,
+          8.6198
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Sierra Leone",
+        "Plant / Project name": "Port Loko District solar project",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

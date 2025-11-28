@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.572076,
+          22.160851
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Macao",
+        "Plant / Project name": "Macau power station",
+        "Capacity (MW)": 30.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": null,
+        "Fuel": "bioenergy: refuse (municipal and industrial wastes)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.57995,
+          22.13739
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Macao",
+        "Plant / Project name": "Coloane A power station",
+        "Capacity (MW)": 271.2,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.580833,
+          22.141111
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Macao",
+        "Plant / Project name": "Coloane B power station",
+        "Capacity (MW)": 136.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9627,
+          13.7376
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Saint Lucia",
+        "Plant / Project name": "Vieux Fort solar project",
+        "Capacity (MW)": 4.8,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

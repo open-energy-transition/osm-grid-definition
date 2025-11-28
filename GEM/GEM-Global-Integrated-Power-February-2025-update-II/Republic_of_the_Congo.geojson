@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0373,
+          -2.9353
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Republic of the Congo",
+        "Plant / Project name": "Imboulou hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.915549,
+          -4.889746
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Republic of the Congo",
+        "Plant / Project name": "Centrale Électrique du Congo (CEC) power station",
+        "Capacity (MW)": 157.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.915549,
+          -4.889746
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Republic of the Congo",
+        "Plant / Project name": "Centrale Électrique du Congo (CEC) power station",
+        "Capacity (MW)": 157.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.915549,
+          -4.889746
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Republic of the Congo",
+        "Plant / Project name": "Centrale Électrique du Congo (CEC) power station",
+        "Capacity (MW)": 170.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.937759,
+          -4.920492
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Republic of the Congo",
+        "Plant / Project name": "Congo Natural Gas Combined Cycle power plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3364,
+          1.3863
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Republic of the Congo",
+        "Plant / Project name": "District De Kabo solar project",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3653,
+          12.2233
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bonaire, Sint Eustatius, and Saba",
+        "Plant / Project name": "Bonaire wind farm",
+        "Capacity (MW)": 11.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

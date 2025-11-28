@@ -1,0 +1,677 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.754115,
+          18.000946
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Costa Sur power station",
+        "Capacity (MW)": 85.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.754115,
+          18.000946
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Costa Sur power station",
+        "Capacity (MW)": 85.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.754115,
+          18.000946
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Costa Sur power station",
+        "Capacity (MW)": 410.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.754115,
+          18.000946
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Costa Sur power station",
+        "Capacity (MW)": 410.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1484,
+          18.4559
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Palo Seco power station",
+        "Capacity (MW)": 85.0,
+        "Status": "operating",
+        "Start year": 1960,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1484,
+          18.4559
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Palo Seco power station",
+        "Capacity (MW)": 85.0,
+        "Status": "operating",
+        "Start year": 1961,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1484,
+          18.4559
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Palo Seco power station",
+        "Capacity (MW)": 216.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1484,
+          18.4559
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Palo Seco power station",
+        "Capacity (MW)": 216.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.148751,
+          18.455519
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Palo Seco power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.6982,
+          18.1978
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Punta Lima wind farm",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.374,
+          17.9984
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Santa Isabel wind farm",
+        "Capacity (MW)": 101.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.8223,
+          18.1346
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Humacao 1 solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.8223,
+          18.1346
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Humaco 2 solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1589,
+          17.9475
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Ilumina (AES) solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.0464,
+          18.475
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Oriana solar farm",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.9077,
+          18.4055
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "San Fermin Solar Project",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.6325,
+          18.4264
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Arecibo Filtration Plant solar farm",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1803,
+          18.3995
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Bayamon Ave Zaya Verde solar farm",
+        "Capacity (MW)": 1.9,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.8793,
+          18.3772
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Canovanas Filtration Plant solar farm",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5504,
+          18.0601
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Coto Laurel solar farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.7221,
+          18.4702
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Eaton Corp Arecibo Puerto Rico Hybrid solar farm",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.7221,
+          18.4702
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Eaton Corp Arecibo Puerto Rico Hybrid solar farm",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.8176,
+          18.3774
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "El Yunque Filtration Plant solar farm",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1162,
+          18.4084
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Fort Buchanan Distributed Generation solar farm",
+        "Capacity (MW)": 5.8,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0924,
+          18.4532
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Gasna 18P solar farm",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.2205,
+          17.9793
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Horizon Energy Hybrid solar farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.9483,
+          18.2445
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Janssen Ortho solar farm",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.9631,
+          18.3736
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Lily del Caribe solar farm",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.579,
+          18.057
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Martino solar farm (Puerto Rico)",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.9116,
+          18.2363
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Medtronic Solar Plant",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.148,
+          17.9635
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Pfizer Guayama solar farm",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.3501,
+          18.4506
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Puerto Rico",
+        "Plant / Project name": "Pfizer Vega Baja solar farm",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

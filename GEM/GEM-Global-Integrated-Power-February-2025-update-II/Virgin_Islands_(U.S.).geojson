@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.9014,
+          18.343
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Virgin Islands (U.S.)",
+        "Plant / Project name": "Donoe solar farm",
+        "Capacity (MW)": 6.4,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7747,
+          17.7178
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Virgin Islands (U.S.)",
+        "Plant / Project name": "Spanish Town solar farm",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

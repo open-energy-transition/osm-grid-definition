@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9821593,
+          12.4760362
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Aruba",
+        "Plant / Project name": "RECIP power plant",
+        "Capacity (MW)": 102.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8915,
+          12.4743
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Aruba",
+        "Plant / Project name": "Vader Piet wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8899,
+          12.4324
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Aruba",
+        "Plant / Project name": "Aruba solar project I",
+        "Capacity (MW)": 5.3,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0076,
+          12.5049
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Aruba",
+        "Plant / Project name": "Aruba solar project II",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

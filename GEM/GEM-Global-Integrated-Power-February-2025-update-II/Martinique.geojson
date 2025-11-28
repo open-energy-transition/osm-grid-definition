@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.154613,
+          14.669495
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Martinique",
+        "Plant / Project name": "Bellefontaine power station",
+        "Capacity (MW)": 219.6,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.05799,
+          14.59731
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Martinique",
+        "Plant / Project name": "Pointe des Carrières power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1682,
+          14.8623
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Martinique",
+        "Plant / Project name": "Grand Rivière wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9389,
+          14.7028
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Martinique",
+        "Plant / Project name": "Lassalle solar farm",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9406,
+          14.7076
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Martinique",
+        "Plant / Project name": "Le Robert solar farm",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9971,
+          14.7725
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Martinique",
+        "Plant / Project name": "Martinique solar project I",
+        "Capacity (MW)": 4.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0019,
+          14.4921
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Martinique",
+        "Plant / Project name": "Martinique solar project II",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.147,
+          14.7531
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Martinique",
+        "Plant / Project name": "Martinique solar project III",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1619,
+          14.8696
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Martinique",
+        "Plant / Project name": "Martinique solar project IV",
+        "Capacity (MW)": 4.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0767,
+          14.8325
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Martinique",
+        "Plant / Project name": "Martinique solar project V",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

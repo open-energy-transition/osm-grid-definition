@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.399538,
+          31.455398
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Palestine",
+        "Plant / Project name": "Nusseirat power station",
+        "Capacity (MW)": 140.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.331,
+          31.2694
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Palestine",
+        "Plant / Project name": "Eshkol Regional Council solar project",
+        "Capacity (MW)": 4.2,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4262,
+          31.4868
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Palestine",
+        "Plant / Project name": "Gaza solar project I",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5059,
+          31.5092
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Palestine",
+        "Plant / Project name": "Gaza solar project II",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4722,
+          31.4768
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Palestine",
+        "Plant / Project name": "Gaza solar project III",
+        "Capacity (MW)": 7.8,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3536,
+          31.2902
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Palestine",
+        "Plant / Project name": "Palestine solar project I",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4181,
+          31.4256
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Palestine",
+        "Plant / Project name": "Palestine solar project II",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

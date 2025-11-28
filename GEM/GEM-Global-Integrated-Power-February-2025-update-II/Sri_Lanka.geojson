@@ -1,0 +1,614 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5959,
+          7.0585
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Kotmale hydroelectric plant",
+        "Capacity (MW)": 201.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4566,
+          6.978
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Polpitiya hydroelectric plant",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9268,
+          7.2021
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Randenigala hydroelectric plant",
+        "Capacity (MW)": 122.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7993,
+          6.6808
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Samanalawewa hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 1992,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9333,
+          6.914
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Uma Oya hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6639,
+          6.9415
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Upper Kotmale hydroelectric plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8062,
+          7.2001
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Victoria hydroelectric plant (Sri Lanka)",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.849308,
+          6.285029
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Ace Embilipitiya power station",
+        "Capacity (MW)": 105.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.855858,
+          6.953801
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Colombo Port Power Station",
+        "Capacity (MW)": 62.4,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.879101,
+          6.952769
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Kelanitissa Combined Cycle power plant",
+        "Capacity (MW)": 165.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "combined cycle",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.961319,
+          6.961286
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Sapugaskanda power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.961319,
+          6.961286
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Sapugaskanda power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.878581,
+          6.952865
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Sojitz Kelanitissa power station",
+        "Capacity (MW)": 163.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.874379,
+          7.01088
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Yugadanavi power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG, fossil liquids: fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7225,
+          8.0172
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Lakvijaya Power Plant",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7225,
+          8.0172
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Lakvijaya Power Plant",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7225,
+          8.0172
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Lakvijaya Power Plant",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7196,
+          8.0409
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Pawan Danavi wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7237,
+          8.0091
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Mampuri wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7332,
+          7.9763
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Mampuri wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7281,
+          8.0096
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Mampuri wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7411,
+          7.9543
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Nirmalpura wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3422,
+          9.5676
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Pollupalai wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7759,
+          7.9813
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Powergen Lank wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8034,
+          8.0584
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Seguwantivu wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8058,
+          8.0567
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Vidatamunai wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7878,
+          9.0505
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Mannar wind farm",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7427,
+          8.2199
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Musalpetti wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0853,
+          6.2312
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Sri Lanka",
+        "Plant / Project name": "Laugfs solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

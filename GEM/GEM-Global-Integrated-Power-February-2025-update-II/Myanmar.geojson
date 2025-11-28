@@ -1,0 +1,845 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.0801,
+          25.8318
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Chipwi Nge hydroelectric plant",
+        "Capacity (MW)": 99.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.5006,
+          24.4042
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Dapein 1 hydroelectric plant",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.508,
+          19.8601
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Middle Paunglaung hydroelectric plant",
+        "Capacity (MW)": 152.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.254,
+          20.4786
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Mone Chaung hydroelectric plant",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.3332,
+          19.785
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Paung Laung hydroelectric plant",
+        "Capacity (MW)": 280.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.933,
+          17.9682
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Shwegyin hydroelectric plant",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.4561,
+          23.6682
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Shweli 1 hydroelectric plant",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0072,
+          19.5213
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Tha Htay hydroelectric plant",
+        "Capacity (MW)": 111.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.6166,
+          18.9113
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Thaukyegat 2 hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.5932,
+          19.756
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Upper Paung Laung hydroelectric plant",
+        "Capacity (MW)": 140.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.4741,
+          21.6742
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Yeywa hydroelectric plant",
+        "Capacity (MW)": 790.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.130801,
+          16.778587
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Ahlone (Toyo Thai) power station",
+        "Capacity (MW)": 121.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1306,
+          16.7765
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Ahlone power station",
+        "Capacity (MW)": 151.5,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.125,
+          16.98
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Hlawga power station",
+        "Capacity (MW)": 154.2,
+        "Status": "operating",
+        "Start year": 1995,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.152935,
+          21.667691
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Kyaukse (PowerGen) power plant",
+        "Capacity (MW)": 145.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.653662,
+          16.46644
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Mawlamyine power station",
+        "Capacity (MW)": 230.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.226606,
+          16.811622
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Max Power (Thakayta) power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.375904,
+          21.389598
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Myingyan II power station",
+        "Capacity (MW)": 109.7,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.376656,
+          21.386872
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Myingyan power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.226075,
+          16.812192
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Thaketa (U Energy) power station",
+        "Capacity (MW)": 106.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.226,
+          16.81
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Thaketa power station",
+        "Capacity (MW)": 92.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.40665,
+          16.964053
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Thaton power station",
+        "Capacity (MW)": 119.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.089,
+          16.9
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Ywama power station",
+        "Capacity (MW)": 52.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.089,
+          16.9
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Ywama power station",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.089,
+          16.9
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Ywama power station",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.585428,
+          16.876601
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Myainggalay Cement power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "unknown",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.703524,
+          20.431292
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Tigyit power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.703524,
+          20.431292
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Tigyit power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.6828,
+          20.0494
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Minbu solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.013,
+          20.977
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Thapyaywa (CPE) solar farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.2456,
+          23.0888
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Cangyuan Va Autonomous County solar project",
+        "Capacity (MW)": 12.5,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.5795,
+          12.4474
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Kyunsu Township solar project",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.2879,
+          21.4478
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Mandalay solar project I",
+        "Capacity (MW)": 4.2,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.304,
+          22.2752
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Mandalay solar project II",
+        "Capacity (MW)": 17.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.0554,
+          21.6873
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Menghai County solar project",
+        "Capacity (MW)": 4.3,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.5242,
+          22.4265
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Nawnghkio Township solar project I",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.5213,
+          22.3978
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Nawnghkio Township solar project II",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.2874,
+          19.8333
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Naypyitaw Union Territory solar project I",
+        "Capacity (MW)": 7.2,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.2846,
+          19.8491
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Naypyitaw Union Territory solar project II",
+        "Capacity (MW)": 6.6,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1067,
+          16.8294
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Myanmar",
+        "Plant / Project name": "Yangon solar project",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

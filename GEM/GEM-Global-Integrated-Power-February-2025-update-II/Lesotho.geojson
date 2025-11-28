@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3278,
+          -29.8094
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Lesotho",
+        "Plant / Project name": "Ha Ramarothole solar farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

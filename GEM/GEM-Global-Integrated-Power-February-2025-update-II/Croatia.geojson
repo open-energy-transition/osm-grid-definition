@@ -1,0 +1,1643 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4946,
+          46.3111
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Čakovec hydroelectric plant",
+        "Capacity (MW)": 77.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "unknown",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7488,
+          46.3208
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Dubrava hydroelectric plant",
+        "Capacity (MW)": 76.0,
+        "Status": "operating",
+        "Start year": 1989,
+        "Technology": "unknown",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7843,
+          43.6736
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Orlovac hydroelectric plant",
+        "Capacity (MW)": 237.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9246,
+          44.943
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Senj I hydroelectric plant",
+        "Capacity (MW)": 216.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2684,
+          46.3479
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Varaždin hydroelectric plant",
+        "Capacity (MW)": 95.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7534,
+          44.2082
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Velebit hydroelectric plant",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6722,
+          45.2275
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Vinodol hydroelectric plant",
+        "Capacity (MW)": 83.0,
+        "Status": "operating",
+        "Start year": 1952,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7016,
+          43.4575
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Zakučac hydroelectric plant",
+        "Capacity (MW)": 538.0,
+        "Status": "operating",
+        "Start year": 1961,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.94819,
+          45.80806
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Croatia",
+        "Plant / Project name": "El-To Zagreb power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.94819,
+          45.80806
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Croatia",
+        "Plant / Project name": "El-To Zagreb power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.94819,
+          45.80806
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Croatia",
+        "Plant / Project name": "El-To Zagreb power station",
+        "Capacity (MW)": 47.8,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.17929,
+          46.03876
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Jertovec power station",
+        "Capacity (MW)": 88.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: light fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7449,
+          45.542
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Osijek power station",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: light fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7449,
+          45.542
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Osijek power station",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: light fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7449,
+          45.542
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Osijek power station",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: light fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.79232,
+          45.47129
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Petrokemija Kutina power station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5212359,
+          45.2861999
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Rijeka power station",
+        "Capacity (MW)": 320.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.41461,
+          45.45427
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Sisak power station",
+        "Capacity (MW)": 235.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "combined cycle",
+        "Fuel": "fossil liquids: light fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.01632,
+          45.78213
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Te-To Zagreb power station",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "combined cycle",
+        "Fuel": "fossil liquids: light fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.01632,
+          45.78213
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Te-To Zagreb power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "combined cycle",
+        "Fuel": "fossil liquids: light fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.01632,
+          45.78213
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Te-To Zagreb power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "combined cycle",
+        "Fuel": "fossil liquids: light fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.162702,
+          45.136764
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Plomin power station",
+        "Capacity (MW)": 217.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8157,
+          43.4702
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Kom-Orjak-Greda wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0223,
+          43.6382
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Orlice wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0084,
+          43.7078
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Crno Brdo wind farm",
+        "Capacity (MW)": 11.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9677,
+          43.7531
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Trtar-Krtolin wind farm",
+        "Capacity (MW)": 11.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6638,
+          44.2214
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Jasenice wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.669,
+          44.1571
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Obrovac-Zelengrad wind farm",
+        "Capacity (MW)": 42.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4749,
+          43.6092
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Pometeno Brdo wind farm",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7126,
+          44.1079
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Zadar wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7809,
+          44.0686
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Zadar wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0736,
+          43.6399
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Glunca wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9323,
+          45.0456
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Senj (Wallenborn) wind farm",
+        "Capacity (MW)": 42.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1645,
+          43.5539
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Jelinak wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1558,
+          44.0099
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Ljubac wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9057,
+          43.4782
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Katuni wind farm",
+        "Capacity (MW)": 34.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.799,
+          42.8237
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Rudine wind farm",
+        "Capacity (MW)": 34.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.606,
+          42.8623
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Ponikve wind farm",
+        "Capacity (MW)": 37.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8839,
+          43.6319
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Kamensko-Vostane wind farm",
+        "Capacity (MW)": 42.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5332,
+          43.7177
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Ogorje wind farm",
+        "Capacity (MW)": 42.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0676,
+          43.7101
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Danilo wind farm",
+        "Capacity (MW)": 44.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0519,
+          44.2659
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Zadar 6 wind farm",
+        "Capacity (MW)": 44.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9202,
+          43.5382
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Lukovac wind farm",
+        "Capacity (MW)": 49.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1126,
+          43.6093
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Boraja Wind Park",
+        "Capacity (MW)": 45.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5903,
+          44.0893
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Korlat wind farm",
+        "Capacity (MW)": 58.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1004,
+          44.0649
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "KRS-Padene wind farm",
+        "Capacity (MW)": 130.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0256,
+          45.0367
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Senj (Norinco) wind farm",
+        "Capacity (MW)": 156.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9649,
+          45.8215
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Bjelovar-Bilogora County solar project",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1534,
+          45.1978
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Brod-Posavina County solar project",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.421,
+          44.897
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Cres solar project",
+        "Capacity (MW)": 6.5,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4625,
+          43.8734
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Croatia solar project I",
+        "Capacity (MW)": 5.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.151,
+          43.0381
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Croatia solar project II",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7622,
+          43.3017
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Croatia solar project III",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7696,
+          43.3039
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Croatia solar project IV",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7778,
+          43.3042
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Croatia solar project V",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6754,
+          45.3282
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Istria County solar project I",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8309,
+          45.1198
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Istria County solar project II",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0096,
+          46.1082
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Koprivnica-Križevci County solar project",
+        "Capacity (MW)": 4.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0766,
+          46.0461
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Krapina-Zagorje County solar project I",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1735,
+          46.0513
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Krapina-Zagorje County solar project II",
+        "Capacity (MW)": 4.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1914,
+          46.059
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Krapina-Zagorje County solar project III",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8046,
+          46.3484
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Međimurje County solar project I",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7478,
+          46.3233
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Međimurje County solar project II",
+        "Capacity (MW)": 7.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6674,
+          45.5156
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Osijek-Baranja County solar project",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1994,
+          46.2511
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Varaždin County solar project I",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2419,
+          46.2424
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Varaždin County solar project II",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6088,
+          46.2577
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Varaždin County solar project III",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1181,
+          46.2313
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Varaždin County solar project IV",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1618,
+          46.3459
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Varaždin County solar project V",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6409,
+          45.7103
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Virovitica-Podravina County solar project I",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.722,
+          45.7134
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Virovitica-Podravina County solar project II",
+        "Capacity (MW)": 6.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7172,
+          45.0899
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Vukovar-Srijem County solar project",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6731,
+          44.2137
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Zadar County solar project I",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7325,
+          43.8638
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Zadar County solar project II",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6572,
+          44.2206
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Zadar County solar project III",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1082,
+          43.9805
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Šibenik-Knin County solar project I",
+        "Capacity (MW)": 5.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.179,
+          43.9997
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Šibenik-Knin County solar project II",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2448,
+          44.0291
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Croatia",
+        "Plant / Project name": "Šibenik-Knin County solar project III",
+        "Capacity (MW)": 3.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

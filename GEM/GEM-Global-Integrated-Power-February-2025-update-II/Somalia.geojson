@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.2382,
+          2.1177
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Somalia",
+        "Plant / Project name": "BECO Jabad-Gelle Solar PV",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.972,
+          10.3999
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Somalia",
+        "Plant / Project name": "Berbera solar project",
+        "Capacity (MW)": 4.6,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.5529,
+          9.5551
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Somalia",
+        "Plant / Project name": "Burao Burao District solar project",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3237,
+          2.1471
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Somalia",
+        "Plant / Project name": "Daru-Salaam City Afgooye District solar project I",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3189,
+          2.1072
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Somalia",
+        "Plant / Project name": "Daru-Salaam City Afgooye District solar project III",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3195,
+          2.0549
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Somalia",
+        "Plant / Project name": "Mogadishu solar farm",
+        "Capacity (MW)": 8.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

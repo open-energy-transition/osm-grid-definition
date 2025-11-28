@@ -1,0 +1,6683 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0834,
+          -28.566
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Drakensberg hydroelectric plant",
+        "Capacity (MW)": 1000.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5067,
+          -30.6233
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Gariep hydroelectric plant",
+        "Capacity (MW)": 360.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.588,
+          -28.2809
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Ingula hydroelectric plant",
+        "Capacity (MW)": 1332.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9746,
+          -34.1985
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Palmiet hydroelectric plant",
+        "Capacity (MW)": 400.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8982,
+          -34.152
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Steenbras hydroelectric plant",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7317,
+          -29.9911
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Vanderkloof hydroelectric plant",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4321,
+          -33.6746
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Koeberg nuclear power plant",
+        "Capacity (MW)": 970.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4321,
+          -33.6746
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Koeberg nuclear power plant",
+        "Capacity (MW)": 970.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.535834,
+          -33.883115
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Acacia power station",
+        "Capacity (MW)": 57.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: kerosene",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.535834,
+          -33.883115
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Acacia power station",
+        "Capacity (MW)": 57.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: kerosene",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.535834,
+          -33.883115
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Acacia power station",
+        "Capacity (MW)": 57.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: kerosene",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.461496,
+          -33.589479
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Ankerlig power station",
+        "Capacity (MW)": 149.2,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.461496,
+          -33.589479
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Ankerlig power station",
+        "Capacity (MW)": 149.2,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.461496,
+          -33.589479
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Ankerlig power station",
+        "Capacity (MW)": 149.2,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.461496,
+          -33.589479
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Ankerlig power station",
+        "Capacity (MW)": 149.2,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.461496,
+          -33.589479
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Ankerlig power station",
+        "Capacity (MW)": 148.3,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.461496,
+          -33.589479
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Ankerlig power station",
+        "Capacity (MW)": 148.3,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.461496,
+          -33.589479
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Ankerlig power station",
+        "Capacity (MW)": 148.3,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.461496,
+          -33.589479
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Ankerlig power station",
+        "Capacity (MW)": 148.3,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.461496,
+          -33.589479
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Ankerlig power station",
+        "Capacity (MW)": 148.3,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.157693,
+          -29.418913
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Avon power station",
+        "Capacity (MW)": 167.5,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.157693,
+          -29.418913
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Avon power station",
+        "Capacity (MW)": 167.5,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.157693,
+          -29.418913
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Avon power station",
+        "Capacity (MW)": 167.5,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.157693,
+          -29.418913
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Avon power station",
+        "Capacity (MW)": 167.5,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.672819,
+          -33.743385
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Dedisa power station",
+        "Capacity (MW)": 335.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.960715,
+          -34.166755
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Gourikwa power station",
+        "Capacity (MW)": 148.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.960715,
+          -34.166755
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Gourikwa power station",
+        "Capacity (MW)": 148.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.960715,
+          -34.166755
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Gourikwa power station",
+        "Capacity (MW)": 148.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.960715,
+          -34.166755
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Gourikwa power station",
+        "Capacity (MW)": 148.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.960715,
+          -34.166755
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Gourikwa power station",
+        "Capacity (MW)": 148.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.881751,
+          -33.028021
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Port Rex power station",
+        "Capacity (MW)": 57.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: kerosene",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.881751,
+          -33.028021
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Port Rex power station",
+        "Capacity (MW)": 57.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: kerosene",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.881751,
+          -33.028021
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Port Rex power station",
+        "Capacity (MW)": 57.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: kerosene",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.168645,
+          -26.560117
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Secunda power station",
+        "Capacity (MW)": 280.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.79204,
+          -25.943807
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Arnot power station",
+        "Capacity (MW)": 370.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.79204,
+          -25.943807
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Arnot power station",
+        "Capacity (MW)": 390.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.79204,
+          -25.943807
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Arnot power station",
+        "Capacity (MW)": 396.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.79204,
+          -25.943807
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Arnot power station",
+        "Capacity (MW)": 396.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.79204,
+          -25.943807
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Arnot power station",
+        "Capacity (MW)": 400.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.79204,
+          -25.943807
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Arnot power station",
+        "Capacity (MW)": 400.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.090074,
+          -26.621477
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Camden power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.090074,
+          -26.621477
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Camden power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.090074,
+          -26.621477
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Camden power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.090074,
+          -26.621477
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Camden power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.090074,
+          -26.621477
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Camden power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.090074,
+          -26.621477
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Camden power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.090074,
+          -26.621477
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Camden power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.090074,
+          -26.621477
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Camden power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.339713,
+          -25.961261
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Duvha power station",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.339713,
+          -25.961261
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Duvha power station",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.339713,
+          -25.961261
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Duvha power station",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.339713,
+          -25.961261
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Duvha power station",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.339713,
+          -25.961261
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Duvha power station",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.497758,
+          -26.768494
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Grootvlei power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.497758,
+          -26.768494
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Grootvlei power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.497758,
+          -26.768494
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Grootvlei power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.601613,
+          -26.032044
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Hendrina power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.601613,
+          -26.032044
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Hendrina power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.601613,
+          -26.032044
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Hendrina power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.601613,
+          -26.032044
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Hendrina power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.601613,
+          -26.032044
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Hendrina power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.601613,
+          -26.032044
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Hendrina power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.194019,
+          -26.115776
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kelvin power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.194019,
+          -26.115776
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kelvin power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.194019,
+          -26.115776
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kelvin power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.194019,
+          -26.115776
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kelvin power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.194019,
+          -26.115776
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kelvin power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.194019,
+          -26.115776
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kelvin power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.194019,
+          -26.115776
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kelvin power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.968796,
+          -26.090285
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kendal power station",
+        "Capacity (MW)": 686.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.968796,
+          -26.090285
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kendal power station",
+        "Capacity (MW)": 686.0,
+        "Status": "operating",
+        "Start year": 1989,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.968796,
+          -26.090285
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kendal power station",
+        "Capacity (MW)": 686.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.968796,
+          -26.090285
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kendal power station",
+        "Capacity (MW)": 686.0,
+        "Status": "operating",
+        "Start year": 1991,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.968796,
+          -26.090285
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kendal power station",
+        "Capacity (MW)": 686.0,
+        "Status": "operating",
+        "Start year": 1992,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.968796,
+          -26.090285
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kendal power station",
+        "Capacity (MW)": 686.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.178465,
+          -26.253937
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kriel power station",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.178465,
+          -26.253937
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kriel power station",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.178465,
+          -26.253937
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kriel power station",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.178465,
+          -26.253937
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kriel power station",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.178465,
+          -26.253937
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kriel power station",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.178465,
+          -26.253937
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kriel power station",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.924942,
+          -25.92007
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kusile power station",
+        "Capacity (MW)": 800.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.924942,
+          -25.92007
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kusile power station",
+        "Capacity (MW)": 800.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.924942,
+          -25.92007
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kusile power station",
+        "Capacity (MW)": 800.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.924942,
+          -25.92007
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kusile power station",
+        "Capacity (MW)": 800.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.924942,
+          -25.92007
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kusile power station",
+        "Capacity (MW)": 800.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.924942,
+          -25.92007
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kusile power station",
+        "Capacity (MW)": 800.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.976892,
+          -26.742032
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Lethabo power station",
+        "Capacity (MW)": 618.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.976892,
+          -26.742032
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Lethabo power station",
+        "Capacity (MW)": 618.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.976892,
+          -26.742032
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Lethabo power station",
+        "Capacity (MW)": 618.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.976892,
+          -26.742032
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Lethabo power station",
+        "Capacity (MW)": 618.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.976892,
+          -26.742032
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Lethabo power station",
+        "Capacity (MW)": 618.0,
+        "Status": "operating",
+        "Start year": 1989,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.976892,
+          -26.742032
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Lethabo power station",
+        "Capacity (MW)": 618.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.770963,
+          -27.10061
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Majuba power station",
+        "Capacity (MW)": 665.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.770963,
+          -27.10061
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Majuba power station",
+        "Capacity (MW)": 665.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.770963,
+          -27.10061
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Majuba power station",
+        "Capacity (MW)": 665.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.770963,
+          -27.10061
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Majuba power station",
+        "Capacity (MW)": 716.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.770963,
+          -27.10061
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Majuba power station",
+        "Capacity (MW)": 716.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.770963,
+          -27.10061
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Majuba power station",
+        "Capacity (MW)": 716.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.610838,
+          -23.668833
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Matimba power station",
+        "Capacity (MW)": 665.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.610838,
+          -23.668833
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Matimba power station",
+        "Capacity (MW)": 665.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.610838,
+          -23.668833
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Matimba power station",
+        "Capacity (MW)": 665.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.610838,
+          -23.668833
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Matimba power station",
+        "Capacity (MW)": 665.0,
+        "Status": "operating",
+        "Start year": 1989,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.610838,
+          -23.668833
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Matimba power station",
+        "Capacity (MW)": 665.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.610838,
+          -23.668833
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Matimba power station",
+        "Capacity (MW)": 665.0,
+        "Status": "operating",
+        "Start year": 1991,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.141506,
+          -26.281332
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Matla power station",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.141506,
+          -26.281332
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Matla power station",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.141506,
+          -26.281332
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Matla power station",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.141506,
+          -26.281332
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Matla power station",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.141506,
+          -26.281332
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Matla power station",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.141506,
+          -26.281332
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Matla power station",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.563839,
+          -23.704973
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Medupi power station",
+        "Capacity (MW)": 794.8,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.563839,
+          -23.704973
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Medupi power station",
+        "Capacity (MW)": 794.8,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.563839,
+          -23.704973
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Medupi power station",
+        "Capacity (MW)": 794.8,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.563839,
+          -23.704973
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Medupi power station",
+        "Capacity (MW)": 794.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.563839,
+          -23.704973
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Medupi power station",
+        "Capacity (MW)": 794.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.563839,
+          -23.704973
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Medupi power station",
+        "Capacity (MW)": 794.8,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.99352,
+          -28.76208
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Richards Bay Mill power station",
+        "Capacity (MW)": 38.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.99352,
+          -28.76208
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Richards Bay Mill power station",
+        "Capacity (MW)": 34.3,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.352376,
+          -26.777156
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Tutuka power station",
+        "Capacity (MW)": 609.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.352376,
+          -26.777156
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Tutuka power station",
+        "Capacity (MW)": 609.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.352376,
+          -26.777156
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Tutuka power station",
+        "Capacity (MW)": 609.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.352376,
+          -26.777156
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Tutuka power station",
+        "Capacity (MW)": 609.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.352376,
+          -26.777156
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Tutuka power station",
+        "Capacity (MW)": 609.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.352376,
+          -26.777156
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Tutuka power station",
+        "Capacity (MW)": 609.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0184,
+          -33.2564
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Gouda wind farm",
+        "Capacity (MW)": 138.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9093,
+          -32.7333
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Cookhouse wind farm",
+        "Capacity (MW)": 139.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9956,
+          -32.8343
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "West Coast 1 wind farm",
+        "Capacity (MW)": 94.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.383,
+          -34.2275
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Dassieklip wind farm",
+        "Capacity (MW)": 27.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8665,
+          -30.7349
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Longyuan Mulilo De Aar Maanhaarberg wind farm",
+        "Capacity (MW)": 96.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8665,
+          -30.7349
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Longyuan Mulilo De Aar Maanhaarberg wind farm",
+        "Capacity (MW)": 139.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5915,
+          -33.6551
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Grassridge wind farm",
+        "Capacity (MW)": 62.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9623,
+          -32.5901
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Chaba wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4569,
+          -32.5901
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Waainek wind farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3391,
+          -29.9078
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Copperton wind farm",
+        "Capacity (MW)": 102.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4131,
+          -29.959
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Garob wind farm",
+        "Capacity (MW)": 145.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6347,
+          -34.1115
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Oyster Bay wind farm",
+        "Capacity (MW)": 148.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9459,
+          -32.7407
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Nxuba wind farm",
+        "Capacity (MW)": 139.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9324,
+          -32.7789
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Nojoli wind farm",
+        "Capacity (MW)": 88.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6396,
+          -32.754
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Soetwater wind farm",
+        "Capacity (MW)": 139.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4818,
+          -34.1286
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Gibson Bay wind farm",
+        "Capacity (MW)": 111.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6567,
+          -32.8858
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Karusa wind farm",
+        "Capacity (MW)": 140.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0943,
+          -31.5296
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Sere wind farm",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8808,
+          -34.0107
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Jeffrey's Bay wind farm",
+        "Capacity (MW)": 138.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9418,
+          -32.8875
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Golden Valley wind farm (South Africa)",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1094,
+          -33.0561
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Perdekraal East wind farm",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5538,
+          -30.4344
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Khobab wind farm",
+        "Capacity (MW)": 140.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5888,
+          -30.4033
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Loeriesfontein wind farm",
+        "Capacity (MW)": 140.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5893,
+          -30.3804
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Loeriesfontein wind farm",
+        "Capacity (MW)": 138.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0165,
+          -31.1736
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Noupoort wind farm",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4393,
+          -31.4809
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Dorper wind farm",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7004,
+          -34.144
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kouga wind farm",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2465,
+          -33.9615
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Van Stadens wind farm",
+        "Capacity (MW)": 27.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5067,
+          -34.0735
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Tsitsikamma Community wind farm",
+        "Capacity (MW)": 95.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1083,
+          -32.692
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Amakhala Emoyeni wind farm",
+        "Capacity (MW)": 134.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2307,
+          -34.2423
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Excelsior wind farm",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5792,
+          -33.0943
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Brandvalley wind farm",
+        "Capacity (MW)": 144.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8035,
+          -31.4022
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Coleskop wind farm",
+        "Capacity (MW)": 140.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2458,
+          -33.9606
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Metrowind Van Stadens wind farm",
+        "Capacity (MW)": 27.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9523,
+          -31.2525
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Phezukomoya wind farm",
+        "Capacity (MW)": 140.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3989,
+          -33.0928
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Umoya Energy wind farm",
+        "Capacity (MW)": 67.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5536,
+          -33.1538
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Wolf wind farm",
+        "Capacity (MW)": 84.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0131,
+          -27.3656
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Adams Aurora solar farm",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8995,
+          -29.2374
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Aggeneys solar farm",
+        "Capacity (MW)": 46.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4009,
+          -27.1583
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Bokamoso Solar Field",
+        "Capacity (MW)": 68.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9955,
+          -28.7333
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Bokpoort Concentrated Solar Project",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Solar Thermal",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1891,
+          -28.4628
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Boshof Solar Power Plant",
+        "Capacity (MW)": 66.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0283,
+          -30.6234
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "De Aar (Globeleq) solar farm",
+        "Capacity (MW)": 45.6,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1035,
+          -30.5955
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "De Aar - Project 1 (Solar Capital) solar farm",
+        "Capacity (MW)": 85.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0926,
+          -30.5892
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "De Aar 3 - Project 2 (Solar Capital) solar farm",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9307,
+          -25.6332
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "De Wildt Solar Park",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2055,
+          -30.8373
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Dreunberg solar farm",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7468,
+          -28.6133
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Droogfontein solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7023,
+          -28.5677
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Droogfontein solar farm",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0398,
+          -30.6315
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Du Plessis Dam PV solar farm",
+        "Capacity (MW)": 75.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.417,
+          -29.3662
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Graspan Solar PV Project",
+        "Capacity (MW)": 75.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3172,
+          -29.3857
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Greefspan solar farm",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9319,
+          -32.9583
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Grootfontein PV solar farm",
+        "Capacity (MW)": 75.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9319,
+          -32.9583
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Grootfontein PV solar farm",
+        "Capacity (MW)": 75.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9319,
+          -32.9583
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Grootfontein PV solar farm",
+        "Capacity (MW)": 75.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.775,
+          -27.7375
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Grootspruit Solar PV Project",
+        "Capacity (MW)": 75.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7123,
+          -27.8657
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Harmony Free State Solar Plant",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8019,
+          -29.0019
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Herbert solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5204,
+          -28.4819
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Ilanga 1 Solar Thermal Power Plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Solar Thermal",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3751,
+          -28.3133
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Jasper Solar Power Plant",
+        "Capacity (MW)": 96.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5929,
+          -28.8793
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "KaXu Solar One Thermosolar Plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Solar Thermal",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1349,
+          -30.1607
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kalkbult solar farm",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.194,
+          -31.7212
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Karoo solar farm",
+        "Capacity (MW)": 73.8,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0276,
+          -27.6095
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kathu CSP Solar Park",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Solar Thermal",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.297,
+          -29.1887
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kenhardt solar farm",
+        "Capacity (MW)": 180.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3069,
+          -29.1921
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kenhardt solar farm",
+        "Capacity (MW)": 180.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3044,
+          -29.2077
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kenhardt solar farm",
+        "Capacity (MW)": 180.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0782,
+          -28.5364
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Khi Solar One Thermosolar Plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Solar Thermal",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5529,
+          -28.8872
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Konkoonsies solar farm",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3501,
+          -28.3154
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Lesedi solar farm",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9199,
+          -28.9134
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Letsatsi Solar Plant",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6506,
+          -30.9986
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Linde solar farm",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0992,
+          -26.0565
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Merak 2 solar plant",
+        "Capacity (MW)": 130.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1325,
+          -26.0429
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Merak 3 solar plant",
+        "Capacity (MW)": 136.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3199,
+          -29.9669
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Mulilo Prieska 20MW solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.313,
+          -30.036
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Mulilo Prieska solar farm",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3553,
+          -30.0215
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Mulilo Sonnedix Prieska solar farm",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0671,
+          -30.6781
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Mulilo Total Hydra solar farm",
+        "Capacity (MW)": 216.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.385,
+          -29.1208
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Nieuwehoop Solar PV Facility",
+        "Capacity (MW)": 180.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7379,
+          -32.4148
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Paleisheuwel Solar Power Plant",
+        "Capacity (MW)": 83.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9256,
+          -29.0438
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Pulida Solar Park",
+        "Capacity (MW)": 83.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3669,
+          -28.2982
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "REDSTONE CSP solar plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "Solar Thermal",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9095,
+          -27.5975
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Reisa solar farm",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9309,
+          -27.5778
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Sishen Solar Plant",
+        "Capacity (MW)": 94.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6646,
+          -26.4083
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "South Deep Mine solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2501,
+          -22.9935
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Soutpan solar farm",
+        "Capacity (MW)": 31.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9853,
+          -23.0716
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Tom Burke Solar Park",
+        "Capacity (MW)": 66.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9254,
+          -33.4103
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Touwsrivier Cpv Solar Project",
+        "Capacity (MW)": 44.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1038,
+          -28.5493
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Upington solar farm",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0613,
+          -28.5707
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Upington solar farm",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0613,
+          -28.5707
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Upington solar farm",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7931,
+          -27.0322
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Waterloo solar farm (South Africa)",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3632,
+          -24.0419
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Witkop Solar Park",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5918,
+          -28.8906
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Xina Solar One Thermosolar Plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Solar Thermal",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0718,
+          -25.5748
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Zeerust Solar Field",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0076,
+          -27.3737
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Adams ZA solar project",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1136,
+          -32.6578
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Amahlathi Local Municipality Amathole District Municipality solar project",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7821,
+          -29.502
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Aries ZA solar project",
+        "Capacity (MW)": 9.6,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4973,
+          -32.6413
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Aurora-Rietvlei Solar Power",
+        "Capacity (MW)": 8.9,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1741,
+          -29.1054
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Bloemfontein Mangaung Metropolitan Municipality solar project",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.074,
+          -34.5156
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Cape Agulhas Local Municipality Overberg District Municipality solar project",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7042,
+          -22.8598
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Capricorn District Municipality solar project I",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1691,
+          -22.7466
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Capricorn District Municipality solar project II",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9244,
+          -32.2564
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Cederberg Local Municipality West Coast District Municipality solar project I",
+        "Capacity (MW)": 19.5,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9205,
+          -32.1421
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Cederberg Local Municipality West Coast District Municipality solar project II",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8141,
+          -32.2088
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Cederberg Local Municipality West Coast District Municipality solar project III",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5923,
+          -33.9074
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "City Of Cape Town solar project I",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.606,
+          -33.7518
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "City Of Cape Town solar project II",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.27,
+          -26.1375
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "City Of Ekurhuleni Metropolitan Municipality solar project I",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1933,
+          -26.157
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "City Of Ekurhuleni Metropolitan Municipality solar project II",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1837,
+          -26.0709
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "City Of Ekurhuleni Metropolitan Municipality solar project III",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4604,
+          -26.2845
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "City Of Ekurhuleni Metropolitan Municipality solar project IV",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1905,
+          -26.1642
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "City Of Ekurhuleni Metropolitan Municipality solar project IX",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2437,
+          -26.1813
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "City Of Ekurhuleni Metropolitan Municipality solar project V",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2026,
+          -25.9607
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "City Of Ekurhuleni Metropolitan Municipality solar project VI",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1828,
+          -26.3432
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "City Of Ekurhuleni Metropolitan Municipality solar project VII",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.417,
+          -26.2582
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "City Of Ekurhuleni Metropolitan Municipality solar project VIII",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1261,
+          -25.987
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "City Of Johannesburg Metropolitan Municipality solar project I",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1065,
+          -26.0134
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "City Of Johannesburg Metropolitan Municipality solar project II",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3422,
+          -25.7287
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "City Of Tshwane Metropolitan Municipality solar project I",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1638,
+          -25.879
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "City Of Tshwane Metropolitan Municipality solar project II",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1767,
+          -25.9175
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "City Of Tshwane Metropolitan Municipality solar project III",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0053,
+          -30.6281
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "De Aar Mulilo solar project",
+        "Capacity (MW)": 9.7,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0362,
+          -33.2989
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Drakenstein Local Municipality Cape Winelands District Municipality solar project",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9929,
+          -29.8139
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Durban Ethekwini Metropolitan Municipality solar project",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8962,
+          -33.0271
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "East London Buffalo City Metropolitan Municipality solar project",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0404,
+          -24.6066
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Ehlanzeni District Municipality solar project",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1831,
+          -25.0709
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Elias Motsoaledi Local Municipality Sekhukhune District Municipality solar project I",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4041,
+          -25.1675
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Elias Motsoaledi Local Municipality Sekhukhune District Municipality solar project II",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3984,
+          -25.0547
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Ephraim Mogale Local Municipality Sekhukhune District Municipality solar project I",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3359,
+          -25.0546
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Ephraim Mogale Local Municipality Sekhukhune District Municipality solar project II",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0554,
+          -29.7109
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Ethekwini Metropolitan Municipality solar project",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3869,
+          -34.0021
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "George solar project I",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4743,
+          -33.9782
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "George solar project II",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2312,
+          -33.6083
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "George solar project III",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5395,
+          -33.8369
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Gqeberha Nelson Mandela Bay Metropolitan Municipality solar project I",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6028,
+          -33.9945
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Gqeberha Nelson Mandela Bay Metropolitan Municipality solar project II",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6716,
+          -34.0067
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Gqeberha Nelson Mandela Bay Metropolitan Municipality solar project III",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2117,
+          -24.7356
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Greater Tubatse Local Municipality Sekhukhune District Municipality solar project I",
+        "Capacity (MW)": 12.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.209,
+          -24.7272
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Greater Tubatse Local Municipality Sekhukhune District Municipality solar project II",
+        "Capacity (MW)": 15.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2934,
+          -23.8639
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Greater Tzaneen Local Municipality solar project",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3117,
+          -29.391
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Greefspan solar project",
+        "Capacity (MW)": 11.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0635,
+          -26.4303
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Heineken Sedibeng solar project",
+        "Capacity (MW)": 6.5,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.974,
+          -26.1308
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Johannesburg City Of Johannesburg Metropolitan Municipality solar project",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3046,
+          -28.642
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kai !Garib Local Municipality Zf Mgcawu District Municipality solar project I",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3828,
+          -28.6673
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kai !Garib Local Municipality Zf Mgcawu District Municipality solar project II",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9904,
+          -28.9417
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Khâi-Ma Local Municipality Namakwa District Municipality solar project",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5561,
+          -28.8868
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Konkoonsies Solar Energy Facility",
+        "Capacity (MW)": 9.6,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7706,
+          -34.0171
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Kouga Local Municipality Sarah Baartman District Municipality solar project",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7245,
+          -26.0297
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Krugersdorp West Rand District Municipality solar project",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6159,
+          -33.9675
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Langeberg Local Municipality Cape Winelands District Municipality solar project",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6047,
+          -27.6638
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Lekwa-Teemane Local Municipality Dr Ruth Segomotsi Mompati District Municipality solar project",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3716,
+          -26.4935
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Lesedi Local Municipality Sedibeng District Municipality solar project",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8023,
+          -25.6502
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Madibeng Local Municipality Bojanala Platinum District Municipality solar project II",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4816,
+          -27.2823
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Mafube Local Municipality Fezile Dabi District Municipality solar project",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0093,
+          -28.0985
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Magareng Local Municipality Frances Baard District Municipality solar project",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5036,
+          -23.129
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Makhado Local Municipality Vhembe District Municipality solar project",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7039,
+          -27.8685
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Matjhabeng Local Municipality Lejweleputswa District Municipality solar project",
+        "Capacity (MW)": 10.3,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5896,
+          -24.9978
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Mbombela Ehlanzeni District Municipality solar project",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0611,
+          -26.5081
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Midvaal Local Municipality Sedibeng District Municipality solar project II",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4432,
+          -26.2372
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Msukaligwa Gert Sibande solar project",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3197,
+          -29.9677
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Mulilo Renewable Energy Solar PV Prieska",
+        "Capacity (MW)": 19.1,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9519,
+          -22.5078
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Mutale Local Municipality Vhembe District Municipality solar project",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5095,
+          -23.874
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Polokwane Capricorn District Municipality solar project",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4189,
+          -23.7512
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Polokwane Local Municipality Capricorn District Municipality solar project",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2791,
+          -25.7419
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Pretoria City Of Tshwane Metropolitan Municipality solar project",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9051,
+          -26.126
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Roodepoort City Of Johannesburg Metropolitan Municipality solar project I",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8618,
+          -26.1403
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Roodepoort City Of Johannesburg Metropolitan Municipality solar project II",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4202,
+          -25.7372
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "RustMo1 solar farm",
+        "Capacity (MW)": 6.9,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1349,
+          -26.1061
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Sandton City Of Johannesburg Metropolitan Municipality solar project",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8418,
+          -26.8115
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Sasolburg solar project",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8337,
+          -29.6619
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Siyathemba Local Municipality Pixley Ka Seme District Municipality solar project I",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9178,
+          -29.549
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Siyathemba Local Municipality Pixley Ka Seme District Municipality solar project II",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5167,
+          -33.35
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Slimsun Swartland Solar Park",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4768,
+          -28.9918
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Sol Plaatje Local Municipality Frances Baard District Municipality solar project",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6526,
+          -25.8938
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Steve Tshwete Local Municipality Nkangala solar project",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.352,
+          -24.7538
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Thabazimbi Local Municipality Waterberg District Municipality solar project I",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2296,
+          -24.5278
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Thabazimbi Local Municipality Waterberg District Municipality solar project II",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1969,
+          -24.548
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Thabazimbi Local Municipality Waterberg District Municipality solar project III",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4903,
+          -24.9073
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Thabazimbi Local Municipality Waterberg District Municipality solar project IV",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4151,
+          -29.8051
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Thembelihle Local Municipality Pixley Ka Seme District Municipality solar project I",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0022,
+          -29.551
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Thembelihle Local Municipality Pixley Ka Seme District Municipality solar project II",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1656,
+          -27.9337
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Tokologo Local Municipality Lejweleputswa District Municipality solar project",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2884,
+          -25.6476
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Umjindi Local Municipality Ehlanzeni District Municipality solar project",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.268,
+          -28.4
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Upington UTN solar project",
+        "Capacity (MW)": 8.9,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.268,
+          -28.4183
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Upington Zf Mgcawu District Municipality solar project",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6811,
+          -26.1257
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Victor Khanye Local Municipality Nkangala solar project",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5084,
+          -31.6259
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Vredendal Solar Park",
+        "Capacity (MW)": 8.8,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6834,
+          -27.922
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Welkom Lejweleputswa District Municipality solar project I",
+        "Capacity (MW)": 7.9,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.708,
+          -27.9264
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Welkom Lejweleputswa District Municipality solar project II",
+        "Capacity (MW)": 10.8,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.23,
+          -33.4324
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Witzenberg Local Municipality Cape Winelands District Municipality solar project I",
+        "Capacity (MW)": 6.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2364,
+          -33.2271
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Witzenberg Local Municipality Cape Winelands District Municipality solar project II",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.355,
+          -33.1065
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "South Africa",
+        "Plant / Project name": "Witzenberg Local Municipality Cape Winelands District Municipality solar project III",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

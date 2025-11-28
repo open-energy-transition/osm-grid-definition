@@ -1,0 +1,782 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1187,
+          10.703
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Kamchay hydroelectric plant",
+        "Capacity (MW)": 194.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.256,
+          13.5531
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Lower Sesan 2 hydroelectric plant",
+        "Capacity (MW)": 400.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.109,
+          11.8244
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Russei Chrum Krom Lower hydroelectric plant",
+        "Capacity (MW)": 132.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.1027,
+          11.8574
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Russei Chrum Krom Upper hydroelectric plant",
+        "Capacity (MW)": 206.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.1453,
+          11.9722
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Stung Atay hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.1697,
+          11.5897
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Stung Tatay hydroelectric plant",
+        "Capacity (MW)": 246.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.082925,
+          11.536769
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "C7 power station",
+        "Capacity (MW)": 200.3,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.082925,
+          11.536769
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Kandal power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.082925,
+          11.536769
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Kandal power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.081774,
+          11.535117
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Phom Penh power sation",
+        "Capacity (MW)": 200.2,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.26931,
+          14.23008
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Han Seng power station",
+        "Capacity (MW)": 132.5,
+        "Status": "construction",
+        "Start year": 2023,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.26931,
+          14.23008
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Han Seng power station",
+        "Capacity (MW)": 132.5,
+        "Status": "construction",
+        "Start year": 2023,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.580827,
+          10.740213
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Sihanoukville CEL power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.580827,
+          10.740213
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Sihanoukville CEL power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.580827,
+          10.740213
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Sihanoukville CEL power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "ultra-supercritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.58347,
+          10.732557
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Sihanoukville CIIDG power station",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.58347,
+          10.732557
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Sihanoukville CIIDG power station",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.58347,
+          10.732557
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Sihanoukville CIIDG power station",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.596159,
+          10.73381
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Sihanoukville CIIDG power station 2",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "supercritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.596159,
+          10.73381
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Sihanoukville CIIDG power station 2",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "supercritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.63363,
+          10.62902
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Sihanoukville SEZ power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "unknown",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.63363,
+          10.62902
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Sihanoukville SEZ power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "unknown",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.975,
+          13.159
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Battambang solar farm",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4047,
+          11.7916
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Cambodia National Solar Park",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.517,
+          12.086
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Kampong Chhnang solar farm",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.674,
+          11.641
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Kampong Speu solar farm",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0717,
+          13.6304
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Serie Saophoan solar farm",
+        "Capacity (MW)": 39.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1149,
+          11.0691
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Bavet solar project II",
+        "Capacity (MW)": 4.7,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3306,
+          12.0667
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Kampong Cham solar project",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.194,
+          12.4641
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Kampong Thom solar project II",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.9569,
+          11.4518
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Krong Ta Khmau solar project",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1109,
+          10.7977
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Moc Hoa District solar project",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7853,
+          11.4773
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Phnom Penh solar project",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8409,
+          12.4415
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Pursat solar project",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6762,
+          13.4353
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Ratanakiri solar project",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0079,
+          12.8645
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Rotonak Mondol District solar project",
+        "Capacity (MW)": 10.2,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6394,
+          11.5104
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cambodia",
+        "Plant / Project name": "Samraong Tong solar project",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

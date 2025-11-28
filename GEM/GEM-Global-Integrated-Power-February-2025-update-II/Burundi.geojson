@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9869,
+          -3.376
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Burundi",
+        "Plant / Project name": "Mubuga solar project",
+        "Capacity (MW)": 6.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

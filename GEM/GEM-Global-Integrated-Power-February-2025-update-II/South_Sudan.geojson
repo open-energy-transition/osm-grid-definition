@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.570616,
+          4.859615
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "South Sudan",
+        "Plant / Project name": "Paloch Oil Field power plant",
+        "Capacity (MW)": 85.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "unknown",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.5062,
+          10.3863
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Guinea",
+        "Plant / Project name": "Amaria hydroelectric plant",
+        "Capacity (MW)": 300.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "unknown",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.6626,
+          10.5298
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Guinea",
+        "Plant / Project name": "Garafiri hydroelectric plant",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2743,
+          10.459
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Guinea",
+        "Plant / Project name": "Kaleta hydroelectric plant",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.253,
+          10.424
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Guinea",
+        "Plant / Project name": "Souapiti hydroelectric plant",
+        "Capacity (MW)": 450.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.63675,
+          9.60254
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Guinea",
+        "Plant / Project name": "Kipé power plant",
+        "Capacity (MW)": 54.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.661755,
+          9.570217
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Guinea",
+        "Plant / Project name": "Tè-Power power plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4367,
+          41.7742
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Kyrgyzstan",
+        "Plant / Project name": "Kambarata-1 hydroelectric plant",
+        "Capacity (MW)": 1860.0,
+        "Status": "construction",
+        "Start year": 2034,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3255,
+          41.7761
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Kyrgyzstan",
+        "Plant / Project name": "Kambarata-2 hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3642,
+          41.4988
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Kyrgyzstan",
+        "Plant / Project name": "Kurpsai hydroelectric plant",
+        "Capacity (MW)": 800.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.1923,
+          41.3121
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Kyrgyzstan",
+        "Plant / Project name": "Shamaldy-Sai hydroelectric plant",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": 1992,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.2319,
+          41.4027
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Kyrgyzstan",
+        "Plant / Project name": "Tash-Kumyr hydroelectric plant",
+        "Capacity (MW)": 450.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6358,
+          41.6571
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Kyrgyzstan",
+        "Plant / Project name": "Toktogul hydroelectric plant",
+        "Capacity (MW)": 1200.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.1607,
+          41.188
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Kyrgyzstan",
+        "Plant / Project name": "Uch-Kurgan hydroelectric plant",
+        "Capacity (MW)": 180.0,
+        "Status": "operating",
+        "Start year": 1961,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.654957,
+          42.871747
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kyrgyzstan",
+        "Plant / Project name": "Bishkek power station",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.654957,
+          42.871747
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kyrgyzstan",
+        "Plant / Project name": "Bishkek power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.654957,
+          42.871747
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kyrgyzstan",
+        "Plant / Project name": "Bishkek power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.654957,
+          42.871747
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kyrgyzstan",
+        "Plant / Project name": "Bishkek power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.654957,
+          42.871747
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kyrgyzstan",
+        "Plant / Project name": "Bishkek power station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.654957,
+          42.871747
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kyrgyzstan",
+        "Plant / Project name": "Bishkek power station",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.654957,
+          42.871747
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kyrgyzstan",
+        "Plant / Project name": "Bishkek power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.654957,
+          42.871747
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kyrgyzstan",
+        "Plant / Project name": "Bishkek power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.654957,
+          42.871747
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kyrgyzstan",
+        "Plant / Project name": "Bishkek power station",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

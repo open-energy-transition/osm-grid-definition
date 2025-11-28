@@ -1,0 +1,4331 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.2863,
+          8.0039
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Agus 1 hydroelectric plant",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1992,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.2757,
+          8.0464
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Agus 2 hydroelectric plant",
+        "Capacity (MW)": 180.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "conventional and run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.1983,
+          8.1339
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Agus 4 hydroelectric plant",
+        "Capacity (MW)": 158.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "conventional and run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.1926,
+          8.1848
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Agus 6 hydroelectric plant",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": 1953,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7452,
+          16.4588
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Ambuklao hydroelectric plant",
+        "Capacity (MW)": 105.0,
+        "Status": "operating",
+        "Start year": 1956,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1608,
+          14.9071
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Angat hydroelectric plant",
+        "Capacity (MW)": 218.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5835,
+          16.8512
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Bakun AC hydroelectric plant",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7183,
+          16.3903
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Binga hydroelectric plant",
+        "Capacity (MW)": 140.0,
+        "Status": "operating",
+        "Start year": 1960,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1997,
+          15.8398
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Casecnan hydroelectric plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4737,
+          14.3171
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Kalayaan 1 hydroelectric plant",
+        "Capacity (MW)": 366.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4737,
+          14.3171
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Kalayaan 2 hydroelectric plant",
+        "Capacity (MW)": 370.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4554,
+          16.8262
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Magat hydroelectric plant",
+        "Capacity (MW)": 380.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1082,
+          15.8114
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Pantabangan hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0237,
+          7.7157
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Pulangi 4 hydroelectric plant",
+        "Capacity (MW)": 255.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6808,
+          16.1497
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Philippines",
+        "Plant / Project name": "San Roque hydroelectric plant",
+        "Capacity (MW)": 435.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9678,
+          13.0547
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Bac-Man geothermal power plant",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9678,
+          13.0547
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Bac-Man geothermal power plant",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6695,
+          11.1309
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Mahanagdong geothermal facility",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "flash steam - double",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6695,
+          11.1309
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Mahanagdong geothermal facility",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "flash steam - double",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6695,
+          11.1309
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Mahanagdong geothermal facility",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2143,
+          14.0917
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Makban geothermal power plant",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "flash steam - double",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2143,
+          14.0917
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Makban geothermal power plant",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "flash steam - double",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2143,
+          14.0917
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Makban geothermal power plant",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2143,
+          14.0917
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Makban geothermal power plant",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2143,
+          14.0917
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Makban geothermal power plant",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2143,
+          14.0917
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Makban geothermal power plant",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6492,
+          11.1525
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Malitbog geothermal power plant",
+        "Capacity (MW)": 78.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6492,
+          11.1525
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Malitbog geothermal power plant",
+        "Capacity (MW)": 78.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6492,
+          11.1525
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Malitbog geothermal power plant",
+        "Capacity (MW)": 78.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2198,
+          7.0127
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Mindanao geothermal power plant",
+        "Capacity (MW)": 54.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2198,
+          7.0127
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Mindanao geothermal power plant",
+        "Capacity (MW)": 52.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.1531,
+          9.2805
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Nasulo geothermal power plant",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.1723,
+          9.295
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Palinpinon 1 geothermal power plant",
+        "Capacity (MW)": 38.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.1723,
+          9.295
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Palinpinon 1 geothermal power plant",
+        "Capacity (MW)": 38.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.1723,
+          9.295
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Palinpinon 1 geothermal power plant",
+        "Capacity (MW)": 38.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6486,
+          13.4655
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Tiwi geothermal power plant",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6486,
+          13.4655
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Tiwi geothermal power plant",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6486,
+          13.4655
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Tiwi geothermal power plant",
+        "Capacity (MW)": 57.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6486,
+          13.4655
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Tiwi geothermal power plant",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6486,
+          13.4655
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Tiwi geothermal power plant",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6486,
+          13.4655
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Tiwi geothermal power plant",
+        "Capacity (MW)": 43.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6371,
+          11.1612
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Tongonan geothermal power plant",
+        "Capacity (MW)": 38.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6371,
+          11.1612
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Tongonan geothermal power plant",
+        "Capacity (MW)": 38.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6371,
+          11.1612
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Tongonan geothermal power plant",
+        "Capacity (MW)": 38.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9663,
+          13.0547
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Bac-Man geothermal power plant",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9369,
+          13.0348
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Bac-Man geothermal power plant",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1655,
+          14.1382
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Maibarara geothermal power plant",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1655,
+          14.1382
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Maibarara geothermal power plant",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2198,
+          7.0127
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Mindanao geothermal power plant",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "binary cycle",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.927036506775,
+          13.0591698332044
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Palayan Bayan geothermal power plant",
+        "Capacity (MW)": 29.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "binary cycle",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6393,
+          13.4597
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Tiwi Binary geothermal power plant",
+        "Capacity (MW)": 17.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "binary cycle",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.8673,
+          10.2001
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Biscom power station",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.8482,
+          10.0184
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Kabankalan power station",
+        "Capacity (MW)": 46.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0187,
+          7.7128
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Maramag power station",
+        "Capacity (MW)": 49.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.8034,
+          9.9587
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Philippines",
+        "Plant / Project name": "URC-SONEDCO power station",
+        "Capacity (MW)": 46.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.0645,
+          10.8812
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Victorias Milling power station",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0795,
+          13.622
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Batangas Combined Cycle power plant",
+        "Capacity (MW)": 437.5,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0795,
+          13.622
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Batangas Combined Cycle power plant",
+        "Capacity (MW)": 437.5,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0795,
+          13.622
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Batangas Combined Cycle power plant",
+        "Capacity (MW)": 437.5,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.327103,
+          16.490513
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Bauang La Union Diesel power plant",
+        "Capacity (MW)": 235.2,
+        "Status": "operating",
+        "Start year": 1994,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.07597,
+          14.89569
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Bulacan Bunker C-fired diesel power station",
+        "Capacity (MW)": 54.5,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.255275,
+          8.327663
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Iligan Diesel power plant",
+        "Capacity (MW)": 113.4,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0795,
+          13.622
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Ilijan power station",
+        "Capacity (MW)": 625.5,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0795,
+          13.622
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Ilijan power station",
+        "Capacity (MW)": 625.5,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.333658,
+          14.392756
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Ingrid power station",
+        "Capacity (MW)": 150.7,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.333448,
+          14.395778
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Malaya Thermal power station",
+        "Capacity (MW)": 325.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.333448,
+          14.395778
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Malaya Thermal power station",
+        "Capacity (MW)": 325.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.95754,
+          14.67333
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Millennium Gas Turbine Power Plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.949956,
+          14.636265
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Mobile 4 bunker-fired diesel power station",
+        "Capacity (MW)": 56.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.949956,
+          14.636265
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Mobile 6 bunker-fired diesel power station",
+        "Capacity (MW)": 57.2,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.752369,
+          13.8949
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Pagbilao Combined Cycle power station",
+        "Capacity (MW)": 650.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.030688,
+          13.776528
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "San Gabriel power station",
+        "Capacity (MW)": 420.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.033528,
+          13.770403
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "San Lorenzo power station",
+        "Capacity (MW)": 275.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.033528,
+          13.770403
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "San Lorenzo power station",
+        "Capacity (MW)": 275.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.035276,
+          13.770391
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Santa Rita power station",
+        "Capacity (MW)": 273.7,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.035276,
+          13.770391
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Santa Rita power station",
+        "Capacity (MW)": 273.7,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.035276,
+          13.770391
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Santa Rita power station",
+        "Capacity (MW)": 273.7,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.035276,
+          13.770391
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Santa Rita power station",
+        "Capacity (MW)": 273.7,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.299933,
+          14.817278
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Subic diesel power station",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.853288,
+          7.350006
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Therma Marine Inc (TMI) 1 power barge power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1994,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.331642,
+          8.978044
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Therma Marine Inc (TMI) 2 power barge power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1994,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.949956,
+          14.636265
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Therma Mobile, Inc. (TMO) power station",
+        "Capacity (MW)": 242.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.214202,
+          7.081788
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Western Mindanao Power Corporation (WMPC) Zamboanga power station",
+        "Capacity (MW)": 112.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.767,
+          8.766
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Balingasag power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "CFB",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.767,
+          8.766
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Balingasag power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "CFB",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.767,
+          8.766
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Balingasag power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "CFB",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.609774,
+          15.236266
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Bundagul power station",
+        "Capacity (MW)": 84.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "CFB",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.789689,
+          13.932628
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Calaca power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.789689,
+          13.932628
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Calaca power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1995,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.789689,
+          13.932628
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Calaca power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.789689,
+          13.932628
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Calaca power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.641023,
+          10.387158
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Cebu Energy power station",
+        "Capacity (MW)": 82.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.641023,
+          10.387158
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Cebu Energy power station",
+        "Capacity (MW)": 82.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.641023,
+          10.387158
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Cebu Energy power station",
+        "Capacity (MW)": 82.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.120721,
+          11.187582
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Concepcion power station",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "CFB",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.120721,
+          11.187582
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Concepcion power station",
+        "Capacity (MW)": 135.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "CFB",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.61684,
+          6.39351
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Davao San Miguel power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "CFB",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.61684,
+          6.39351
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Davao San Miguel power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "CFB",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.479722,
+          6.964444
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Davao Therma South power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "CFB",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.479722,
+          6.964444
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Davao Therma South power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "CFB",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.540992,
+          14.424599
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Dinginin power station",
+        "Capacity (MW)": 668.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "supercritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.540992,
+          14.424599
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Dinginin power station",
+        "Capacity (MW)": 668.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "supercritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.079818,
+          5.86868
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Kamanga power station",
+        "Capacity (MW)": 105.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.079818,
+          5.86868
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Kamanga power station",
+        "Capacity (MW)": 105.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.11545,
+          8.18691
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Lanao Kauswagan power station",
+        "Capacity (MW)": 138.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.11545,
+          8.18691
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Lanao Kauswagan power station",
+        "Capacity (MW)": 138.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.11545,
+          8.18691
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Lanao Kauswagan power station",
+        "Capacity (MW)": 138.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.11545,
+          8.18691
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Lanao Kauswagan power station",
+        "Capacity (MW)": 138.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.602681,
+          14.520406
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Limay power station",
+        "Capacity (MW)": 134.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "CFB",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.602681,
+          14.520406
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Limay power station",
+        "Capacity (MW)": 134.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "CFB",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.602681,
+          14.520406
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Limay power station",
+        "Capacity (MW)": 134.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "CFB",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.602681,
+          14.520406
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Limay power station",
+        "Capacity (MW)": 134.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "CFB",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.610559,
+          15.235598
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Mabalacat Mill power station",
+        "Capacity (MW)": 52.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.537018,
+          14.425167
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Mariveles Power Plant",
+        "Capacity (MW)": 325.8,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.537018,
+          14.425167
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Mariveles Power Plant",
+        "Capacity (MW)": 325.8,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9230603,
+          15.5640555
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Masinloc power station",
+        "Capacity (MW)": 330.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9230603,
+          15.5640555
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Masinloc power station",
+        "Capacity (MW)": 344.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9191543,
+          15.5638449
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Masinloc power station",
+        "Capacity (MW)": 351.8,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9191543,
+          15.5638449
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Masinloc power station",
+        "Capacity (MW)": 350.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.7573,
+          8.5725
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Mindanao Steag power station",
+        "Capacity (MW)": 116.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.7573,
+          8.5725
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Mindanao Steag power station",
+        "Capacity (MW)": 116.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.747758,
+          8.560966
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Misamis Oriental power station",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.747758,
+          8.560966
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Misamis Oriental power station",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.747758,
+          8.560966
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Misamis Oriental power station",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.76058,
+          10.21755
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Naga power station",
+        "Capacity (MW)": 110.5,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.76058,
+          10.21755
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Naga power station",
+        "Capacity (MW)": 110.5,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.745,
+          13.8932
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Pagbilao power station",
+        "Capacity (MW)": 367.5,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.745,
+          13.8932
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Pagbilao power station",
+        "Capacity (MW)": 367.5,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.745,
+          13.8932
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Pagbilao power station",
+        "Capacity (MW)": 420.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.59582,
+          10.72444
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Panay power station",
+        "Capacity (MW)": 82.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.59582,
+          10.72444
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Panay power station",
+        "Capacity (MW)": 82.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.59582,
+          10.72444
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Panay power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "CFB",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.601076,
+          14.529048
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Petron Refinery power station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "unknown",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.601076,
+          14.529048
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Petron Refinery power station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "CFB",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.601076,
+          14.529048
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Petron Refinery power station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "CFB",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.601076,
+          14.529048
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Petron Refinery power station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "CFB",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.826054,
+          13.91933
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Puting Bato power station",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.826054,
+          13.91933
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Puting Bato power station",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7558,
+          14.2296
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Quezon power station",
+        "Capacity (MW)": 538.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7558,
+          14.2296
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Quezon power station",
+        "Capacity (MW)": 528.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "supercritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.432283,
+          14.449354
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "SMC Mariveles power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "CFB",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.432283,
+          14.449354
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "SMC Mariveles power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "CFB",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.432283,
+          14.449354
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "SMC Mariveles power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "CFB",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.432283,
+          14.449354
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "SMC Mariveles power station",
+        "Capacity (MW)": 150.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "unknown",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.100556,
+          16.125
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Sual power station",
+        "Capacity (MW)": 647.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.100556,
+          16.125
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Sual power station",
+        "Capacity (MW)": 647.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.60356,
+          10.349721
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Therma Visayas Energy Project",
+        "Capacity (MW)": 170.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "CFB",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.60356,
+          10.349721
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Therma Visayas Energy Project",
+        "Capacity (MW)": 170.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "CFB",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6424188,
+          10.3873068
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Toledo City power station",
+        "Capacity (MW)": 82.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.771672,
+          14.895346
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Philippines",
+        "Plant / Project name": "United Pulp & Paper power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "CFB",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8051,
+          18.6148
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Caparispisan wind farm",
+        "Capacity (MW)": 81.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6851,
+          18.521
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Bangui Bay wind farm",
+        "Capacity (MW)": 19.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7104,
+          18.5281
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Bangui Bay I wind farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9859,
+          11.8794
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Nabas wind farm",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9858,
+          11.8796
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Nabas wind farm",
+        "Capacity (MW)": 13.2,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.6923,
+          10.5906
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Philippines",
+        "Plant / Project name": "San Lorenzo wind farm (Philippines)",
+        "Capacity (MW)": 54.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3485,
+          14.4753
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Pililla wind farm",
+        "Capacity (MW)": 54.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6479,
+          18.5339
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Burgos Wind Power Project",
+        "Capacity (MW)": 87.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6479,
+          18.5339
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Burgos Wind Power Project",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.226,
+          14.071
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Alaminos Solar Power Project",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6822,
+          15.1655
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Arayat-Mexico solar farm",
+        "Capacity (MW)": 72.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6822,
+          15.1655
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Arayat-Mexico solar farm",
+        "Capacity (MW)": 31.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.366,
+          14.795
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Bataan Solar Power Project",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.999,
+          15.138
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Bulacansol solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.2973,
+          10.9247
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Cadiz Solar Power Project",
+        "Capacity (MW)": 132.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7152,
+          18.1217
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Cagayan North Solar Power Plant Project",
+        "Capacity (MW)": 133.5,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6498,
+          13.9155
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Calatagan Solar Power Project",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.875,
+          14.417
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Cavite Special Economic Zone Solar Power Project,",
+        "Capacity (MW)": 41.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1338,
+          15.9395
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Cayanga-Bugallon Solar Power Project",
+        "Capacity (MW)": 94.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5336,
+          15.2439
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Clark (Citicore) Solar Power Project",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.695,
+          15.335
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Concepcion solar farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.695,
+          15.335
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Concepcion solar farm",
+        "Capacity (MW)": 71.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4858,
+          18.051
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Currimao Solar Power Project",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2838,
+          6.7796
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Digos solar farm",
+        "Capacity (MW)": 29.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6738,
+          10.4157
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "First Toledo Solar",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9851,
+          15.4412
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Gigasol3 Solar Power Project",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.167,
+          10.943
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Islasol Solar Power Project",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2174,
+          15.8462
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Laoag Solar Power Project",
+        "Capacity (MW)": 57.8,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1899,
+          15.8392
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Laoag Solar Power Project",
+        "Capacity (MW)": 71.4,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.145,
+          14.795
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Macabud solar farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.791,
+          14.2423
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Maragondon Solar Power Project",
+        "Capacity (MW)": 64.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5717,
+          14.5855
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Orion solar farm",
+        "Capacity (MW)": 20.4,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6342,
+          11.0868
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Ormoc Solar Power Project",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.954,
+          15.445
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Palauig 1 solar farm",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9173,
+          11.1368
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Palo Solar Power Project",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2864,
+          14.5803
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Pinugay Solar Power Project",
+        "Capacity (MW)": 67.5,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.4255,
+          10.5141
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Sacasun Solar Power Project",
+        "Capacity (MW)": 59.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.4351,
+          10.5161
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "San Carlos Solar Power Project",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.4307,
+          10.523
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "San Carlos Solar Power Project",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.031,
+          15.007
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "San Ildefonso II solar farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2493,
+          15.0132
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "San Marcelino Solar Power Project",
+        "Capacity (MW)": 224.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2493,
+          15.0132
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "San Marcelino Solar Power Project",
+        "Capacity (MW)": 79.6,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2493,
+          15.0132
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "San Marcelino Solar Power Project",
+        "Capacity (MW)": 96.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9989,
+          15.1377
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "San Miguel (PowerSource) Solar Power Project",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4536,
+          16.0032
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Santa Barbara Solar Power Project",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.069,
+          5.977
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Santos Solar Power Project",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.9925,
+          10.8055
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Silay Solar Power Project",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.364,
+          14.8089
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Subic New Pv Solar Power Plant Project",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6901,
+          18.454
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Tanap-Bangui solar farm",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0904,
+          14.1521
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Tanauan Solar Power Plant Project",
+        "Capacity (MW)": 48.1,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5461,
+          15.4346
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Tarlac (AboitizPower) Solar Power Project",
+        "Capacity (MW)": 44.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.646,
+          15.447
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Tarlac Solar Power Project",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6129,
+          5.3783
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Terasu solar farm",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.544,
+          15.4351
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Armenia Solar Power Project",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.572,
+          14.585
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Damulog solar farm",
+        "Capacity (MW)": 16.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2864,
+          14.5803
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Philippines",
+        "Plant / Project name": "Pinugay Solar Power Project",
+        "Capacity (MW)": 4.1,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

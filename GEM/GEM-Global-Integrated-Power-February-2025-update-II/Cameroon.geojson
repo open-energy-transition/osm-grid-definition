@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1278,
+          3.8127
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Cameroon",
+        "Plant / Project name": "Edea hydroelectric plant",
+        "Capacity (MW)": 276.0,
+        "Status": "operating",
+        "Start year": 1953,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3993,
+          2.3959
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Cameroon",
+        "Plant / Project name": "Memve'ele hydroelectric plant",
+        "Capacity (MW)": 211.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6152,
+          4.3541
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Cameroon",
+        "Plant / Project name": "Nachtigal hydroelectric plant",
+        "Capacity (MW)": 420.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4639,
+          4.0787
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Cameroon",
+        "Plant / Project name": "Song Loulou hydroelectric plant",
+        "Capacity (MW)": 396.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.817752,
+          3.967229
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Cameroon",
+        "Plant / Project name": "Dibabmba power station",
+        "Capacity (MW)": 88.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.974822,
+          3.033904
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Cameroon",
+        "Plant / Project name": "Kribi power station",
+        "Capacity (MW)": 216.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3621,
+          9.3271
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cameroon",
+        "Plant / Project name": "Garoua solar farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7154,
+          4.016
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cameroon",
+        "Plant / Project name": "Douala Ii Wouri solar project",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9445,
+          9.9296
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cameroon",
+        "Plant / Project name": "Guider solar farm",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3264,
+          10.5998
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cameroon",
+        "Plant / Project name": "Maroua solar farm",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

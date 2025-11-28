@@ -1,0 +1,299 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1237,
+          38.2674
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Tajikistan",
+        "Plant / Project name": "Baipaza hydroelectric plant",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.815,
+          40.2759
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Tajikistan",
+        "Plant / Project name": "Kairakkum hydroelectric plant",
+        "Capacity (MW)": 126.0,
+        "Status": "operating",
+        "Start year": 1956,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3481,
+          38.3717
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Tajikistan",
+        "Plant / Project name": "Nurek hydroelectric plant",
+        "Capacity (MW)": 2700.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.7714,
+          38.6819
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Tajikistan",
+        "Plant / Project name": "Rogun hydroelectric plant",
+        "Capacity (MW)": 3600.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.0583,
+          38.0435
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Tajikistan",
+        "Plant / Project name": "Sangtuda-1 hydroelectric plant",
+        "Capacity (MW)": 670.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.0269,
+          37.9708
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Tajikistan",
+        "Plant / Project name": "Sangtuda-2 hydroelectric plant",
+        "Capacity (MW)": 220.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.937,
+          37.8839
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Tajikistan",
+        "Plant / Project name": "Sarband hydroelectric plant",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.775919,
+          38.55642
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Tajikistan",
+        "Plant / Project name": "Dushanbe-1 power station",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 1961,
+        "Technology": "unknown",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.931589,
+          38.29656
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Tajikistan",
+        "Plant / Project name": "Yavan power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "unknown",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.931589,
+          38.29656
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Tajikistan",
+        "Plant / Project name": "Yavan power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "unknown",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.771867,
+          38.610817
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Tajikistan",
+        "Plant / Project name": "Dushanbe-2 power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.771867,
+          38.610817
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Tajikistan",
+        "Plant / Project name": "Dushanbe-2 power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.771867,
+          38.610817
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Tajikistan",
+        "Plant / Project name": "Dushanbe-2 power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.771867,
+          38.610817
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Tajikistan",
+        "Plant / Project name": "Dushanbe-2 power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

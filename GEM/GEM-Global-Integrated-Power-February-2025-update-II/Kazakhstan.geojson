@@ -1,0 +1,4058 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3481,
+          49.6608
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Bukhtarma hydroelectric plant",
+        "Capacity (MW)": 675.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0978,
+          43.9222
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Kapshagay hydroelectric plant",
+        "Capacity (MW)": 434.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7801,
+          43.1022
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Moynak hydroelectric plant",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.7181,
+          49.9006
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Oskemen hydroelectric plant",
+        "Capacity (MW)": 331.0,
+        "Status": "operating",
+        "Start year": 1952,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.9667,
+          41.2489
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Shardara hydroelectric plant",
+        "Capacity (MW)": 126.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0675,
+          50.3989
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Shulbi hydroelectric plant",
+        "Capacity (MW)": 702.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.140192,
+          50.336398
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Aktobe CHP power station",
+        "Capacity (MW)": 57.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.139243,
+          50.336352
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Akturbo power station",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.930565,
+          43.281259
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Almaty-1 power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.930565,
+          43.281259
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Almaty-1 power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.798519,
+          43.29292
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Almaty-2 power station",
+        "Capacity (MW)": 200.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.798519,
+          43.29292
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Almaty-2 power station",
+        "Capacity (MW)": 179.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.798519,
+          43.29292
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Almaty-2 power station",
+        "Capacity (MW)": 179.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.942246,
+          47.081773
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Atyrau CHP power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.942246,
+          47.081773
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Atyrau CHP power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.942246,
+          47.081773
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Atyrau CHP power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.942246,
+          47.081773
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Atyrau CHP power station",
+        "Capacity (MW)": 65.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.942246,
+          47.081773
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Atyrau CHP power station",
+        "Capacity (MW)": 65.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.942246,
+          47.081773
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Atyrau CHP power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.100892,
+          51.266769
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "GTPP-500 Uralsk power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.277177,
+          47.34422
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karabatan power station",
+        "Capacity (MW)": 155.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil gas: unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.277177,
+          47.34422
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karabatan power station",
+        "Capacity (MW)": 155.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil gas: unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.022351,
+          50.048073
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda Steel Works power station",
+        "Capacity (MW)": 65.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, coal: waste coal, fossil liquids: heavy fuel oil, industrial by-product: coke oven gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.022351,
+          50.048073
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda Steel Works power station",
+        "Capacity (MW)": 60.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, coal: waste coal, fossil liquids: heavy fuel oil, industrial by-product: coke oven gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.022351,
+          50.048073
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda Steel Works power station",
+        "Capacity (MW)": 60.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, coal: waste coal, industrial by-product: coke oven gas, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.053235,
+          50.04667
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda TPS-2 power station",
+        "Capacity (MW)": 100.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, coal: unknown, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.053235,
+          50.04667
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda TPS-2 power station",
+        "Capacity (MW)": 100.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, coal: unknown, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.053235,
+          50.04667
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda TPS-2 power station",
+        "Capacity (MW)": 100.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, coal: unknown, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.053235,
+          50.04667
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda TPS-2 power station",
+        "Capacity (MW)": 135.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, coal: unknown, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.693335,
+          46.205393
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Kashagan power station",
+        "Capacity (MW)": 119.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.693335,
+          46.205393
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Kashagan power station",
+        "Capacity (MW)": 119.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.45722,
+          44.865748
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Kyzylorda CHP power station",
+        "Capacity (MW)": 240.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.281217,
+          43.606344
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "MAEK 2 power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.281217,
+          43.606344
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "MAEK 2 power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.281217,
+          43.606344
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "MAEK 2 power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.281217,
+          43.606344
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "MAEK 2 power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.281217,
+          43.606344
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "MAEK 2 power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.281217,
+          43.606344
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "MAEK 2 power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.281217,
+          43.606344
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "MAEK 2 power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.289326,
+          43.597002
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "MAEK 3 power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.289326,
+          43.597002
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "MAEK 3 power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.289326,
+          43.597002
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "MAEK 3 power station",
+        "Capacity (MW)": 215.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.693644,
+          42.27335
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Shymkent CHP-3 power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.693644,
+          42.27335
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Shymkent CHP-3 power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.410514,
+          46.152062
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Tengizchevroil 3 power station",
+        "Capacity (MW)": 121.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.410514,
+          46.152062
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Tengizchevroil 3 power station",
+        "Capacity (MW)": 121.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.374988,
+          46.133878
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Tengizchevroil Future Growth Project power station",
+        "Capacity (MW)": 130.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.374988,
+          46.133878
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Tengizchevroil Future Growth Project power station",
+        "Capacity (MW)": 130.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.374988,
+          46.133878
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Tengizchevroil Future Growth Project power station",
+        "Capacity (MW)": 130.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.374988,
+          46.133878
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Tengizchevroil Future Growth Project power station",
+        "Capacity (MW)": 130.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.374988,
+          46.133878
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Tengizchevroil Future Growth Project power station",
+        "Capacity (MW)": 130.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.477415,
+          42.844943
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Zhambyl GRES power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.477415,
+          42.844943
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Zhambyl GRES power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.477415,
+          42.844943
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Zhambyl GRES power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.477415,
+          42.844943
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Zhambyl GRES power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.477415,
+          42.844943
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Zhambyl GRES power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.477415,
+          42.844943
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Zhambyl GRES power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.433541,
+          48.386782
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Zhanazhol 3 power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.433541,
+          48.386782
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Zhanazhol 3 power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.875002,
+          52.120048
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Aksu power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.875002,
+          52.120048
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Aksu power station",
+        "Capacity (MW)": 325.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.875002,
+          52.120048
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Aksu power station",
+        "Capacity (MW)": 325.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.875002,
+          52.120048
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Aksu power station",
+        "Capacity (MW)": 310.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.875002,
+          52.120048
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Aksu power station",
+        "Capacity (MW)": 325.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "supercritical/CCS",
+        "Fuel": "bituminous with CCS",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.875002,
+          52.120048
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Aksu power station",
+        "Capacity (MW)": 325.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.875002,
+          52.120048
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Aksu power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.875002,
+          52.120048
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Aksu power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.798519,
+          43.29292
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Almaty-2 power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.798519,
+          43.29292
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Almaty-2 power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.798519,
+          43.29292
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Almaty-2 power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.798519,
+          43.29292
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Almaty-2 power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1989,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.798519,
+          43.29292
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Almaty-2 power station",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1989,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.798519,
+          43.29292
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Almaty-2 power station",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1989,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.00667,
+          43.42417
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Almaty-3 power station",
+        "Capacity (MW)": 41.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.00667,
+          43.42417
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Almaty-3 power station",
+        "Capacity (MW)": 41.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.00667,
+          43.42417
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Almaty-3 power station",
+        "Capacity (MW)": 41.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.00667,
+          43.42417
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Almaty-3 power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.510303,
+          51.188293
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Astana-2 power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.510303,
+          51.188293
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Astana-2 power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.510303,
+          51.188293
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Astana-2 power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.510303,
+          51.188293
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Astana-2 power station",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.510303,
+          51.188293
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Astana-2 power station",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.510303,
+          51.188293
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Astana-2 power station",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.376928,
+          51.886137
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Ekibastuz-1 power station",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.376928,
+          51.886137
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Ekibastuz-1 power station",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.376928,
+          51.886137
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Ekibastuz-1 power station",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.376928,
+          51.886137
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Ekibastuz-1 power station",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.376928,
+          51.886137
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Ekibastuz-1 power station",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.376928,
+          51.886137
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Ekibastuz-1 power station",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.376928,
+          51.886137
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Ekibastuz-1 power station",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.376928,
+          51.886137
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Ekibastuz-1 power station",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.47625,
+          52.023972
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Ekibastuz-2 power station",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.47625,
+          52.023972
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Ekibastuz-2 power station",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.918005,
+          50.089267
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda GRES-1 power station",
+        "Capacity (MW)": 42.0,
+        "Status": "operating",
+        "Start year": 1942,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.918005,
+          50.089267
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda GRES-1 power station",
+        "Capacity (MW)": 42.0,
+        "Status": "operating",
+        "Start year": 1942,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79861,
+          49.51333
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda State Regional power station-2",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79861,
+          49.51333
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda State Regional power station-2",
+        "Capacity (MW)": 130.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79861,
+          49.51333
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda State Regional power station-2",
+        "Capacity (MW)": 130.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79861,
+          49.51333
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda State Regional power station-2",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79861,
+          49.51333
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda State Regional power station-2",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79861,
+          49.51333
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda State Regional power station-2",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79861,
+          49.51333
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda State Regional power station-2",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79861,
+          49.51333
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda State Regional power station-2",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.022351,
+          50.048073
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda Steel Works power station",
+        "Capacity (MW)": 65.0,
+        "Status": "operating",
+        "Start year": 1960,
+        "Technology": "subcritical",
+        "Fuel": "waste coal",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.022351,
+          50.048073
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda Steel Works power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1960,
+        "Technology": "subcritical",
+        "Fuel": "waste coal",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.022351,
+          50.048073
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda Steel Works power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1960,
+        "Technology": "subcritical",
+        "Fuel": "waste coal",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.053235,
+          50.04667
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda TPS-2 power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.053235,
+          50.04667
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda TPS-2 power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.053235,
+          50.04667
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda TPS-2 power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.053235,
+          50.04667
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda TPS-2 power station",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.237172,
+          49.916732
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda TPS-3 power station",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.237172,
+          49.916732
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda TPS-3 power station",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.237172,
+          49.916732
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda TPS-3 power station",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.237172,
+          49.916732
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda TPS-3 power station",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.237172,
+          49.916732
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda TPS-3 power station",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.237172,
+          49.916732
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Karaganda TPS-3 power station",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.949256,
+          46.828965
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Kazakhmys Balkhash power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 1953,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.949256,
+          46.828965
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Kazakhmys Balkhash power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.949256,
+          46.828965
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Kazakhmys Balkhash power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.059423,
+          52.249928
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Pavlodar-1 power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.059423,
+          52.249928
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Pavlodar-1 power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.059423,
+          52.249928
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Pavlodar-1 power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.059423,
+          52.249928
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Pavlodar-1 power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.059423,
+          52.249928
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Pavlodar-1 power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.059423,
+          52.249928
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Pavlodar-1 power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.966342,
+          52.322482
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Pavlodar-2 power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.934487,
+          52.366612
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Pavlodar-3 power station",
+        "Capacity (MW)": 65.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.934487,
+          52.366612
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Pavlodar-3 power station",
+        "Capacity (MW)": 65.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.934487,
+          52.366612
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Pavlodar-3 power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.934487,
+          52.366612
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Pavlodar-3 power station",
+        "Capacity (MW)": 130.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.934487,
+          52.366612
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Pavlodar-3 power station",
+        "Capacity (MW)": 130.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.934487,
+          52.366612
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Pavlodar-3 power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.187372,
+          54.897942
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Petropavlovsk-2 power station",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.187372,
+          54.897942
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Petropavlovsk-2 power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.187372,
+          54.897942
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Petropavlovsk-2 power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.187372,
+          54.897942
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Petropavlovsk-2 power station",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.187372,
+          54.897942
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Petropavlovsk-2 power station",
+        "Capacity (MW)": 95.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.187372,
+          54.897942
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Petropavlovsk-2 power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.187372,
+          54.897942
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Petropavlovsk-2 power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.488417,
+          50.354659
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Ridder power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 1958,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.129804,
+          52.989616
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Rudny power station",
+        "Capacity (MW)": 58.0,
+        "Status": "operating",
+        "Start year": 1961,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.129804,
+          52.989616
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Rudny power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.129804,
+          52.989616
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Rudny power station",
+        "Capacity (MW)": 34.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.129804,
+          52.989616
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Rudny power station",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.769842,
+          50.029566
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Sogrinsk power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.03196,
+          52.483962
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Stepnogorsk power station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.03196,
+          52.483962
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Stepnogorsk power station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.03196,
+          52.483962
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Stepnogorsk power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.614333,
+          49.982959
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Ust-Kamenogorsk TETS power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.614333,
+          49.982959
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Ust-Kamenogorsk TETS power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.614333,
+          49.982959
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Ust-Kamenogorsk TETS power station",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.614333,
+          49.982959
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Ust-Kamenogorsk TETS power station",
+        "Capacity (MW)": 38.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.744086,
+          47.786036
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Zhezkazgan power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1959,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.744086,
+          47.786036
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Zhezkazgan power station",
+        "Capacity (MW)": 42.0,
+        "Status": "operating",
+        "Start year": 1960,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.744086,
+          47.786036
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Zhezkazgan power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.744086,
+          47.786036
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Zhezkazgan power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.744086,
+          47.786036
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Zhezkazgan power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.256,
+          50.4884
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Badamsha wind farm",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.262,
+          50.4904
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Badamsha wind farm",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.744,
+          43.7117
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Shelek (Energia Semirechya) wind farm",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0824,
+          51.596
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Ereymentau (First Wind Power Plant) wind farm",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.3159,
+          44.4578
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Fort Shevchenko (KT Rare-Metal Unexstroy) wind farm",
+        "Capacity (MW)": 43.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.6403,
+          43.5062
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Zhanatas wind farm",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.8622,
+          51.2601
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Astana EXPO-2017 wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.8622,
+          51.2601
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Astana EXPO-2017 wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.853,
+          53.2855
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Ybyray wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.0723,
+          51.2904
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Borey wind farm",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.966,
+          43.3346
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Korday (Vista International) wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.911,
+          48.287
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Akadyr solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.905,
+          48.286
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Akadyr solar farm",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.8203,
+          42.7112
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Burnoye solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.823,
+          42.714
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Burnoye solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.2326,
+          43.7476
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Chulakkurgan solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3351,
+          46.6701
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Gulshat solar farm",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9732,
+          43.6214
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Kaskelen solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.5296,
+          43.4718
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Kentau (Hevel) solar farm",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.692,
+          45.098
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Nomad solar farm",
+        "Capacity (MW)": 28.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.453,
+          50.793
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Nura solar farm",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.113,
+          43.968
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Nurgisa solar farm",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8722,
+          49.8101
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Saran solar farm",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.0348,
+          41.748
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Saryagash solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.5256,
+          43.4405
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Shoktas solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3554,
+          42.3065
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Shymkent solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.187,
+          49.225
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Zhangiz-Tobe solar farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0832,
+          43.8928
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Almaty Region solar project I",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7015,
+          43.9065
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Almaty Region solar project II",
+        "Capacity (MW)": 5.3,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1565,
+          43.3412
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Almaty Talgar District solar project",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.35,
+          43.5944
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Munaily District solar project",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9604,
+          45.2432
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Qaratal District solar project",
+        "Capacity (MW)": 4.5,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1892,
+          43.5471
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Qorday District solar project",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3574,
+          42.3985
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Shymkent Ordabasy District solar project",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.5368,
+          42.3898
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Shymkent solar project",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.3155,
+          40.7474
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kazakhstan",
+        "Plant / Project name": "Zhetisay District solar project",
+        "Capacity (MW)": 5.3,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

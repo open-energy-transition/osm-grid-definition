@@ -1,0 +1,1181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1875,
+          20.0735
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Luang Prabang hydroelectric plant",
+        "Capacity (MW)": 1460.0,
+        "Status": "construction",
+        "Start year": 2030,
+        "Technology": "conventional and run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.827,
+          19.896
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Pak Beng hydroelectric plant",
+        "Capacity (MW)": 912.0,
+        "Status": "construction",
+        "Start year": 2033,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.956,
+          13.944
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Don Sahong hydroelectric plant",
+        "Capacity (MW)": 260.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8293,
+          15.0789
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Houay Ho hydroelectric plant",
+        "Capacity (MW)": 152.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.5865,
+          15.3564
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Houay Lamphan Gnai hydroelectric plant",
+        "Capacity (MW)": 88.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5212,
+          19.0652
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Chiane hydroelectric plant",
+        "Capacity (MW)": 104.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9694,
+          15.5744
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Emoun hydroelectric plant",
+        "Capacity (MW)": 129.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.3682,
+          19.6844
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Khan 2 hydroelectric plant",
+        "Capacity (MW)": 130.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.736,
+          14.575
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Kong 1 hydroelectric plant",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1233,
+          18.7897
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Lik 1-2 hydroelectric plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0001,
+          19.0412
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Mo 2 hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0238,
+          19.7082
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Neun 1 hydroelectric plant",
+        "Capacity (MW)": 124.0,
+        "Status": "construction",
+        "Start year": 2027,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.542,
+          18.647
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Ngiep 1 hydroelectric plant",
+        "Capacity (MW)": 290.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3186,
+          19.1262
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Ngiep 2 hydroelectric plant",
+        "Capacity (MW)": 180.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.547,
+          18.531
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Ngum 1 hydroelectric plant",
+        "Capacity (MW)": 275.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.777,
+          18.753
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Ngum 2 hydroelectric plant",
+        "Capacity (MW)": 615.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.878,
+          19.083
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Ngum 3 hydroelectric plant",
+        "Capacity (MW)": 480.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6058,
+          19.3531
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Ngum 4 hydroelectric plant",
+        "Capacity (MW)": 240.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7122,
+          19.3601
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Ngum 5 hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.3174,
+          20.1494
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Ou 1 hydroelectric plant",
+        "Capacity (MW)": 180.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.451,
+          20.387
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Ou 2 hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.668,
+          20.724
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Ou 3 hydroelectric plant",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.498,
+          21.104
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Ou 4 hydroelectric plant",
+        "Capacity (MW)": 132.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.344,
+          21.411
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Ou 5 hydroelectric plant",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.195,
+          21.769
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Ou 6 hydroelectric plant",
+        "Capacity (MW)": 180.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.258,
+          22.088
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Ou 7 hydroelectric plant",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7147,
+          19.0977
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Phay hydroelectric plant",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.509,
+          20.1499
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Sum 3 hydroelectric plant",
+        "Capacity (MW)": 156.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.869,
+          20.267
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Tha hydroelectric plant",
+        "Capacity (MW)": 168.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.148,
+          18.357
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Theun 1 hydroelectric plant",
+        "Capacity (MW)": 650.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.9539,
+          17.9965
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Theun 2 hydroelectric plant",
+        "Capacity (MW)": 1070.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5624,
+          18.2605
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Theun Hinboun hydroelectric plant",
+        "Capacity (MW)": 440.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8178,
+          19.2438
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Xayaburi hydroelectric plant",
+        "Capacity (MW)": 1285.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.606,
+          15.026
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Xe Pian Xe Namnoy hydroelectric plant",
+        "Capacity (MW)": 410.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.1555,
+          14.9601
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Xekaman 1 hydroelectric plant",
+        "Capacity (MW)": 322.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.268,
+          15.461
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Xekaman 3 hydroelectric plant",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.5542,
+          14.5992
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Xekong 1A Downstream hydroelectric plant",
+        "Capacity (MW)": 86.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7789,
+          15.3845
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Xekong 3A hydroelectric plant",
+        "Capacity (MW)": 140.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8233,
+          15.1199
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Xekong 3B hydroelectric plant",
+        "Capacity (MW)": 147.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2802,
+          15.4913
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Laos",
+        "Plant / Project name": "Xeset 2 hydroelectric plant",
+        "Capacity (MW)": 76.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.278217,
+          19.691284
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Laos",
+        "Plant / Project name": "Hongsa power station",
+        "Capacity (MW)": 626.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.278217,
+          19.691284
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Laos",
+        "Plant / Project name": "Hongsa power station",
+        "Capacity (MW)": 626.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.278217,
+          19.691284
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Laos",
+        "Plant / Project name": "Hongsa power station",
+        "Capacity (MW)": 626.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.46554,
+          19.42492
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Phan power station",
+        "Capacity (MW)": 330.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "supercritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.46554,
+          19.42492
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Laos",
+        "Plant / Project name": "Nam Phan power station",
+        "Capacity (MW)": 330.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "supercritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6778,
+          15.7629
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Laos",
+        "Plant / Project name": "Kaleum District solar project",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.4337,
+          18.1643
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Laos",
+        "Plant / Project name": "Naxaithong District solar project I",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5039,
+          18.1615
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Laos",
+        "Plant / Project name": "Naxaithong District solar project II",
+        "Capacity (MW)": 4.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1648,
+          18.2808
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Laos",
+        "Plant / Project name": "Sangthong District solar project I",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.2539,
+          18.1643
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Laos",
+        "Plant / Project name": "Sangthong District solar project II",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.1387,
+          16.3279
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Laos",
+        "Plant / Project name": "Songkhone District solar project",
+        "Capacity (MW)": 8.2,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0835,
+          18.2165
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Laos",
+        "Plant / Project name": "Thaphabath District solar project",
+        "Capacity (MW)": 3.4,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6832,
+          17.8859
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Laos",
+        "Plant / Project name": "Vientiane Capital Hadxayfong District solar project",
+        "Capacity (MW)": 9.4,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.4592,
+          18.0102
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Laos",
+        "Plant / Project name": "Vientiane Capital Sikhottabong District solar project",
+        "Capacity (MW)": 6.3,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7382,
+          18.1986
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Laos",
+        "Plant / Project name": "Xaythany District solar project I",
+        "Capacity (MW)": 3.4,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8613,
+          18.1546
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Laos",
+        "Plant / Project name": "Xaythany District solar project II",
+        "Capacity (MW)": 18.7,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

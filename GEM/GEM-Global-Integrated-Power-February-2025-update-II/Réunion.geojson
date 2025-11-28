@@ -1,0 +1,446 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4504116,
+          -21.318503
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Réunion",
+        "Plant / Project name": "Saint-Pierre (Albioma) power station",
+        "Capacity (MW)": 41.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": null,
+        "Fuel": "bioenergy: ethanol",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3268,
+          -20.9305
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Réunion",
+        "Plant / Project name": "Le Port Est power station",
+        "Capacity (MW)": 219.6,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "ICCC",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5944,
+          -20.9489
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Réunion",
+        "Plant / Project name": "La Perrière wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6007,
+          -20.9165
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Réunion",
+        "Plant / Project name": "La Star solar farm",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3083,
+          -20.9555
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Réunion",
+        "Plant / Project name": "Le Port solar project",
+        "Capacity (MW)": 4.2,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6446,
+          -21.3646
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Réunion",
+        "Plant / Project name": "Réunion solar project I",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.484,
+          -21.2725
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Réunion",
+        "Plant / Project name": "Réunion solar project II",
+        "Capacity (MW)": 3.4,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.7049,
+          -21.0345
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Réunion",
+        "Plant / Project name": "Réunion solar project III",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2937,
+          -20.9883
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Réunion",
+        "Plant / Project name": "Réunion solar project IV",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5751,
+          -21.2352
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Réunion",
+        "Plant / Project name": "Réunion solar project IX",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4389,
+          -21.3115
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Réunion",
+        "Plant / Project name": "Réunion solar project V",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.683,
+          -20.9573
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Réunion",
+        "Plant / Project name": "Réunion solar project VI",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4361,
+          -21.2979
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Réunion",
+        "Plant / Project name": "Réunion solar project VII",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4042,
+          -21.2648
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Réunion",
+        "Plant / Project name": "Réunion solar project VIII",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4403,
+          -21.3191
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Réunion",
+        "Plant / Project name": "Réunion solar project XI",
+        "Capacity (MW)": 8.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5399,
+          -21.2937
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Réunion",
+        "Plant / Project name": "Réunion solar project XII",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3928,
+          -21.2516
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Réunion",
+        "Plant / Project name": "Réunion solar project XIII",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.434,
+          -21.3246
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Réunion",
+        "Plant / Project name": "Réunion solar project XIV",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4237,
+          -21.3222
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Réunion",
+        "Plant / Project name": "Réunion solar project XV",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4153,
+          -21.316
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Réunion",
+        "Plant / Project name": "Réunion solar project XVI",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4503,
+          -21.2896
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Réunion",
+        "Plant / Project name": "Réunion solar project XVII",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

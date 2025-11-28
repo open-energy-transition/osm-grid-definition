@@ -1,0 +1,1727 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4298,
+          2.7082
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Betania hydroelectric plant",
+        "Capacity (MW)": 540.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5599,
+          3.8803
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Calima hydroelectric plant",
+        "Capacity (MW)": 132.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2528,
+          6.5197
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Carlos Lleras Restrepo hydroelectric plant",
+        "Capacity (MW)": 78.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2969,
+          4.9008
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Chivor hydroelectric plant",
+        "Capacity (MW)": 1000.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4315,
+          4.602
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Dario Valencia hydroelectric plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.565,
+          2.4507
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Colombia",
+        "Plant / Project name": "El Quimbo hydroelectric plant",
+        "Capacity (MW)": 396.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4601,
+          4.5899
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Guaca hydroelectric plant",
+        "Capacity (MW)": 324.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2273,
+          6.793
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Guadalupe 3 hydroelectric plant",
+        "Capacity (MW)": 270.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2518,
+          6.5205
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Guadalupe 4 hydroelectric plant",
+        "Capacity (MW)": 216.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1659,
+          6.3201
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Guatapé hydroelectric plant",
+        "Capacity (MW)": 560.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4831,
+          4.7247
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Guavio hydroelectric plant",
+        "Capacity (MW)": 1250.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6624,
+          7.1347
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Hidroituango hydroelectric plant",
+        "Capacity (MW)": 2400.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.005,
+          6.3486
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Jaguas hydroelectric plant",
+        "Capacity (MW)": 170.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4478,
+          6.3771
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Colombia",
+        "Plant / Project name": "La Tasajera hydroelectric plant",
+        "Capacity (MW)": 306.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8866,
+          5.5606
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Miel 1 hydroelectric plant",
+        "Capacity (MW)": 396.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9408,
+          6.2923
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Playas hydroelectric plant",
+        "Capacity (MW)": 204.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1491,
+          6.8056
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Porce 2 hydroelectric plant",
+        "Capacity (MW)": 405.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1386,
+          6.9386
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Porce 3 hydroelectric plant",
+        "Capacity (MW)": 660.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5931,
+          3.8061
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Río Amoyá hydroelectric plant",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7079,
+          2.9435
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Salvajina hydroelectric plant",
+        "Capacity (MW)": 285.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8161,
+          6.2137
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Colombia",
+        "Plant / Project name": "San Carlos hydroelectric plant",
+        "Capacity (MW)": 1240.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7427,
+          5.0503
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Colombia",
+        "Plant / Project name": "San Francisco hydroelectric plant (Colombia)",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4075,
+          7.1011
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Sogamoso hydroelectric plant",
+        "Capacity (MW)": 820.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2021,
+          8.012
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Urra 1 hydroelectric plant",
+        "Capacity (MW)": 340.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6057,
+          4.1772
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Colombia",
+        "Plant / Project name": "El Alcaraván power station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0888,
+          4.319
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Riopaila power station",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5109,
+          10.3555
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Cartagena power station",
+        "Capacity (MW)": 66.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5109,
+          10.3555
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Cartagena power station",
+        "Capacity (MW)": 66.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5109,
+          10.3555
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Cartagena power station",
+        "Capacity (MW)": 71.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.493065,
+          10.350741
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Mamonal power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.493065,
+          10.350741
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Mamonal power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.82,
+          7.0543
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Merilectrica power station",
+        "Capacity (MW)": 167.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8125,
+          11.026
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termo Flores power station",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8125,
+          11.026
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termo Flores power station",
+        "Capacity (MW)": 450.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.764098,
+          10.937252
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termobarranquilla power station",
+        "Capacity (MW)": 64.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.764098,
+          10.937252
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termobarranquilla power station",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.764098,
+          10.937252
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termobarranquilla power station",
+        "Capacity (MW)": 791.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4856,
+          10.3585
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termocandelaria power station",
+        "Capacity (MW)": 566.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.380683,
+          6.444481
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termocentro power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: jet fuel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.674434,
+          5.445266
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termodorada power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel, fossil liquids: jet fuel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.468675,
+          3.559812
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termoemcali power station",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.103376,
+          11.259618
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termonorte power station",
+        "Capacity (MW)": 93.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.561158,
+          6.23605
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termosierra power station",
+        "Capacity (MW)": 460.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.453229,
+          3.564867
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termovalle power station",
+        "Capacity (MW)": 241.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.453533,
+          5.444559
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termoyopal power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.453533,
+          5.444559
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termoyopal power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.453533,
+          5.444559
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termoyopal power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59456,
+          7.99111
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Gecelca 3 power station",
+        "Capacity (MW)": 164.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59456,
+          7.99111
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Gecelca 3 power station",
+        "Capacity (MW)": 273.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.415568,
+          11.262213
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termoguajira power station",
+        "Capacity (MW)": 145.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.415568,
+          11.262213
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termoguajira power station",
+        "Capacity (MW)": 145.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1472,
+          5.7682
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termopaipa power station",
+        "Capacity (MW)": 39.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1472,
+          5.7682
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termopaipa power station",
+        "Capacity (MW)": 72.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1472,
+          5.7682
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termopaipa power station",
+        "Capacity (MW)": 74.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1472,
+          5.7682
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termopaipa power station",
+        "Capacity (MW)": 165.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6328,
+          7.8473
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termotasajero power station",
+        "Capacity (MW)": 163.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6328,
+          7.8473
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termotasajero power station",
+        "Capacity (MW)": 170.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.947258,
+          4.970817
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termozipa power station",
+        "Capacity (MW)": 38.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.947258,
+          4.970817
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termozipa power station",
+        "Capacity (MW)": 66.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.947258,
+          4.970817
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termozipa power station",
+        "Capacity (MW)": 66.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.947258,
+          4.970817
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Termozipa power station",
+        "Capacity (MW)": 66.0,
+        "Status": "operating",
+        "Start year": 1992,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6126,
+          8.5863
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Colombia",
+        "Plant / Project name": "La Mata solar farm (Colombia)",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4172,
+          9.1466
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Colombia",
+        "Plant / Project name": "La Tolua PV Solar Park",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4364,
+          3.5224
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Palmaseca solar farm",
+        "Capacity (MW)": 28.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2037,
+          8.0143
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Aquasol Floating solar farm",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6315,
+          4.4332
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Autoconsumo Del Bloque Llanos 34 - Geopark solar farm",
+        "Capacity (MW)": 9.9,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3042,
+          3.9356
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Buga 1 solar farm",
+        "Capacity (MW)": 9.9,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.414,
+          3.416
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Colombia",
+        "Plant / Project name": "El Carmelo solar project",
+        "Capacity (MW)": 4.9,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8791,
+          4.2443
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Flandes PV Solar Plant",
+        "Capacity (MW)": 19.9,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.084,
+          4.286
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Colombia",
+        "Plant / Project name": "La Paila solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0307,
+          4.4623
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Colombia",
+        "Plant / Project name": "La Victoria solar farm (Colombia)",
+        "Capacity (MW)": 19.9,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0307,
+          4.4623
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Colombia",
+        "Plant / Project name": "La Victoria solar farm (Colombia)",
+        "Capacity (MW)": 19.9,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0221,
+          4.218
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Los Llanos Solar Forest",
+        "Capacity (MW)": 19.9,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0221,
+          4.218
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Los Llanos Solar Forest",
+        "Capacity (MW)": 19.9,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0256,
+          4.2137
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Los Llanos Solar Forest",
+        "Capacity (MW)": 19.9,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.031,
+          4.2108
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Los Llanos Solar Forest",
+        "Capacity (MW)": 17.9,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6025,
+          8.4416
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Planeta Rica Solar Park",
+        "Capacity (MW)": 19.9,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5753,
+          8.3592
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Pétalo Del Córdoba solar farm",
+        "Capacity (MW)": 9.9,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4297,
+          3.5896
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Quantum solar farm",
+        "Capacity (MW)": 19.9,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8989,
+          5.1005
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Colombia",
+        "Plant / Project name": "San Felipe solar farm",
+        "Capacity (MW)": 9.9,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3801,
+          3.2283
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Colombia",
+        "Plant / Project name": "San Isidro (Grupo Familia) solar farm",
+        "Capacity (MW)": 19.1,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4198,
+          9.1005
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Colombia",
+        "Plant / Project name": "Tierra Linda I solar farm",
+        "Capacity (MW)": 9.9,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

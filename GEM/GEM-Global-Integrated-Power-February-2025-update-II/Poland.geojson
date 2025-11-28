@@ -1,0 +1,7019 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0541,
+          51.9886
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Poland",
+        "Plant / Project name": "Dychów hydroelectric plant",
+        "Capacity (MW)": 88.0,
+        "Status": "operating",
+        "Start year": 1936,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5506,
+          50.2981
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Poland",
+        "Plant / Project name": "Młoty hydroelectric plant",
+        "Capacity (MW)": 750.0,
+        "Status": "construction",
+        "Start year": 2030,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3228,
+          49.4182
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Poland",
+        "Plant / Project name": "Niedzica hydroelectric plant",
+        "Capacity (MW)": 92.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2116,
+          49.7803
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Poland",
+        "Plant / Project name": "Porąbka-Żar hydroelectric plant",
+        "Capacity (MW)": 552.0,
+        "Status": "operating",
+        "Start year": 1953,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4538,
+          49.396
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Poland",
+        "Plant / Project name": "Solina hydroelectric plant",
+        "Capacity (MW)": 198.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1333,
+          52.6547
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Poland",
+        "Plant / Project name": "Włocławek hydroelectric plant",
+        "Capacity (MW)": 168.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0826,
+          54.7224
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Poland",
+        "Plant / Project name": "Żarnowiec hydroelectric plant",
+        "Capacity (MW)": 780.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7071,
+          54.0251
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Poland",
+        "Plant / Project name": "Żydowo hydroelectric plant",
+        "Capacity (MW)": 165.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.169649,
+          53.147965
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Poland",
+        "Plant / Project name": "Bialystok power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.22806,
+          50.213351
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Poland",
+        "Plant / Project name": "Jaworzno power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1953,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.22806,
+          50.213351
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Poland",
+        "Plant / Project name": "Jaworzno power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.269475,
+          52.283657
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Poland",
+        "Plant / Project name": "Konin power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1958,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.269475,
+          52.283657
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Poland",
+        "Plant / Project name": "Konin power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6075,
+          53.1005
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Poland",
+        "Plant / Project name": "Ostrołęka Mill power station",
+        "Capacity (MW)": 37.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": null,
+        "Fuel": "bioenergy: paper mill wastes, bioenergy: refuse (municipal and industrial wastes), coal: unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.33769,
+          50.437685
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Poland",
+        "Plant / Project name": "Polaniec power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids), bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.374224,
+          53.393629
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Poland",
+        "Plant / Project name": "Swiecie Pulp Mill power station",
+        "Capacity (MW)": 88.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": null,
+        "Fuel": "bioenergy: paper mill wastes, bioenergy: wood & other biomass (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.585981,
+          53.411271
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Poland",
+        "Plant / Project name": "Szczecin power station",
+        "Capacity (MW)": 68.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.014,
+          50.106
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Poland",
+        "Plant / Project name": "Tychy power station",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.546212,
+          52.012307
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Adamow power station",
+        "Capacity (MW)": 600.0,
+        "Status": "construction",
+        "Start year": 2027,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2875242,
+          50.3612325
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Blachownia Manufacturing Plant power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1955,
+        "Technology": "steam turbine",
+        "Fuel": "industrial by-product: coke oven gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2875242,
+          50.3612325
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Blachownia Manufacturing Plant power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1958,
+        "Technology": "steam turbine",
+        "Fuel": "industrial by-product: coke oven gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2875242,
+          50.3612325
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Blachownia Manufacturing Plant power station",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": 1960,
+        "Technology": "steam turbine",
+        "Fuel": "industrial by-product: coke oven gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0889,
+          53.09918
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Bydgoszcz power station",
+        "Capacity (MW)": 53.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.267725,
+          50.3419053
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Dąbrowa Górnicza Coking Plant power station",
+        "Capacity (MW)": 71.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "unknown",
+        "Fuel": "industrial by-product: coke oven gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.267725,
+          50.3419053
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Dąbrowa Górnicza Coking Plant power station",
+        "Capacity (MW)": 42.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "ICCC",
+        "Fuel": "industrial by-product: coke oven gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.46722,
+          53.20778
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Dolna Odra power station",
+        "Capacity (MW)": 683.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.46722,
+          53.20778
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Dolna Odra power station",
+        "Capacity (MW)": 683.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2712,
+          52.7504
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Gorzow power station",
+        "Capacity (MW)": 66.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2712,
+          52.7504
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Gorzow power station",
+        "Capacity (MW)": 138.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.97032,
+          51.6867
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Huta Miedzi Glogow power station",
+        "Capacity (MW)": 49.5,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.65334,
+          52.59844
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Kostrzyn paper mill power station",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.53963,
+          51.74564
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Lodz-4 power station",
+        "Capacity (MW)": 350.0,
+        "Status": "construction",
+        "Start year": 2027,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3237,
+          50.3172
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Nowa Sarzyna power station",
+        "Capacity (MW)": 129.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6125,
+          53.103611
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Ostrołęka power station",
+        "Capacity (MW)": 750.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.678,
+          52.588
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Plock power station",
+        "Capacity (MW)": 630.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.988658,
+          52.436416
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Poznan Karolin power station",
+        "Capacity (MW)": 200.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0294,
+          50.0646
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Rzeszow power station",
+        "Capacity (MW)": 101.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0294,
+          50.0646
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Rzeszow power station",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.15095,
+          51.03794
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Siechnice power station",
+        "Capacity (MW)": 179.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3061,
+          52.1572
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Siedlce power station",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0791,
+          50.55386
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Stalowa Wola power station",
+        "Capacity (MW)": 450.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.271477,
+          50.039333
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Synthos Oswiecim power station",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6932,
+          53.0475
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Toruń power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6932,
+          53.0475
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Toruń power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.305197,
+          51.473895
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Wierzchowice Ugs power station",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9589,
+          52.7074
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Włocławek power station",
+        "Capacity (MW)": 465.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5583,
+          51.2161
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Wrotków power station",
+        "Capacity (MW)": 231.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.99334,
+          52.2947
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Zeran power station",
+        "Capacity (MW)": 490.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4879,
+          51.9514
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Poland",
+        "Plant / Project name": "Zielona Góra power station",
+        "Capacity (MW)": 198.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.137778,
+          50.303889
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Bedzin power station",
+        "Capacity (MW)": 81.5,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.330556,
+          51.266389
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Belchatow power station",
+        "Capacity (MW)": 370.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.330556,
+          51.266389
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Belchatow power station",
+        "Capacity (MW)": 390.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.330556,
+          51.266389
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Belchatow power station",
+        "Capacity (MW)": 370.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.330556,
+          51.266389
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Belchatow power station",
+        "Capacity (MW)": 358.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.330556,
+          51.266389
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Belchatow power station",
+        "Capacity (MW)": 380.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.330556,
+          51.266389
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Belchatow power station",
+        "Capacity (MW)": 380.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.330556,
+          51.266389
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Belchatow power station",
+        "Capacity (MW)": 380.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.330556,
+          51.266389
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Belchatow power station",
+        "Capacity (MW)": 394.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.330556,
+          51.266389
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Belchatow power station",
+        "Capacity (MW)": 390.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.330556,
+          51.266389
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Belchatow power station",
+        "Capacity (MW)": 390.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.330556,
+          51.266389
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Belchatow power station",
+        "Capacity (MW)": 370.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.330556,
+          51.266389
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Belchatow power station",
+        "Capacity (MW)": 858.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "supercritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.169649,
+          53.147965
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Bialystok power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.169649,
+          53.147965
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Bialystok power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1991,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.052943,
+          49.811696
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Bielsko-Biala power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.052943,
+          49.811696
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Bielsko-Biala power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0889,
+          53.09918
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Bydgoszcz power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0889,
+          53.09918
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Bydgoszcz power station",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0889,
+          53.09918
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Bydgoszcz power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0889,
+          53.09918
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Bydgoszcz power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.969459,
+          50.307464
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Chorzow Elcho power station",
+        "Capacity (MW)": 113.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.969459,
+          50.307464
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Chorzow Elcho power station",
+        "Capacity (MW)": 113.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.46722,
+          53.20778
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Dolna Odra power station",
+        "Capacity (MW)": 222.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.46722,
+          53.20778
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Dolna Odra power station",
+        "Capacity (MW)": 222.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.46722,
+          53.20778
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Dolna Odra power station",
+        "Capacity (MW)": 232.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.46722,
+          53.20778
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Dolna Odra power station",
+        "Capacity (MW)": 232.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.641284,
+          54.378201
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Gdansk-2 power station",
+        "Capacity (MW)": 52.8,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.641284,
+          54.378201
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Gdansk-2 power station",
+        "Capacity (MW)": 54.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.641284,
+          54.378201
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Gdansk-2 power station",
+        "Capacity (MW)": 58.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.641284,
+          54.378201
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Gdansk-2 power station",
+        "Capacity (MW)": 53.0,
+        "Status": "operating",
+        "Start year": 1994,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.480791,
+          54.553355
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Gdynia-3 power station",
+        "Capacity (MW)": 52.6,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.626547,
+          50.317682
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Gliwice Works power station",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2712,
+          52.7504
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Gorzow power station",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.22806,
+          50.213351
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Jaworzno power station",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.22806,
+          50.213351
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Jaworzno power station",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.205311,
+          50.207238
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Jaworzno power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.205311,
+          50.207238
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Jaworzno power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.205311,
+          50.207238
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Jaworzno power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.205311,
+          50.207238
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Jaworzno power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.205311,
+          50.207238
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Jaworzno power station",
+        "Capacity (MW)": 220.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.205311,
+          50.207238
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Jaworzno power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.20972,
+          50.20777
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Jaworzno power station",
+        "Capacity (MW)": 910.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.05438,
+          50.28568
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Katowice PKE power station",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.54779,
+          51.58293
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Kozienice power station",
+        "Capacity (MW)": 215.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.54779,
+          51.58293
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Kozienice power station",
+        "Capacity (MW)": 560.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.54779,
+          51.58293
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Kozienice power station",
+        "Capacity (MW)": 1075.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "supercritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.54779,
+          51.58293
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Kozienice power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.54779,
+          51.58293
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Kozienice power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.54779,
+          51.58293
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Kozienice power station",
+        "Capacity (MW)": 228.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.54779,
+          51.58293
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Kozienice power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.54779,
+          51.58293
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Kozienice power station",
+        "Capacity (MW)": 228.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.54779,
+          51.58293
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Kozienice power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.54779,
+          51.58293
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Kozienice power station",
+        "Capacity (MW)": 228.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.54779,
+          51.58293
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Kozienice power station",
+        "Capacity (MW)": 560.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.006018,
+          50.054021
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Krakow-Leg power station",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.006018,
+          50.054021
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Krakow-Leg power station",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.006018,
+          50.054021
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Krakow-Leg power station",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.14351,
+          50.35016
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Lagisza power station",
+        "Capacity (MW)": 460.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.844352,
+          50.134526
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Laziska power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.844352,
+          50.134526
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Laziska power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.844352,
+          50.134526
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Laziska power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.844352,
+          50.134526
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Laziska power station",
+        "Capacity (MW)": 230.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.420734,
+          51.798357
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Lodz-3 power station",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.420734,
+          51.798357
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Lodz-3 power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.420734,
+          51.798357
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Lodz-3 power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.420734,
+          51.798357
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Lodz-3 power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.53963,
+          51.74564
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Lodz-4 power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.53963,
+          51.74564
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Lodz-4 power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.53963,
+          51.74564
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Lodz-4 power station",
+        "Capacity (MW)": 105.0,
+        "Status": "operating",
+        "Start year": 1992,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.88196,
+          50.75182
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Opole power station",
+        "Capacity (MW)": 386.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.88196,
+          50.75182
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Opole power station",
+        "Capacity (MW)": 383.0,
+        "Status": "operating",
+        "Start year": 1994,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.88196,
+          50.75182
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Opole power station",
+        "Capacity (MW)": 383.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.88196,
+          50.75182
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Opole power station",
+        "Capacity (MW)": 380.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.88196,
+          50.75182
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Opole power station",
+        "Capacity (MW)": 900.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "ultra-supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.88196,
+          50.75182
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Opole power station",
+        "Capacity (MW)": 900.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "ultra-supercritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6125,
+          53.103611
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Ostrołęka power station",
+        "Capacity (MW)": 34.1,
+        "Status": "operating",
+        "Start year": 1958,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6125,
+          53.103611
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Ostrołęka power station",
+        "Capacity (MW)": 221.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6125,
+          53.103611
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Ostrołęka power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6125,
+          53.103611
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Ostrołęka power station",
+        "Capacity (MW)": 226.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.237,
+          52.302
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Patnow power station",
+        "Capacity (MW)": 474.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "supercritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.33769,
+          50.437685
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Polaniec power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.33769,
+          50.437685
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Polaniec power station",
+        "Capacity (MW)": 242.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.33769,
+          50.437685
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Polaniec power station",
+        "Capacity (MW)": 242.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.33769,
+          50.437685
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Polaniec power station",
+        "Capacity (MW)": 242.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.33769,
+          50.437685
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Polaniec power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.33769,
+          50.437685
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Polaniec power station",
+        "Capacity (MW)": 242.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.33769,
+          50.437685
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Polaniec power station",
+        "Capacity (MW)": 239.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.524786,
+          53.390996
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Pomorzany power station",
+        "Capacity (MW)": 67.0,
+        "Status": "operating",
+        "Start year": 1961,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.524786,
+          53.390996
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Pomorzany power station",
+        "Capacity (MW)": 67.0,
+        "Status": "operating",
+        "Start year": 1961,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.988658,
+          52.436416
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Poznan Karolin power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.988658,
+          52.436416
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Poznan Karolin power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1991,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.988658,
+          52.436416
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Poznan Karolin power station",
+        "Capacity (MW)": 130.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.973811,
+          51.457211
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Pulawy ZAP Works power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.973811,
+          51.457211
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Pulawy ZAP Works power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.973811,
+          51.457211
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Pulawy ZAP Works power station",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.52196,
+          50.13406
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Rybnik power station",
+        "Capacity (MW)": 215.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.52196,
+          50.13406
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Rybnik power station",
+        "Capacity (MW)": 215.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.52196,
+          50.13406
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Rybnik power station",
+        "Capacity (MW)": 220.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.52196,
+          50.13406
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Rybnik power station",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.15095,
+          51.03794
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Siechnice power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1955,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.15095,
+          51.03794
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Siechnice power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1955,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.15095,
+          51.03794
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Siechnice power station",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 1955,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.086218,
+          52.191456
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Siekierki power station",
+        "Capacity (MW)": 102.0,
+        "Status": "operating",
+        "Start year": 1961,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.086218,
+          52.191456
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Siekierki power station",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.086218,
+          52.191456
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Siekierki power station",
+        "Capacity (MW)": 102.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.086218,
+          52.191456
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Siekierki power station",
+        "Capacity (MW)": 102.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.086218,
+          52.191456
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Siekierki power station",
+        "Capacity (MW)": 165.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.460943,
+          50.208043
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Siersza power station",
+        "Capacity (MW)": 153.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.460943,
+          50.208043
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Siersza power station",
+        "Capacity (MW)": 153.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.805132,
+          49.977425
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Skawina power station",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1961,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.805132,
+          49.977425
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Skawina power station",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1961,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.805132,
+          49.977425
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Skawina power station",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1961,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.374224,
+          53.393629
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Swiecie Pulp Mill power station",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": 1992,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.374224,
+          53.393629
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Swiecie Pulp Mill power station",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.374224,
+          53.393629
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Swiecie Pulp Mill power station",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.585981,
+          53.411271
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Szczecin power station",
+        "Capacity (MW)": 69.0,
+        "Status": "operating",
+        "Start year": 1957,
+        "Technology": "unknown",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.91171,
+          50.947717
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Turów power station",
+        "Capacity (MW)": 235.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.91171,
+          50.947717
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Turów power station",
+        "Capacity (MW)": 235.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.91171,
+          50.947717
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Turów power station",
+        "Capacity (MW)": 235.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.91171,
+          50.947717
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Turów power station",
+        "Capacity (MW)": 261.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.91171,
+          50.947717
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Turów power station",
+        "Capacity (MW)": 261.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.91171,
+          50.947717
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Turów power station",
+        "Capacity (MW)": 261.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.91305,
+          50.94861
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Turów power station",
+        "Capacity (MW)": 460.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "ultra-supercritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.02457,
+          51.123715
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Wroclaw power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.02457,
+          51.123715
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Wroclaw power station",
+        "Capacity (MW)": 104.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.02457,
+          51.123715
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Wroclaw power station",
+        "Capacity (MW)": 104.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.785719,
+          50.324928
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Zabrze power station",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "unknown",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.99334,
+          52.2947
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Zeran power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.99334,
+          52.2947
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Zeran power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.99334,
+          52.2947
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Zeran power station",
+        "Capacity (MW)": 386.0,
+        "Status": "operating",
+        "Start year": 1954,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.569813,
+          49.942079
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "Zofiowka Moszczenica power station",
+        "Capacity (MW)": 41.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "unknown",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.278159,
+          50.347756
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "ZW Nowa power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1992,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.278159,
+          50.347756
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Poland",
+        "Plant / Project name": "ZW Nowa power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.47,
+          54.3072
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Gorzyca wind farm",
+        "Capacity (MW)": 27.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.47,
+          54.3072
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Gorzyca wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3852,
+          51.7302
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Krotoszyn wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3567,
+          54.7454
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Lebcz wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6811,
+          49.6124
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Leki Dukielskie wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2568,
+          52.2972
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Miksztal wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6931,
+          51.0762
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Namysłów wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7181,
+          52.5572
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Nasielsk wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7013,
+          51.5531
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Sieradz wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0248,
+          50.9545
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Szerzawy wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6401,
+          54.6832
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Wicko (Szelf) wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6822,
+          52.8602
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Ciechanow wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4914,
+          54.4666
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Darżyno wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7843,
+          49.8502
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Galicja (PGE) wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6417,
+          51.2198
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Gorzkowice wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1892,
+          53.5972
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Kisielice (PGE) wind farm",
+        "Capacity (MW)": 41.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9985,
+          54.4895
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Slupsk wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9931,
+          53.3441
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Złotów wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7894,
+          54.0582
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Karścino wind farm",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7894,
+          54.0582
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Karścino wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4474,
+          53.0617
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Krzecin (RWE) wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4278,
+          53.7469
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Resko wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7489,
+          53.7087
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Resko wind farm",
+        "Capacity (MW)": 76.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8608,
+          51.2862
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Rusiec wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6057,
+          51.2735
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Czarnozyly wind farm",
+        "Capacity (MW)": 16.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5347,
+          54.4135
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Krupy wind farm",
+        "Capacity (MW)": 17.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0744,
+          49.4949
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Bukowsko wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0346,
+          53.9729
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Malbork-Koniecwałd wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6859,
+          54.4946
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Marszewo wind farm",
+        "Capacity (MW)": 82.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6859,
+          54.4946
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Marszewo wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7561,
+          54.0631
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Cisowo wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1521,
+          54.3704
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Debnica Kaszubska wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4066,
+          53.8411
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Elbląg wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6981,
+          54.0614
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Jarogniew-Mołtowo wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6972,
+          54.0409
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Myślino wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.718,
+          54.0193
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Subkowy wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7116,
+          50.7853
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Werbkowice wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4213,
+          54.4515
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Barzowice wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8211,
+          54.5187
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Ustka (Enerco) wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1135,
+          51.7052
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Zary wind farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3633,
+          54.7372
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Gnieżdżewo wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0866,
+          54.0428
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Karnice wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1572,
+          52.9643
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Margonin wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1572,
+          52.9643
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Margonin wind farm",
+        "Capacity (MW)": 98.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3546,
+          54.7464
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Puck wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5636,
+          54.3914
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Stary Jaroslaw wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.55,
+          51.5934
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Sulmierzyce wind farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7436,
+          54.297
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Bystra wind farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2203,
+          52.3548
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Jóźwin wind farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8825,
+          51.2166
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Modlikowice wind farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6898,
+          54.4991
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Pekanino wind farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.52,
+          52.5539
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Piotrków Kujawski wind farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5254,
+          54.4002
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Nowy Jaroslaw wind farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.573,
+          53.7006
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Rajgród wind farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.343,
+          54.3013
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Wiekowice wind farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6866,
+          53.2275
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Parsówek wind farm",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.847,
+          49.6003
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Rymanów wind farm",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0248,
+          51.0856
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Zgorzelec wind farm",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4213,
+          54.3803
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Dobieslaw wind farm",
+        "Capacity (MW)": 27.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.413,
+          54.3558
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Jezyce wind farm",
+        "Capacity (MW)": 27.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7598,
+          54.6804
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Wojciechowo wind farm",
+        "Capacity (MW)": 28.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5276,
+          52.8232
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Kamionka wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7103,
+          51.843
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Poniec II wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7749,
+          54.1503
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Taciewo wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6282,
+          53.8014
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Zagórze wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4084,
+          51.0712
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Kamieńsk wind farm",
+        "Capacity (MW)": 31.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1126,
+          50.5436
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Lipniki wind farm",
+        "Capacity (MW)": 31.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6851,
+          54.01
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Wartkowo wind farm",
+        "Capacity (MW)": 31.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3815,
+          54.3142
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Boryszewo wind farm",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2206,
+          52.7692
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Inowrocław wind farm",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7862,
+          54.177
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Piecki wind farm",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8647,
+          53.8769
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Śniatowo wind farm",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9196,
+          51.7158
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Krobia I wind farm",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3204,
+          52.6575
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Dobrzyń wind farm",
+        "Capacity (MW)": 34.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.66,
+          53.8352
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Lake Ostrowo wind farm",
+        "Capacity (MW)": 34.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9079,
+          51.1809
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Łukaszów wind farm",
+        "Capacity (MW)": 34.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1439,
+          52.8157
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Mogilno wind farm",
+        "Capacity (MW)": 34.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0603,
+          52.3094
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Dąbrowice wind farm",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1803,
+          51.784
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Skoczykłody wind farm",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6829,
+          52.4295
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Golice wind farm",
+        "Capacity (MW)": 38.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9574,
+          53.8522
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Liskowo wind farm",
+        "Capacity (MW)": 38.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4304,
+          53.6208
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Grajewo wind farm",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5663,
+          54.3081
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Karwice wind farm",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.996,
+          54.2365
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Sepopol (Energix) wind farm",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6422,
+          54.672
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Wicko (TAURON) wind farm",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9944,
+          54.3616
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Kobylnica wind farm",
+        "Capacity (MW)": 41.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8778,
+          54.154
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Suwałki wind farm",
+        "Capacity (MW)": 41.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9217,
+          54.3959
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Konczewo wind farm",
+        "Capacity (MW)": 42.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4769,
+          52.6349
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Radziejów (ERG Renew) wind farm",
+        "Capacity (MW)": 42.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3671,
+          51.8327
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Jarocin Kozmin wind farm",
+        "Capacity (MW)": 42.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1046,
+          53.2787
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Skurpie wind farm",
+        "Capacity (MW)": 44.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6272,
+          52.2347
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Słupca Kołaczkowo wind farm",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2977,
+          51.1546
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Taczalin wind farm",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6822,
+          51.6216
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Mycielin wind farm",
+        "Capacity (MW)": 46.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8815,
+          53.3484
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Gawłowice wind farm",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2922,
+          54.2557
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Gołdap wind farm",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0527,
+          53.4158
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Linowo wind farm",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9653,
+          54.4121
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Zajączkowo wind farm",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.726,
+          53.9028
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Pelplin wind farm",
+        "Capacity (MW)": 49.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7724,
+          53.0745
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Banie-Kozielice wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6213,
+          53.0499
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Banie-Kozielice wind farm",
+        "Capacity (MW)": 81.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7724,
+          53.0745
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Banie-Kozielice wind farm",
+        "Capacity (MW)": 56.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6781,
+          54.0997
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Bardy wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7965,
+          54.3608
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Tychowo (Engie) wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8627,
+          54.1977
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Tymień Wind Park",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.344,
+          51.0832
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Udanin wind farm",
+        "Capacity (MW)": 51.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4125,
+          54.1108
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Karcino wind farm",
+        "Capacity (MW)": 51.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3023,
+          51.5016
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Lubartów wind farm",
+        "Capacity (MW)": 51.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6246,
+          51.14
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Pągów wind farm",
+        "Capacity (MW)": 51.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1698,
+          51.1764
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Iłża wind farm",
+        "Capacity (MW)": 54.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7598,
+          54.6804
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Żuromin wind farm",
+        "Capacity (MW)": 61.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0396,
+          53.9572
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Starza/Rybice wind farm",
+        "Capacity (MW)": 66.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.18,
+          54.1514
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Korsze wind farm",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.739,
+          54.6673
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Lotnisko wind farm",
+        "Capacity (MW)": 94.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9686,
+          53.0337
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Dębsk wind farm",
+        "Capacity (MW)": 121.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4134,
+          53.6076
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Grajewo (Masdar) wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7549,
+          52.1339
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Juniewicze wind farm",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2464,
+          50.9619
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Kraśnik wind farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2029,
+          52.7059
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Markowice wind farm",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4479,
+          53.1755
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Mlawa wind farm",
+        "Capacity (MW)": 37.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2106,
+          53.3729
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Pruszcz wind farm",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1668,
+          53.1943
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Wysoka (Ingka) wind farm",
+        "Capacity (MW)": 62.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6529,
+          52.8901
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Żnin wind farm",
+        "Capacity (MW)": 48.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0329,
+          54.1443
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "LECH Nowy Staw 3 wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2545,
+          54.0811
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Zalesie wind farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6262,
+          51.8567
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Dobrzyca wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3593,
+          50.3937
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Ujazd wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3442,
+          52.2876
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Poland",
+        "Plant / Project name": "Dominowo wind farm",
+        "Capacity (MW)": 62.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9643,
+          51.0435
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Poland",
+        "Plant / Project name": "Bogatyni solar farm",
+        "Capacity (MW)": 49.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6499,
+          52.0816
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Poland",
+        "Plant / Project name": "Brudzew solar farm",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4572,
+          51.7101
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Poland",
+        "Plant / Project name": "Chotków solar farm",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1664,
+          52.3804
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Poland",
+        "Plant / Project name": "Genowefa solar farm",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6301,
+          52.0107
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Poland",
+        "Plant / Project name": "Gryf solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8893,
+          50.5399
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Poland",
+        "Plant / Project name": "Jeziórko solar farm",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8893,
+          50.5399
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Poland",
+        "Plant / Project name": "Jeziórko solar farm",
+        "Capacity (MW)": 53.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9333,
+          53.3009
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Poland",
+        "Plant / Project name": "Kalisz Pomorski solar farm",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2026,
+          52.9541
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Poland",
+        "Plant / Project name": "Konary solar farm",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0616,
+          51.2586
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Poland",
+        "Plant / Project name": "Miłkowice solar farm",
+        "Capacity (MW)": 113.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2069,
+          50.1852
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Poland",
+        "Plant / Project name": "Mysłowice solar farm",
+        "Capacity (MW)": 37.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.634,
+          52.0135
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Poland",
+        "Plant / Project name": "Przykona solar farm",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7538,
+          52.5165
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Poland",
+        "Plant / Project name": "Rokietnica solar farm",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7675,
+          54.3635
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Poland",
+        "Plant / Project name": "Stępień solar farm",
+        "Capacity (MW)": 58.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9654,
+          53.3984
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Poland",
+        "Plant / Project name": "Wielbark solar farm",
+        "Capacity (MW)": 62.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.882,
+          52.6579
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Poland",
+        "Plant / Project name": "Witnica solar farm",
+        "Capacity (MW)": 64.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2319,
+          54.4764
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Poland",
+        "Plant / Project name": "Zagórzyca solar farm",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2179,
+          50.7178
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Poland",
+        "Plant / Project name": "Zamość solar farm",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8064,
+          54.6971
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Poland",
+        "Plant / Project name": "Zwartowo solar farm",
+        "Capacity (MW)": 203.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.13,
+          52.3976
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Poland",
+        "Plant / Project name": "Jasin PL solar project",
+        "Capacity (MW)": 7.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.192,
+          50.216
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Poland",
+        "Plant / Project name": "Jaworzno solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.57,
+          53.107
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Poland",
+        "Plant / Project name": "Naklo solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9697,
+          51.0006
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Poland",
+        "Plant / Project name": "Zgorzelec County solar project",
+        "Capacity (MW)": 11.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

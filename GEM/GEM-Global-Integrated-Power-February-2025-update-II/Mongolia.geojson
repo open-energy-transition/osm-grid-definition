@@ -1,0 +1,467 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.890865,
+          47.272341
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Mongolia",
+        "Plant / Project name": "Buuruljuut power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "CFB",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.890865,
+          47.272341
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Mongolia",
+        "Plant / Project name": "Buuruljuut power station",
+        "Capacity (MW)": 150.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "CFB",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9576,
+          49.4366
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Mongolia",
+        "Plant / Project name": "Darkhan power station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.554981,
+          48.079288
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Mongolia",
+        "Plant / Project name": "Dornod power station",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.554981,
+          48.079288
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Mongolia",
+        "Plant / Project name": "Dornod power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "unknown",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.098,
+          49.0408
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Mongolia",
+        "Plant / Project name": "Erdenet power station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.865055,
+          47.895556
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Mongolia",
+        "Plant / Project name": "Ulaanbaatar-3 power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8036,
+          47.8938
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Mongolia",
+        "Plant / Project name": "Ulaanbaatar-4 power station",
+        "Capacity (MW)": 173.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8036,
+          47.8938
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Mongolia",
+        "Plant / Project name": "Ulaanbaatar-4 power station",
+        "Capacity (MW)": 111.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8036,
+          47.8938
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Mongolia",
+        "Plant / Project name": "Ulaanbaatar-4 power station",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8036,
+          47.8938
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Mongolia",
+        "Plant / Project name": "Ulaanbaatar-4 power station",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8036,
+          47.8938
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Mongolia",
+        "Plant / Project name": "Ulaanbaatar-4 power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1989,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8036,
+          47.8938
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Mongolia",
+        "Plant / Project name": "Ulaanbaatar-4 power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1989,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8036,
+          47.8938
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Mongolia",
+        "Plant / Project name": "Ulaanbaatar-4 power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.0391,
+          47.163
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Mongolia",
+        "Plant / Project name": "Salkhit wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.2493,
+          44.9161
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Mongolia",
+        "Plant / Project name": "Sainshand wind farm",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.196,
+          44.9101
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mongolia",
+        "Plant / Project name": "Desert solar farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.9233,
+          44.6202
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mongolia",
+        "Plant / Project name": "Altai solar project",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.941,
+          49.4004
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mongolia",
+        "Plant / Project name": "Darkhan-Uul solar project",
+        "Capacity (MW)": 13.3,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9277,
+          48.2519
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mongolia",
+        "Plant / Project name": "Myangad solar project",
+        "Capacity (MW)": 16.3,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.5143,
+          48.032
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mongolia",
+        "Plant / Project name": "Ulaanbaatar solar project I",
+        "Capacity (MW)": 13.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7854,
+          47.8319
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mongolia",
+        "Plant / Project name": "Ulaanbaatar solar project II",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

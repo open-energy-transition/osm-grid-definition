@@ -1,0 +1,761 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4471245,
+          -22.2525497
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "Doniambo Floating power station",
+        "Capacity (MW)": 180.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.440822,
+          -22.249875
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "Doniambo power station",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "unknown",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.986513,
+          -21.326213
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "Jacques Lekawe power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.912206,
+          -22.33025
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "Goro power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.912206,
+          -22.33025
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "Goro power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.683935,
+          -21.010213
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "Koniambo Nickel power station",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.683935,
+          -21.010213
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "Koniambo Nickel power station",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.7644,
+          -22.3132
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "Col De Prony wind farm",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.7644,
+          -22.3132
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "Col De Prony wind farm",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.7644,
+          -22.344
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "Col De Prony wind farm",
+        "Capacity (MW)": 6.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.7848,
+          -22.3277
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "Col De Prony wind farm",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.7202,
+          -22.2755
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "Col De Prony wind farm",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.7341,
+          -21.0331
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "Kafeate wind farm",
+        "Capacity (MW)": 11.5,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.6611,
+          -22.269
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "Negandi wind farm",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.436,
+          -22.5653
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "Isle Of Pines South Province solar project",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.2374,
+          -20.8779
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "Lifou Loyalty Islands Province solar project",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.8915,
+          -21.4737
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "Maré Loyalty Islands Province solar project",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.6837,
+          -20.8857
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "North Province solar project I",
+        "Capacity (MW)": 4.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.5735,
+          -20.8507
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "North Province solar project II",
+        "Capacity (MW)": 5.6,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.2424,
+          -20.532
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "North Province solar project III",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.586,
+          -20.848
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "North Province solar project IV",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.2574,
+          -20.532
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "North Province solar project V",
+        "Capacity (MW)": 4.9,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.8836,
+          -21.2007
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "North Province solar project VI",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.9424,
+          -21.2628
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "North Province solar project VII",
+        "Capacity (MW)": 5.9,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4531,
+          -22.2297
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "Noumea South Province solar project",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.238,
+          -22.0514
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "South Province solar project I",
+        "Capacity (MW)": 4.3,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.1651,
+          -22.0443
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "South Province solar project II",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.7069,
+          -21.7032
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "South Province solar project III",
+        "Capacity (MW)": 5.9,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.8555,
+          -21.818
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "South Province solar project IV",
+        "Capacity (MW)": 6.5,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.2234,
+          -22.0723
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "South Province solar project IX",
+        "Capacity (MW)": 5.2,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.7823,
+          -21.6897
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "South Province solar project V",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.2563,
+          -21.4139
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "South Province solar project VI",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.7791,
+          -22.3137
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "South Province solar project VII",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.2151,
+          -21.9893
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "South Province solar project VIII",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.0307,
+          -21.8603
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "South Province solar project X",
+        "Capacity (MW)": 4.2,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.8186,
+          -21.7903
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "New Caledonia",
+        "Plant / Project name": "South Province solar project XI",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

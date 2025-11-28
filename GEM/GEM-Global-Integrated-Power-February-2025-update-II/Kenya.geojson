@@ -1,0 +1,908 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7523,
+          -0.7942
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Gitaru hydroelectric plant",
+        "Capacity (MW)": 225.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6861,
+          -0.8064
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Kamburu hydroelectric plant",
+        "Capacity (MW)": 94.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9094,
+          -0.6404
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Kiambere hydroelectric plant",
+        "Capacity (MW)": 168.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.334,
+          1.8981
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Turkwel hydroelectric plant",
+        "Capacity (MW)": 103.0,
+        "Status": "operating",
+        "Start year": 1991,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0591,
+          -0.2137
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Menengai 1 geothermal power plant",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0591,
+          -0.2137
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Menengai 1 geothermal power plant",
+        "Capacity (MW)": 35.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0591,
+          -0.2137
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Menengai 1 geothermal power plant",
+        "Capacity (MW)": 35.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2557,
+          -0.8893
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Olkaria 1 geothermal power plant",
+        "Capacity (MW)": 83.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2961,
+          -0.891
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Olkaria 1 geothermal power plant",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2961,
+          -0.891
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Olkaria 1 geothermal power plant",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2985,
+          -0.8644
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Olkaria 2 geothermal power plant",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2985,
+          -0.8644
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Olkaria 2 geothermal power plant",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2985,
+          -0.8644
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Olkaria 2 geothermal power plant",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2562,
+          -0.889
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Olkaria 3 geothermal power plant",
+        "Capacity (MW)": 59.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "binary cycle",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2562,
+          -0.889
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Olkaria 3 geothermal power plant",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "binary cycle",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3338,
+          -0.9186
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Olkaria 4 geothermal power plant",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3338,
+          -0.9186
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Olkaria 4 geothermal power plant",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3232,
+          -0.907
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Olkaria 5 geothermal power plant",
+        "Capacity (MW)": 82.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3232,
+          -0.907
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Olkaria 5 geothermal power plant",
+        "Capacity (MW)": 82.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2557,
+          -0.8893
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Olkaria 1 geothermal power plant",
+        "Capacity (MW)": 21.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2557,
+          -0.8893
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Olkaria 1 geothermal power plant",
+        "Capacity (MW)": 21.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2557,
+          -0.8893
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Olkaria 1 geothermal power plant",
+        "Capacity (MW)": 21.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2562,
+          -0.889
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Olkaria 3 geothermal power plant",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2562,
+          -0.889
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Olkaria 3 geothermal power plant",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "unknown type",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5052,
+          0.3643
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Mumias Sugar Company power station",
+        "Capacity (MW)": 34.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.005026,
+          -1.453087
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Athi River power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.81985,
+          -1.293577
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Iberafrica power station",
+        "Capacity (MW)": 53.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.636099,
+          -4.038673
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Kipevu III power station",
+        "Capacity (MW)": 116.9,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.15207,
+          -0.207979
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Muhoroni power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.113392,
+          -2.990681
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Rabai power station",
+        "Capacity (MW)": 85.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.050233,
+          -1.059973
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Thika Power Plant",
+        "Capacity (MW)": 87.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "ICCC",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.638,
+          -1.3803
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Ngong wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.638,
+          -1.3803
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Ngong wind farm",
+        "Capacity (MW)": 11.5,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.638,
+          -1.3803
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Ngong wind farm",
+        "Capacity (MW)": 11.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7932,
+          2.4891
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Lake Turkana wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7932,
+          2.4891
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Lake Turkana wind farm",
+        "Capacity (MW)": 260.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6945,
+          -1.7196
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Kipeto wind farm",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3601,
+          0.4267
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Cedata solar farm",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6065,
+          -0.3326
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Garissa solar farm",
+        "Capacity (MW)": 54.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4032,
+          0.4304
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Kesses solar farm",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7446,
+          -3.2009
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Malindi solar farm",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3537,
+          0.4211
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Radiant solar farm",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5514,
+          0.2597
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kenya",
+        "Plant / Project name": "Mwale Mtc solar farm",
+        "Capacity (MW)": 11.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

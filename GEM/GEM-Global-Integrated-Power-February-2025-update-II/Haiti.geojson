@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0139,
+          19.6687
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Haiti",
+        "Plant / Project name": "Caracol Industrial Park solar farm",
+        "Capacity (MW)": 8.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0139,
+          19.6687
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Haiti",
+        "Plant / Project name": "Caracol Industrial Park solar farm",
+        "Capacity (MW)": 4.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

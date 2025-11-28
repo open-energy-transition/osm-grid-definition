@@ -1,0 +1,530 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6707,
+          46.1027
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Avče hydroelectric plant",
+        "Capacity (MW)": 180.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0338,
+          46.4026
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Formin hydroelectric plant",
+        "Capacity (MW)": 126.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7868,
+          46.4479
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Zlatoličje hydroelectric plant",
+        "Capacity (MW)": 116.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.51601,
+          45.9389
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Krško nuclear power plant",
+        "Capacity (MW)": 727.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4796,
+          45.9975
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Brestanica (TEB) power station",
+        "Capacity (MW)": 114.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4796,
+          45.9975
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Brestanica (TEB) power station",
+        "Capacity (MW)": 114.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4796,
+          45.9975
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Brestanica (TEB) power station",
+        "Capacity (MW)": 53.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4796,
+          45.9975
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Brestanica (TEB) power station",
+        "Capacity (MW)": 56.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0534,
+          46.3723
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Sostanj power station",
+        "Capacity (MW)": 42.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0534,
+          46.3723
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Sostanj power station",
+        "Capacity (MW)": 42.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.54513,
+          46.05796
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Te-Tol power station",
+        "Capacity (MW)": 57.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.54513,
+          46.05796
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Te-Tol power station",
+        "Capacity (MW)": 57.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0534,
+          46.3723
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Sostanj power station",
+        "Capacity (MW)": 345.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0534,
+          46.3723
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Sostanj power station",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "ultra-supercritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.54513,
+          46.05796
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Te-Tol power station",
+        "Capacity (MW)": 42.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.54513,
+          46.05796
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Te-Tol power station",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.54513,
+          46.05796
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Te-Tol power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.557,
+          45.916
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Brežice solar project",
+        "Capacity (MW)": 6.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7631,
+          46.3965
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Slovenia solar project I",
+        "Capacity (MW)": 7.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1511,
+          45.6674
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Slovenia solar project II",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2418,
+          45.5593
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Slovenia solar project III",
+        "Capacity (MW)": 4.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1034,
+          46.1465
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Slovenia solar project IV",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1656,
+          45.5677
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Slovenia solar project V",
+        "Capacity (MW)": 4.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0681,
+          46.1346
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Slovenia solar project VI",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6541,
+          46.1666
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovenia",
+        "Plant / Project name": "Slovenia solar project VII",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

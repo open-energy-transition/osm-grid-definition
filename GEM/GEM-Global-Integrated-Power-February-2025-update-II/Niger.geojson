@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11993,
+          13.43103
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Niger",
+        "Plant / Project name": "Gorou Banda power plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.408871,
+          14.505942
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Niger",
+        "Plant / Project name": "Badaguichiri Cement Plant power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "unknown",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.133,
+          13.428
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Niger",
+        "Plant / Project name": "Gorou Banda solar farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8835,
+          18.9993
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Niger",
+        "Plant / Project name": "Bilma solar project",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0966,
+          13.2408
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Niger",
+        "Plant / Project name": "Dogondoutchi solar project",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7637,
+          15.0545
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Niger",
+        "Plant / Project name": "Kéita solar project",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5106,
+          13.9551
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Niger",
+        "Plant / Project name": "Malbaza solar project",
+        "Capacity (MW)": 6.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

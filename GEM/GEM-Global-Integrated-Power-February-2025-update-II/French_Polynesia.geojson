@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.3998,
+          -17.7603
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "French Polynesia",
+        "Plant / Project name": "Manasolar solar farm",
+        "Capacity (MW)": 10.8,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.3163,
+          -17.7311
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "French Polynesia",
+        "Plant / Project name": "Taravao solar farm",
+        "Capacity (MW)": 3.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

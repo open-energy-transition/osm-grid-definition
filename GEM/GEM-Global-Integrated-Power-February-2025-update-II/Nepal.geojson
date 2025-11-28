@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.1941,
+          27.5106
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Nepal",
+        "Plant / Project name": "Arun 3 hydroelectric plant",
+        "Capacity (MW)": 900.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.6152,
+          27.931
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Nepal",
+        "Plant / Project name": "Kaligandaki A hydroelectric plant",
+        "Capacity (MW)": 144.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.2135,
+          27.9248
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Nepal",
+        "Plant / Project name": "Upper Tamakoshi hydroelectric plant",
+        "Capacity (MW)": 456.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.208,
+          28.0737
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Nepal",
+        "Plant / Project name": "Upper Trishuli 1 hydroelectric plant",
+        "Capacity (MW)": 216.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1151,
+          27.8601
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Nepal",
+        "Plant / Project name": "Devighat solar farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.943,
+          26.937
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Nepal",
+        "Plant / Project name": "Mithila Saurya solar project",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

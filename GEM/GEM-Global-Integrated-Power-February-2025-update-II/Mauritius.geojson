@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.542331,
+          -20.507973
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Mauritius",
+        "Plant / Project name": "Saint-Aubin power station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.629008,
+          -20.473587
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Mauritius",
+        "Plant / Project name": "Savannah power station",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.629008,
+          -20.473587
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Mauritius",
+        "Plant / Project name": "Savannah power station",
+        "Capacity (MW)": 45.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.599132,
+          -20.067599
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Mauritius",
+        "Plant / Project name": "Terragen power station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.599132,
+          -20.067599
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Mauritius",
+        "Plant / Project name": "Terragen power station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.7012,
+          -20.2295
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mauritius",
+        "Plant / Project name": "Queen Victoria & Anahita solar farm",
+        "Capacity (MW)": 25.3,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4201,
+          -20.2601
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mauritius",
+        "Plant / Project name": "Bambous solar farm",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.7706,
+          -20.2622
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mauritius",
+        "Plant / Project name": "Helios Beau Champ solar farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.463,
+          -20.334
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mauritius",
+        "Plant / Project name": "Henrietta MU solar farm",
+        "Capacity (MW)": 17.5,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5366,
+          -20.0727
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mauritius",
+        "Plant / Project name": "Solitude solar farm",
+        "Capacity (MW)": 16.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.1184,
+          32.3226
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Afghanistan",
+        "Plant / Project name": "Kajaki 2 hydroelectric plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.7171,
+          34.6414
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Afghanistan",
+        "Plant / Project name": "Naghlu hydroelectric plant",
+        "Capacity (MW)": 94.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.294854,
+          34.561557
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Afghanistan",
+        "Plant / Project name": "Tarakhil power station",
+        "Capacity (MW)": 105.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.8346,
+          34.8014
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Afghanistan",
+        "Plant / Project name": "Bamian Bamyan solar project",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.8542,
+          31.6265
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Afghanistan",
+        "Plant / Project name": "Daman solar project",
+        "Capacity (MW)": 12.2,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.2165,
+          34.1829
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Afghanistan",
+        "Plant / Project name": "Guzara solar project",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.8804,
+          31.465
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Afghanistan",
+        "Plant / Project name": "Kandahar (77) solar farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.875,
+          31.463
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Afghanistan",
+        "Plant / Project name": "Kandahar (Zularistan) solar farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.7572,
+          31.6247
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Afghanistan",
+        "Plant / Project name": "Kang solar project",
+        "Capacity (MW)": 9.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.0618,
+          34.3777
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Afghanistan",
+        "Plant / Project name": "La‘L Wa Sar Jangal solar project",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.4369,
+          32.9217
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Afghanistan",
+        "Plant / Project name": "Shahidi Hassas solar project",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.169,
+          37.8344
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Afghanistan",
+        "Plant / Project name": "Shighnan solar project",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7531,
+          -15.8954
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Malawi",
+        "Plant / Project name": "Kapichira hydroelectric plant",
+        "Capacity (MW)": 130.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8192,
+          -15.5269
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Malawi",
+        "Plant / Project name": "Nkula B hydroelectric plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1992,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7765,
+          -15.5598
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Malawi",
+        "Plant / Project name": "Tedzani Falls hydroelectric plant",
+        "Capacity (MW)": 121.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5994,
+          -14.4399
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malawi",
+        "Plant / Project name": "Golomoti solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.255,
+          -12.968
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malawi",
+        "Plant / Project name": "Nkhotakota solar farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3269,
+          -13.7135
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malawi",
+        "Plant / Project name": "Salima solar farm",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7817,
+          -13.7787
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malawi",
+        "Plant / Project name": "Lilongwe solar project",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5418,
+          12.394
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "Momotombo geothermal power plant",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5418,
+          12.394
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "Momotombo geothermal power plant",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 1989,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.773,
+          12.6088
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "San Jacinto - Tizate geothermal power plant",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.773,
+          12.6088
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "San Jacinto - Tizate geothermal power plant",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "flash steam - single",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8375,
+          11.4866
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "Ingenio Benjamín Zeledón power station",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2357,
+          12.7065
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "Ingenio Monte Rosa power station",
+        "Capacity (MW)": 30.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5119,
+          11.8172
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "Ingenio Montelimar power station",
+        "Capacity (MW)": 42.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7473,
+          12.1857
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "CENSA power station",
+        "Capacity (MW)": 68.3,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.16735,
+          12.4883
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "Corinto Barge power station",
+        "Capacity (MW)": 74.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.373647,
+          12.187261
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "Planta MAN 140 power station",
+        "Capacity (MW)": 147.7,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.767166,
+          12.178792
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "Planta Nicaragua power station",
+        "Capacity (MW)": 53.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.767166,
+          12.178792
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "Planta Nicaragua power station",
+        "Capacity (MW)": 53.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1052,
+          12.1698
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "Tipitapa power station",
+        "Capacity (MW)": 52.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7892,
+          11.3831
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "La Fe wind farm",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7072,
+          11.3251
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "Amayo wind farm",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7072,
+          11.3251
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "Amayo wind farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7492,
+          11.3648
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "Eolo De Nicaragua Wind Facility",
+        "Capacity (MW)": 44.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.056,
+          12.1767
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "Caribbean Pride solar farm",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3345,
+          11.7325
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "La Trinidad solar farm (Nicaragua)",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9568,
+          12.4773
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "León solar project",
+        "Capacity (MW)": 7.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3539,
+          12.1884
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "Managua solar project I",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0874,
+          12.1557
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "Managua solar project II",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5096,
+          11.8169
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "Managua solar project III",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1721,
+          11.902
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "Masaya solar project",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7162,
+          12.2101
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Nicaragua",
+        "Plant / Project name": "Solaris solar farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

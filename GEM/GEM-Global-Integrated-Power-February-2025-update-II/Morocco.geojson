@@ -1,0 +1,1349 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5317,
+          32.2077
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Afourer hydroelectric plant",
+        "Capacity (MW)": 466.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8885,
+          32.6933
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Ahmed El Hansali hydroelectric plant",
+        "Capacity (MW)": 92.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5095,
+          32.1089
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Ait Ouarda hydroelectric plant",
+        "Capacity (MW)": 94.0,
+        "Status": "operating",
+        "Start year": 1955,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6377,
+          32.4764
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Al Massira hydroelectric plant",
+        "Capacity (MW)": 128.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.201,
+          34.5978
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Al Wahda hydroelectric plant",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6768,
+          33.9318
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Allal Al Fassi hydroelectric plant",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": 1994,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4641,
+          32.1069
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Bin El Ouidane hydroelectric plant",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 1953,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1049,
+          34.0705
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Ain Beni Mathar power plant",
+        "Capacity (MW)": 470.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "ISCC",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5709,
+          34.34408
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Kenitra power plant",
+        "Capacity (MW)": 105.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5709,
+          34.34408
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Kenitra power plant",
+        "Capacity (MW)": 105.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5709,
+          34.34408
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Kenitra power plant",
+        "Capacity (MW)": 105.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4363,
+          33.68086
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Mohammedia 2 Power Plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4363,
+          33.68086
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Mohammedia 2 Power Plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4363,
+          33.68086
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Mohammedia 2 Power Plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.434761,
+          33.681854
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Mohammedia power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.434761,
+          33.681854
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Mohammedia power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.986626,
+          35.589177
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Tahaddart power plant",
+        "Capacity (MW)": 400.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.986626,
+          35.589177
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Tahaddart power plant",
+        "Capacity (MW)": 457.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1908,
+          34.3096
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Jerada power station",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "supercritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6376352,
+          33.1047305
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Jorf Lasfar power station",
+        "Capacity (MW)": 330.0,
+        "Status": "operating",
+        "Start year": 1994,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6376352,
+          33.1047305
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Jorf Lasfar power station",
+        "Capacity (MW)": 330.0,
+        "Status": "operating",
+        "Start year": 1995,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6376352,
+          33.1047305
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Jorf Lasfar power station",
+        "Capacity (MW)": 348.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6376352,
+          33.1047305
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Jorf Lasfar power station",
+        "Capacity (MW)": 348.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6367,
+          33.1048
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Jorf Lasfar power station",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6367,
+          33.1048
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Jorf Lasfar power station",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.434761,
+          33.681854
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Mohammedia power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.434761,
+          33.681854
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Mohammedia power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.282294,
+          32.149115
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Safi power station",
+        "Capacity (MW)": 693.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "ultra-supercritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.282294,
+          32.149115
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Safi power station",
+        "Capacity (MW)": 693.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "ultra-supercritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.606,
+          35.6471
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Tangier wind farm",
+        "Capacity (MW)": 107.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6078,
+          35.6467
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Tangier wind farm",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.8067,
+          31.3973
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Amougdoul Essaouira wind farm",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4538,
+          35.8184
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Al Koudia wind farm",
+        "Capacity (MW)": 54.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4538,
+          35.8184
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Al Koudia wind farm",
+        "Capacity (MW)": 200.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4538,
+          35.8184
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Al Koudia wind farm",
+        "Capacity (MW)": 120.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.576,
+          35.7609
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Khalladi wind farm",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.9975,
+          27.9538
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Akhfenir wind farm",
+        "Capacity (MW)": 102.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.9975,
+          27.9538
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Akhfenir wind farm",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.432,
+          35.611
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Tarfaya wind farm",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.493,
+          35.8054
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Haouma wind farm",
+        "Capacity (MW)": 51.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4385,
+          35.6063
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Lafarge wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4385,
+          35.6063
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Lafarge wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4385,
+          35.6063
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Lafarge wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6565,
+          32.722
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Midelt wind farm",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0049,
+          34.2553
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Taza wind farm",
+        "Capacity (MW)": 87.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9173,
+          35.6107
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Morocco",
+        "Plant / Project name": "GPM1 solar farm",
+        "Capacity (MW)": 34.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1047,
+          34.0683
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Morocco",
+        "Plant / Project name": "ISCC Ain Beni Mathar solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Solar Thermal",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8626,
+          31.0106
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Noor Ouarzazate solar farm",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Solar Thermal",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8696,
+          31.0377
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Noor Ouarzazate solar farm",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Solar Thermal",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8704,
+          31.0623
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Noor Ouarzazate solar farm",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Solar Thermal",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8306,
+          31.0218
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Noor Ouarzazate solar farm",
+        "Capacity (MW)": 72.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.275,
+          31.513
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Noor Tafilalt Erfoud Solar",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0285,
+          32.8071
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Noor Tafilalt Missour Solar",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.819,
+          30.265
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Noor Tafilalt Zagora Solar",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3816,
+          34.3025
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Ameur Seflia Cercle De Kenitra-Banlieue solar project",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9282,
+          32.2213
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Ben Guerir solar farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2974,
+          33.2891
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Cercle De Azemmour solar project",
+        "Capacity (MW)": 6.2,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6636,
+          34.2957
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Cercle De Chrarda solar project",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5494,
+          33.2395
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Cercle De El Gara دائرة الكارة solar project",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0885,
+          33.0048
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Cercle De Missour solar project",
+        "Capacity (MW)": 17.5,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4378,
+          31.451
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Gmassa Cercle D'Majjat solar project",
+        "Capacity (MW)": 10.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4534,
+          31.7117
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Lamzoudia لمزوضية Cercle De Chichaoua دائرة شيشاوة solar project",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9744,
+          35.0338
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Pachalik De Al Aaroui solar project",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4677,
+          28.626
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Morocco",
+        "Plant / Project name": "Touizgui ⵜⵡⵉⵣⴳⵉ تويزكي Cercle D'Assa دائرة آسا solar project",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

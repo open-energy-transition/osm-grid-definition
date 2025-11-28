@@ -1,0 +1,992 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0165,
+          39.1693
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Gyz Galasy hydroelectric plant",
+        "Capacity (MW)": 80.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "unknown",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9343,
+          39.1595
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Khudafarin (Khoda Afarin) hydroelectric plant",
+        "Capacity (MW)": 102.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0281,
+          40.7886
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Mingechevir hydroelectric plant",
+        "Capacity (MW)": 424.0,
+        "Status": "operating",
+        "Start year": 1954,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1711,
+          40.9472
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Shamkir hydroelectric plant",
+        "Capacity (MW)": 380.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.2847,
+          40.9186
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Yenikend hydroelectric plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8989,
+          40.4625
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Balakhani power station",
+        "Capacity (MW)": 37.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": null,
+        "Fuel": "bioenergy: refuse (municipal and industrial wastes)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.864585,
+          38.46698
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Astara power station",
+        "Capacity (MW)": 87.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.990866,
+          40.781034
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Azerbaijan thermal power plant",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.990866,
+          40.781034
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Azerbaijan thermal power plant",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.990866,
+          40.781034
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Azerbaijan thermal power plant",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.990866,
+          40.781034
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Azerbaijan thermal power plant",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.990866,
+          40.781034
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Azerbaijan thermal power plant",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.990866,
+          40.781034
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Azerbaijan thermal power plant",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.990866,
+          40.781034
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Azerbaijan thermal power plant",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.990866,
+          40.781034
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Azerbaijan thermal power plant",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.919489,
+          40.373564
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Baku CHP power station",
+        "Capacity (MW)": 53.5,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.919489,
+          40.373564
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Baku CHP power station",
+        "Capacity (MW)": 53.5,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.9157,
+          40.4039
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Baku power station",
+        "Capacity (MW)": 104.4,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.669808,
+          40.419454
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Gobu power station",
+        "Capacity (MW)": 384.3,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.918546,
+          39.893857
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Janub power station",
+        "Capacity (MW)": 390.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.918546,
+          39.893857
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Janub power station",
+        "Capacity (MW)": 390.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.811357,
+          41.431651
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Khachmaz power station",
+        "Capacity (MW)": 87.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.990866,
+          40.781034
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Mingecevir power station",
+        "Capacity (MW)": 320.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.990866,
+          40.781034
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Mingecevir power station",
+        "Capacity (MW)": 320.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.990866,
+          40.781034
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Mingecevir power station",
+        "Capacity (MW)": 320.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.990866,
+          40.781034
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Mingecevir power station",
+        "Capacity (MW)": 320.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.4866,
+          39.15908
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Nakhchivan power station",
+        "Capacity (MW)": 87.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.473255,
+          40.172045
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Sangachal power station",
+        "Capacity (MW)": 307.8,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.474827,
+          41.407708
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Shahdagh power station",
+        "Capacity (MW)": 104.4,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.142391,
+          41.062545
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Shaki power station",
+        "Capacity (MW)": 87.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.209075,
+          40.499569
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Shimal power station",
+        "Capacity (MW)": 400.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.209075,
+          40.499569
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Shimal power station",
+        "Capacity (MW)": 400.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.633417,
+          40.603363
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Sumgayit power station",
+        "Capacity (MW)": 525.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.436,
+          40.7282
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Yeni Yashma wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3406,
+          40.0453
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Garadagh Solar PV Plant",
+        "Capacity (MW)": 230.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.4464,
+          39.3373
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Nakhchivan Solar Power Plant",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.4523,
+          39.3464
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Azerbaijan solar project I",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.0551,
+          40.433
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Azerbaijan solar project II",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.918,
+          40.5398
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Azerbaijan solar project III",
+        "Capacity (MW)": 3.9,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.345,
+          40.8382
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Azerbaijan solar project IV",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5355,
+          40.6445
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Azerbaijan solar project IX",
+        "Capacity (MW)": 3.9,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.3456,
+          40.4689
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Azerbaijan solar project V",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1204,
+          39.4337
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Azerbaijan solar project VI",
+        "Capacity (MW)": 6.6,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.6114,
+          38.9736
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Azerbaijan solar project VII",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0015,
+          39.597
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Azerbaijan solar project VIII",
+        "Capacity (MW)": 6.1,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5763,
+          39.0774
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Azerbaijan solar project X",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5532,
+          40.2165
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Azerbaijan",
+        "Plant / Project name": "Baku City solar project",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

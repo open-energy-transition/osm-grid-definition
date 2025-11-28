@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.1448,
+          1.3845
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Kiribati",
+        "Plant / Project name": "Gilbert Islands solar project",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

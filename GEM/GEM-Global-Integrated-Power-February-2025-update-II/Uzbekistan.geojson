@@ -1,0 +1,1979 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3053,
+          40.1935
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Farkhad hydroelectric plant",
+        "Capacity (MW)": 127.0,
+        "Status": "operating",
+        "Start year": 1948,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.4054,
+          41.2132
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Tuyamuyun hydroelectric plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0626,
+          40.7702
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Andijan-1 hydroelectric plant",
+        "Capacity (MW)": 140.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.969,
+          41.627
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Charvak hydroelectric plant",
+        "Capacity (MW)": 666.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8015,
+          41.5787
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Gazalkent hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8644,
+          41.599
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Khodzhikent hydroelectric plant",
+        "Capacity (MW)": 165.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.1318,
+          41.5453
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Lower Chatkal hydroelectric plant (Uzbekistan)",
+        "Capacity (MW)": 76.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.2662,
+          41.8246
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Pskem hydroelectric plant",
+        "Capacity (MW)": 400.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.8008,
+          38.5786
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Topalang hydroelectric plant",
+        "Capacity (MW)": 175.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.111537,
+          40.237699
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "ACWA Power Sirdarya I power station",
+        "Capacity (MW)": 1500.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.311967,
+          39.766944
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Bukhara power station",
+        "Capacity (MW)": 270.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.943349,
+          40.092026
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Cengiz Enerji Jizzakh CHP power station",
+        "Capacity (MW)": 550.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.781868,
+          40.449089
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Fergana power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1961,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.781868,
+          40.449089
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Fergana power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.781868,
+          40.449089
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Fergana power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.781868,
+          40.449089
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Fergana power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.781868,
+          40.449089
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Fergana power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.781868,
+          40.449089
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Fergana power station",
+        "Capacity (MW)": 100.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.311909,
+          40.158459
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Navoi power station",
+        "Capacity (MW)": 478.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.311909,
+          40.158459
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Navoi power station",
+        "Capacity (MW)": 450.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.311909,
+          40.158459
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Navoi power station",
+        "Capacity (MW)": 600.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.311909,
+          40.158459
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Navoi power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.311909,
+          40.158459
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Navoi power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.311909,
+          40.158459
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Navoi power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.311909,
+          40.158459
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Navoi power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.311909,
+          40.158459
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Navoi power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.311909,
+          40.158459
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Navoi power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.311909,
+          40.158459
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Navoi power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.311909,
+          40.158459
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Navoi power station",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.311909,
+          40.158459
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Navoi power station",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.252094,
+          37.376786
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Surkhandarya power station",
+        "Capacity (MW)": 1600.0,
+        "Status": "construction",
+        "Start year": 2027,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.10543,
+          40.242115
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Syrdarya II power station",
+        "Capacity (MW)": 1573.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.099802,
+          40.229622
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Syrdarya power station",
+        "Capacity (MW)": 325.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.099802,
+          40.229622
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Syrdarya power station",
+        "Capacity (MW)": 325.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.099802,
+          40.229622
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Syrdarya power station",
+        "Capacity (MW)": 325.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.099802,
+          40.229622
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Syrdarya power station",
+        "Capacity (MW)": 325.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.099802,
+          40.229622
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Syrdarya power station",
+        "Capacity (MW)": 325.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.099802,
+          40.229622
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Syrdarya power station",
+        "Capacity (MW)": 325.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.099802,
+          40.229622
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Syrdarya power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.099802,
+          40.229622
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Syrdarya power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.099802,
+          40.229622
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Syrdarya power station",
+        "Capacity (MW)": 325.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.099802,
+          40.229622
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Syrdarya power station",
+        "Capacity (MW)": 325.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.554756,
+          42.315236
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Takhiatash power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.554756,
+          42.315236
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Takhiatash power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.554756,
+          42.315236
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Takhiatash power station",
+        "Capacity (MW)": 280.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.554756,
+          42.315236
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Takhiatash power station",
+        "Capacity (MW)": 280.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.62977,
+          38.481232
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Talimarjan power station",
+        "Capacity (MW)": 450.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.62977,
+          38.481232
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Talimarjan power station",
+        "Capacity (MW)": 450.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.62977,
+          38.481232
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Talimarjan power station",
+        "Capacity (MW)": 532.5,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.62977,
+          38.481232
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Talimarjan power station",
+        "Capacity (MW)": 532.5,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.62977,
+          38.481232
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Talimarjan power station",
+        "Capacity (MW)": 800.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.361198,
+          41.383017
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Tashkent (Aksa) power station",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.361198,
+          41.383017
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Tashkent (Aksa) power station",
+        "Capacity (MW)": 230.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.370217,
+          41.3796
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Tashkent power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.370217,
+          41.3796
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Tashkent power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.370217,
+          41.3796
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Tashkent power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.370217,
+          41.3796
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Tashkent power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.370217,
+          41.3796
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Tashkent power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.370217,
+          41.3796
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Tashkent power station",
+        "Capacity (MW)": 155.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.370217,
+          41.3796
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Tashkent power station",
+        "Capacity (MW)": 165.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.370217,
+          41.3796
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Tashkent power station",
+        "Capacity (MW)": 165.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.370217,
+          41.3796
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Tashkent power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.370217,
+          41.3796
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Tashkent power station",
+        "Capacity (MW)": 165.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.370217,
+          41.3796
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Tashkent power station",
+        "Capacity (MW)": 155.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.370217,
+          41.3796
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Tashkent power station",
+        "Capacity (MW)": 155.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.370217,
+          41.3796
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Tashkent power station",
+        "Capacity (MW)": 370.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.458276,
+          40.997052
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Turakurgan power station",
+        "Capacity (MW)": 450.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.458276,
+          40.997052
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Turakurgan power station",
+        "Capacity (MW)": 450.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.26537,
+          41.330526
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Uz-Kor Gas Chemical power station",
+        "Capacity (MW)": 96.8,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.122799,
+          41.004897
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Angren power station",
+        "Capacity (MW)": 52.0,
+        "Status": "operating",
+        "Start year": 1957,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.122799,
+          41.004897
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Angren power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 1958,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.122799,
+          41.004897
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Angren power station",
+        "Capacity (MW)": 68.0,
+        "Status": "operating",
+        "Start year": 1960,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.122799,
+          41.004897
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Angren power station",
+        "Capacity (MW)": 68.0,
+        "Status": "operating",
+        "Start year": 1961,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.122799,
+          41.004897
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Angren power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8174,
+          40.9233
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Novo-Angren power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "supercritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8174,
+          40.9233
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Novo-Angren power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "supercritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8174,
+          40.9233
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Novo-Angren power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "supercritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8174,
+          40.9233
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Novo-Angren power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "supercritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8174,
+          40.9233
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Novo-Angren power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "supercritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8174,
+          40.9233
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Novo-Angren power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "supercritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8174,
+          40.9233
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Novo-Angren power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1995,
+        "Technology": "supercritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.7129,
+          40.6577
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Bash wind farm",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.3174,
+          41.5969
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Zarafshan wind farm",
+        "Capacity (MW)": 500.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.3801,
+          40.8838
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Dzhankeldy wind farm",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.9886,
+          40.1159
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Nur Navoi solar farm",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.0798,
+          39.3282
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Nur-Bukhara solar farm",
+        "Capacity (MW)": 250.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.5203,
+          39.6925
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Tutly solar farm",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.9163,
+          39.7259
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Baxmal Tumani solar project",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.7827,
+          40.4509
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Fergana City solar project",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.3996,
+          39.0
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Olot District solar project",
+        "Capacity (MW)": 14.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.741,
+          41.3141
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Parkent District solar project",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.4019,
+          40.9148
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Piskent District solar project",
+        "Capacity (MW)": 7.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.435,
+          42.165
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Qaraózek Rayonı solar project",
+        "Capacity (MW)": 6.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.6665,
+          43.2095
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Uzbekistan",
+        "Plant / Project name": "Qońırat Rayonı solar project",
+        "Capacity (MW)": 9.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

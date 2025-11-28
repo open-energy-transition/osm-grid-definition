@@ -1,0 +1,3743 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8777,
+          23.9709
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Aswan High Dam hydroelectric plant",
+        "Capacity (MW)": 2100.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8658,
+          24.0339
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Aswan I hydroelectric plant",
+        "Capacity (MW)": 322.0,
+        "Status": "operating",
+        "Start year": 1960,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8693,
+          24.0344
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Aswan II hydroelectric plant",
+        "Capacity (MW)": 270.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5544,
+          25.3177
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Esna hydroelectric plant",
+        "Capacity (MW)": 86.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4978,
+          31.0442
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Egypt",
+        "Plant / Project name": "El Dabaa nuclear power plant",
+        "Capacity (MW)": 1200.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4978,
+          31.0442
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Egypt",
+        "Plant / Project name": "El Dabaa nuclear power plant",
+        "Capacity (MW)": 1200.0,
+        "Status": "construction",
+        "Start year": 2029,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4978,
+          31.0442
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Egypt",
+        "Plant / Project name": "El Dabaa nuclear power plant",
+        "Capacity (MW)": 1200.0,
+        "Status": "construction",
+        "Start year": 2029,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4978,
+          31.0442
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Egypt",
+        "Plant / Project name": "El Dabaa nuclear power plant",
+        "Capacity (MW)": 1200.0,
+        "Status": "construction",
+        "Start year": 2029,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.046409,
+          30.053795
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "6 October power plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.046409,
+          30.053795
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "6 October power plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.046409,
+          30.053795
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "6 October power plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.046409,
+          30.053795
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "6 October power plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.046409,
+          30.053795
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "6 October power plant",
+        "Capacity (MW)": 918.7,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.308698,
+          30.402657
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Abu Sultan power plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.308698,
+          30.402657
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Abu Sultan power plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.308698,
+          30.402657
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Abu Sultan power plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.308698,
+          30.402657
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Abu Sultan power plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.354608,
+          29.62108
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Ain Sokhna power plant",
+        "Capacity (MW)": 650.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.354608,
+          29.62108
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Ain Sokhna power plant",
+        "Capacity (MW)": 650.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.683321,
+          31.115613
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Arish power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.683321,
+          31.115613
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Arish power station",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.464138,
+          29.931321
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Ataka power plant",
+        "Capacity (MW)": 164.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.464138,
+          29.931321
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Ataka power plant",
+        "Capacity (MW)": 164.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.464138,
+          29.931321
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Ataka power plant",
+        "Capacity (MW)": 156.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.464138,
+          29.931321
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Ataka power plant",
+        "Capacity (MW)": 156.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.47192,
+          29.93619
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Ataka Steam power plant",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.47192,
+          29.93619
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Ataka Steam power plant",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1989,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2234,
+          30.4974
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Banha power plant",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.984389,
+          28.921806
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Beni Suef power plant",
+        "Capacity (MW)": 1200.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.984389,
+          28.921806
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Beni Suef power plant",
+        "Capacity (MW)": 1200.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.984389,
+          28.921806
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Beni Suef power plant",
+        "Capacity (MW)": 1200.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.984389,
+          28.921806
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Beni Suef power plant",
+        "Capacity (MW)": 1200.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.807289,
+          31.530299
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Burullus power plant",
+        "Capacity (MW)": 1200.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.807289,
+          31.530299
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Burullus power plant",
+        "Capacity (MW)": 1200.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.807289,
+          31.530299
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Burullus power plant",
+        "Capacity (MW)": 1200.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.807289,
+          31.530299
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Burullus power plant",
+        "Capacity (MW)": 1200.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2684,
+          30.1027
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Cairo North power plant",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2684,
+          30.1027
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Cairo North power plant",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.166644,
+          30.138441
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Cairo West Extension power plant",
+        "Capacity (MW)": 330.0,
+        "Status": "operating",
+        "Start year": 1994,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.166644,
+          30.138441
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Cairo West Extension power plant",
+        "Capacity (MW)": 330.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: light fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.166644,
+          30.138441
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Cairo West Extension power plant",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: light fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.166644,
+          30.138441
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Cairo West Extension power plant",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: light fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.166644,
+          30.138441
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Cairo West Extension power plant",
+        "Capacity (MW)": 650.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: light fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.430427,
+          31.085871
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Damanhour power plant",
+        "Capacity (MW)": 158.0,
+        "Status": "operating",
+        "Start year": 1995,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.430427,
+          31.085871
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Damanhour power plant",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1991,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.723732,
+          31.381149
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Damietta power plant",
+        "Capacity (MW)": 400.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.723732,
+          31.381149
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Damietta power plant",
+        "Capacity (MW)": 400.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.723732,
+          31.381149
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Damietta power plant",
+        "Capacity (MW)": 400.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5291,
+          31.1851
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "El-Atf power plant",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9234,
+          30.4653
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "El-Shabab power station",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9234,
+          30.4653
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "El-Shabab power station",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.298197,
+          29.775488
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "El-Tebeen power plant",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.298197,
+          29.775488
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "El-Tebeen power plant",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.835006,
+          31.017969
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Ethydco power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.835006,
+          31.017969
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Ethydco power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.835006,
+          31.017969
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Ethydco power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1932,
+          31.1293
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Kafr El-Dawar power plant",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1932,
+          31.1293
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Kafr El-Dawar power plant",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.252778,
+          29.408333
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Kuriemat ISCC power plant",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "ISCC",
+        "Fuel": "fossil gas: natural gas, other: other",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.222564,
+          29.274616
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Kuriemat power station",
+        "Capacity (MW)": 627.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.222564,
+          29.274616
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Kuriemat power station",
+        "Capacity (MW)": 627.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.222564,
+          29.274616
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Kuriemat power station",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.222564,
+          29.274616
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Kuriemat power station",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.565571,
+          25.410934
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Luxor Project power station",
+        "Capacity (MW)": 750.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.565571,
+          25.410934
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Luxor Project power station",
+        "Capacity (MW)": 750.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.565571,
+          25.410934
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Luxor Project power station",
+        "Capacity (MW)": 750.0,
+        "Status": "construction",
+        "Start year": "not found",
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.525031,
+          31.182648
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Mahmoudia power plant",
+        "Capacity (MW)": 134.0,
+        "Status": "operating",
+        "Start year": 1995,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.762536,
+          31.027605
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Midor Refinery power plant",
+        "Capacity (MW)": 61.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.762536,
+          31.027605
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Midor Refinery power plant",
+        "Capacity (MW)": 61.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.762536,
+          31.027605
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Midor Refinery power plant",
+        "Capacity (MW)": 61.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.392628,
+          31.062017
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "New Combined Talkha power plant",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.723732,
+          31.381149
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "New Damietta power plant",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.723732,
+          31.381149
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "New Damietta power plant",
+        "Capacity (MW)": 125.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.525031,
+          31.182648
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "New Mahmoudia Gas power plant",
+        "Capacity (MW)": 168.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.525031,
+          31.182648
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "New Mahmoudia Gas power plant",
+        "Capacity (MW)": 168.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9471,
+          30.2483
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "North Giza power plant",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9471,
+          30.2483
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "North Giza power plant",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9471,
+          30.2483
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "North Giza power plant",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.66712,
+          30.69926
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Nubaria power plant",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.66712,
+          30.69926
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Nubaria power plant",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.66712,
+          30.69926
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Nubaria power plant",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5948,
+          29.91153
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Oyoun Mousa Gas power plant",
+        "Capacity (MW)": 320.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5948,
+          29.91153
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Oyoun Mousa Gas power plant",
+        "Capacity (MW)": 320.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.52024,
+          31.09952
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Port Said East power plant",
+        "Capacity (MW)": 341.3,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.52024,
+          31.09952
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Port Said East power plant",
+        "Capacity (MW)": 341.3,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.237251,
+          30.124257
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Shoubra El-Kheima power plant",
+        "Capacity (MW)": 315.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.237251,
+          30.124257
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Shoubra El-Kheima power plant",
+        "Capacity (MW)": 315.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.237251,
+          30.124257
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Shoubra El-Kheima power plant",
+        "Capacity (MW)": 315.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.237251,
+          30.124257
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Shoubra El-Kheima power plant",
+        "Capacity (MW)": 315.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.660395,
+          31.044361
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Sidi Krir power plant",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.660395,
+          31.044361
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Sidi Krir power plant",
+        "Capacity (MW)": 320.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.660395,
+          31.044361
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Sidi Krir power plant",
+        "Capacity (MW)": 320.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.660395,
+          31.044361
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Sidi Krir power plant",
+        "Capacity (MW)": 341.3,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.660395,
+          31.044361
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Sidi Krir power plant",
+        "Capacity (MW)": 341.3,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.336853,
+          29.848319
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "South Helwan power station",
+        "Capacity (MW)": 650.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.336853,
+          29.848319
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "South Helwan power station",
+        "Capacity (MW)": 650.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.336853,
+          29.848319
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "South Helwan power station",
+        "Capacity (MW)": 650.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.323216,
+          29.68998
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Tahrir Petrochemicals Complex power plant",
+        "Capacity (MW)": 300.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.160844,
+          27.212275
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Walidia power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1992,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.160844,
+          27.212275
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Walidia power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.160844,
+          27.212275
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Walidia power station",
+        "Capacity (MW)": 650.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.000017,
+          27.182448
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "West Assiut power station",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.000017,
+          27.182448
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "West Assiut power station",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.604721,
+          31.442919
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "West Damietta Ext. power plant",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.604721,
+          31.442919
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Egypt",
+        "Plant / Project name": "West Damietta power plant",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.9572,
+          28.4005
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Ras Ghareb wind farm",
+        "Capacity (MW)": 263.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.621,
+          29.1988
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Zafarana wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.621,
+          29.1988
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Zafarana wind farm",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.621,
+          29.1988
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Zafarana wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2003,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.621,
+          29.1988
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Zafarana wind farm",
+        "Capacity (MW)": 47.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.621,
+          29.1988
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Zafarana wind farm",
+        "Capacity (MW)": 85.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.621,
+          29.1988
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Zafarana wind farm",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.621,
+          29.1988
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Zafarana wind farm",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.621,
+          29.1988
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Zafarana wind farm",
+        "Capacity (MW)": 121.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4182,
+          25.8577
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Gulf Of Ziet Wind Complex",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4182,
+          25.8577
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Gulf Of Ziet Wind Complex",
+        "Capacity (MW)": 220.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4182,
+          25.8577
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Gulf Of Ziet Wind Complex",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3314,
+          29.6607
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Ain Skhouna wind farm",
+        "Capacity (MW)": 160.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0622,
+          28.3553
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Gulf of Suez Wind Project",
+        "Capacity (MW)": 252.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8398,
+          24.6325
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "ACWA Kom Ombo solar farm",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.699,
+          24.448
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "ARC Benban Solar PV Plant",
+        "Capacity (MW)": 66.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6852,
+          24.5596
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Abydos Kom Ombo solar farm",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.705,
+          24.448
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban ACWA solar farm",
+        "Capacity (MW)": 68.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.746,
+          24.402
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban ACWA solar farm",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.742,
+          24.403
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban ACWA solar farm",
+        "Capacity (MW)": 28.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.711,
+          24.448
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban Access/Eren solar farm",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.716,
+          24.403
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban Access/Eren solar farm",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.699,
+          24.433
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban Acciona/Enara solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.699,
+          24.418
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban Acciona/Enara solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.705,
+          24.433
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban Acciona/Enara solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.717,
+          24.418
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban Alcazar solar farm",
+        "Capacity (MW)": 64.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.717,
+          24.433
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban Alcazar solar farm",
+        "Capacity (MW)": 64.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.729,
+          24.418
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban Alfanar solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.694,
+          24.448
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban Arinna solar farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.693,
+          24.418
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban Elsewedy/EDF solar farm",
+        "Capacity (MW)": 65.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.723,
+          24.433
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban Fas solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.717,
+          24.448
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban Infinity 50 solar farm",
+        "Capacity (MW)": 64.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7101,
+          24.403
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban MMID 30 solar farm",
+        "Capacity (MW)": 38.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.735,
+          24.448
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban Pallonji solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.741,
+          24.4301
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban Ra solar farm",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.711,
+          24.418
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban Scatec solar farm",
+        "Capacity (MW)": 65.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.729,
+          24.433
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban Scatec solar farm",
+        "Capacity (MW)": 65.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.726,
+          24.403
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban Scatec solar farm",
+        "Capacity (MW)": 65.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.735,
+          24.433
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban Scatec solar farm",
+        "Capacity (MW)": 65.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.705,
+          24.418
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban Scatec solar farm",
+        "Capacity (MW)": 65.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.705,
+          24.403
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban Scatec solar farm",
+        "Capacity (MW)": 65.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.693,
+          24.433
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban Taqa solar farm",
+        "Capacity (MW)": 65.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.691,
+          24.448
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Benban Winnergy solar farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2487,
+          29.2803
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "ISCC Kuraymat Thermal solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Solar Thermal",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.733,
+          24.403
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Kom Ombo Solar Plant",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.348,
+          22.654
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Toshka solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3266,
+          29.6611
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Ain Sokhna solar project",
+        "Capacity (MW)": 6.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5553,
+          27.9128
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Al Minya solar project",
+        "Capacity (MW)": 4.9,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0518,
+          30.7044
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Al Nubaria solar project",
+        "Capacity (MW)": 4.8,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.612,
+          23.1272
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Ash Shalatin solar project",
+        "Capacity (MW)": 8.7,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8561,
+          24.4395
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Aswan solar project",
+        "Capacity (MW)": 4.5,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4393,
+          29.9898
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Cairo solar project I",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4061,
+          30.0844
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Cairo solar project II",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9632,
+          27.0466
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "El Farafra Oasis solar project",
+        "Capacity (MW)": 6.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7488,
+          30.3104
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Farm Frites solar farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4779,
+          31.4496
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Gamasa solar project",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5949,
+          29.9959
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Madinaty solar project",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8723,
+          25.0627
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Marsa Alam A solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1993,
+          27.0576
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "New Valley solar project I",
+        "Capacity (MW)": 5.5,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2457,
+          25.2928
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "New Valley solar project II",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9366,
+          28.2151
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Northern Oases solar project",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7456,
+          30.012
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Photovoltaic Rooftops solar farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8816,
+          27.0608
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Red Sea solar project I",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4089,
+          22.4043
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Red Sea solar project II",
+        "Capacity (MW)": 3.7,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6206,
+          27.4163
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Red Sea solar project III",
+        "Capacity (MW)": 6.2,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9612,
+          24.9131
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Red Sea solar project IV",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6144,
+          25.5368
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Red Sea solar project V",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2993,
+          27.9334
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Sharm el Sheikh solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.516,
+          29.178
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "Siwa Solar PV Plant",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5032,
+          30.2175
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "The Lake solar project I",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5899,
+          30.2603
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "The Lake solar project II",
+        "Capacity (MW)": 6.4,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1927,
+          30.1826
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "The Lake solar project III",
+        "Capacity (MW)": 13.5,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2242,
+          30.2433
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Egypt",
+        "Plant / Project name": "The Lake solar project IV",
+        "Capacity (MW)": 6.5,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

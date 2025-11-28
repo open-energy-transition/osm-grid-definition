@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.6564,
+          -18.8031
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Madagascar",
+        "Plant / Project name": "Andekaleka hydroelectric plant",
+        "Capacity (MW)": 91.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.35628,
+          -18.20196
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Madagascar",
+        "Plant / Project name": "Ambatovy Nickel power station",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.35628,
+          -18.20196
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Madagascar",
+        "Plant / Project name": "Ambatovy Nickel power station",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.35628,
+          -18.20196
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Madagascar",
+        "Plant / Project name": "Ambatovy Nickel power station",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.445,
+          -19.489
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Madagascar",
+        "Plant / Project name": "Ambatolampy solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.445,
+          -19.489
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Madagascar",
+        "Plant / Project name": "Ambatolampy solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3595,
+          -12.2706
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Madagascar",
+        "Plant / Project name": "Antsiranana Province solar project",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

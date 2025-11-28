@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.363992,
+          19.302354
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Cayman Islands",
+        "Plant / Project name": "North Sound Road power plant",
+        "Capacity (MW)": 64.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel, fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.363992,
+          19.302354
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Cayman Islands",
+        "Plant / Project name": "North Sound Road power plant",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

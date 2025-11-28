@@ -1,0 +1,3491 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9121,
+          49.0088
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Čierny Váh hydroelectric plant",
+        "Capacity (MW)": 734.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5388,
+          47.8801
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Gabčíkovo hydroelectric plant",
+        "Capacity (MW)": 720.0,
+        "Status": "operating",
+        "Start year": 1992,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4841,
+          49.0967
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Liptovská Mara hydroelectric plant",
+        "Capacity (MW)": 198.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5087,
+          49.1927
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Mikšová hydroelectric plant",
+        "Capacity (MW)": 94.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "unknown",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6907,
+          48.4968
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Bohunice nuclear power plant",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6907,
+          48.4968
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Bohunice nuclear power plant",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4553,
+          48.2572
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Mochovce nuclear power plant",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4553,
+          48.2572
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Mochovce nuclear power plant",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4553,
+          48.2572
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Mochovce nuclear power plant",
+        "Capacity (MW)": 471.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4553,
+          48.2572
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Mochovce nuclear power plant",
+        "Capacity (MW)": 471.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.271726,
+          48.698047
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Kosice power station",
+        "Capacity (MW)": 37.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.597,
+          48.2022
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Levice power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6978,
+          48.4296
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Malženice power station",
+        "Capacity (MW)": 436.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.907019,
+          49.059218
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Martinska power station",
+        "Capacity (MW)": 27.99,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "internal combustion",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4246,
+          49.1154
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Považská Bystrica power station",
+        "Capacity (MW)": 64.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.15395,
+          48.17744
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "PPC Bratislava power station",
+        "Capacity (MW)": 218.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1803,
+          48.1199
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Slovnaft Refinery power station",
+        "Capacity (MW)": 29.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1803,
+          48.1199
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Slovnaft Refinery power station",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1803,
+          48.1199
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Slovnaft Refinery power station",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1803,
+          48.1199
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Slovnaft Refinery power station",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1803,
+          48.1199
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Slovnaft Refinery power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.271726,
+          48.698047
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Kosice power station",
+        "Capacity (MW)": 66.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.194562,
+          48.615945
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "U.S. Steel Kosice Works power station",
+        "Capacity (MW)": 208.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6312,
+          48.3522
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Ladovo solar farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.056,
+          48.265
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Badín solar project",
+        "Capacity (MW)": 4.9,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9203,
+          48.476
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Banská Štiavnica solar project",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9209,
+          48.8522
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Brezno solar project",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3749,
+          48.5937
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Detva solar project I",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3508,
+          48.541
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Detva solar project II",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5891,
+          48.5514
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Detva solar project III",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3085,
+          48.5423
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Detva solar project IV",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6443,
+          47.9882
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Dunajská Streda solar project I",
+        "Capacity (MW)": 13.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6255,
+          48.0853
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Dunajská Streda solar project II",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4168,
+          47.9765
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Dunajská Streda solar project III",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3738,
+          48.1207
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Dunajská Streda solar project IV",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.001,
+          48.8667
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Gelnica solar project",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8722,
+          48.9365
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Humenné solar project",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2231,
+          49.0288
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Ilava solar project",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4328,
+          49.0382
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Kežmarok solar project",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1779,
+          47.8625
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Komárno solar project I",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9953,
+          47.8439
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Komárno solar project II",
+        "Capacity (MW)": 4.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1976,
+          47.9037
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Komárno solar project III",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0837,
+          47.7837
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Komárno solar project IV",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9871,
+          47.9033
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Komárno solar project V",
+        "Capacity (MW)": 6.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1371,
+          47.8576
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Komárno solar project VI",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0175,
+          47.8339
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Komárno solar project VII",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4002,
+          48.7835
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Košice - Okolie solar project I",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2353,
+          48.5454
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Košice - Okolie solar project II",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0098,
+          48.603
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Košice - Okolie solar project III",
+        "Capacity (MW)": 4.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1682,
+          48.5685
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Košice - Okolie solar project IV",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0859,
+          48.6067
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Košice - Okolie solar project V",
+        "Capacity (MW)": 4.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4608,
+          48.6794
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Košice - Okolie solar project VI",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0814,
+          48.605
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Košice - Okolie solar project VII",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0706,
+          48.644
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Košice - Okolie solar project VIII",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1168,
+          48.3065
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Krupina solar project I",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.959,
+          48.2008
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Krupina solar project II",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0867,
+          48.3084
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Krupina solar project III",
+        "Capacity (MW)": 3.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0434,
+          48.3463
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Krupina solar project IV",
+        "Capacity (MW)": 5.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1409,
+          48.2905
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Krupina solar project V",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.112,
+          48.3153
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Krupina solar project VI",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8868,
+          48.1002
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Levice solar project I",
+        "Capacity (MW)": 5.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6439,
+          48.0424
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Levice solar project II",
+        "Capacity (MW)": 4.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4468,
+          48.2602
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Levice solar project III",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9586,
+          48.1155
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Levice solar project IV",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6898,
+          48.2824
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Levice solar project V",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7386,
+          48.1777
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Levice solar project VI",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6007,
+          48.2039
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Levice solar project VII",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9155,
+          49.0662
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Liptovský Mikuláš solar project I",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7214,
+          49.1087
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Liptovský Mikuláš solar project II",
+        "Capacity (MW)": 4.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7738,
+          48.2491
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Lučenec solar project I",
+        "Capacity (MW)": 5.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7503,
+          48.314
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Lučenec solar project II",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8043,
+          48.3049
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Lučenec solar project III",
+        "Capacity (MW)": 5.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8287,
+          48.3312
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Lučenec solar project IV",
+        "Capacity (MW)": 5.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6572,
+          48.306
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Lučenec solar project V",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.813,
+          48.3304
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Lučenec solar project VI",
+        "Capacity (MW)": 9.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6861,
+          48.2941
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Lučenec solar project VII",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6558,
+          48.3124
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Lučenec solar project VIII",
+        "Capacity (MW)": 5.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1162,
+          48.3616
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Malacky solar project",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9858,
+          49.0698
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Martin solar project I",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.903,
+          49.0492
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Martin solar project II",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9446,
+          49.0177
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Martin solar project III",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1091,
+          48.6239
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Michalovce solar project I",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.813,
+          48.8812
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Michalovce solar project II",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8092,
+          48.6891
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Michalovce solar project III",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8351,
+          48.6852
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Michalovce solar project IV",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8163,
+          48.8847
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Michalovce solar project V",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7355,
+          48.7257
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Michalovce solar project VI",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5164,
+          48.6572
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Myjava solar project",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1144,
+          48.4084
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Nitra solar project I",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1187,
+          48.4073
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Nitra solar project II",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1784,
+          48.2982
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Nitra solar project III",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0752,
+          48.1998
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Nitra solar project IV",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9853,
+          48.1388
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Nové Zámky solar project",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.812,
+          48.5188
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Piešťany solar project",
+        "Capacity (MW)": 4.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6956,
+          48.4013
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Poltár solar project I",
+        "Capacity (MW)": 5.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6867,
+          48.3866
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Poltár solar project II",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7998,
+          48.4225
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Poltár solar project III",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.749,
+          48.3857
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Poltár solar project IV",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3335,
+          48.988
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Prešov solar project I",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2734,
+          48.8821
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Prešov solar project II",
+        "Capacity (MW)": 3.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1325,
+          49.0487
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Prešov solar project III",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6189,
+          48.8983
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Prievidza solar project I",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6275,
+          48.8317
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Prievidza solar project II",
+        "Capacity (MW)": 4.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3146,
+          48.399
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Revúca solar project I",
+        "Capacity (MW)": 4.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3321,
+          48.4078
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Revúca solar project II",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3446,
+          48.4315
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Revúca solar project III",
+        "Capacity (MW)": 6.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3532,
+          48.4354
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Revúca solar project IV",
+        "Capacity (MW)": 7.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2483,
+          48.6331
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Revúca solar project V",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1359,
+          48.6843
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Revúca solar project VI",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1364,
+          48.6781
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Revúca solar project VII",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.005,
+          48.3726
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Rimavská Sobota solar project I",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0155,
+          48.5118
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Rimavská Sobota solar project II",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1916,
+          48.3711
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Rimavská Sobota solar project III",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1611,
+          48.3798
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Rimavská Sobota solar project IV",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0019,
+          48.5103
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Rimavská Sobota solar project IX",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0076,
+          48.2991
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Rimavská Sobota solar project V",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3207,
+          48.3613
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Rimavská Sobota solar project VI",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1823,
+          48.4301
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Rimavská Sobota solar project VII",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9968,
+          48.374
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Rimavská Sobota solar project VIII",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3992,
+          48.5368
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Rožňava solar project I",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.592,
+          48.6248
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Rožňava solar project II",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3652,
+          48.8265
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Rožňava solar project III",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5622,
+          48.6487
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Rožňava solar project IV",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5632,
+          48.6502
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Rožňava solar project V",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3695,
+          48.827
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Rožňava solar project VI",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1306,
+          49.0585
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Sabinov solar project I",
+        "Capacity (MW)": 4.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1497,
+          49.1094
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Sabinov solar project II",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1362,
+          49.0557
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Sabinov solar project III",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4039,
+          48.2041
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Senec solar project",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3493,
+          48.669
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Senica solar project I",
+        "Capacity (MW)": 4.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3514,
+          48.7335
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Senica solar project II",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2338,
+          48.8568
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Skalica solar project",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1946,
+          48.7394
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Sobrance solar project",
+        "Capacity (MW)": 5.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6266,
+          48.9244
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Spišská Nová Ves solar project",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0578,
+          48.5511
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Topoľčany solar project",
+        "Capacity (MW)": 8.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6416,
+          48.5961
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Trebišov solar project I",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.736,
+          48.5694
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Trebišov solar project II",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7768,
+          48.357
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Trebišov solar project III",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6714,
+          48.6335
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Trebišov solar project IV",
+        "Capacity (MW)": 14.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7278,
+          48.4096
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Trnava solar project",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8242,
+          48.9499
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Turčianske Teplice solar project",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.331,
+          48.1987
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Veľký Krtíš solar project I",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4526,
+          48.2857
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Veľký Krtíš solar project II",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3193,
+          48.1427
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Veľký Krtíš solar project III",
+        "Capacity (MW)": 4.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1211,
+          48.0816
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Veľký Krtíš solar project IV",
+        "Capacity (MW)": 5.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1398,
+          48.2034
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Veľký Krtíš solar project IX",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1144,
+          48.109
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Veľký Krtíš solar project V",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3691,
+          48.1886
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Veľký Krtíš solar project VI",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.409,
+          48.1476
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Veľký Krtíš solar project VII",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4321,
+          48.2275
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Veľký Krtíš solar project VIII",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3196,
+          48.1871
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Veľký Krtíš solar project X",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4979,
+          48.2587
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Veľký Krtíš solar project XI",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3451,
+          48.1821
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Veľký Krtíš solar project XII",
+        "Capacity (MW)": 5.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2993,
+          48.2037
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Veľký Krtíš solar project XIII",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1718,
+          48.0822
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Veľký Krtíš solar project XIV",
+        "Capacity (MW)": 6.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5585,
+          49.0003
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Vranov Nad Topľou solar project I",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7479,
+          48.9233
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Vranov Nad Topľou solar project II",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5884,
+          48.9513
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Vranov Nad Topľou solar project III",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1654,
+          48.5709
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Zvolen solar project",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9402,
+          48.1573
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Šaľa solar project",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5309,
+          48.5404
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Žarnovica solar project",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9305,
+          48.6175
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Žiar Nad Hronom solar project I",
+        "Capacity (MW)": 4.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7488,
+          48.5761
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "District Of Žiar Nad Hronom solar project II",
+        "Capacity (MW)": 3.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2195,
+          48.7326
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Košice solar project I",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2221,
+          48.7441
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Košice solar project II",
+        "Capacity (MW)": 5.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2203,
+          48.7405
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Slovakia",
+        "Plant / Project name": "Košice solar project III",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

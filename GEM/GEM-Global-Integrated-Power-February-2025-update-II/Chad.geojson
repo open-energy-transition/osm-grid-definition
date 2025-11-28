@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.99649,
+          12.13501
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Chad",
+        "Plant / Project name": "Farcha power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "unknown",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

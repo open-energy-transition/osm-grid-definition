@@ -1,0 +1,698 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0557,
+          6.2999
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Aksombo hydroelectric plant",
+        "Capacity (MW)": 1020.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2356,
+          8.2792
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Bui hydroelectric plant",
+        "Capacity (MW)": 404.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1238,
+          6.1187
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Kpong hydroelectric plant",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "conventional and run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9844,
+          7.7542
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Atebubu power station",
+        "Capacity (MW)": 60.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": null,
+        "Fuel": "bioenergy: wood & other biomass (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.021523,
+          5.692748
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Aksa Ghana HFO power plant",
+        "Capacity (MW)": 370.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "unknown",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.667387,
+          4.968201
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Amandi power station",
+        "Capacity (MW)": 203.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.019369,
+          5.677739
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Bridge power station",
+        "Capacity (MW)": 194.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: liquefied petroleum gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.696663,
+          4.93844
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Karpowership (Ghana) Osman Khan power station",
+        "Capacity (MW)": 450.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: natural gas, fossil gas: LNG, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.041086,
+          5.681203
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Kpone IPP (KIPP) power station",
+        "Capacity (MW)": 350.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.009259,
+          5.734624
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Kpone Thermal power plant",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.009259,
+          5.734624
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Kpone Thermal power plant",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.047054,
+          5.6803
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Sunon Asogli power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.047054,
+          5.6803
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Sunon Asogli power station",
+        "Capacity (MW)": 360.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.658276,
+          4.971862
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Takoradi (TAPCO) 1 Thermal power plant",
+        "Capacity (MW)": 330.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.657951,
+          4.974647
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Takoradi (TAPCO) 3 Thermal power plant",
+        "Capacity (MW)": 132.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.659773,
+          4.971632
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Takoradi (TICO) Thermal power plant",
+        "Capacity (MW)": 320.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.012238,
+          5.674457
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Tema CENIT Thermal power plant (TCTPP)",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.010585,
+          5.673994
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Tema Thermal Power Complex",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.010585,
+          5.673994
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Tema Thermal Power Complex",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8487,
+          10.7854
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Blue Power Energy solar farm",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2363,
+          8.2794
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Bui Floating solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2368,
+          8.2784
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Bui solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6933,
+          5.3728
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Bxc Solar Power Station",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7024,
+          5.3413
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Gomoa Onyadze solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3306,
+          10.6006
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Pwalugu Solar Component",
+        "Capacity (MW)": 50.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2532,
+          8.2653
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Banda District solar project",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4599,
+          6.6146
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Ejisu Municipal District solar project",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5335,
+          10.1729
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Kaleo solar project",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5335,
+          10.1729
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Kaleo solar project",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0554,
+          10.9234
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Kassena-Nankana Municipal District solar project",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8841,
+          10.6461
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Lawra solar project",
+        "Capacity (MW)": 6.5,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5342,
+          10.18
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Nadowli-Kaleo District solar project",
+        "Capacity (MW)": 5.8,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0133,
+          5.6999
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ghana",
+        "Plant / Project name": "Tema Freezone rooftop solar",
+        "Capacity (MW)": 16.8,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

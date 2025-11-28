@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.7161,
+          -14.3314
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "American Samoa",
+        "Plant / Project name": "Tāfuna Veterans Memorial Stadium solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -169.4951,
+          -14.2194
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "American Samoa",
+        "Plant / Project name": "Ta'u solar farm",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.19,
+          -12.8313
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mayotte",
+        "Plant / Project name": "Lesport solar farm",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.118,
+          -12.73
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mayotte",
+        "Plant / Project name": "Mayotte solar project",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

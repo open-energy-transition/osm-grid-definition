@@ -1,0 +1,236 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0449,
+          6.2424
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Côte d'Ivoire",
+        "Plant / Project name": "Buyo hydroelectric plant",
+        "Capacity (MW)": 165.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5714,
+          5.698
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Côte d'Ivoire",
+        "Plant / Project name": "Gribo-Popoli hydroelectric plant",
+        "Capacity (MW)": 112.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4713,
+          7.0257
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Côte d'Ivoire",
+        "Plant / Project name": "Kossou hydroelectric plant",
+        "Capacity (MW)": 174.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6559,
+          5.8025
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Côte d'Ivoire",
+        "Plant / Project name": "Soubre hydroelectric plant",
+        "Capacity (MW)": 275.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0832,
+          6.2104
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Côte d'Ivoire",
+        "Plant / Project name": "Taabo hydroelectric plant",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "unknown",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0763,
+          5.30155
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Côte d'Ivoire",
+        "Plant / Project name": "Azito power plant",
+        "Capacity (MW)": 253.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0763,
+          5.30155
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Côte d'Ivoire",
+        "Plant / Project name": "Azito power plant",
+        "Capacity (MW)": 460.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.019808,
+          5.264294
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Côte d'Ivoire",
+        "Plant / Project name": "Ciprel power station",
+        "Capacity (MW)": 111.0,
+        "Status": "operating",
+        "Start year": 1997,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.019808,
+          5.264294
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Côte d'Ivoire",
+        "Plant / Project name": "Ciprel power station",
+        "Capacity (MW)": 255.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4787,
+          9.5182
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Côte d'Ivoire",
+        "Plant / Project name": "Boundiali solar farm",
+        "Capacity (MW)": 38.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5061,
+          9.5583
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Côte d'Ivoire",
+        "Plant / Project name": "Savanes solar project",
+        "Capacity (MW)": 19.7,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

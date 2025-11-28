@@ -1,0 +1,845 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0298,
+          15.2247
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Honduras",
+        "Plant / Project name": "El Tornillo hydroelectric plant",
+        "Capacity (MW)": 200.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7455,
+          15.0293
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Francisco Morazan hydroelectric plant",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.966,
+          14.4427
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Patuca 3 hydroelectric plant",
+        "Capacity (MW)": 104.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.984,
+          15.0401
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Río Lindo hydroelectric plant",
+        "Capacity (MW)": 109.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9518,
+          14.7471
+        ]
+      },
+      "properties": {
+        "Type": "geothermal",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Platanares geothermal power plant",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "binary cycle",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.00258726,
+          15.40318426
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Cahsa Biomass power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9735,
+          15.6165
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Honduras",
+        "Plant / Project name": "HGPC power station",
+        "Capacity (MW)": 43.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids), bioenergy: wood & other biomass (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.999553,
+          15.410716
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Brassavola power station",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.954805,
+          15.85625
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Honduras",
+        "Plant / Project name": "ELCOSA power station",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1994,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9369,
+          15.5997
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Honduras",
+        "Plant / Project name": "EMCE Choloma power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.935856,
+          15.597247
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Honduras",
+        "Plant / Project name": "ENERSA power station",
+        "Capacity (MW)": 249.2,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "ICCC",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.65457,
+          15.78468
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Laeisz La Ensenada power station",
+        "Capacity (MW)": 87.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.96279,
+          15.60852
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Honduras",
+        "Plant / Project name": "PECSA power station",
+        "Capacity (MW)": 54.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.322056,
+          13.406722
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Planta Pavana II power station",
+        "Capacity (MW)": 82.4,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.326598,
+          13.404571
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Planta Pavana III power station",
+        "Capacity (MW)": 267.2,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.926887,
+          15.703346
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Bijao Power Station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "unknown",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.926887,
+          15.703346
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Bijao Power Station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "unknown",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.926887,
+          15.703346
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Bijao Power Station",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "unknown",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9562,
+          13.3817
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Chinchayote wind farm",
+        "Capacity (MW)": 46.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9446,
+          13.3917
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Honduras",
+        "Plant / Project name": "San Marcos (Terra Energía) wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9446,
+          13.3917
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Honduras",
+        "Plant / Project name": "San Marcos (Terra Energía) wind farm",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2374,
+          13.9354
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Cerro De Hula wind farm",
+        "Capacity (MW)": 102.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2374,
+          13.9354
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Cerro De Hula wind farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2534,
+          13.2368
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Aura Solar Project",
+        "Capacity (MW)": 61.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2141,
+          13.2288
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Choluteca Solar Plant",
+        "Capacity (MW)": 23.3,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2141,
+          13.2288
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Choluteca Solar Plant",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2299,
+          13.259
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Del Sur solar farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2285,
+          13.2638
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Honduras",
+        "Plant / Project name": "El Pacifico Solar Plant",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.202,
+          15.385
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Los Pollitos solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.143,
+          13.147
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Los Prados Solar Project",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2676,
+          13.2872
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Marcovia Solar Plant",
+        "Capacity (MW)": 42.5,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5544,
+          13.5167
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Nacaome Photovoltaic Solar Power Plant",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5544,
+          13.5167
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Nacaome Photovoltaic Solar Power Plant",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5503,
+          13.5222
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Pacific Solar Energy PV Plant",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5503,
+          13.5222
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Pacific Solar Energy PV Plant",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3327,
+          13.4058
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Pavana Solar Park",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8944,
+          15.7416
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Choloma (Celsia) solar farm",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6574,
+          14.5076
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Comayagua solar farm",
+        "Capacity (MW)": 10.6,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3206,
+          13.3901
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Llanos del Sur solar farm",
+        "Capacity (MW)": 14.8,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6176,
+          14.3909
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Honduras",
+        "Plant / Project name": "Palmerola Airport solar farm",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

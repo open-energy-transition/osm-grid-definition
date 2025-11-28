@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7136,
+          -19.8617
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Cook Islands",
+        "Plant / Project name": "Cook Islands Solar PV Mini Grid Project",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

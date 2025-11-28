@@ -1,0 +1,383 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6253,
+          42.7453
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Georgia",
+        "Plant / Project name": "Dariali hydroelectric plant",
+        "Capacity (MW)": 108.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.9582,
+          42.2629
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Georgia",
+        "Plant / Project name": "Dzevrula hydroelectric plant",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1956,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.0309,
+          42.7584
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Georgia",
+        "Plant / Project name": "Enguri hydroelectric plant",
+        "Capacity (MW)": 1300.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1236,
+          41.549
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Georgia",
+        "Plant / Project name": "Khrami I hydroelectric plant",
+        "Capacity (MW)": 114.0,
+        "Status": "operating",
+        "Start year": 1947,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2352,
+          41.468
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Georgia",
+        "Plant / Project name": "Khrami II hydroelectric plant",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.8519,
+          42.589
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Georgia",
+        "Plant / Project name": "Lajanuri hydroelectric plant",
+        "Capacity (MW)": 112.0,
+        "Status": "operating",
+        "Start year": 1960,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.4612,
+          41.4573
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Georgia",
+        "Plant / Project name": "Paravani hydroelectric plant",
+        "Capacity (MW)": 85.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.3496,
+          41.6578
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Georgia",
+        "Plant / Project name": "Shuakhevi hydroelectric plant",
+        "Capacity (MW)": 179.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.7619,
+          42.6524
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Georgia",
+        "Plant / Project name": "Vardnili-1 hydroelectric plant",
+        "Capacity (MW)": 220.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7721,
+          42.1349
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Georgia",
+        "Plant / Project name": "Zhinvali hydroelectric plant",
+        "Capacity (MW)": 130.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.06858,
+          41.4797
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Georgia",
+        "Plant / Project name": "Airturbine power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.06858,
+          41.4797
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Georgia",
+        "Plant / Project name": "Airturbine power station",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.053716,
+          41.460003
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Georgia",
+        "Plant / Project name": "Gardabani Combined Cycle power station",
+        "Capacity (MW)": 230.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.053716,
+          41.460003
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Georgia",
+        "Plant / Project name": "Gardabani Combined Cycle power station",
+        "Capacity (MW)": 255.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.063891,
+          41.472971
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Georgia",
+        "Plant / Project name": "Tbilsresi power station",
+        "Capacity (MW)": 130.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.063891,
+          41.472971
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Georgia",
+        "Plant / Project name": "Tbilsresi power station",
+        "Capacity (MW)": 142.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.063891,
+          41.472971
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Georgia",
+        "Plant / Project name": "Tbilsresi power station",
+        "Capacity (MW)": 300.0,
+        "Status": "operating",
+        "Start year": 1991,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.046,
+          42.027
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Georgia",
+        "Plant / Project name": "Kartli wind farm",
+        "Capacity (MW)": 20.7,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.632191,
+          13.125792
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Barbados",
+        "Plant / Project name": "Spring Garden power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4997,
+          13.1641
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Barbados",
+        "Plant / Project name": "Ashford Plantation wind farm",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5392,
+          13.1137
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Barbados",
+        "Plant / Project name": "Saint George solar project",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.495,
+          13.1616
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Barbados",
+        "Plant / Project name": "Saint John solar project",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6302,
+          13.2951
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Barbados",
+        "Plant / Project name": "Saint Lucy solar farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6112,
+          13.3322
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Barbados",
+        "Plant / Project name": "Saint Lucy solar project",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6268,
+          13.2691
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Barbados",
+        "Plant / Project name": "Saint Peter solar project",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4955,
+          13.1025
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Barbados",
+        "Plant / Project name": "Saint Philip solar project I",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4879,
+          13.1024
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Barbados",
+        "Plant / Project name": "Saint Philip solar project II",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4678,
+          13.1173
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Barbados",
+        "Plant / Project name": "Saint Philip solar project III",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6009,
+          13.155
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Barbados",
+        "Plant / Project name": "Saint Thomas solar project",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

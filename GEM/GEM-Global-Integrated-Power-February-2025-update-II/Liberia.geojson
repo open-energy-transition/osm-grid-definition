@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.6503,
+          6.5064
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Liberia",
+        "Plant / Project name": "Mount Coffee hydroelectric plant",
+        "Capacity (MW)": 88.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.6482,
+          6.4745
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Liberia",
+        "Plant / Project name": "Mount Coffee solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

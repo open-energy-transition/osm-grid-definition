@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.55463,
+          35.83087
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malta",
+        "Plant / Project name": "Delimara power station",
+        "Capacity (MW)": 75.0,
+        "Status": "operating",
+        "Start year": 1994,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.55463,
+          35.83087
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malta",
+        "Plant / Project name": "Delimara power station",
+        "Capacity (MW)": 115.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "combined cycle",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.55463,
+          35.83087
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malta",
+        "Plant / Project name": "Delimara power station",
+        "Capacity (MW)": 152.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "ICCC",
+        "Fuel": "fossil gas: LNG, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.55463,
+          35.83087
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Malta",
+        "Plant / Project name": "Delimara power station",
+        "Capacity (MW)": 205.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4576,
+          35.841
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Malta",
+        "Plant / Project name": "Southern Region solar project",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

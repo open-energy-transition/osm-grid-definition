@@ -1,0 +1,7082 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.858,
+          42.1994
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Belmeken hydroelectric plant",
+        "Capacity (MW)": 375.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8714,
+          42.1622
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Chaira hydroelectric plant",
+        "Capacity (MW)": 864.0,
+        "Status": "operating",
+        "Start year": 1995,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4247,
+          41.7204
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Devin hydroelectric plant",
+        "Capacity (MW)": 88.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1075,
+          41.5839
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Ivailovgrad hydroelectric plant",
+        "Capacity (MW)": 114.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3386,
+          41.6326
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Kardjali hydroelectric plant",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4469,
+          41.9406
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Krichim hydroelectric plant",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9493,
+          42.232
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Momina Klisura hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4475,
+          41.9405
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Orfeus hydroelectric plant",
+        "Capacity (MW)": 160.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2574,
+          42.0132
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Peshtera hydroelectric plant",
+        "Capacity (MW)": 135.0,
+        "Status": "operating",
+        "Start year": 1959,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9158,
+          42.2084
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sestrimo hydroelectric plant",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6404,
+          41.612
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Studen Kladenets hydroelectric plant",
+        "Capacity (MW)": 81.0,
+        "Status": "operating",
+        "Start year": 1958,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4214,
+          41.8322
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Tsankov Kamak hydroelectric plant",
+        "Capacity (MW)": 85.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7685,
+          43.7497
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Kozloduy nuclear power plant",
+        "Capacity (MW)": 1040.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7685,
+          43.7497
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Kozloduy nuclear power plant",
+        "Capacity (MW)": 1040.0,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.33875,
+          42.54129
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Neftochim Refinery power station",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.33875,
+          42.54129
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Neftochim Refinery power station",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.33875,
+          42.54129
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Neftochim Refinery power station",
+        "Capacity (MW)": 63.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.33875,
+          42.54129
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Neftochim Refinery power station",
+        "Capacity (MW)": 65.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74138,
+          42.18303
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Plovdiv North power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.41722,
+          42.65152
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sofia Iztok power station",
+        "Capacity (MW)": 167.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "unknown",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.32087,
+          42.71889
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sofia power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.32087,
+          42.71889
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sofia power station",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.625314,
+          43.421167
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Toplofikacia Pleven power station",
+        "Capacity (MW)": 43.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.765472,
+          43.19477
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Varna power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.03283,
+          42.285818
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Bobov Dol power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.03283,
+          42.285818
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Bobov Dol power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.03283,
+          42.285818
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Bobov Dol power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.906814,
+          42.154555
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Brikel power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1959,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.906814,
+          42.154555
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Brikel power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1961,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.906814,
+          42.154555
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Brikel power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1961,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.906814,
+          42.154555
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Brikel power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6326752,
+          43.1963539
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Deven power station",
+        "Capacity (MW)": 121.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6326752,
+          43.1963539
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Deven power station",
+        "Capacity (MW)": 53.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "unknown",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9084,
+          42.1573
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Maritsa Iztok-1 power station",
+        "Capacity (MW)": 345.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "unknown",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9084,
+          42.1573
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Maritsa Iztok-1 power station",
+        "Capacity (MW)": 345.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "unknown",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.134007,
+          42.254053
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Maritsa Iztok-2 power station",
+        "Capacity (MW)": 177.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.134007,
+          42.254053
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Maritsa Iztok-2 power station",
+        "Capacity (MW)": 165.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.134007,
+          42.254053
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Maritsa Iztok-2 power station",
+        "Capacity (MW)": 177.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.134007,
+          42.254053
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Maritsa Iztok-2 power station",
+        "Capacity (MW)": 177.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.134007,
+          42.254053
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Maritsa Iztok-2 power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.134007,
+          42.254053
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Maritsa Iztok-2 power station",
+        "Capacity (MW)": 232.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.134007,
+          42.254053
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Maritsa Iztok-2 power station",
+        "Capacity (MW)": 232.0,
+        "Status": "operating",
+        "Start year": 1990,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.134007,
+          42.254053
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Maritsa Iztok-2 power station",
+        "Capacity (MW)": 232.0,
+        "Status": "operating",
+        "Start year": 1995,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.003009,
+          42.14502
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Maritsa Iztok-3 power station",
+        "Capacity (MW)": 227.0,
+        "Status": "operating",
+        "Start year": 1978,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.003009,
+          42.14502
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Maritsa Iztok-3 power station",
+        "Capacity (MW)": 227.0,
+        "Status": "operating",
+        "Start year": 1979,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.003009,
+          42.14502
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Maritsa Iztok-3 power station",
+        "Capacity (MW)": 227.0,
+        "Status": "operating",
+        "Start year": 1980,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.003009,
+          42.14502
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Maritsa Iztok-3 power station",
+        "Capacity (MW)": 227.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.078699,
+          42.607124
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Republika power station",
+        "Capacity (MW)": 105.0,
+        "Status": "operating",
+        "Start year": 1951,
+        "Technology": "subcritical",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.010002,
+          43.866654
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Ruse Iztok power station",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.010002,
+          43.866654
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Ruse Iztok power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.010002,
+          43.866654
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Ruse Iztok power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.325853,
+          42.654762
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 1969,
+        "Technology": "unknown",
+        "Fuel": "lignite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1347,
+          43.7419
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Balchik wind farm",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2449,
+          43.5594
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Krupen wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1347,
+          43.7419
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Karnobat Wind Park",
+        "Capacity (MW)": 13.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3848,
+          43.1365
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Hrabrovo wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3252,
+          43.4615
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Mogilishte-Zapad wind farm",
+        "Capacity (MW)": 16.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5441,
+          43.6325
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Krapelit wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4325,
+          42.739
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Vetrocom wind farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4325,
+          42.739
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Vetrocom wind farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4325,
+          42.739
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Vetrocom wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3779,
+          43.4221
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Evn Bulgarevo wind farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3779,
+          43.4221
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Evn Bulgarevo wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4497,
+          43.3917
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Kaliakra Cape wind farm",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5897,
+          43.375
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Suvorovo wind farm",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.447,
+          43.3855
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Saint Nikola wind farm",
+        "Capacity (MW)": 156.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5455,
+          43.125
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "ASM PV solar farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.484,
+          42.588
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Cherganovo solar farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3248,
+          42.1061
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Karadzhalovo solar farm",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.233,
+          42.681
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Kazanlak solar farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.239,
+          42.673
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Kazanlak solar farm",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8943,
+          43.0214
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "PES PV solar farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5576,
+          43.5196
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Pobeda solar farm",
+        "Capacity (MW)": 51.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4852,
+          41.8895
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Razlog solar farm",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8724,
+          42.0243
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Asenovgrad solar project",
+        "Capacity (MW)": 8.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.408,
+          42.463
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Bezmer solar project",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3373,
+          41.5558
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Blagoevgrad solar project I",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3421,
+          41.4532
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Blagoevgrad solar project II",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3507,
+          41.4633
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Blagoevgrad solar project III",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3094,
+          41.4581
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Blagoevgrad solar project IV",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3303,
+          41.4723
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Blagoevgrad solar project V",
+        "Capacity (MW)": 4.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2923,
+          41.5111
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Blagoevgrad solar project VI",
+        "Capacity (MW)": 4.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2123,
+          41.7037
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Blagoevgrad solar project VII",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4907,
+          41.8459
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Blagoevgrad solar project VIII",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1464,
+          42.5719
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Burgas solar project I",
+        "Capacity (MW)": 7.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9107,
+          42.5162
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Burgas solar project II",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.004,
+          42.32
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Burgas solar project III",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2643,
+          42.5909
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Burgas solar project IV",
+        "Capacity (MW)": 5.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9654,
+          42.2462
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Burgas solar project IX",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3273,
+          42.4545
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Burgas solar project V",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3043,
+          42.3946
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Burgas solar project VI",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1628,
+          42.3543
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Burgas solar project VII",
+        "Capacity (MW)": 4.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8902,
+          42.7225
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Burgas solar project VIII",
+        "Capacity (MW)": 4.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5433,
+          42.5981
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Burgas solar project X",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1642,
+          42.6151
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Burgas solar project XI",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0631,
+          42.7447
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Burgas solar project XII",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5516,
+          42.592
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Burgas solar project XIII",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1989,
+          42.5954
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Burgas solar project XIV",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7631,
+          42.8292
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Burgas solar project XIX",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2636,
+          42.3389
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Burgas solar project XV",
+        "Capacity (MW)": 4.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9131,
+          42.6934
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Burgas solar project XVI",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6624,
+          42.3849
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Burgas solar project XVII",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2521,
+          42.572
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Burgas solar project XVIII",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.489,
+          42.6439
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Burgas solar project XX",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1496,
+          42.2815
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Burgas solar project XXI",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0066,
+          42.6589
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Burgas solar project XXII",
+        "Capacity (MW)": 14.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6054,
+          43.2072
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Devnya solar project",
+        "Capacity (MW)": 4.8,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6175,
+          42.0764
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Dimitrovgrad A solar project",
+        "Capacity (MW)": 5.5,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.795,
+          43.569
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Dobrich solar project",
+        "Capacity (MW)": 14.1,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9176,
+          43.5771
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Dobrich solar project I",
+        "Capacity (MW)": 5.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6113,
+          43.5498
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Dobrich solar project II",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4773,
+          43.7447
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Dobrich solar project III",
+        "Capacity (MW)": 5.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5545,
+          43.8203
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Dobrich solar project IV",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3746,
+          43.7019
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Dobrich solar project V",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9135,
+          43.7295
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Dobrich solar project VI",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2452,
+          42.7623
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Dupinovi solar project",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.796,
+          41.508
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Hadjidimovo solar project",
+        "Capacity (MW)": 10.9,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5359,
+          41.8947
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Haskovo solar project I",
+        "Capacity (MW)": 3.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9537,
+          41.6882
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Haskovo solar project II",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3566,
+          41.827
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Haskovo solar project III",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6071,
+          41.8603
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Haskovo solar project IV",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6685,
+          41.9604
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Haskovo solar project IX",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0714,
+          41.8548
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Haskovo solar project V",
+        "Capacity (MW)": 5.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5946,
+          41.7818
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Haskovo solar project VI",
+        "Capacity (MW)": 4.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1946,
+          41.8492
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Haskovo solar project VII",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7696,
+          41.6632
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Haskovo solar project VIII",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.313,
+          42.1645
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Haskovo solar project X",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5633,
+          41.9955
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Haskovo solar project XI",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6328,
+          42.0783
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Haskovo solar project XII",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7852,
+          41.9904
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Haskovo solar project XIII",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3649,
+          42.0991
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Haskovo solar project XIV",
+        "Capacity (MW)": 6.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1646,
+          41.9276
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Haskovo solar project XIX",
+        "Capacity (MW)": 8.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5649,
+          41.9992
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Haskovo solar project XV",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0845,
+          41.7481
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Haskovo solar project XVI",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5449,
+          41.8512
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Haskovo solar project XVII",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3058,
+          41.938
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Haskovo solar project XVIII",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3193,
+          42.1572
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Haskovo solar project XX",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.294,
+          42.542
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Kameno solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.134,
+          43.593
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Kaolinovo solar project",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3933,
+          41.6166
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Kardzhali solar project I",
+        "Capacity (MW)": 6.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6383,
+          41.4686
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Kardzhali solar project II",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.386,
+          41.5829
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Kardzhali solar project III",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.803,
+          42.581
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Karlovo solar project",
+        "Capacity (MW)": 4.9,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.908,
+          44.035
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Kolarovo solar project",
+        "Capacity (MW)": 5.9,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7472,
+          42.3337
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Kyustendil solar project I",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7077,
+          42.3031
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Kyustendil solar project II",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7707,
+          42.3253
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Kyustendil solar project III",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.032,
+          43.308
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Letnitsa solar project",
+        "Capacity (MW)": 11.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7361,
+          43.1678
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Lovech solar project I",
+        "Capacity (MW)": 5.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3647,
+          43.0384
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Lovech solar project II",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0432,
+          43.305
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Lovech solar project III",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.419,
+          43.1238
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Lovech solar project IV",
+        "Capacity (MW)": 5.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.161,
+          43.215
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Lovech solar project V",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1382,
+          43.2193
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Lovech solar project VI",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7425,
+          43.1727
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Lovech solar project VII",
+        "Capacity (MW)": 5.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7631,
+          42.892
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Lovech solar project VIII",
+        "Capacity (MW)": 3.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.174,
+          44.107
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Montan-Renar solar project",
+        "Capacity (MW)": 7.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3859,
+          43.7489
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Montana solar project I",
+        "Capacity (MW)": 4.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.186,
+          43.4521
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Montana solar project II",
+        "Capacity (MW)": 4.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4339,
+          43.6959
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Montana solar project III",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0633,
+          43.6651
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Montana solar project IV",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3317,
+          43.4912
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Montana solar project IX",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2315,
+          43.7915
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Montana solar project V",
+        "Capacity (MW)": 11.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4351,
+          43.6983
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Montana solar project VI",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2404,
+          43.4342
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Montana solar project VII",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0269,
+          43.6857
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Montana solar project VIII",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.866,
+          41.886
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Ostar Kamak solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.755,
+          42.516
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Palauzovo solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3063,
+          42.2462
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Pazardzhik solar project I",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.208,
+          42.2459
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Pazardzhik solar project II",
+        "Capacity (MW)": 3.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1105,
+          42.3386
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Pazardzhik solar project III",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2928,
+          42.1731
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Pazardzhik solar project IV",
+        "Capacity (MW)": 3.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1265,
+          42.2648
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Pazardzhik solar project V",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3315,
+          42.0325
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Pazardzhik solar project VI",
+        "Capacity (MW)": 5.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2979,
+          42.2149
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Pazardzhik solar project VII",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7944,
+          42.6819
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Pernik solar project",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.154,
+          42.711
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Pirdop I solar project",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7275,
+          43.6292
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Pleven solar project I",
+        "Capacity (MW)": 7.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1531,
+          43.3534
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Pleven solar project II",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6256,
+          43.4239
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Pleven solar project III",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.593,
+          43.5325
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Pleven solar project IV",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4857,
+          43.4081
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Pleven solar project IX",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8761,
+          43.45
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Pleven solar project V",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4901,
+          43.3928
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Pleven solar project VI",
+        "Capacity (MW)": 7.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1257,
+          43.2752
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Pleven solar project VII",
+        "Capacity (MW)": 14.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1763,
+          43.3537
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Pleven solar project VIII",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6787,
+          43.6396
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Pleven solar project X",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5572,
+          43.476
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Pleven solar project XI",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.879,
+          42.087
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Plovdiv A solar project",
+        "Capacity (MW)": 5.5,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7229,
+          42.2239
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Plovdiv solar project I",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8736,
+          42.5846
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Plovdiv solar project II",
+        "Capacity (MW)": 8.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7757,
+          42.4327
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Plovdiv solar project III",
+        "Capacity (MW)": 4.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0073,
+          42.2238
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Plovdiv solar project IV",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7075,
+          42.3678
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Plovdiv solar project IX",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7009,
+          42.6382
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Plovdiv solar project V",
+        "Capacity (MW)": 5.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0307,
+          42.3304
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Plovdiv solar project VI",
+        "Capacity (MW)": 3.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2178,
+          42.0786
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Plovdiv solar project VII",
+        "Capacity (MW)": 3.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6109,
+          42.315
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Plovdiv solar project VIII",
+        "Capacity (MW)": 6.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5471,
+          42.1359
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Plovdiv solar project X",
+        "Capacity (MW)": 4.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8167,
+          42.0545
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Plovdiv solar project XI",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6313,
+          42.1846
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Plovdiv solar project XII",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6985,
+          42.3397
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Plovdiv solar project XIII",
+        "Capacity (MW)": 13.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8324,
+          42.3272
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Plovdiv solar project XIV",
+        "Capacity (MW)": 5.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8367,
+          42.3689
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Plovdiv solar project XIX",
+        "Capacity (MW)": 12.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.704,
+          42.4026
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Plovdiv solar project XV",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8849,
+          42.5794
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Plovdiv solar project XVI",
+        "Capacity (MW)": 7.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8267,
+          42.3813
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Plovdiv solar project XVII",
+        "Capacity (MW)": 17.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6937,
+          42.2197
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Plovdiv solar project XVIII",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.56,
+          43.203
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Resen A solar project",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3101,
+          43.9716
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Ruse solar project I",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0381,
+          43.7432
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Ruse solar project II",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9823,
+          43.4434
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Ruse solar project III",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2489,
+          43.6896
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Ruse solar project IV",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2288,
+          43.6952
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Ruse solar project V",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6735,
+          43.4618
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Ruse solar project VI",
+        "Capacity (MW)": 4.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.296,
+          42.329
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sapareva A solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9786,
+          43.2776
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Shumen solar project I",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7335,
+          43.0075
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Shumen solar project II",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.123,
+          43.6042
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Shumen solar project III",
+        "Capacity (MW)": 6.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1787,
+          43.3642
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Shumen solar project IV",
+        "Capacity (MW)": 5.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1682,
+          43.622
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Shumen solar project V",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2098,
+          44.1014
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Silistra solar project I",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0169,
+          44.0429
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Silistra solar project II",
+        "Capacity (MW)": 8.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2018,
+          44.1071
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Silistra solar project III",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2564,
+          44.0589
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Silistra solar project IV",
+        "Capacity (MW)": 5.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7567,
+          43.945
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Silistra solar project V",
+        "Capacity (MW)": 5.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1343,
+          43.8347
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Silistra solar project VI",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6202,
+          44.0307
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Silistra solar project VII",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2962,
+          43.9107
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Silistra solar project VIII",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.361,
+          42.4673
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Skobelevo solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2841,
+          42.6396
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project I",
+        "Capacity (MW)": 9.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.062,
+          42.5566
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project II",
+        "Capacity (MW)": 4.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2944,
+          42.6497
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project III",
+        "Capacity (MW)": 9.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9939,
+          42.3453
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project IV",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5402,
+          42.6508
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project IX",
+        "Capacity (MW)": 3.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0057,
+          42.4719
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project V",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9327,
+          42.6525
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project VI",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.242,
+          42.6496
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project VII",
+        "Capacity (MW)": 2.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3522,
+          42.6353
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project VIII",
+        "Capacity (MW)": 11.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0378,
+          42.6322
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project X",
+        "Capacity (MW)": 5.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2078,
+          42.5392
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project XI",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3969,
+          42.5665
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project XII",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3176,
+          42.6304
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project XIII",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2355,
+          42.6202
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project XIV",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9554,
+          42.6794
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project XIX",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4067,
+          42.6658
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project XV",
+        "Capacity (MW)": 5.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6756,
+          42.698
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project XVI",
+        "Capacity (MW)": 6.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9037,
+          42.6799
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project XVII",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0841,
+          42.3628
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project XVIII",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0175,
+          42.4773
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project XX",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4622,
+          42.8712
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project XXI",
+        "Capacity (MW)": 3.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3475,
+          42.6553
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project XXII",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9581,
+          42.6831
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project XXIII",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1317,
+          42.6442
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project XXIV",
+        "Capacity (MW)": 3.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2573,
+          42.5929
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project XXV",
+        "Capacity (MW)": 6.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1262,
+          42.6452
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project XXVI",
+        "Capacity (MW)": 3.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3459,
+          42.6523
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sliven solar project XXVII",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5761,
+          42.5404
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sofia solar project I",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7253,
+          42.5169
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sofia solar project II",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3746,
+          42.3944
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sofia solar project III",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8791,
+          42.4119
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sofia solar project IV",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3705,
+          42.3944
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Sofia solar project V",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.301,
+          42.32
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Solsbor solar project",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6304,
+          42.6079
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Stara Zagora solar project I",
+        "Capacity (MW)": 7.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5726,
+          42.18
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Stara Zagora solar project II",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7825,
+          42.6303
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Stara Zagora solar project III",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.672,
+          42.6097
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Stara Zagora solar project IV",
+        "Capacity (MW)": 4.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3422,
+          42.119
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Stara Zagora solar project IX",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6595,
+          42.4215
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Stara Zagora solar project V",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1439,
+          42.2194
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Stara Zagora solar project VI",
+        "Capacity (MW)": 3.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1672,
+          42.6339
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Stara Zagora solar project VII",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1824,
+          42.6371
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Stara Zagora solar project VIII",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2636,
+          42.1864
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Stara Zagora solar project X",
+        "Capacity (MW)": 3.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8204,
+          42.0911
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Stara Zagora solar project XI",
+        "Capacity (MW)": 6.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3974,
+          42.5954
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Stara Zagora solar project XII",
+        "Capacity (MW)": 14.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4561,
+          43.0945
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Targovishte solar project I",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1028,
+          43.3805
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Targovishte solar project II",
+        "Capacity (MW)": 3.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.152,
+          43.382
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Targovishte solar project III",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8037,
+          43.0544
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Varna solar project I",
+        "Capacity (MW)": 7.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6141,
+          43.1977
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Varna solar project II",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6093,
+          43.2022
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Varna solar project III",
+        "Capacity (MW)": 1.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4772,
+          43.134
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Varna solar project IV",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4361,
+          43.3168
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Veliko Tarnovo solar project I",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4419,
+          43.3149
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Veliko Tarnovo solar project II",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3154,
+          43.2284
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Veliko Tarnovo solar project III",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7536,
+          43.0607
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Veliko Tarnovo solar project IV",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7344,
+          43.0497
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Veliko Tarnovo solar project IX",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5319,
+          43.4077
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Veliko Tarnovo solar project V",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5336,
+          43.4098
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Veliko Tarnovo solar project VI",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7244,
+          43.0501
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Veliko Tarnovo solar project VII",
+        "Capacity (MW)": 1.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4552,
+          43.5522
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Veliko Tarnovo solar project VIII",
+        "Capacity (MW)": 2.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6683,
+          43.208
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Veliko Tarnovo solar project X",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9703,
+          43.2291
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Veliko Tarnovo solar project XI",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8257,
+          43.6723
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Vidin solar project I",
+        "Capacity (MW)": 4.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7736,
+          43.6576
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Vidin solar project II",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8344,
+          43.6795
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Vidin solar project III",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9156,
+          43.6139
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Vidin solar project IV",
+        "Capacity (MW)": 3.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.862,
+          43.5489
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Vidin solar project IX",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5255,
+          43.9002
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Vidin solar project V",
+        "Capacity (MW)": 3.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.893,
+          43.6541
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Vidin solar project VI",
+        "Capacity (MW)": 1.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7474,
+          43.6613
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Vidin solar project VII",
+        "Capacity (MW)": 9.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8617,
+          43.6947
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Vidin solar project VIII",
+        "Capacity (MW)": 3.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6806,
+          43.7696
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Vidin solar project X",
+        "Capacity (MW)": 1.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5379,
+          43.9661
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Vidin solar project XI",
+        "Capacity (MW)": 5.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5314,
+          43.9451
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Vidin solar project XII",
+        "Capacity (MW)": 6.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5397,
+          43.2466
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Vratsa N solar project",
+        "Capacity (MW)": 4.9,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.544,
+          43.242
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Vratsa solar project",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7087,
+          43.5382
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Vratsa solar project I",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5234,
+          43.2231
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Vratsa solar project II",
+        "Capacity (MW)": 4.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4755,
+          43.3843
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Vratsa solar project III",
+        "Capacity (MW)": 4.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8025,
+          43.6343
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Vratsa solar project IV",
+        "Capacity (MW)": 6.5,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.454,
+          42.473
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yambol solar project",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6738,
+          42.5439
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yambol solar project I",
+        "Capacity (MW)": 7.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5728,
+          42.339
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yambol solar project II",
+        "Capacity (MW)": 4.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6177,
+          42.2807
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yambol solar project III",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5434,
+          42.4616
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yambol solar project IV",
+        "Capacity (MW)": 4.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6546,
+          42.4756
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yambol solar project IX",
+        "Capacity (MW)": 4.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7199,
+          42.3933
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yambol solar project V",
+        "Capacity (MW)": 7.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4469,
+          42.4375
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yambol solar project VI",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3496,
+          42.3407
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yambol solar project VII",
+        "Capacity (MW)": 2.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5818,
+          42.2054
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yambol solar project VIII",
+        "Capacity (MW)": 9.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7743,
+          42.6223
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yambol solar project X",
+        "Capacity (MW)": 11.9,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5224,
+          42.4471
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yambol solar project XI",
+        "Capacity (MW)": 3.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.455,
+          42.4179
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yambol solar project XII",
+        "Capacity (MW)": 3.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.398,
+          42.266
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yambol solar project XIII",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7917,
+          42.4325
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yambol solar project XIV",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7849,
+          42.5627
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yambol solar project XIX",
+        "Capacity (MW)": 1.2,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5551,
+          42.5329
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yambol solar project XV",
+        "Capacity (MW)": 4.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5557,
+          42.4588
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yambol solar project XVI",
+        "Capacity (MW)": 1.7,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5851,
+          42.3206
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yambol solar project XVII",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3303,
+          42.3318
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yambol solar project XVIII",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7075,
+          42.5482
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yambol solar project XX",
+        "Capacity (MW)": 2.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4416,
+          42.5344
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yambol solar project XXI",
+        "Capacity (MW)": 1.6,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5006,
+          42.4996
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yambol solar project XXII",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5257,
+          42.3953
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yambol solar project XXIII",
+        "Capacity (MW)": 7.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.095,
+          41.865
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Yerusalimovo solar project",
+        "Capacity (MW)": 5.1,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.635,
+          42.125
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Bulgaria",
+        "Plant / Project name": "Zdravets solar project",
+        "Capacity (MW)": 16.2,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

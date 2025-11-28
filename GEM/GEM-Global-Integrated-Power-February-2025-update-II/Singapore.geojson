@@ -1,0 +1,1139 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6462,
+          1.2828
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Tuas NEXUS power station",
+        "Capacity (MW)": 80.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": null,
+        "Fuel": "bioenergy: wastewater and sewage sludge (solids or biogas), bioenergy: refuse (municipal and industrial wastes)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6206,
+          1.2961
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Tuas South Waste-to-Energy power station",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": null,
+        "Fuel": "bioenergy: refuse (municipal and industrial wastes)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6206,
+          1.2961
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Tuas South Waste-to-Energy power station",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": null,
+        "Fuel": "bioenergy: refuse (municipal and industrial wastes)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6212,
+          1.299
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Singapore",
+        "Plant / Project name": "TuasOne Waste-to-Energy power station",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": null,
+        "Fuel": "bioenergy: refuse (municipal and industrial wastes)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.71923,
+          1.283501
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Jurong Island power station",
+        "Capacity (MW)": 400.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.71923,
+          1.283501
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Jurong Island power station",
+        "Capacity (MW)": 400.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.71,
+          1.31
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Jurong Power Station",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.71,
+          1.31
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Jurong Power Station",
+        "Capacity (MW)": 90.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.675,
+          1.2824
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Keppel Merlimau cogeneration power station",
+        "Capacity (MW)": 500.0,
+        "Status": "operating",
+        "Start year": 2007,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.675,
+          1.2824
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Keppel Merlimau cogeneration power station",
+        "Capacity (MW)": 400.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.675,
+          1.2824
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Keppel Merlimau cogeneration power station",
+        "Capacity (MW)": 400.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.694686404215,
+          1.26559861569879
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Keppel Sakra cogeneration power station",
+        "Capacity (MW)": 600.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas [70%], other: hydrogen (unknown) [30%]",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.677199689698,
+          1.23608732653248
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Meranti gas turbine power station",
+        "Capacity (MW)": 340.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.677199689698,
+          1.23608732653248
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Meranti gas turbine power station",
+        "Capacity (MW)": 340.0,
+        "Status": "construction",
+        "Start year": 2025,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.700411,
+          1.254005
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Pulau Sakra power station",
+        "Capacity (MW)": 407.5,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.700411,
+          1.254005
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Pulau Sakra power station",
+        "Capacity (MW)": 407.5,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.727125,
+          1.279379
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Pulau Seraya power station",
+        "Capacity (MW)": 370.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.727125,
+          1.279379
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Pulau Seraya power station",
+        "Capacity (MW)": 370.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.727125,
+          1.279379
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Pulau Seraya power station",
+        "Capacity (MW)": 400.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.727125,
+          1.279379
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Pulau Seraya power station",
+        "Capacity (MW)": 400.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.727125,
+          1.279379
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Pulau Seraya power station",
+        "Capacity (MW)": 600.0,
+        "Status": "construction",
+        "Start year": 2027,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas [70%], other: hydrogen (unknown) [30%]",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.727125,
+          1.279379
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Pulau Seraya power station",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.727125,
+          1.279379
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Pulau Seraya power station",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.727125,
+          1.279379
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Pulau Seraya power station",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.727125,
+          1.279379
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Pulau Seraya power station",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.727125,
+          1.279379
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Pulau Seraya power station",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.727125,
+          1.279379
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Pulau Seraya power station",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.727125,
+          1.279379
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Pulau Seraya power station",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.727125,
+          1.279379
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Pulau Seraya power station",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.727125,
+          1.279379
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Pulau Seraya power station",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6704524,
+          1.2599932
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Sembcorp Banyan cogeneration power station",
+        "Capacity (MW)": 404.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil gas: LNG",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6698604,
+          1.2620853
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Sembcorp hydrogen-ready power plant",
+        "Capacity (MW)": 600.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas [70%], other: hydrogen (unknown) [30%]",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7996,
+          1.4655
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Senoko power station",
+        "Capacity (MW)": 425.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7996,
+          1.4655
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Senoko power station",
+        "Capacity (MW)": 425.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7996,
+          1.4655
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Senoko power station",
+        "Capacity (MW)": 360.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7996,
+          1.4655
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Senoko power station",
+        "Capacity (MW)": 360.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7996,
+          1.4655
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Senoko power station",
+        "Capacity (MW)": 360.0,
+        "Status": "operating",
+        "Start year": 2004,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7996,
+          1.4655
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Senoko power station",
+        "Capacity (MW)": 431.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7996,
+          1.4655
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Senoko power station",
+        "Capacity (MW)": 431.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7996,
+          1.4655
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Senoko power station",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7996,
+          1.4655
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Senoko power station",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.68898,
+          1.268001
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Singapore Chemical power station",
+        "Capacity (MW)": 360.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.68898,
+          1.268001
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Singapore Chemical power station",
+        "Capacity (MW)": 84.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.641415,
+          1.288768
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Tuas power station",
+        "Capacity (MW)": 368.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.641415,
+          1.288768
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Tuas power station",
+        "Capacity (MW)": 368.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.641415,
+          1.288768
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Tuas power station",
+        "Capacity (MW)": 368.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.641415,
+          1.288768
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Tuas power station",
+        "Capacity (MW)": 368.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.641415,
+          1.288768
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Tuas power station",
+        "Capacity (MW)": 406.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.641415,
+          1.288768
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Tuas power station",
+        "Capacity (MW)": 600.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "steam turbine",
+        "Fuel": "fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.621492,
+          1.30145
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Tuaspring Desalinisation power station",
+        "Capacity (MW)": 411.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6395,
+          1.3493
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Tengeh Reservoir solar farm",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9625,
+          1.3379
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Constellar Venues at Singapore EXPO solar project",
+        "Capacity (MW)": 9.7,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8065,
+          1.4653
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Keystone Cable solar project",
+        "Capacity (MW)": 2.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8351,
+          1.4407
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Singapore",
+        "Plant / Project name": "Lumileds solar project",
+        "Capacity (MW)": 1.4,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

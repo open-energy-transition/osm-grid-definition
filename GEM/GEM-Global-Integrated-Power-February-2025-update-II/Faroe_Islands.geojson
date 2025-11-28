@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8492,
+          62.0308
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Faroe Islands",
+        "Plant / Project name": "Tórshavn wind farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8316,
+          62.0249
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Faroe Islands",
+        "Plant / Project name": "Húsahagi wind farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

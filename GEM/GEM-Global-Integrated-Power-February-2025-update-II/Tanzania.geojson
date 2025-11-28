@@ -1,0 +1,194 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7832,
+          -2.3823
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Tanzania",
+        "Plant / Project name": "Rusumo hydroelectric plant",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8511,
+          -7.8032
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Tanzania",
+        "Plant / Project name": "Julius Nyerere hydroelectric plant",
+        "Capacity (MW)": 2115.0,
+        "Status": "construction",
+        "Start year": 2024,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8866,
+          -7.6367
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Tanzania",
+        "Plant / Project name": "Kidatu hydroelectric plant",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1975,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8512,
+          -8.5751
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Tanzania",
+        "Plant / Project name": "Kihansi hydroelectric plant",
+        "Capacity (MW)": 180.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9888,
+          -7.1386
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Tanzania",
+        "Plant / Project name": "Mtera hydroelectric plant",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.150713,
+          -6.857982
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Tanzania",
+        "Plant / Project name": "Kinyerezi II power station",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.18772,
+          -6.67442
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Tanzania",
+        "Plant / Project name": "Tegeta (Diesel) power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "unknown",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6877,
+          -4.8987
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Tanzania",
+        "Plant / Project name": "Kigoma Region solar project",
+        "Capacity (MW)": 4.8,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4836,
+          -5.8425
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Tanzania",
+        "Plant / Project name": "Mgandu solar project",
+        "Capacity (MW)": 4.1,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1580 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8526,
+          -8.813
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Peru",
+        "Plant / Project name": "Cañón Del Pato hydroelectric plant",
+        "Capacity (MW)": 247.0,
+        "Status": "operating",
+        "Start year": 1958,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2394,
+          -6.6108
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Peru",
+        "Plant / Project name": "Carhuaquero hydroelectric plant",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1991,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7011,
+          -12.2408
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Peru",
+        "Plant / Project name": "Cerro Del Águila hydroelectric plant",
+        "Capacity (MW)": 525.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8866,
+          -9.5993
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Peru",
+        "Plant / Project name": "Chaglla hydroelectric plant",
+        "Capacity (MW)": 456.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3472,
+          -16.2457
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Peru",
+        "Plant / Project name": "Charcani 5 hydroelectric plant",
+        "Capacity (MW)": 146.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.975,
+          -10.8849
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Peru",
+        "Plant / Project name": "Cheves hydroelectric plant",
+        "Capacity (MW)": 176.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3006,
+          -11.3248
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Peru",
+        "Plant / Project name": "Chimay hydroelectric plant",
+        "Capacity (MW)": 152.0,
+        "Status": "operating",
+        "Start year": 2000,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9771,
+          -12.8378
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Peru",
+        "Plant / Project name": "El Platanal hydroelectric plant",
+        "Capacity (MW)": 220.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4807,
+          -11.6566
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Peru",
+        "Plant / Project name": "Huanza hydroelectric plant",
+        "Capacity (MW)": 96.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6153,
+          -11.7645
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Peru",
+        "Plant / Project name": "Huinco hydroelectric plant",
+        "Capacity (MW)": 258.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4259,
+          -11.1611
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Peru",
+        "Plant / Project name": "La Virgen hydroelectric plant",
+        "Capacity (MW)": 84.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.564,
+          -13.1739
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Peru",
+        "Plant / Project name": "Machupicchu 2 hydroelectric plant",
+        "Capacity (MW)": 190.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6556,
+          -12.3537
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Peru",
+        "Plant / Project name": "Mantaro hydroelectric plant",
+        "Capacity (MW)": 798.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7504,
+          -9.5629
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Peru",
+        "Plant / Project name": "Marañon hydroelectric plant",
+        "Capacity (MW)": 88.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4556,
+          -11.8865
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Peru",
+        "Plant / Project name": "Matucana hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6556,
+          -12.3537
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Peru",
+        "Plant / Project name": "Restitución hydroelectric plant",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3836,
+          -13.5322
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Peru",
+        "Plant / Project name": "San Gabán 1 hydroelectric plant",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 1999,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5791,
+          -13.1433
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Peru",
+        "Plant / Project name": "Santa Teresa hydroelectric plant",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7865,
+          -12.4644
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Peru",
+        "Plant / Project name": "Santiago Antúnez De Mayolo hydroelectric plant",
+        "Capacity (MW)": 798.0,
+        "Status": "operating",
+        "Start year": 1973,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6441,
+          -10.7222
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Peru",
+        "Plant / Project name": "Yucán hydroelectric plant",
+        "Capacity (MW)": 130.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8491,
+          -4.9279
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Peru",
+        "Plant / Project name": "Agroaurora power station",
+        "Capacity (MW)": 38.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.493163,
+          -9.028651
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Aguaytía power station",
+        "Capacity (MW)": 101.3,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.493163,
+          -9.028651
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Aguaytía power station",
+        "Capacity (MW)": 101.3,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.729021,
+          -12.502428
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Chilca power station",
+        "Capacity (MW)": 862.2,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.729021,
+          -12.502428
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Chilca power station",
+        "Capacity (MW)": 112.8,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.790077,
+          -6.884571
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Eten power station",
+        "Capacity (MW)": 184.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.735523,
+          -12.543746
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Fenix power station",
+        "Capacity (MW)": 570.1,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.18928,
+          -17.77597
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Ilo power station",
+        "Capacity (MW)": 188.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.18928,
+          -17.77597
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Ilo power station",
+        "Capacity (MW)": 188.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.18928,
+          -17.77597
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Ilo power station",
+        "Capacity (MW)": 188.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.18928,
+          -17.77597
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Ilo power station",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.18928,
+          -17.77597
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Ilo power station",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.18928,
+          -17.77597
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Ilo power station",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2179,
+          -3.64202
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Iquitos Nueva power station",
+        "Capacity (MW)": 77.7,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.24373,
+          -3.73626
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Iquitos Wärtsilä power station",
+        "Capacity (MW)": 57.3,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.728792,
+          -12.498338
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Kallpa power station",
+        "Capacity (MW)": 873.9,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.717369,
+          -12.521695
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Las Flores power station",
+        "Capacity (MW)": 325.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.26441,
+          -4.538416
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Malacas power station",
+        "Capacity (MW)": 108.0,
+        "Status": "operating",
+        "Start year": 1998,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.26441,
+          -4.538416
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Malacas power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.26441,
+          -4.538416
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Malacas power station",
+        "Capacity (MW)": 52.8,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.977307,
+          -17.039282
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Puerto Bravo power station",
+        "Capacity (MW)": 154.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.977307,
+          -17.039282
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Puerto Bravo power station",
+        "Capacity (MW)": 154.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.977307,
+          -17.039282
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Puerto Bravo power station",
+        "Capacity (MW)": 154.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.977307,
+          -17.039282
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Puerto Bravo power station",
+        "Capacity (MW)": 154.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.792538,
+          -6.878065
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Recka power station",
+        "Capacity (MW)": 181.3,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "gas turbine",
+        "Fuel": "fossil liquids: diesel, fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.28213,
+          -4.58393
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Refineria Talara power station",
+        "Capacity (MW)": 51.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: unknown, fossil liquids: naphtha",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.28213,
+          -4.58393
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Refineria Talara power station",
+        "Capacity (MW)": 51.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: unknown, fossil liquids: naphtha",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.010565,
+          -12.039528
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Santa Rosa power station",
+        "Capacity (MW)": 59.6,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.010565,
+          -12.039528
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Santa Rosa power station",
+        "Capacity (MW)": 59.6,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.010565,
+          -12.039528
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Santa Rosa power station",
+        "Capacity (MW)": 127.5,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.010565,
+          -12.039528
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Santa Rosa power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 2009,
+        "Technology": "gas turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.716578,
+          -12.49248
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Santo Domingo de los Olleros power station",
+        "Capacity (MW)": 334.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.118021,
+          -11.935756
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Peru",
+        "Plant / Project name": "Ventanilla power station",
+        "Capacity (MW)": 532.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4955,
+          -7.5515
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Peru",
+        "Plant / Project name": "Cupisnique wind farm",
+        "Capacity (MW)": 80.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1948,
+          -4.5647
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Peru",
+        "Plant / Project name": "Talara wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0456,
+          -15.4315
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Peru",
+        "Plant / Project name": "Muyu wind farm",
+        "Capacity (MW)": 217.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0531,
+          -15.0621
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Peru",
+        "Plant / Project name": "Wayra wind farm (Peru)",
+        "Capacity (MW)": 132.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9008,
+          -14.6517
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Peru",
+        "Plant / Project name": "Punta Lomitas wind farm",
+        "Capacity (MW)": 260.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9008,
+          -14.6517
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Peru",
+        "Plant / Project name": "Punta Lomitas wind farm",
+        "Capacity (MW)": 36.4,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9854,
+          -6.4541
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Peru",
+        "Plant / Project name": "Duna wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.978,
+          -6.4543
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Peru",
+        "Plant / Project name": "Huambos wind farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0645,
+          -15.4144
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Peru",
+        "Plant / Project name": "Marcona wind farm",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0702,
+          -15.3961
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Peru",
+        "Plant / Project name": "Tres Hermanas wind farm",
+        "Capacity (MW)": 97.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1976,
+          -17.258
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Peru",
+        "Plant / Project name": "Clemesí Solar Plant",
+        "Capacity (MW)": 115.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8608,
+          -17.2267
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Peru",
+        "Plant / Project name": "Intipampa Solar Plant",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2239,
+          -16.437
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Peru",
+        "Plant / Project name": "Majes Solar Power Plant",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.024,
+          -17.543
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Peru",
+        "Plant / Project name": "Moquegua (Solarpack) solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0305,
+          -17.5439
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Peru",
+        "Plant / Project name": "Panamericana Solar PV Plant",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8178,
+          -16.5741
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Peru",
+        "Plant / Project name": "Repartición Solar Power Plant",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1934,
+          -17.2582
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Peru",
+        "Plant / Project name": "Rubí Solar Photovoltaic Plant",
+        "Capacity (MW)": 144.5,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3367,
+          -17.993
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Peru",
+        "Plant / Project name": "Tacna Solar PV Plant",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1111,
+          -13.5279
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Peru",
+        "Plant / Project name": "Ica solar project",
+        "Capacity (MW)": 9.3,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.097,
+          -11.0381
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Peru",
+        "Plant / Project name": "Lima solar project",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8518,
+          -5.0884
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Peru",
+        "Plant / Project name": "Requena solar project (Peru)",
+        "Capacity (MW)": 7.5,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.141,
+          -4.0063
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Peru",
+        "Plant / Project name": "Tamshiyacu solar project",
+        "Capacity (MW)": 2.1,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

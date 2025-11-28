@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.5514,
+          17.1807
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Saint Kitts and Nevis",
+        "Plant / Project name": "Maddens wind farm",
+        "Capacity (MW)": 2.2,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

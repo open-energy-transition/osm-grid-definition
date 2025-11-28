@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5544,
+          17.1278
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belize",
+        "Plant / Project name": "Belize District solar project",
+        "Capacity (MW)": 1.8,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0517,
+          17.2973
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Belize",
+        "Plant / Project name": "Cayo District solar project",
+        "Capacity (MW)": 8.2,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4667,
+          4.5167
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Central African Republic",
+        "Plant / Project name": "Enerca Danzi solar farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2023,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

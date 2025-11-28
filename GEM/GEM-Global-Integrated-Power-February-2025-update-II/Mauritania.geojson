@@ -1,0 +1,362 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.0572,
+          20.8954
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Mauritania",
+        "Plant / Project name": "Nouadhibou Thermal power plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: crude oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.529067,
+          20.540573
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Mauritania",
+        "Plant / Project name": "Tasiast Mine power plant",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": "not found",
+        "Technology": "internal combustion",
+        "Fuel": "fossil liquids: heavy fuel oil, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.6976,
+          21.2663
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Mauritania",
+        "Plant / Project name": "Boulenouar wind farm",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9851,
+          17.9651
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Mauritania",
+        "Plant / Project name": "Nouakchott wind farm",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.5416,
+          20.5416
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mauritania",
+        "Plant / Project name": "Tasiast mine solar farm",
+        "Capacity (MW)": 34.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.8907,
+          18.093
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mauritania",
+        "Plant / Project name": "Toujounine solar farm",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.901,
+          17.0557
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mauritania",
+        "Plant / Project name": "Aleg solar project",
+        "Capacity (MW)": 3.1,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.5072,
+          16.6665
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mauritania",
+        "Plant / Project name": "Assaba solar project",
+        "Capacity (MW)": 6.5,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5429,
+          16.6522
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mauritania",
+        "Plant / Project name": "Ayoun El Atrous solar project",
+        "Capacity (MW)": 2.5,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.5332,
+          21.2953
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mauritania",
+        "Plant / Project name": "Dakhlet Nouadhibou solar project I",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9902,
+          20.1696
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mauritania",
+        "Plant / Project name": "Dakhlet Nouadhibou solar project II",
+        "Capacity (MW)": 2.7,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.4015,
+          19.3878
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mauritania",
+        "Plant / Project name": "Inchiri solar project",
+        "Capacity (MW)": 2.4,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2873,
+          16.5987
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mauritania",
+        "Plant / Project name": "Néma solar project",
+        "Capacity (MW)": 3.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.7005,
+          17.5332
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mauritania",
+        "Plant / Project name": "Seven 12MW solar farm",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9842,
+          18.1528
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mauritania",
+        "Plant / Project name": "Sheikh Zayed Solar Power Plant",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9734,
+          18.2934
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mauritania",
+        "Plant / Project name": "Trarza solar project II",
+        "Capacity (MW)": 3.9,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.4578,
+          22.7239
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Mauritania",
+        "Plant / Project name": "Zouérat solar project",
+        "Capacity (MW)": 5.3,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

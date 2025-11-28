@@ -1,0 +1,383 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7621,
+          -16.5225
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Zambia",
+        "Plant / Project name": "Kariba Dam hydroelectric plant",
+        "Capacity (MW)": 2130.0,
+        "Status": "operating",
+        "Start year": 1959,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0213,
+          -15.7601
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Zambia",
+        "Plant / Project name": "Itezhi Tezhi hydroelectric plant",
+        "Capacity (MW)": 120.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5601,
+          -15.8959
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Zambia",
+        "Plant / Project name": "Kafue Gorge Lower hydroelectric plant",
+        "Capacity (MW)": 750.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4216,
+          -15.8067
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Zambia",
+        "Plant / Project name": "Kafue Gorge Upper hydroelectric plant",
+        "Capacity (MW)": 990.0,
+        "Status": "operating",
+        "Start year": 1977,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8598,
+          -17.9305
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Zambia",
+        "Plant / Project name": "Victoria Falls hydroelectric plant",
+        "Capacity (MW)": 108.0,
+        "Status": "operating",
+        "Start year": 1936,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7804,
+          -15.8315
+        ]
+      },
+      "properties": {
+        "Type": "bioenergy",
+        "Country/area": "Zambia",
+        "Plant / Project name": "Nakambala power station",
+        "Capacity (MW)": 40.0,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": null,
+        "Fuel": "bioenergy: agricultural waste (solids)",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.18594,
+          -17.352722
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Zambia",
+        "Plant / Project name": "Maamba power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "CFB",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.18594,
+          -17.352722
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Zambia",
+        "Plant / Project name": "Maamba power station",
+        "Capacity (MW)": 150.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "CFB",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.18594,
+          -17.352722
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Zambia",
+        "Plant / Project name": "Maamba power station",
+        "Capacity (MW)": 150.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "CFB",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.18594,
+          -17.352722
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Zambia",
+        "Plant / Project name": "Maamba power station",
+        "Capacity (MW)": 150.0,
+        "Status": "construction",
+        "Start year": 2026,
+        "Technology": "CFB",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.779202,
+          -13.027011
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Zambia",
+        "Plant / Project name": "Ndola Cement Plant power station",
+        "Capacity (MW)": 30.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4329,
+          -15.5138
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Zambia",
+        "Plant / Project name": "Bangweulu solar farm",
+        "Capacity (MW)": 54.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.182,
+          -12.6946
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Zambia",
+        "Plant / Project name": "Itimpi solar farm",
+        "Capacity (MW)": 64.0,
+        "Status": "operating",
+        "Start year": 2024,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4286,
+          -15.5169
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Zambia",
+        "Plant / Project name": "Ngonye solar farm",
+        "Capacity (MW)": 34.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2364,
+          -12.8072
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Zambia",
+        "Plant / Project name": "Riverside Solar PV Plant",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4022,
+          -13.1126
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Zambia",
+        "Plant / Project name": "Serenje solar farm",
+        "Capacity (MW)": 100.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3986,
+          -13.1473
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Zambia",
+        "Plant / Project name": "Serenje solar farm",
+        "Capacity (MW)": 100.0,
+        "Status": "construction",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8055,
+          -10.5466
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Zambia",
+        "Plant / Project name": "Northern Province solar project",
+        "Capacity (MW)": 1.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

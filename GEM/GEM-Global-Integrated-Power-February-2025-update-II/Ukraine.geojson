@@ -1,0 +1,3680 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0897,
+          47.8675
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Dnipro-1 hydroelectric plant",
+        "Capacity (MW)": 651.0,
+        "Status": "operating",
+        "Start year": 1932,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0897,
+          47.8675
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Dnipro-2 hydroelectric plant",
+        "Capacity (MW)": 888.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4733,
+          48.5136
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Dnister hydroelectric plant",
+        "Capacity (MW)": 702.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "run-of-river",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4733,
+          48.5136
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Dnister Pumped Storage hydroelectric plant",
+        "Capacity (MW)": 1296.0,
+        "Status": "operating",
+        "Start year": 2008,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4717,
+          49.7665
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Kaniv hydroelectric plant",
+        "Capacity (MW)": 493.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5118,
+          50.5883
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Kiyvska hydroelectric plant",
+        "Capacity (MW)": 440.0,
+        "Status": "operating",
+        "Start year": 1964,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.2531,
+          49.0748
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Kremenchuk hydroelectric plant",
+        "Capacity (MW)": 700.0,
+        "Status": "operating",
+        "Start year": 1959,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4902,
+          50.6113
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Kyivska hydroelectric plant",
+        "Capacity (MW)": 236.0,
+        "Status": "operating",
+        "Start year": 1970,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.541,
+          48.5485
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Serednodniprovska hydroelectric plant",
+        "Capacity (MW)": 388.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "conventional storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1811,
+          47.7968
+        ]
+      },
+      "properties": {
+        "Type": "hydropower",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Tashlytsky hydroelectric plant",
+        "Capacity (MW)": 453.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "pumped storage",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6473,
+          50.3024
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Khmelnitski nuclear power plant",
+        "Capacity (MW)": 1000.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6473,
+          50.3024
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Khmelnitski nuclear power plant",
+        "Capacity (MW)": 1000.0,
+        "Status": "operating",
+        "Start year": 2005,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8974,
+          51.3245
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Rivne nuclear power plant",
+        "Capacity (MW)": 420.0,
+        "Status": "operating",
+        "Start year": 1981,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8974,
+          51.3245
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Rivne nuclear power plant",
+        "Capacity (MW)": 415.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8974,
+          51.3245
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Rivne nuclear power plant",
+        "Capacity (MW)": 1000.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8974,
+          51.3245
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Rivne nuclear power plant",
+        "Capacity (MW)": 1000.0,
+        "Status": "operating",
+        "Start year": 2006,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2201,
+          47.81201
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "South Ukraine nuclear power plant",
+        "Capacity (MW)": 1000.0,
+        "Status": "operating",
+        "Start year": 1983,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2201,
+          47.81201
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "South Ukraine nuclear power plant",
+        "Capacity (MW)": 1000.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2201,
+          47.81201
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "South Ukraine nuclear power plant",
+        "Capacity (MW)": 1000.0,
+        "Status": "operating",
+        "Start year": 1989,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5851,
+          47.5067
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Zaporizhzhia nuclear power plant",
+        "Capacity (MW)": 1000.0,
+        "Status": "operating",
+        "Start year": 1985,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5851,
+          47.5067
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Zaporizhzhia nuclear power plant",
+        "Capacity (MW)": 1000.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5851,
+          47.5067
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Zaporizhzhia nuclear power plant",
+        "Capacity (MW)": 1000.0,
+        "Status": "operating",
+        "Start year": 1987,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5851,
+          47.5067
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Zaporizhzhia nuclear power plant",
+        "Capacity (MW)": 1000.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5851,
+          47.5067
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Zaporizhzhia nuclear power plant",
+        "Capacity (MW)": 1000.0,
+        "Status": "operating",
+        "Start year": 1989,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5851,
+          47.5067
+        ]
+      },
+      "properties": {
+        "Type": "nuclear",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Zaporizhzhia nuclear power plant",
+        "Capacity (MW)": 1000.0,
+        "Status": "operating",
+        "Start year": 1996,
+        "Technology": "pressurized water reactor",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6028,
+          44.5532
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Balaklava power station",
+        "Capacity (MW)": 251.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6028,
+          44.5532
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Balaklava power station",
+        "Capacity (MW)": 245.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.183264,
+          49.796949
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Bilotserkivska CHP power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.183264,
+          49.796949
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Bilotserkivska CHP power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.260173,
+          51.45496
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Chernihiv power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.260173,
+          51.45496
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Chernihiv power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.260173,
+          51.45496
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Chernihiv power station",
+        "Capacity (MW)": 110.0,
+        "Status": "operating",
+        "Start year": 2022,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.447371,
+          49.17079
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Kremenchuk CHP power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.447371,
+          49.17079
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Kremenchuk CHP power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.447371,
+          49.17079
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Kremenchuk CHP power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.447371,
+          49.17079
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Kremenchuk CHP power station",
+        "Capacity (MW)": 105.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.569477,
+          50.39317
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Kyiv CHP-5 power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1971,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.569477,
+          50.39317
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Kyiv CHP-5 power station",
+        "Capacity (MW)": 100.0,
+        "Status": "operating",
+        "Start year": 1972,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.569477,
+          50.39317
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Kyiv CHP-5 power station",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": 1974,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.569477,
+          50.39317
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Kyiv CHP-5 power station",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": 1976,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.662307,
+          50.531699
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Kyiv CHP-6 power station",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.662307,
+          50.531699
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Kyiv CHP-6 power station",
+        "Capacity (MW)": 250.0,
+        "Status": "operating",
+        "Start year": 1984,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.553452,
+          45.136611
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Saki power station",
+        "Capacity (MW)": 58.5,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.553452,
+          45.136611
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Saki power station",
+        "Capacity (MW)": 59.4,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.4558126,
+          51.8857688
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Shostkinska power station",
+        "Capacity (MW)": 57.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.4558126,
+          51.8857688
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Shostkinska power station",
+        "Capacity (MW)": 57.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.035874,
+          45.012888
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Simferopol CHP power station",
+        "Capacity (MW)": 43.0,
+        "Status": "operating",
+        "Start year": 1958,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.035874,
+          45.012888
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Simferopol CHP power station",
+        "Capacity (MW)": 43.0,
+        "Status": "operating",
+        "Start year": 1960,
+        "Technology": "steam turbine",
+        "Fuel": "fossil gas: natural gas, fossil liquids: heavy fuel oil",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.223752,
+          44.942652
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Tavri power station",
+        "Capacity (MW)": 245.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.223752,
+          44.942652
+        ]
+      },
+      "properties": {
+        "Type": "oil/gas",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Tavri power station",
+        "Capacity (MW)": 245.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "combined cycle",
+        "Fuel": "fossil gas: natural gas, fossil liquids: diesel",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.067372,
+          49.390543
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Cherkasy power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.067372,
+          49.390543
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Cherkasy power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1966,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.067372,
+          49.390543
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Cherkasy power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.642949,
+          50.447771
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Darnytska power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.642949,
+          50.447771
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Darnytska power station",
+        "Capacity (MW)": 50.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.642949,
+          50.447771
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Darnytska power station",
+        "Capacity (MW)": 60.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "subcritical",
+        "Fuel": "unknown",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.659513,
+          47.543204
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Kryvorizka power station",
+        "Capacity (MW)": 282.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "subcritical",
+        "Fuel": "subbituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.261917,
+          48.749346
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Luganskaya power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1962,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.261917,
+          48.749346
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Luganskaya power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.261917,
+          48.749346
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Luganskaya power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.261917,
+          48.749346
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Luganskaya power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1968,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.005422,
+          47.800786
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Starobesheve power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.005422,
+          47.800786
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Starobesheve power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1965,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.005422,
+          47.800786
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Starobesheve power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.005422,
+          47.800786
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Starobesheve power station",
+        "Capacity (MW)": 210.0,
+        "Status": "operating",
+        "Start year": 1967,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.005422,
+          47.800786
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Starobesheve power station",
+        "Capacity (MW)": 215.0,
+        "Status": "operating",
+        "Start year": 1961,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.005422,
+          47.800786
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Starobesheve power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1961,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.005422,
+          47.800786
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Starobesheve power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1961,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.005422,
+          47.800786
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Starobesheve power station",
+        "Capacity (MW)": 175.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.005422,
+          47.800786
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Starobesheve power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.005422,
+          47.800786
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Starobesheve power station",
+        "Capacity (MW)": 200.0,
+        "Status": "operating",
+        "Start year": 1963,
+        "Technology": "subcritical",
+        "Fuel": "anthracite",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.285213,
+          48.034804
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Zuevskaya power station",
+        "Capacity (MW)": 325.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.285213,
+          48.034804
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Zuevskaya power station",
+        "Capacity (MW)": 320.0,
+        "Status": "operating",
+        "Start year": 1982,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.285213,
+          48.034804
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Zuevskaya power station",
+        "Capacity (MW)": 320.0,
+        "Status": "operating",
+        "Start year": 1986,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.285213,
+          48.034804
+        ]
+      },
+      "properties": {
+        "Type": "coal",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Zuevskaya power station",
+        "Capacity (MW)": 325.0,
+        "Status": "operating",
+        "Start year": 1988,
+        "Technology": "subcritical",
+        "Fuel": "bituminous",
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1472,
+          45.3977
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Donuzlav wind farm",
+        "Capacity (MW)": 10.4,
+        "Status": "operating",
+        "Start year": 1993,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.526,
+          48.7795
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Kramatorsk wind farm",
+        "Capacity (MW)": 14.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7701,
+          45.4211
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Tarhankut wind farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2001,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.977,
+          49.4407
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Staryi Sambir wind farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0856,
+          44.8086
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Donuzlav Sudak wind farm",
+        "Capacity (MW)": 6.3,
+        "Status": "operating",
+        "Start year": 2002,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6662,
+          48.186
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Krasnodonskiy wind farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6445,
+          48.1904
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Lutuginskiy wind farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4907,
+          46.2278
+        ]
+      },
+      "properties": {
+        "Type": "wind",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Ovid wind farm",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Onshore",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.802,
+          47.0141
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Afanasiyivka solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7496,
+          48.5959
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Balivka solar farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8495,
+          49.5607
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Boguslav solar farm",
+        "Capacity (MW)": 54.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.599,
+          45.765
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Bolgrad solar farm",
+        "Capacity (MW)": 34.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7815,
+          49.0984
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Chigirin solar farm",
+        "Capacity (MW)": 55.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.462,
+          45.9801
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Dunayskaya solar farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.462,
+          45.9801
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Dunayskaya solar farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8807,
+          50.6128
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Dymerka solar farm",
+        "Capacity (MW)": 34.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7409,
+          48.5444
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Eco Solar Station",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3829,
+          48.2298
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Ekotechnik-Tarasivtsi solar farm",
+        "Capacity (MW)": 59.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3462,
+          46.0237
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Franko Solar solar farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0167,
+          49.7905
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Fursy Energy Group solar farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0167,
+          49.7905
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Fursy Energy Group solar farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0167,
+          49.7905
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Fursy Energy Group solar farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.2704,
+          47.5638
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Gea Solar Group solar farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.2705,
+          47.5635
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Greenway Solar Group solar farm",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7986,
+          47.057
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Inhulets solar farm",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.785,
+          47.0539
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Inhulets solar farm",
+        "Capacity (MW)": 25.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9436,
+          47.1855
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "KD Energy 2 solar farm",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.0877,
+          49.0368
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Kamianka solar farm",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.249,
+          45.468
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Limanskaya solar farm (Ukraine)",
+        "Capacity (MW)": 43.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6776,
+          45.2364
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Mityaevo solar farm",
+        "Capacity (MW)": 32.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0849,
+          48.717
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Morozivka solar farm",
+        "Capacity (MW)": 91.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8063,
+          49.8531
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Natsprod solar farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.752,
+          44.967
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Nikolayevka solar farm",
+        "Capacity (MW)": 70.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2612,
+          47.6864
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Nikopol solar farm",
+        "Capacity (MW)": 246.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6011,
+          45.2801
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Ohotnikovo solar farm",
+        "Capacity (MW)": 83.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7628,
+          46.6131
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Oleshky solar farm",
+        "Capacity (MW)": 22.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6312,
+          48.6281
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Panovtsy solar farm",
+        "Capacity (MW)": 64.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.932,
+          44.9567
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Perovo solar farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.932,
+          44.9567
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Perovo solar farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.932,
+          44.9567
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Perovo solar farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.932,
+          44.9567
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Perovo solar farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": null,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.932,
+          44.9567
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Perovo solar farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2011,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.1539,
+          47.6597
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Pokrovs'Ka solar farm",
+        "Capacity (MW)": 240.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.292,
+          45.467
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Priozernaya solar farm",
+        "Capacity (MW)": 28.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.292,
+          45.467
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Priozernaya solar farm",
+        "Capacity (MW)": 28.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0549,
+          46.9322
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Progressovka solar farm",
+        "Capacity (MW)": 148.0,
+        "Status": "operating",
+        "Start year": 2021,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3458,
+          46.0235
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Red Invest solar farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.397,
+          46.834
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Scythia-Solar",
+        "Capacity (MW)": 33.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9363,
+          47.889
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Shyroke solar farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.761,
+          46.612
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Solar Capital solar farm",
+        "Capacity (MW)": 35.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2449,
+          47.7912
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Solar Park Development solar farm",
+        "Capacity (MW)": 26.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8859,
+          48.2131
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Solaris Energy solar farm",
+        "Capacity (MW)": 34.5,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4373,
+          49.2794
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Sonyachna Enerhiya Podillya solar farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.004,
+          46.344
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Starokozache solar farm",
+        "Capacity (MW)": 43.0,
+        "Status": "operating",
+        "Start year": 2012,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7483,
+          48.5962
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Terra Solar solar farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.866,
+          48.5901
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Terslav solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7245,
+          47.2799
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Tokmak Solar",
+        "Capacity (MW)": 64.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8208,
+          47.1209
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Tryhaty Elios solar farm",
+        "Capacity (MW)": 24.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8256,
+          47.1157
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Vasylivka (Mykolaiv) solar farm",
+        "Capacity (MW)": 21.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6588,
+          46.8434
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Vasylivka (Sun Cray) solar farm",
+        "Capacity (MW)": 31.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.396,
+          47.572
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Voznesensk solar farm",
+        "Capacity (MW)": 29.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5046,
+          49.9332
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Yavoriv solar farm",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5046,
+          49.9384
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Yavoriv solar farm",
+        "Capacity (MW)": 36.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1987,
+          47.7605
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Zaporizka solar farm",
+        "Capacity (MW)": 23.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0852,
+          48.5508
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Zoloti Kliuchi solar farm",
+        "Capacity (MW)": 20.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7,
+          49.061
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Bar UA A solar project",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.726,
+          49.067
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Bar UA solar project",
+        "Capacity (MW)": 16.9,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.689,
+          48.481
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Cherniatka solar project",
+        "Capacity (MW)": 7.7,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8807,
+          50.6128
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Dymerka solar farm",
+        "Capacity (MW)": 11.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8807,
+          50.6128
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Dymerka solar farm",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.657,
+          49.918
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Ganska solar project",
+        "Capacity (MW)": 19.1,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.453,
+          48.466
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Gnatkiv solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.866,
+          46.483
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Kostohryzove A solar project",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2017,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.86,
+          46.483
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Kostohryzove B solar project",
+        "Capacity (MW)": 5.5,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.081,
+          47.662
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Kvant solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.478,
+          46.097
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Lazurne solar project",
+        "Capacity (MW)": 9.8,
+        "Status": "operating",
+        "Start year": 2013,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.76,
+          48.563
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Mezhyrich A solar project",
+        "Capacity (MW)": 9.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.335,
+          47.631
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Nikopol 1 solar project",
+        "Capacity (MW)": 10.8,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.836,
+          46.994
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Novalondakove A solar project",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.616,
+          46.236
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Novooleksiivka A solar project",
+        "Capacity (MW)": 8.0,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7586,
+          46.6127
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Oleshky solar farm",
+        "Capacity (MW)": 18.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.765,
+          46.349
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Partyzany A solar project",
+        "Capacity (MW)": 15.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.85,
+          47.077
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Petrovo-Solonykha solar project",
+        "Capacity (MW)": 8.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.883,
+          46.69
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Pidstepne solar project",
+        "Capacity (MW)": 10.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.931,
+          45.036
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Rodnikovoye solar project",
+        "Capacity (MW)": 7.5,
+        "Status": "operating",
+        "Start year": 2010,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.23,
+          49.507
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Sambyrska II solar project",
+        "Capacity (MW)": 6.9,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.061,
+          48.784
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Shargorod solar project",
+        "Capacity (MW)": 8.0,
+        "Status": "operating",
+        "Start year": 2014,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.764,
+          47.519
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Shcherbani A solar project",
+        "Capacity (MW)": 5.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.313,
+          48.751
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Stravchany solar project",
+        "Capacity (MW)": 4.9,
+        "Status": "operating",
+        "Start year": 2015,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.679,
+          48.845
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Tysmenyts'kyi solar project",
+        "Capacity (MW)": 13.5,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.368,
+          48.424
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Velyka Dodron solar project",
+        "Capacity (MW)": 10.9,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.894,
+          47.025
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Vesele solar project",
+        "Capacity (MW)": 16.0,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.215,
+          47.081
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Vita solar project",
+        "Capacity (MW)": 13.5,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.172,
+          47.011
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Voskresens'ke solar project",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.538,
+          47.495
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Vysokopillya solar project",
+        "Capacity (MW)": 4.0,
+        "Status": "operating",
+        "Start year": 2016,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.594,
+          47.29
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Yavkyne A solar project",
+        "Capacity (MW)": 17.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.819,
+          47.699
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Yelanets A solar project",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.847,
+          47.707
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Yelanets B solar project",
+        "Capacity (MW)": 12.0,
+        "Status": "operating",
+        "Start year": 2020,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.693,
+          49.115
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Zaluvka solar project",
+        "Capacity (MW)": 13.2,
+        "Status": "operating",
+        "Start year": 2019,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.095,
+          47.037
+        ]
+      },
+      "properties": {
+        "Type": "solar",
+        "Country/area": "Ukraine",
+        "Plant / Project name": "Zaychevskoe solar project",
+        "Capacity (MW)": 5.1,
+        "Status": "operating",
+        "Start year": 2018,
+        "Technology": "Assumed PV",
+        "Fuel": null,
+        "Location accuracy": "exact"
+      }
+    }
+  ]
+}

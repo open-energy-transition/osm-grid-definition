@@ -1,0 +1,12 @@
+[out:json][timeout:1200];
+way["power"="line"](user_touched:"Andreas Hernandez","Tobias Augspurger","davidtt92","Mwiche","relaxxe")-> .ourlines;
+way["power"="line"](user:"Russ","map-dynartio","overflorian","nlehuby","ben10dynartio","InfosReseaux")(newer:"2025-03-01T00:00:00Z")-> .theirlines;
+
+(
+  .ourlines;
+  .theirlines;
+  );
+
+out body;
+>;
+out skel qt;
